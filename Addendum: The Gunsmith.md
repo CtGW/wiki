@@ -2,7 +2,7 @@
 title: The Gunsmith
 description: Weapons of Lore, Fitting or just awesome. Get your Tools of the Trade here.
 published: 1
-date: 2019-07-15T17:00:10.451Z
+date: 2019-07-15T17:09:05.990Z
 tags: 
 ---
 
@@ -83,6 +83,12 @@ Only Guns that appeared in previous Fallout titles
 
 ---
 
-[**fadingsignal's Beretta M9-FS Pistol (92FS)**](https://www.nexusmods.com/fallout4/mods/34589)
+[**DeadPool2099/Ha_ru/hitman47101's .45 Auto Pistol (Colt M1911)**](https://www.nexusmods.com/fallout4/mods/21142)
 
-![dartgun.jpg](/beretta1.jpg)
+![colt1.jpg](/colt1.jpg)
+
+---
+
+[**Oh Deer's Colt M1911A1**](https://www.nexusmods.com/fallout4/mods/23788)
+
+![colt2.jpg](/colt2.jpg)
