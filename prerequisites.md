@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-07-15T13:29:43.942Z
+date: 2019-07-15T13:30:59.520Z
 tags: 
 ---
 
@@ -39,9 +39,13 @@ player.placeatme 20593
 ```
 
 [The Fallout Wiki](http://fallout.wikia.com/wiki/Portal:Fallout_4) is an excellent resource for finding base and ref ids. 
+
+`player.placeatme ref.id`  will literally teleport the NPC to your location
+`player.placeatme base.id` will spawn a clone of the NPC to your location
+
 Here are some useful id's to:
 
-|          |  base.id | ref.id |
+|          | `base.id`|`ref.id`|
 |----------|:--------:|-------:|
 |Cait      | 00079249 |00079305|
 |Codsworth | 0001ca7d |0001ca7d|
