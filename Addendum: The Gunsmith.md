@@ -2,7 +2,7 @@
 title: The Gunsmith
 description: Weapons of Lore, Fitting or just awesome. Get your Tools of the Trade here.
 published: 1
-date: 2019-07-15T16:18:32.109Z
+date: 2019-07-15T16:18:52.693Z
 tags: 
 ---
 
@@ -19,6 +19,8 @@ Only Guns that appeared in previous Fallout titles
 [**Skibadaa's .223 Revolver REDUX**](https://www.nexusmods.com/fallout4/mods/19803)
 
 ![223revolverredux.jpg](/223revolverredux.jpg)
+
+---
 
 [**DOOM's M2019 PKD Detective Special - That Gun**](https://www.nexusmods.com/fallout4/mods/10669)
 
