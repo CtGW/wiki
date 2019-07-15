@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-15T20:45:31.113Z
+date: 2019-07-15T20:49:35.321Z
 tags: 
 ---
 
@@ -296,7 +296,7 @@ tags:
 ![itha.jpg](/itha.jpg)
 
 ## Riot shotgun
-- Riot shotgun (Fallout Fallout New Vegas)
+- Riot shotgun (Fallout New Vegas)
 
 ---
 
@@ -312,7 +312,7 @@ tags:
 ![riot2.jpg](/riot2.jpg)
 
 ## Lever-action shotgun
-- Lever-action shotgun (Fallout Fallout New Vegas)
+- Lever-action shotgun (Fallout New Vegas)
 
 ---
 
@@ -320,3 +320,13 @@ tags:
 [**GHitman47101/Antistar's Right-handed Far Harbor Lever Action Replacer**](https://www.nexusmods.com/fallout4/mods/30485)
 
 ![lever.jpg](/lever.jpg)
+
+## Caravan shotgun/Sturdy caravan shotgun
+- Caravan shotgun (Fallout New Vegas)
+- Sturdy caravan shotgun (Fallout New Vegas: Courier's Stash)
+
+---
+
+[**DeadPool2099/The Shiny Haxorus's Caravan Shotgun**](https://www.nexusmods.com/fallout4/mods/28399)
+
+![caras.jpg](/caras.jpg)
