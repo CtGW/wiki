@@ -1,8 +1,8 @@
 ---
-title: The Gunsmith: Weapons of Lore
+title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-15T17:14:07.262Z
+date: 2019-07-15T17:41:14.408Z
 tags: 
 ---
 
@@ -107,3 +107,28 @@ tags:
 [**Oh Deer's Colt M1911A1**](https://www.nexusmods.com/fallout4/mods/23788)
 
 ![colt2.jpg](/colt2.jpg)
+
+---
+
+[**DOOM's M1911A1 - Standalone Handgun**](https://www.nexusmods.com/fallout4/mods/10406)
+[**Hector Shiroi's Retexture and mesh optimization**](https://www.nexusmods.com/fallout4/mods/11221)
+
+![colt3.jpg](/colt3.jpg)
+
+---
+
+
+## Flamer pistol
+- Flamer pistol  (Fallout Tactics) 
+
+---
+
+[**Sythropo's Fallout Tactics Flamer Pistol**](https://www.nexusmods.com/fallout4/mods/25688)
+
+![flamep1.jpg](/flamep1.jpg)
+
+---
+
+[**OssumPossum's Flamer Pistol**](https://www.nexusmods.com/fallout4/mods/25134)
+
+![flamep2.jpg](/flamep2.jpg)
