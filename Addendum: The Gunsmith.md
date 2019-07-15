@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-15T20:49:35.321Z
+date: 2019-07-15T20:53:12.240Z
 tags: 
 ---
 
@@ -330,3 +330,5 @@ tags:
 [**DeadPool2099/The Shiny Haxorus's Caravan Shotgun**](https://www.nexusmods.com/fallout4/mods/28399)
 
 ![caras.jpg](/caras.jpg)
+
+# Rifle's
