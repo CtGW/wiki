@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-15T18:25:47.819Z
+date: 2019-07-15T18:31:56.102Z
 tags: 
 ---
 
@@ -162,3 +162,13 @@ tags:
 [**Hitman47101/DeadPool2099's Grease Gun SMG**](https://www.nexusmods.com/fallout4/mods/21921)
 
 ![grease.jpg](/grease.jpg)
+
+## FN P90c
+- FN P90c  (Fallout 2/Tactics)
+
+---
+
+[**The Shiny Haxorus's FN P90**](https://www.nexusmods.com/fallout4/mods/22871)
+[**mikeallan/The Shiny Haxorus's P90 Compact - Add-On**](https://www.nexusmods.com/fallout4/mods/23589)
+
+![p90.jpg](/p90.jpg)
