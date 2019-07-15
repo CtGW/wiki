@@ -2,7 +2,7 @@
 title: Crossing the Great Wastes
 description: The most comprehensive modlist for FO4 by Ape, et al.
 published: 1
-date: 2019-07-15T21:23:01.803Z
+date: 2019-07-15T21:33:42.239Z
 tags: 
 ---
 
@@ -37,7 +37,12 @@ Nvidia GeForce GTX 1080 8GB
 
 Schnip's rig:
 ```
-TBD
+Intel Core i5 4670 @ 3,8 GHZ
+Nvidia GeForce GTX 1080 Ti
+8GB DDR3 1600 RAM
+1x 250 GB SSD
+2x 1TB SSD 
+1TB HDD 
 ```
 
 Svarttjern's rig:
