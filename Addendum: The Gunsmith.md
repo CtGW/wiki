@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-15T17:42:43.211Z
+date: 2019-07-15T17:54:15.393Z
 tags: 
 ---
 
@@ -109,3 +109,13 @@ tags:
 [**OssumPossum's Flamer Pistol**](https://www.nexusmods.com/fallout4/mods/25134)
 
 ![flamep2.jpg](/flamep2.jpg)
+
+## Browning HP/9mm Pistol/Maria
+- Browning HP  (Fallout Tactics)
+- 9mm Pistol/Maria (Fallout New Vegas)
+
+---
+
+[**DeadPool2099/Ha_ru/Hitman47101's 9mm Pistol (Browning Hi-Power) Redux**](https://www.nexusmods.com/fallout4/mods/20143)
+
+![9mm.jpg](/9mm.jpg)
