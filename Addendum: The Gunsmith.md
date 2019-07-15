@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-15T17:41:14.408Z
+date: 2019-07-15T17:42:06.351Z
 tags: 
 ---
 
@@ -75,10 +75,6 @@ tags:
 
 ![dartgun.jpg](/dartgun.jpg)
 
-
----
-
-
 ## M9FS Beretta
 - 9mm M9FS Beretta  (Fallout Tactics) 
 
@@ -87,10 +83,6 @@ tags:
 [**fadingsignal's Beretta M9-FS Pistol (92FS)**](https://www.nexusmods.com/fallout4/mods/34589)
 
 ![dartgun.jpg](/beretta1.jpg)
-
-
----
-
 
 ## Colt M1911 A1
 - Colt 45  (Fallout Tactics) 
@@ -114,9 +106,6 @@ tags:
 [**Hector Shiroi's Retexture and mesh optimization**](https://www.nexusmods.com/fallout4/mods/11221)
 
 ![colt3.jpg](/colt3.jpg)
-
----
-
 
 ## Flamer pistol
 - Flamer pistol  (Fallout Tactics) 
