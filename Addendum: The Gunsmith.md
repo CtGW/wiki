@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-15T20:23:42.407Z
+date: 2019-07-15T20:32:51.313Z
 tags: 
 ---
 
@@ -294,3 +294,19 @@ tags:
 [**DOOM's Ithaca Model 37 - Pump Shotgun**](https://www.nexusmods.com/fallout4/mods/36908)
 
 ![itha.jpg](/itha.jpg)
+
+## Riot shotgun
+- Riot shotgun (Fallout Fallout New Vegas)
+
+---
+
+[**The entire cast of the television show Friends's Riot Shotgun (Fallout 4 Edition)**](https://www.nexusmods.com/fallout4/mods/30087)
+[**Hitman/Wardaddy's Riot Shotgun Animations**](https://www.nexusmods.com/fallout4/mods/35268)
+
+![riot.jpg](/riot.jpg)
+
+---
+
+[**Undyne777's MP-153 Riot Shotgun - Standalone**](https://www.nexusmods.com/fallout4/mods/10343)
+
+![riot2.jpg](/riot2.jpg)
