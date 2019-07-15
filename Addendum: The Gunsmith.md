@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-15T19:38:03.161Z
+date: 2019-07-15T20:00:09.185Z
 tags: 
 ---
 
@@ -208,8 +208,9 @@ tags:
 
 ![grease.jpg](/grease.jpg)
 
-## FN P90c
-- FN P90c  (Fallout 2/Tactics)
+## FN P90c/H&K P90c
+- FN P90c  (Fallout Tactics)
+- H&K P90c  (Fallout 2)
 
 ---
 
@@ -236,3 +237,30 @@ tags:
 [**Wardaddy's Vault-Tec MPL Animations**](https://www.nexusmods.com/fallout4/mods/29147)
 
 ![mpl.jpg](/mpl.jpg)
+
+## Sten gun
+- Sten gun (Fallout Tactics)
+
+---
+
+[**YonaTaku's DefenseGun**](https://www.nexusmods.com/fallout4/mods/14598)
+
+![sten.jpg](/sten.jpg)
+
+## MP38
+- MP38 (Fallout Tactics)
+
+---
+
+[**TrophiHunter/Chad509's MP40**](https://www.nexusmods.com/fallout4/mods/24394)
+
+![mp40.jpg](/mp40.jpg)
+
+## H&K MP5
+- MP5 H&K (Fallout Tactics)
+
+---
+
+[**IceStormNG's MP5**](https://www.nexusmods.com/fallout4/mods/36610)
+
+![mp5.jpg](/mp5.jpg)
