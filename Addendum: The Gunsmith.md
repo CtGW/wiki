@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-15T20:32:51.313Z
+date: 2019-07-15T20:45:31.113Z
 tags: 
 ---
 
@@ -310,3 +310,13 @@ tags:
 [**Undyne777's MP-153 Riot Shotgun - Standalone**](https://www.nexusmods.com/fallout4/mods/10343)
 
 ![riot2.jpg](/riot2.jpg)
+
+## Lever-action shotgun
+- Lever-action shotgun (Fallout Fallout New Vegas)
+
+---
+
+[**GaigeStorm's Rem92 Lever Action Shotgun**](https://www.nexusmods.com/fallout4/mods/40062)
+[**GHitman47101/Antistar's Right-handed Far Harbor Lever Action Replacer**](https://www.nexusmods.com/fallout4/mods/30485)
+
+![lever.jpg](/lever.jpg)
