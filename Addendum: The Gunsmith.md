@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-15T18:08:02.697Z
+date: 2019-07-15T18:08:49.124Z
 tags: 
 ---
 
@@ -137,4 +137,4 @@ tags:
 
 [**Sythropo's Fallout Tactics Grenade Pistol**](https://www.nexusmods.com/fallout4/mods/25941)
 
-![p220.jpg](/p220.jpg)
+![grenadep.jpg](/grenadep.jpg)
