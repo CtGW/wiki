@@ -2,15 +2,15 @@
 title: The Gunsmith
 description: Weapons of Lore, Fitting or just awesome. Get your Tools of the Trade here.
 published: 1
-date: 2019-07-15T17:09:05.990Z
+date: 2019-07-15T17:10:25.213Z
 tags: 
 ---
-
-# The Gunsmith
 
 # Weapons of Lore
 
 Only Guns that appeared in previous Fallout titles
+
+# Pistols
 
 ## .223 Pistol/That Gun/5.56mm Pistol
 - .223 Pistol  (Fallout 1/2) 
