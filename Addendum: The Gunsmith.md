@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-15T17:59:53.650Z
+date: 2019-07-15T18:08:02.697Z
 tags: 
 ---
 
@@ -127,5 +127,14 @@ tags:
 
 [**Millenia/DOOMBASED/SAM61's M3D - Sig Sauer P220**](https://www.nexusmods.com/fallout4/mods/18796)
 [**FiddlerGreen's P220 Animation Overhaul**](https://www.nexusmods.com/fallout4/mods/27206)
+
+![p220.jpg](/p220.jpg)
+
+## Grenade Pistol
+- Grenade Pistol  (Fallout Tactics)
+
+---
+
+[**Sythropo's Fallout Tactics Grenade Pistol**](https://www.nexusmods.com/fallout4/mods/25941)
 
 ![p220.jpg](/p220.jpg)
