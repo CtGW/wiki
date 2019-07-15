@@ -2,7 +2,7 @@
 title: Crossing the Great Wastes
 description: The most comprehensive modlist for FO4 by Ape, et al.
 published: 1
-date: 2019-07-15T21:40:21.877Z
+date: 2019-07-15T21:44:42.528Z
 tags: 
 ---
 
@@ -43,7 +43,6 @@ INNO3D GeForce GTX 1080 Ti iChill X4 Ultra
 250 GB Samsung SSD
 2x 1TB Samsung SSD
 1TB HDD
-
 ```
 
 Svarttjern's rig:
