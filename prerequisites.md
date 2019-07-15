@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-07-15T13:20:11.963Z
+date: 2019-07-15T13:22:57.524Z
 tags: 
 ---
 
@@ -23,9 +23,14 @@ If you add a mod overhauling a specific location, you can use console commands t
 The key for console on your keyboard might vary from mine, due to different language keyboards.
 You can find the key for your keyboard [here](http://fallout.wikia.com/wiki/Fallout_4_console_commands).
 
-`tmm 1` – Enables all locations as discovered to your Pip-Boy with fast travel. Of course some of these locations will get you killed if you go there too early, and because of this I use custom save games for that purpose:
-- Ain't nobody got time for that - Fallout 4 Template Save Games: https://www.nexusmods.com/fallout4/mods/26328
-- Level 50 at Vault 111: https://www.nexusmods.com/fallout4/mods/285
+`tmm 1` – Enables all locations as discovered to your Pip-Boy with fast travel. Of course, some of these locations will get you killed if you go there too early, and because of this I use custom save games for that purpose:
+- [Ain't nobody got time for that - Fallout 4 Template Save Games](https://www.nexusmods.com/fallout4/mods/26328)
+- [Level 50 at Vault 111](https://www.nexusmods.com/fallout4/mods/285)
+
+Other mods to help me with mod testing:
+- [Cheat Terminal](https://www.nexusmods.com/fallout4/mods/13285/)
+- [Display Location - Cell - Object Information](https://www.nexusmods.com/fallout4/mods/14145)
+- [In-GameESPExplorer](https://www.nexusmods.com/fallout4/mods/16718)
 
 ## Tools
 
