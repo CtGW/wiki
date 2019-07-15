@@ -2,7 +2,7 @@
 title: The Gunsmith
 description: Weapons of Lore, Fitting or just awesome. Get your Tools of the Trade here.
 published: 1
-date: 2019-07-15T16:53:48.829Z
+date: 2019-07-15T17:00:10.451Z
 tags: 
 ---
 
@@ -14,7 +14,8 @@ Only Guns that appeared in previous Fallout titles
 
 ## .223 Pistol/That Gun/5.56mm Pistol
 - .223 Pistol  (Fallout 1/2) 
-- That Gun/5.56mm Pistol (Fallout New Vegas/Gun Runner's Arsenal)
+- That Gun (Fallout New Vegas)
+- 5.56mm Pistol (Fallout New Vegas: Gun Runner's Arsenal)
 
 ---
 
@@ -68,6 +69,17 @@ Only Guns that appeared in previous Fallout titles
 
 ## M9FS Beretta
 - 9mm M9FS Beretta  (Fallout Tactics) 
+
+---
+
+[**fadingsignal's Beretta M9-FS Pistol (92FS)**](https://www.nexusmods.com/fallout4/mods/34589)
+
+![dartgun.jpg](/beretta1.jpg)
+
+
+## Colt M1911 A1
+- Colt 45  (Fallout Tactics) 
+- .45 Auto pistol/A Light Shining in Darkness (Fallout New Vegas: Honest Hearts)
 
 ---
 
