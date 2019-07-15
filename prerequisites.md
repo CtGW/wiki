@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-07-15T13:30:59.520Z
+date: 2019-07-15T13:33:06.132Z
 tags: 
 ---
 
@@ -63,7 +63,13 @@ Here are some useful id's to:
 |Ada       | xx00fd5a |xx00ff12|
 |Longfellow| xx006e5b |xx014602|
 |Gage      | xx00881d |xx00a5b1|
+
+With all that boring presentation out of the way, let´s get started!
+
 ## Tools
+Some of the tools in this section need to be installed into the Fallout 4 base directory in order to
+work properly. I make it a habit to install all of them there, **the one exception being MO2**, which I
+install on another drive.
 
 ### FO4Edit
 
