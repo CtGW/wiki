@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-15T19:13:21.929Z
+date: 2019-07-15T19:25:03.696Z
 tags: 
 ---
 
@@ -44,6 +44,16 @@ tags:
 [**The Rizzler/Navaro's Hunting Revolver and Ranger Sequoia**](https://www.nexusmods.com/fallout4/mods/37535)
 
 ![huntrev.jpg](/huntrev.jpg)
+
+## .32 pistol/Wild Bill's Sidearm
+- .32 pistol  (Fallout 3)
+- Wild Bill's Sidearm (Fallout 3: The Pit)
+
+---
+
+[**1000 bees stinging you at the same time's Schofield No.2 Revolver**](https://www.nexusmods.com/fallout4/mods/33066)
+
+![schoff.jpg](/schoff.jpg)
 
 ## Silenced .22 pistol
 - Silenced .22 pistol  (Fallout New Vegas)
