@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-07-15T13:22:57.524Z
+date: 2019-07-15T13:29:43.942Z
 tags: 
 ---
 
@@ -32,6 +32,33 @@ Other mods to help me with mod testing:
 - [Display Location - Cell - Object Information](https://www.nexusmods.com/fallout4/mods/14145)
 - [In-GameESPExplorer](https://www.nexusmods.com/fallout4/mods/16718)
 
+If you add a mod overhauling a specific NPC, you can use console commands to spawn that NPC at your location. You will need the `base.id` for the NPC in question. 
+E.g. to spawn a settler:
+```
+player.placeatme 20593
+```
+
+[The Fallout Wiki](http://fallout.wikia.com/wiki/Portal:Fallout_4) is an excellent resource for finding base and ref ids. 
+Here are some useful id's to:
+
+|          |  base.id | ref.id |
+|----------|:--------:|-------:|
+|Cait      | 00079249 |00079305|
+|Codsworth | 0001ca7d |0001ca7d|
+|Curie     | 00027686 |00102249|
+|Danse     | 00027683 |0005de4d|
+|Deacon    | 00045ac9 |00050976|
+|Dogmeat   | 0001d15c |0001d162|
+|Hancock   | 00022613 |00022615|
+|MacCready | 0002740e |0000313b|
+|Valentine | 00002f24 |00002f25|
+|Piper     | 00002f1e |00002f1f|
+|Garvey    | 00019fd9 |0001a4d7|
+|Strong    | 00027682 |0003f2bb|
+|X6-88     | 000bbee6 |000e210a|
+|Ada       | xx00fd5a |xx00ff12|
+|Longfellow| xx006e5b |xx014602|
+|Gage      | xx00881d |xx00a5b1|
 ## Tools
 
 ### FO4Edit
