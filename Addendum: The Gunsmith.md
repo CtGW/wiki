@@ -2,7 +2,7 @@
 title: The Gunsmith
 description: Weapons of Lore, Fitting or just awesome. Get your Tools of the Trade here.
 published: 1
-date: 2019-07-15T16:51:04.664Z
+date: 2019-07-15T16:53:48.829Z
 tags: 
 ---
 
@@ -15,7 +15,9 @@ Only Guns that appeared in previous Fallout titles
 ## .223 Pistol/That Gun/5.56mm Pistol
 - .223 Pistol  (Fallout 1/2) 
 - That Gun/5.56mm Pistol (Fallout New Vegas/Gun Runner's Arsenal)
+
 ---
+
 [**Skibadaa's .223 Revolver REDUX**](https://www.nexusmods.com/fallout4/mods/19803)
 
 ![223revolverredux.jpg](/223revolverredux.jpg)
@@ -30,7 +32,9 @@ Only Guns that appeared in previous Fallout titles
 - Mauser M/96 9mm  (Fallout 1/2) 
 - 9mm HSI Mauser (Fallout Tactics)
 - Chinese pistol/Zhu-Rong v418 Chinese pistol (Fallout 3)
+
 ---
+
 [**GrinnginUrchen's .Mauser Pistol**](https://www.nexusmods.com/fallout4/mods/14141)
 [**WarDaddy's Chinese Pistol Animations**](https://www.nexusmods.com/fallout4/mods/14141)
 
@@ -39,12 +43,16 @@ Only Guns that appeared in previous Fallout titles
 ## Desert Eagle
 - Desert Eagle .44  (Fallout 1/2) 
 - Desert Eagle (Mark XIX) .44 (Fallout Tactics)
+
 ---
+
 [**DOOM's Desert Eagle - Standalone Handgun**](https://www.nexusmods.com/fallout4/mods/10011)
 [**sligth's Desert Eagle Silencer and Other Mods**](https://www.nexusmods.com/fallout4/mods/10286)
 
 ![Deagle.jpg](/deagle.jpg)
+
 ---
+
 [**Toasty Fresh/Shay Feral's A Collection of Eagles Reloaded**](https://www.nexusmods.com/fallout4/mods/22146)
 
 ![Deagle2.jpg](/deagle2.jpg)
@@ -53,6 +61,7 @@ Only Guns that appeared in previous Fallout titles
 - Dart Gun  (Fallout 3) 
 
 ---
+
 [**Sythropo's Fallout 3 Dart Gun**](https://www.nexusmods.com/fallout4/mods/26254)
 
 ![dartgun.jpg](/dartgun.jpg)
@@ -61,6 +70,7 @@ Only Guns that appeared in previous Fallout titles
 - 9mm M9FS Beretta  (Fallout Tactics) 
 
 ---
+
 [**fadingsignal's Beretta M9-FS Pistol (92FS)**](https://www.nexusmods.com/fallout4/mods/34589)
 
 ![dartgun.jpg](/beretta1.jpg)
