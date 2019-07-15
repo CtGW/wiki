@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-15T17:42:06.351Z
+date: 2019-07-15T17:42:43.211Z
 tags: 
 ---
 
@@ -25,10 +25,6 @@ tags:
 
 ![thatgun.jpg](/thatgun.jpg)
 
-
----
-
-
 ## Mauser M/96/HSI Mauser/Chinese pistol
 - Mauser M/96 9mm  (Fallout 1/2) 
 - 9mm HSI Mauser (Fallout Tactics)
@@ -40,10 +36,6 @@ tags:
 [**WarDaddy's Chinese Pistol Animations**](https://www.nexusmods.com/fallout4/mods/14141)
 
 ![mauser.jpg](/mauser.jpg)
-
-
----
-
 
 ## Desert Eagle
 - Desert Eagle .44  (Fallout 1/2) 
@@ -61,10 +53,6 @@ tags:
 [**Toasty Fresh/Shay Feral's A Collection of Eagles Reloaded**](https://www.nexusmods.com/fallout4/mods/22146)
 
 ![Deagle2.jpg](/deagle2.jpg)
-
-
----
-
 
 ## Dart Gun
 - Dart Gun  (Fallout 3) 
