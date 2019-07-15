@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-15T18:09:41.075Z
+date: 2019-07-15T18:18:18.144Z
 tags: 
 ---
 
@@ -140,3 +140,14 @@ tags:
 ![grenadep.jpg](/grenadep.jpg)
 
 # SMG's
+
+## 10mm SMG/Sydney's 10mm "Ultra" SMG/Sleepytyme
+- 10mm SMG  (Fallout 1/2/3/New Vegas)
+- Sydney's 10mm "Ultra" SMG (Fallout 3)
+- Sleepytyme (Fallout New Vegas: Gun Runner's Arsenal)
+
+---
+
+[**Major_McCrackin's 10mm SMG**](https://www.nexusmods.com/fallout4/mods/22223)
+
+![10mmsmg.jpg](/10mmsmg.jpg)
