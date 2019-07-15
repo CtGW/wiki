@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-14T19:15:46.083Z
+date: 2019-07-15T18:55:39.883Z
 tags: 
 ---
 
@@ -28,7 +28,7 @@ Coming soon...
 
 ## Power armor
 
-## Weapons
+## Weapons of lore
 
 ## Gameplay
 
