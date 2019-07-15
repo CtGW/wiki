@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-15T20:02:32.814Z
+date: 2019-07-15T20:16:22.330Z
 tags: 
 ---
 
@@ -266,3 +266,22 @@ tags:
 ![mp5.jpg](/mp5.jpg)
 
 # Shotgun's
+
+## Pancor Jackhammer
+- Pancor Jackhammer (Fallout 2/Tactics)
+
+---
+
+[**TactaGhoul's Pancor Jackhammer**](https://www.nexusmods.com/fallout4/mods/33867)
+
+![Pancor.jpg](/pancor.jpg)
+
+## Hunting shotgun/Dinner Bell
+- Hunting shotgun (Fallout New Vegas)
+- Dinner Bell (Fallout New Vegas)
+
+---
+
+[**Hitman47101/DeadPool2099's Hunting Shotgun**](https://www.nexusmods.com/fallout4/mods/22516)
+
+![huntsg.jpg](/huntsg.jpg)
