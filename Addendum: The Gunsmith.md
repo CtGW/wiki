@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-15T20:16:22.330Z
+date: 2019-07-15T20:23:42.407Z
 tags: 
 ---
 
@@ -285,3 +285,12 @@ tags:
 [**Hitman47101/DeadPool2099's Hunting Shotgun**](https://www.nexusmods.com/fallout4/mods/22516)
 
 ![huntsg.jpg](/huntsg.jpg)
+
+## Pump-action shotgun
+- Pump-action shotgun (Fallout Tactics)
+
+---
+
+[**DOOM's Ithaca Model 37 - Pump Shotgun**](https://www.nexusmods.com/fallout4/mods/36908)
+
+![itha.jpg](/itha.jpg)
