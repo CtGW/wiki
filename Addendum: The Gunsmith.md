@@ -2,7 +2,7 @@
 title: The Gunsmith
 description: Weapons of Lore, Fitting or just awesome. Get your Tools of the Trade here.
 published: 1
-date: 2019-07-15T16:36:45.608Z
+date: 2019-07-15T16:51:04.664Z
 tags: 
 ---
 
@@ -26,7 +26,7 @@ Only Guns that appeared in previous Fallout titles
 
 ![thatgun.jpg](/thatgun.jpg)
 
-## Mauser M/96 9mm/9mm HSI Mauser/Chinese pistol
+## Mauser M/96/HSI Mauser/Chinese pistol
 - Mauser M/96 9mm  (Fallout 1/2) 
 - 9mm HSI Mauser (Fallout Tactics)
 - Chinese pistol/Zhu-Rong v418 Chinese pistol (Fallout 3)
@@ -36,7 +36,7 @@ Only Guns that appeared in previous Fallout titles
 
 ![mauser.jpg](/mauser.jpg)
 
-## Desert Eagle .44
+## Desert Eagle
 - Desert Eagle .44  (Fallout 1/2) 
 - Desert Eagle (Mark XIX) .44 (Fallout Tactics)
 ---
@@ -48,3 +48,19 @@ Only Guns that appeared in previous Fallout titles
 [**Toasty Fresh/Shay Feral's A Collection of Eagles Reloaded**](https://www.nexusmods.com/fallout4/mods/22146)
 
 ![Deagle2.jpg](/deagle2.jpg)
+
+## Dart Gun
+- Dart Gun  (Fallout 3) 
+
+---
+[**Sythropo's Fallout 3 Dart Gun**](https://www.nexusmods.com/fallout4/mods/26254)
+
+![dartgun.jpg](/dartgun.jpg)
+
+## M9FS Beretta
+- 9mm M9FS Beretta  (Fallout Tactics) 
+
+---
+[**fadingsignal's Beretta M9-FS Pistol (92FS)**](https://www.nexusmods.com/fallout4/mods/34589)
+
+![dartgun.jpg](/beretta1.jpg)
