@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-15T19:25:03.696Z
+date: 2019-07-15T19:36:01.120Z
 tags: 
 ---
 
@@ -226,3 +226,13 @@ tags:
 [**Sythropo/Svarttjern/MyCart/Ranger Vaughn's 12.7mm SMG from Fallout New Vegas**](https://www.nexusmods.com/fallout4/mods/39861)
 
 ![127smg.jpg](/127smg.jpg)
+
+## Walther MPL
+- Walther MPL (Fallout Tactics)
+
+---
+
+[**Bloodmeat08's Vault-Tec MPL**](https://www.nexusmods.com/fallout4/mods/22207)
+[**Wardaddy's Vault-Tec MPL Animations**](https://www.nexusmods.com/fallout4/mods/29147)
+
+![mpl.jpg](/mpl.jpg)
