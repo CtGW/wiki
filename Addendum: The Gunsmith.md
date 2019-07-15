@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-15T18:18:18.144Z
+date: 2019-07-15T18:25:47.819Z
 tags: 
 ---
 
@@ -151,3 +151,14 @@ tags:
 [**Major_McCrackin's 10mm SMG**](https://www.nexusmods.com/fallout4/mods/22223)
 
 ![10mmsmg.jpg](/10mmsmg.jpg)
+
+## M3A1 "grease gun" SMG/9mm submachine gun/Vance's 9mm submachine gun
+- M3A1 "grease gun" SMG  (Fallout 2)
+- 9mm submachine gun (Fallout New Vegas)
+- Vance's 9mm submachine gun (Fallout New Vegas)
+
+---
+
+[**Hitman47101/DeadPool2099's Grease Gun SMG**](https://www.nexusmods.com/fallout4/mods/21921)
+
+![grease.jpg](/grease.jpg)
