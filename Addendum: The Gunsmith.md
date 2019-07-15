@@ -2,17 +2,13 @@
 title: The Gunsmith
 description: Weapons of Lore, Fitting or just awesome. Get your Tools of the Trade here.
 published: 1
-date: 2019-07-15T17:11:56.515Z
+date: 2019-07-15T17:13:10.964Z
 tags: 
 ---
 
-# Weapons of Lore
+# Pistols
 
-Only Guns that appeared in previous Fallout titles
-
-## Pistols
-
-### .223 Pistol/That Gun/5.56mm Pistol
+## .223 Pistol/That Gun/5.56mm Pistol
 - .223 Pistol  (Fallout 1/2) 
 - That Gun (Fallout New Vegas)
 - 5.56mm Pistol (Fallout New Vegas: Gun Runner's Arsenal)
@@ -33,7 +29,7 @@ Only Guns that appeared in previous Fallout titles
 ---
 
 
-### Mauser M/96/HSI Mauser/Chinese pistol
+## Mauser M/96/HSI Mauser/Chinese pistol
 - Mauser M/96 9mm  (Fallout 1/2) 
 - 9mm HSI Mauser (Fallout Tactics)
 - Chinese pistol/Zhu-Rong v418 Chinese pistol (Fallout 3)
@@ -49,7 +45,7 @@ Only Guns that appeared in previous Fallout titles
 ---
 
 
-### Desert Eagle
+## Desert Eagle
 - Desert Eagle .44  (Fallout 1/2) 
 - Desert Eagle (Mark XIX) .44 (Fallout Tactics)
 
@@ -70,7 +66,7 @@ Only Guns that appeared in previous Fallout titles
 ---
 
 
-### Dart Gun
+## Dart Gun
 - Dart Gun  (Fallout 3) 
 
 ---
@@ -83,7 +79,7 @@ Only Guns that appeared in previous Fallout titles
 ---
 
 
-### M9FS Beretta
+## M9FS Beretta
 - 9mm M9FS Beretta  (Fallout Tactics) 
 
 ---
@@ -96,7 +92,7 @@ Only Guns that appeared in previous Fallout titles
 ---
 
 
-### Colt M1911 A1
+## Colt M1911 A1
 - Colt 45  (Fallout Tactics) 
 - .45 Auto pistol/A Light Shining in Darkness (Fallout New Vegas: Honest Hearts)
 
