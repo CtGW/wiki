@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-15T19:00:53.940Z
+date: 2019-07-15T19:10:56.488Z
 tags: 
 ---
 
@@ -44,6 +44,21 @@ tags:
 [**The Rizzler/Navaro's Hunting Revolver and Ranger Sequoia**](https://www.nexusmods.com/fallout4/mods/37535)
 
 ![huntrev.jpg](/huntrev.jpg)
+
+## Silenced .22 pistol
+- Silenced .22 pistol  (Fallout New Vegas)
+
+---
+
+[**Niero's CROSS Ruger Mk V**](https://www.nexusmods.com/fallout4/mods/30075)
+
+![22sil1.jpg](/22sil1.jpg)
+
+---
+
+[**Alex Dyre's Silenced .38 Pistol - Improved**](https://www.nexusmods.com/fallout4/mods/17117)
+
+![22sil2.jpg](/22sil2.jpg)
 
 ## Mauser M/96/HSI Mauser/Chinese pistol
 - Mauser M/96 9mm  (Fallout 1/2) 
