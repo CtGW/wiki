@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-15T17:54:15.393Z
+date: 2019-07-15T17:59:53.650Z
 tags: 
 ---
 
@@ -119,3 +119,13 @@ tags:
 [**DeadPool2099/Ha_ru/Hitman47101's 9mm Pistol (Browning Hi-Power) Redux**](https://www.nexusmods.com/fallout4/mods/20143)
 
 ![9mm.jpg](/9mm.jpg)
+
+## P220 Sig Sauer
+- P220 Sig Sauer  (Fallout Tactics)
+
+---
+
+[**Millenia/DOOMBASED/SAM61's M3D - Sig Sauer P220**](https://www.nexusmods.com/fallout4/mods/18796)
+[**FiddlerGreen's P220 Animation Overhaul**](https://www.nexusmods.com/fallout4/mods/27206)
+
+![p220.jpg](/p220.jpg)
