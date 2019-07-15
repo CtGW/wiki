@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-07-15T13:35:05.388Z
+date: 2019-07-15T13:39:16.478Z
 tags: 
 ---
 
@@ -67,9 +67,12 @@ Here are some useful id's to:
 With all that boring presentation out of the way, let´s get started!
 
 ## Tools
-Some of the tools in this section need to be installed into the Fallout 4 base directory in order to
-work properly. I make it a habit to install all of them there, **the one exception being MO2**, which I
-install on another drive.
+Some of the tools in this section need to be installed into the Fallout 4 base directory in order to work properly. I make it a habit to install all of them there, **the one exception being MO2**, which I install on another drive.
+
+One of the best places to read about Bethesda tools is on [DarkLadyLexy's LOTD - SSE guide](https://wiki.step-project.com/User:DarkladyLexy/Lexys_LOTD_SE_Prerequisites).
+This guide is one huge monolithic creature and a beast, but also the best guide available for Skyrim Special Edition. It is totally worth it to install that guide and there are regular upgrades which keep it up to date.
+
+Here I am listing the tools that we need from that page:
 
 ### [FO4Edit](https://github.com/TES5Edit/TES5Edit/releases/)
 This powerful utility allows you to modify, clean, and patch your plugins. [GamerPoets](https://www.youtube.com/watch?v=2F19Do8HAl4) has a
@@ -79,15 +82,15 @@ good primer how to use FO4Edit on YouTube.
 
 ### [F4SE](http://f4se.silverlock.org/)
 
-### Mod Organizer 2
+### [Mod Organizer 2]()
 
-### FO4 configuration tool
+### [FO4 configuration tool]()
 
-### BethINI
+### [BethINI]()
 
-### xSE plugin preloader
+### [xSE plugin preloader]()
 
-### Dynamic performance tuner and load accelerator
+### [Dynamic performance tuner and load accelerator]()
 
 ## Cleaning master files
 In the last section we learned how to open a tool from MO2 with a command line flag which allowed us to easily determine which esps can be flagged a esl. That means I don´t have to show you the Modify executables window again, right? Right.
