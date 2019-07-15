@@ -2,12 +2,12 @@
 title: Crossing the Great Wastes
 description: The most comprehensive modlist for FO4 by Ape, et al.
 published: 1
-date: 2019-07-15T13:11:37.545Z
+date: 2019-07-15T13:12:05.373Z
 tags: 
 ---
 
 # Welcome
-Originally a companion to the amazing guide found [here](https://www.nexusmods.com/fallout4/mods/23556/?tab=description&topic_id=5844282), by the venerable BiRaitBec, I no longer recommend installing my modlist on top of his. Our lists, although still having many elements in common, and still using many of his textures and ini settings, have diverged so much that it would just be a hassle. This modlist is now meant to be installed from scratch. I still recommend having tried his modlist first though, especially if you´re new to modding, as it´s a lot more straightforward for beginners, whereas CtGW requires more of the modder. Mod Organiser is (in my opinion) a much more flexible and versatile mod organiser. Highlights follow below:
+Originally a companion to the amazing guide found [here](https://www.nexusmods.com/fallout4/mods/23556/), by the venerable BiRaitBec, I no longer recommend installing my modlist on top of his. Our lists, although still having many elements in common, and still using many of his textures and ini settings, have diverged so much that it would just be a hassle. This modlist is now meant to be installed from scratch. I still recommend having tried his modlist first though, especially if you´re new to modding, as it´s a lot more straightforward for beginners, whereas CtGW requires more of the modder. Mod Organiser is (in my opinion) a much more flexible and versatile mod organiser. Highlights follow below:
 - You never need to actually touch the game data directory, since MO2 creates a virtual data directory on the fly when launching the game, effectively overriding the vanilla files, without overwriting. Basically, if you for some reason mess up your mod loadout there is never any need to reinstall your game, just create a new profile in MO2.
 - MO2 allows you more control over mod and plugin order, and to reorder both at any time, without any mod ever being overwritten. In NMM it is crucial to pay attention when your installing mods, as if you´re installing a mod that touches the same resources as an earlier installed mod, you will be asked if you want to overwrite, and you need to know if that´s a good idea. If you make a mistake, you could of course just re-install the earlier mod and override back, but that can be very cumbersome, especially if you don´t remember which mod was overwritten. In MO2, it´s as easy as rearranging the mod order in the left pane.
 
