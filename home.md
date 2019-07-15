@@ -2,7 +2,7 @@
 title: Crossing the Great Wastes
 description: The most comprehensive modlist for FO4 by Ape, et al.
 published: 1
-date: 2019-07-15T21:33:42.239Z
+date: 2019-07-15T21:34:45.732Z
 tags: 
 ---
 
@@ -29,7 +29,7 @@ Intel Core i5 7400 3ghz
 
 El Chupanibre's rig:
 ```
-Intel Core 17 6700k
+Intel Core i7 6700k
 Nvidia GeForce GTX 1080 8GB
 32GB DDR4 RAM
 1TB SSD (for the game) + others
@@ -37,15 +37,14 @@ Nvidia GeForce GTX 1080 8GB
 
 Schnip's rig:
 ```
-Intel Core i5 4670 @ 3,8 GHZ
-Nvidia GeForce GTX 1080 Ti
-8GB DDR3 1600 RAM
-1x 250 GB SSD
-2x 1TB SSD 
-1TB HDD 
+TBD
 ```
 
 Svarttjern's rig:
 ```
-TBD
+Intel Core i5 6600K
+Zotac GTX 1070 AMP!
+16GB Corsair Vengeance LPX DDR4 2400
+2x Toshiba 3 TB
+250 GB Crucial MX200 SSD
 ```
