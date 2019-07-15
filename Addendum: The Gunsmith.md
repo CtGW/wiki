@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-15T18:53:12.033Z
+date: 2019-07-15T19:00:53.940Z
 tags: 
 ---
 
@@ -25,14 +25,25 @@ tags:
 
 ![thatgun.jpg](/thatgun.jpg)
 
-## 12.7mm pistol
-- 12.7mm pistol  (Fallout New Vegas) 
+## 12.7mm pistol/Li'l Devil
+- 12.7mm pistol  (Fallout New Vegas)
+- Li'l Devil (Fallout New Vegas: Gun Runner's Arsenal
 
 ---
 
 [**DeadPool2099's 12.7mm Pistol (Sig Sauer P127)**](https://www.nexusmods.com/fallout4/mods/23434)
 
 ![127mm.jpg](/127mm.jpg)
+
+## Hunting Revolver/Ranger Sequoia
+- Ranger Sequoia  (Fallout New Vegas)
+- Hunting Revolver (Fallout New Vegas: Gun Runner's Arsenal
+
+---
+
+[**The Rizzler/Navaro's Hunting Revolver and Ranger Sequoia**](https://www.nexusmods.com/fallout4/mods/37535)
+
+![huntrev.jpg](/huntrev.jpg)
 
 ## Mauser M/96/HSI Mauser/Chinese pistol
 - Mauser M/96 9mm  (Fallout 1/2) 
