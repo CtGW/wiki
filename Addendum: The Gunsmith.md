@@ -2,7 +2,7 @@
 title: The Gunsmith
 description: Weapons of Lore, Fitting or just awesome. Get your Tools of the Trade here.
 published: 1
-date: 2019-07-15T17:10:25.213Z
+date: 2019-07-15T17:11:56.515Z
 tags: 
 ---
 
@@ -10,9 +10,9 @@ tags:
 
 Only Guns that appeared in previous Fallout titles
 
-# Pistols
+## Pistols
 
-## .223 Pistol/That Gun/5.56mm Pistol
+### .223 Pistol/That Gun/5.56mm Pistol
 - .223 Pistol  (Fallout 1/2) 
 - That Gun (Fallout New Vegas)
 - 5.56mm Pistol (Fallout New Vegas: Gun Runner's Arsenal)
@@ -29,7 +29,11 @@ Only Guns that appeared in previous Fallout titles
 
 ![thatgun.jpg](/thatgun.jpg)
 
-## Mauser M/96/HSI Mauser/Chinese pistol
+
+---
+
+
+### Mauser M/96/HSI Mauser/Chinese pistol
 - Mauser M/96 9mm  (Fallout 1/2) 
 - 9mm HSI Mauser (Fallout Tactics)
 - Chinese pistol/Zhu-Rong v418 Chinese pistol (Fallout 3)
@@ -41,7 +45,11 @@ Only Guns that appeared in previous Fallout titles
 
 ![mauser.jpg](/mauser.jpg)
 
-## Desert Eagle
+
+---
+
+
+### Desert Eagle
 - Desert Eagle .44  (Fallout 1/2) 
 - Desert Eagle (Mark XIX) .44 (Fallout Tactics)
 
@@ -58,7 +66,11 @@ Only Guns that appeared in previous Fallout titles
 
 ![Deagle2.jpg](/deagle2.jpg)
 
-## Dart Gun
+
+---
+
+
+### Dart Gun
 - Dart Gun  (Fallout 3) 
 
 ---
@@ -67,7 +79,11 @@ Only Guns that appeared in previous Fallout titles
 
 ![dartgun.jpg](/dartgun.jpg)
 
-## M9FS Beretta
+
+---
+
+
+### M9FS Beretta
 - 9mm M9FS Beretta  (Fallout Tactics) 
 
 ---
@@ -77,7 +93,10 @@ Only Guns that appeared in previous Fallout titles
 ![dartgun.jpg](/beretta1.jpg)
 
 
-## Colt M1911 A1
+---
+
+
+### Colt M1911 A1
 - Colt 45  (Fallout Tactics) 
 - .45 Auto pistol/A Light Shining in Darkness (Fallout New Vegas: Honest Hearts)
 
