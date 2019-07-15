@@ -2,11 +2,12 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-07-15T13:15:49.570Z
+date: 2019-07-15T13:20:11.963Z
 tags: 
 ---
 
 # Prerequisites
+
 ## A word about testing your mod list
 
 Why a section like this before you´ve even installed any mods? Because once you´ve installed them all it won´t really do much good. If you run into issues in game, after having installed 200+ mods without even starting the game once to actually test it, it will take you a lot longer time, and cause you a lot more frustration to locate the error than if you had tested properly from the beginning.
@@ -19,7 +20,12 @@ Note about vanilla test saves before exiting vault. I used to load these all the
 
 If you add a mod overhauling a specific location, you can use console commands to reveal their map markers and enable fast travel to these locations.
 
-The key for console on your keyboard might vary from mine, due to different language keyboards. You can find the key for your keyboard [here](http://fallout.wikia.com/wiki/Fallout_4_console_commands).
+The key for console on your keyboard might vary from mine, due to different language keyboards.
+You can find the key for your keyboard [here](http://fallout.wikia.com/wiki/Fallout_4_console_commands).
+
+`tmm 1` – Enables all locations as discovered to your Pip-Boy with fast travel. Of course some of these locations will get you killed if you go there too early, and because of this I use custom save games for that purpose:
+- Ain't nobody got time for that - Fallout 4 Template Save Games: https://www.nexusmods.com/fallout4/mods/26328
+- Level 50 at Vault 111: https://www.nexusmods.com/fallout4/mods/285
 
 ## Tools
 
@@ -40,15 +46,11 @@ The key for console on your keyboard might vary from mine, due to different lang
 ### Dynamic performance tuner and load accelerator
 
 ## Cleaning master files
-In the last section we learned how to open a tool from MO2 with a command line flag which
-allowed us to easily determine which esps can be flagged a esl. That means I don´t have to show
-you the Modify executables window again, right? Right.
-We´re going to create a third instance of FO4Edit, this time to help us automate the master cleaning
-process. You know how to do this, create another instance similar to the PseudoESL one but instead
-use -quickautoclean as the flag. Name it FO4Edit (-quickautoclean). Save it, and run FO4Edit (-
-quickautoclean)
-You can only open FO4Edit this way with one plugin at a time, so start with whichever esm you
-have first in the list, and work yourself through all of them.
+In the last section we learned how to open a tool from MO2 with a command line flag which allowed us to easily determine which esps can be flagged a esl. That means I don´t have to show you the Modify executables window again, right? Right.
+
+We´re going to create a third instance of FO4Edit, this time to help us automate the master cleaning process. You know how to do this, create another instance similar to the PseudoESL one but instead use -quickautoclean as the flag. Name it FO4Edit (-quickautoclean). Save it, and run FO4Edit (-quickautoclean)
+
+You can only open FO4Edit this way with one plugin at a time, so start with whichever esm you have first in the list, and work yourself through all of them.
 - Start FO4Edit (-quickautoclean)
 - doubleclick on ESM to clean
 - wait until background loader is finished
