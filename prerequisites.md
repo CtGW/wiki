@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-07-15T13:33:23.992Z
+date: 2019-07-15T13:35:05.388Z
 tags: 
 ---
 
@@ -71,11 +71,13 @@ Some of the tools in this section need to be installed into the Fallout 4 base d
 work properly. I make it a habit to install all of them there, **the one exception being MO2**, which I
 install on another drive.
 
-### FO4Edit
+### [FO4Edit](https://github.com/TES5Edit/TES5Edit/releases/)
+This powerful utility allows you to modify, clean, and patch your plugins. [GamerPoets](https://www.youtube.com/watch?v=2F19Do8HAl4) has a
+good primer how to use FO4Edit on YouTube.
 
-### Wrye Bash
+### [Wrye Bash]()
 
-### F4SE
+### [F4SE](http://f4se.silverlock.org/)
 
 ### Mod Organizer 2
 
