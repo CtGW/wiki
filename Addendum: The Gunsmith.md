@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-15T18:31:56.102Z
+date: 2019-07-15T18:53:12.033Z
 tags: 
 ---
 
@@ -24,6 +24,15 @@ tags:
 [**DOOM's M2019 PKD Detective Special - That Gun**](https://www.nexusmods.com/fallout4/mods/10669)
 
 ![thatgun.jpg](/thatgun.jpg)
+
+## 12.7mm pistol
+- 12.7mm pistol  (Fallout New Vegas) 
+
+---
+
+[**DeadPool2099's 12.7mm Pistol (Sig Sauer P127)**](https://www.nexusmods.com/fallout4/mods/23434)
+
+![127mm.jpg](/127mm.jpg)
 
 ## Mauser M/96/HSI Mauser/Chinese pistol
 - Mauser M/96 9mm  (Fallout 1/2) 
@@ -172,3 +181,12 @@ tags:
 [**mikeallan/The Shiny Haxorus's P90 Compact - Add-On**](https://www.nexusmods.com/fallout4/mods/23589)
 
 ![p90.jpg](/p90.jpg)
+
+## 12.7mm submachine gun
+- 12.7mm submachine gun (Fallout New Vegas)
+
+---
+
+[**Sythropo/Svarttjern/MyCart/Ranger Vaughn's 12.7mm SMG from Fallout New Vegas**](https://www.nexusmods.com/fallout4/mods/39861)
+
+![127smg.jpg](/127smg.jpg)
