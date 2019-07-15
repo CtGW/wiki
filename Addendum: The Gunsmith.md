@@ -2,11 +2,11 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-15T20:00:09.185Z
+date: 2019-07-15T20:02:32.814Z
 tags: 
 ---
 
-# Pistols
+# Pistol's
 
 ## .223 Pistol/That Gun/5.56mm Pistol
 - .223 Pistol  (Fallout 1/2) 
@@ -264,3 +264,5 @@ tags:
 [**IceStormNG's MP5**](https://www.nexusmods.com/fallout4/mods/36610)
 
 ![mp5.jpg](/mp5.jpg)
+
+# Shotgun's
