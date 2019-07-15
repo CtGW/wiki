@@ -2,7 +2,7 @@
 title: The Gunsmith
 description: Weapons of Lore, Fitting or just awesome. Get your Tools of the Trade here.
 published: 1
-date: 2019-07-15T16:15:23.625Z
+date: 2019-07-15T16:15:58.121Z
 tags: 
 ---
 
