@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T09:34:39.055Z
+date: 2019-07-16T09:47:28.875Z
 tags: 
 ---
 
@@ -429,6 +429,7 @@ tags:
 
 ## Bozar
 - Bozar (Fallout New Vegas: Gun Runner's Arsenal)
+- Bozar (Fallout 2)
 
 ---
 
@@ -466,3 +467,12 @@ tags:
 [**Oh Deer/asXas's M1 Garand Skin Packs**](https://www.nexusmods.com/fallout4/mods/28863)
 
 ![m1.jpg](/m1.jpg)
+
+## Anti Material Rifle
+- Anti Material Rifle (Fallout New Vegas: Gun Runner's Arsenal)
+
+---
+
+[**ToastyFresh/WarDaddy/Fallout 4 New Vegas team's Anti Materiel Rifle**](https://www.nexusmods.com/fallout4/mods/36922)
+
+![amr.jpg](/amr.jpg)
