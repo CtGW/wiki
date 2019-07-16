@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T10:28:35.433Z
+date: 2019-07-16T10:41:35.427Z
 tags: 
 ---
 
@@ -506,3 +506,23 @@ tags:
 [**Scail's Light Support Weapon**](https://www.nexusmods.com/fallout4/mods/29910)
 
 ![lsw.jpg](/lsw.jpg)
+
+## M-14 Rifle
+- M-14 Rifle (Fallout Tactics)
+
+---
+
+[**FF7CloudStrife/Moniterman's The M14 Standalone Rifle**](https://www.nexusmods.com/fallout4/mods/9667)
+[**Sam Fisher's M14 Standalone Rifle Retexture**](https://www.nexusmods.com/fallout4/mods/11938)
+[**Sam Fisher's M14 Standalone Rifle Resized Scopes**](https://www.nexusmods.com/fallout4/mods/10230)
+
+![m14.jpg](/m14.jpg)
+
+## Ruger AC556F
+- Ruger AC556F (Fallout Tactics)
+
+---
+
+[**TactaGhoul's Ruger AC-556F**](https://www.nexusmods.com/fallout4/mods/27689)
+
+![ruger.jpg](/ruger.jpg)
