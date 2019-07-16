@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T13:13:01.070Z
+date: 2019-07-16T13:22:43.077Z
 tags: 
 ---
 
@@ -11,6 +11,38 @@ tags:
 - Links directly beneath the Weapon Mod are highly suggested Addon's/Option's.
 - This list is not a reflection of my taste, if I missed a Mod, feel free to send me a message on the Nexus/Discord
 - Some Weapons mods are not perfect copy's of the classic weapons. I tried to be as accurate as possible, though.
+
+# Special
+
+## New Vegas Uniques
+
+Includes
+
+- AER14 Prototype
+- Pew Pew
+- Q-35 Matter Modulator
+- Esther
+- Sprtel-Wood 9700
+- Holy Frag Grenade
+- Cleansing Flame
+- CZ57 Avenger
+- Golden Glove
+- Gehenna
+- Fist of Rawr
+- Annabelle
+- Chance's Knife
+- The Humble Cudgel
+- Mysterious Magnum
+- Paciencia
+- Medicine Stick (requires Far Harbor)
+- YCS 186 (requires Gauss Rifle Prototype from Creation Club)
+- Love and Hate
+- Weathered 10mm Pistol
+
+[**Captain-Ultima's New Vegas Uniques Mega Pack**](https://www.nexusmods.com/fallout4/mods/30529)
+
+![nvu.jpg](/nvu.jpg)
+
 
 # Pistol's
 
