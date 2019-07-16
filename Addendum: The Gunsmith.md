@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T12:01:40.647Z
+date: 2019-07-16T12:06:53.632Z
 tags: 
 ---
 
@@ -625,3 +625,14 @@ tags:
 [**Skibadaa's WH-Mk.22 Heavy Machinegun REDUX**](https://www.nexusmods.com/fallout4/mods/21516)
 
 ![mk22.jpg](/mk22.jpg)
+
+# Energy Pistols
+
+## Glock 86 (Classic Plasma Pistol)
+- Plasma Pistol (Fallout 1/2/Tactics)
+
+---
+
+[**3nikhey's Glock 86 - Plasma Pistol**](https://www.nexusmods.com/fallout4/mods/36358)
+
+![glock.jpg](/glock.jpg)
