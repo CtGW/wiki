@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T08:11:30.186Z
+date: 2019-07-16T08:18:06.434Z
 tags: 
 ---
 
@@ -353,3 +353,12 @@ tags:
 [**brammcnasty's Rangemaster Rifle Redux**](https://www.nexusmods.com/fallout4/mods/39650)
 
 ![range.jpg](/range.jpg)
+
+## Assault Rifle (Classic)
+- Assault Rifle (Fallout 1/2)
+
+---
+
+[**Major_McCrackin's AK-112 Assault Rifle**](https://www.nexusmods.com/fallout4/mods/25209)
+
+![ak112.jpg](/ak112.jpg)
