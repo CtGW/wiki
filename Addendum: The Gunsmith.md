@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T10:55:32.661Z
+date: 2019-07-16T11:07:59.436Z
 tags: 
 ---
 
@@ -553,3 +553,12 @@ tags:
 [**Davis237/Wardaddy's M60 Light Machinegun**](https://www.nexusmods.com/fallout4/mods/33319)
 
 ![m60.jpg](/m60.jpg)
+
+## Browning M2
+- Browning M2 (Fallout Tactics)
+
+---
+
+[**Wasteland Melody's Heavy Machine Gun**](https://www.nexusmods.com/fallout4/mods/19417)
+
+![brown.jpg](/brown.jpg)
