@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T08:43:53.024Z
+date: 2019-07-16T08:50:16.308Z
 tags: 
 ---
 
@@ -398,3 +398,13 @@ tags:
 [**asXas's HK G11 K2 - Kraut Space Magic**](https://www.nexusmods.com/fallout4/mods/36894)
 
 ![g11.jpg](/g11.jpg)
+
+## Chinese Assault Rifle/Xuanlong Assault Rifle
+- Chinese Assault Rifle/Xuanlong Assault Rifle (Fallout 3)
+
+---
+
+[**Wasteland Melody's Chinese Assault Rifle**](https://www.nexusmods.com/fallout4/mods/13283)
+[**WarDaddy's Chinese Assault Rifle Animations**](https://www.nexusmods.com/fallout4/mods/27430)
+
+![china.jpg](/china.jpg)
