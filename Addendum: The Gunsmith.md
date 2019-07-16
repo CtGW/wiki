@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T11:48:20.480Z
+date: 2019-07-16T11:54:37.830Z
 tags: 
 ---
 
@@ -563,15 +563,6 @@ tags:
 
 ![brown.jpg](/brown.jpg)
 
-## Rocket Launcher(RPG-7)
-- Rocket launcher (Fallout Tactics)
-
----
-
-[**The Shiny Haxorus/robersonb1's RPG-7V2**](https://www.nexusmods.com/fallout4/mods/26446)
-
-![rpg.jpg](/rpg.jpg)
-
 ## Rockwell CZ53 personal minigun/Eugene/CZ57 Avenger minigun/Rheinmetal AG Vindicator
 - Rockwell CZ53 personal minigun/CZ57 Avenger minigun/Rheinmetal AG Vindicator (Fallout 2)
 - Rockwell CZ53 personal minigun/Eugene (Fallout 3)
@@ -606,3 +597,22 @@ tags:
 [**Seanms1991's M79 Grenade Launcher -- Standalone**](https://www.nexusmods.com/fallout4/mods/16727)
 
 ![m79.jpg](/m79.jpg)
+
+## China Lake
+- Grenade Launcher (Fallout New Vegas)
+
+---
+
+[**Shoeburglar/Hitman47101/500slr's China Lake and Holorifle**](https://www.nexusmods.com/fallout4/mods/22254)
+
+![lake.jpg](/lake.jpg)
+
+
+## RPG-7
+- Rocket launcher (Fallout Tactics)
+
+---
+
+[**The Shiny Haxorus/robersonb1's RPG-7V2**](https://www.nexusmods.com/fallout4/mods/26446)
+
+![rpg.jpg](/rpg.jpg)
