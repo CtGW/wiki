@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T13:53:10.396Z
+date: 2019-07-16T15:37:28.973Z
 tags: 
 ---
 
