@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T12:37:22.036Z
+date: 2019-07-16T12:44:06.385Z
 tags: 
 ---
 
@@ -661,3 +661,20 @@ tags:
 [**DMagnus's Star Trek Original Series Phaser**](https://www.nexusmods.com/fallout4/mods/17628)
 
 ![phaser.jpg](/phaser.jpg)
+
+# Energy Rifles
+
+## Wattz 2000 (Classic Laser Rifle)
+- Laser Rifle (Fallout 1/2/Tactics)
+
+---
+
+[**DeadPool2099/Ha_Ru/friend's Wattz Laser Gun**](https://www.nexusmods.com/fallout4/mods/26386)
+
+![wattz1.jpg](/wattz1.jpg)
+
+---
+
+[**Jake Necroix's Wattz Electronics Weaponry**](https://www.nexusmods.com/fallout4/mods/22189)
+
+![wattz2.jpg](/wattz2.jpg)
