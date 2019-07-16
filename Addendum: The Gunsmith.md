@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T08:50:16.308Z
+date: 2019-07-16T09:09:56.643Z
 tags: 
 ---
 
@@ -408,3 +408,21 @@ tags:
 [**WarDaddy's Chinese Assault Rifle Animations**](https://www.nexusmods.com/fallout4/mods/27430)
 
 ![china.jpg](/china.jpg)
+
+## Service Rifle/Survivalist's Rifle/Assault Carbine/Marksman Carbine/All American/M16A1
+- Service Rifle/Assault Carbine/Marksman Carbine/All American (Fallout New Vegas)
+- Survivalits's Rifle (Fallout New Vegas: Honest Hearts)
+- M16A1 (Fallout Tactics)
+
+---
+
+[**Wasteland Melody's Service Rifle**](https://www.nexusmods.com/fallout4/mods/28547)
+[**Nadie/scsmrcw/Navaro/Cyrisus's Service Rifle Expansion Project**](https://www.nexusmods.com/fallout4/mods/37192)
+
+![wms.jpg](/wms.jpg)
+
+---
+
+[**DeadPool2099/The Shiny Haxorus/friends's Service Rifle**](https://www.nexusmods.com/fallout4/mods/32361)
+
+![sr.jpg](/sr.jpg)
