@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T13:01:19.244Z
+date: 2019-07-16T13:02:45.226Z
 tags: 
 ---
 
@@ -709,3 +709,12 @@ tags:
 [**MrColonelMustard/TheRizzler1 and his team's When Science Retires - A LAER Standalone Version**](https://www.nexusmods.com/fallout4/mods/31224)
 
 ![laer.jpg](/laer.jpg)
+
+## Holo Rifle
+- Holo Rifle (Fallout New Vegas: Dead Money)
+
+---
+
+[**Shoeburglar/Hitman47101/500slr's China Lake and Holorifle**](https://www.nexusmods.com/fallout4/mods/22254)
+
+![lake.jpg](/lake.jpg)
