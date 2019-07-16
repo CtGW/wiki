@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T11:31:19.242Z
+date: 2019-07-16T11:48:20.480Z
 tags: 
 ---
 
@@ -588,3 +588,21 @@ tags:
 [**Captain-Ultima's New Vegas Uniques 08 - CZ57 Avenger**](https://www.nexusmods.com/fallout4/mods/30519)
 
 ![mini2.jpg](/mini2.jpg)
+
+# Explosives
+
+## M79 grenade launcher
+- Grenade Launcher (Fallout Tactics)
+- Grenade Rifle/Thump-Thump (Fallout New Vegas)
+- Great Bear Grenade Rifle/Red Victory Grenade Rifle (Fallout New Vegas: Lonesome Road)
+- Mercenary's Grenade Rifle (Fallout New Vegas: Courier's Stash)
+
+---
+
+**(Highly Suggested)**[**Seanms1991's Grenade Expansion Pack 2 -- M79 Grenade Launcher and New Explosives**](https://www.nexusmods.com/fallout4/mods/16404)
+
+---
+
+[**Seanms1991's M79 Grenade Launcher -- Standalone**](https://www.nexusmods.com/fallout4/mods/16727)
+
+![m79.jpg](/m79.jpg)
