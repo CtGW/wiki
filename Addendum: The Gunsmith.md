@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T10:49:37.761Z
+date: 2019-07-16T10:55:32.661Z
 tags: 
 ---
 
@@ -543,3 +543,13 @@ tags:
 ![aug2.jpg](/aug2.jpg)
 
 # Big Guns
+
+## M60/Light Machine Gun
+- M60 (Fallout 2/Tactics)
+- Light Machine Gun (Fallout New Vegas)
+
+---
+
+[**Davis237/Wardaddy's M60 Light Machinegun**](https://www.nexusmods.com/fallout4/mods/33319)
+
+![m60.jpg](/m60.jpg)
