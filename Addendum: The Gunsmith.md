@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T09:09:56.643Z
+date: 2019-07-16T09:15:36.924Z
 tags: 
 ---
 
@@ -426,3 +426,12 @@ tags:
 [**DeadPool2099/The Shiny Haxorus/friends's Service Rifle**](https://www.nexusmods.com/fallout4/mods/32361)
 
 ![sr.jpg](/sr.jpg)
+
+## Bozar
+- Bozar (Fallout New Vegas: Gun Runner's Arsenal)
+
+---
+
+[**DeadPool2099/Hitman47101's Bullpup Bozar**](https://www.nexusmods.com/fallout4/mods/28478)
+
+![bozar.jpg](/bozar.jpg)
