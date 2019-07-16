@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T12:28:46.715Z
+date: 2019-07-16T12:30:35.654Z
 tags: 
 ---
 
@@ -630,6 +630,7 @@ tags:
 
 ## Glock 86 (Classic Plasma Pistol)
 - Plasma Pistol (Fallout 1/2/Tactics)
+- Plasma Defender (Fallout New Vegas: Gun Runner's Arsenal)
 
 ---
 
