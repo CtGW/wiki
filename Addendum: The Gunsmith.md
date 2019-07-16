@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T12:30:35.654Z
+date: 2019-07-16T12:37:22.036Z
 tags: 
 ---
 
@@ -652,3 +652,12 @@ tags:
 [**Jake Necroix's Wattz Electronics Weaponry**](https://www.nexusmods.com/fallout4/mods/22189)
 
 ![wattzp2.jpg](/wattzp2.jpg)
+
+## Phazer
+- Phazer (Fallout 2)
+
+---
+
+[**DMagnus's Star Trek Original Series Phaser**](https://www.nexusmods.com/fallout4/mods/17628)
+
+![phaser.jpg](/phaser.jpg)
