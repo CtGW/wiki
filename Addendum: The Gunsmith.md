@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T08:27:45.163Z
+date: 2019-07-16T08:41:02.768Z
 tags: 
 ---
 
@@ -362,6 +362,23 @@ tags:
 [**Major_McCrackin's AK-112 Assault Rifle**](https://www.nexusmods.com/fallout4/mods/25209)
 
 ![ak112.jpg](/ak112.jpg)
+
+## Assault Rifle (Modern)
+- Assault Rifle (Fallout 3)
+
+---
+
+[**T41NT3D's R91 - Fallout 3 Assault Rifle**](https://www.nexusmods.com/fallout4/mods/27101)
+[**kuzi127's R91 Expansion**](https://www.nexusmods.com/fallout4/mods/35045)
+
+![r911.jpg](/r911.jpg)
+
+---
+
+[**FF7CloudStrife's R91 Standalone Assault Rifle**](https://www.nexusmods.com/fallout4/mods/7715)
+[**Kazeite's Another R91 retexture**](https://www.nexusmods.com/fallout4/mods/25209)
+
+![r912.jpg](/r912.jpg)
 
 ## FN FAL
 - FN FAL (Fallout 2/Tactics)
