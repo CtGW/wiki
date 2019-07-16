@@ -1,10 +1,16 @@
 ---
 title: The Gunsmith: Weapons of Lore WIP
-description: Get your lore friendly Tools of the Trade here. A line between Weapon Mods denotes an alternative Mod for the Same Weapon. Links directly beneath the Weapon Mod are highly suggested Addon's/Option's.
+description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T10:16:14.561Z
+date: 2019-07-16T10:27:23.013Z
 tags: 
 ---
+
+# Preamble
+- A line between Weapon Mods denotes an alternative Mod for the Same Weapon.
+- Links directly beneath the Weapon Mod are highly suggested Addon's/Option's.
+- This list is not a reflection of my taste, if I missed a Mod, feel free to send me a message on the Nexus/Discord
+- Some Weapons mods are not perfect copy's of the classic weapons. I tried to be as accurate as possible, though.
 
 # Pistol's
 
