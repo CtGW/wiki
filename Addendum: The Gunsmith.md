@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T11:30:25.703Z
+date: 2019-07-16T11:31:06.741Z
 tags: 
 ---
 
@@ -573,10 +573,10 @@ tags:
 ![rpg.jpg](/rpg.jpg)
 
 ## Rockwell CZ53 personal minigun/Eugene/CZ57 Avenger minigun/Rhinemetal AG Vindicator
-- Rockwell CZ53 personal minigun/CZ57 Avenger minigun/Rhinemetal AG Vindicator (Fallout 2)
+- Rockwell CZ53 personal minigun/CZ57 Avenger minigun/Rheinmetal AG Vindicator (Fallout 2)
 - Rockwell CZ53 personal minigun/Eugene (Fallout 3)
 - Rockwell CZ53 personal minigun/CZ57 Avenger minigun (Fallout New Vegas)
-- CZ57 Avenger minigun/Rhinemetal AG Vindicator (Fallout Tactics)
+- CZ57 Avenger minigun/Rheinmetal AG Vindicator (Fallout Tactics)
 ---
 
 [**Skibadaa's Miniguns Standalone**](https://www.nexusmods.com/fallout4/mods/23448)
