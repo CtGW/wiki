@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T10:41:35.427Z
+date: 2019-07-16T10:48:05.242Z
 tags: 
 ---
 
@@ -526,3 +526,18 @@ tags:
 [**TactaGhoul's Ruger AC-556F**](https://www.nexusmods.com/fallout4/mods/27689)
 
 ![ruger.jpg](/ruger.jpg)
+
+## Steyr Aug
+- Steyr (Fallout Tactics)
+
+---
+
+[**The Shiny Haxorus/robersonb1's Steyr AUG**](https://www.nexusmods.com/fallout4/mods/26630)
+
+![aug1.jpg](/aug1.jpg)
+
+---
+
+[**FX0x01/WarDaddy/Navaro/Comrade Bear/other's Steyr AUG A1**](https://www.nexusmods.com/fallout4/mods/25093)
+
+![aug2.jpg](/aug2.jpg)
