@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T13:02:45.226Z
+date: 2019-07-16T13:07:35.405Z
 tags: 
 ---
 
@@ -718,3 +718,12 @@ tags:
 [**Shoeburglar/Hitman47101/500slr's China Lake and Holorifle**](https://www.nexusmods.com/fallout4/mods/22254)
 
 ![lake.jpg](/lake.jpg)
+
+## Laser RCW
+- Laser RCW (Fallout New Vegas: Dead Money)
+
+---
+
+[**MikeMoore's The Laser RCW - An Energy Submachine Gun from New Vegas (from scratch)**](https://www.nexusmods.com/fallout4/mods/19597)
+
+![rcw.jpg](/rcw.jpg)
