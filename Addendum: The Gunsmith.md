@@ -1,8 +1,8 @@
 ---
 title: The Gunsmith: Weapons of Lore WIP
-description: Get your lore friendly Tools of the Trade here.
+description: Get your lore friendly Tools of the Trade here. A line between Weapon Mods denotes an alternative Mod for the Same Weapon. Links directly beneath the Weapon Mod are highly suggested Addon's/Option's.
 published: 1
-date: 2019-07-16T10:06:55.817Z
+date: 2019-07-16T10:16:14.561Z
 tags: 
 ---
 
