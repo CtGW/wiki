@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T11:54:37.830Z
+date: 2019-07-16T12:01:40.647Z
 tags: 
 ---
 
@@ -616,3 +616,12 @@ tags:
 [**The Shiny Haxorus/robersonb1's RPG-7V2**](https://www.nexusmods.com/fallout4/mods/26446)
 
 ![rpg.jpg](/rpg.jpg)
+
+## Grenade Machinegun/Mercy
+- Grenade Machinegun/Mercy (Fallout New Vegas)
+
+---
+
+[**Skibadaa's WH-Mk.22 Heavy Machinegun REDUX**](https://www.nexusmods.com/fallout4/mods/21516)
+
+![mk22.jpg](/mk22.jpg)
