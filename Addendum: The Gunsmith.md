@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T12:50:18.235Z
+date: 2019-07-16T12:53:44.914Z
 tags: 
 ---
 
@@ -688,3 +688,12 @@ tags:
 [**3nikhey's Winchester P94**](https://www.nexusmods.com/fallout4/mods/35676)
 
 ![p94.jpg](/p94.jpg)
+
+## YK42B Pulse Rifle
+- Pulse Rifle (Fallout 2/Tactics)
+
+---
+
+[**3nikhey's YK42B - Pulse Rifle**](https://www.nexusmods.com/fallout4/mods/37575)
+
+![pulse.jpg](/pulse.jpg)
