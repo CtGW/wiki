@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T12:53:44.914Z
+date: 2019-07-16T12:56:25.037Z
 tags: 
 ---
 
@@ -682,6 +682,8 @@ tags:
 ## Winchester P94 (Classic Plasma Rifle)
 - Plasma Rifle (Fallout 1/2/Tactics)
 - Turbo Plasma Rifle (Fallout 1/2)
+- Plasma Caster (Fallout New Vegas)
+- The Smitty Special (Fallout New Vegas: Gun Runner's Arsenal)
 
 ---
 
@@ -697,3 +699,10 @@ tags:
 [**3nikhey's YK42B - Pulse Rifle**](https://www.nexusmods.com/fallout4/mods/37575)
 
 ![pulse.jpg](/pulse.jpg)
+
+## YK42B Pulse Rifle
+- Pulse Rifle (Fallout 2/Tactics)
+
+---
+
+[**3nikhey's YK42B - Pulse Rifle**](https://www.nexusmods.com/fallout4/mods/37575)
