@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T12:48:50.716Z
+date: 2019-07-16T12:50:18.235Z
 tags: 
 ---
 
@@ -681,6 +681,7 @@ tags:
 
 ## Winchester P94 (Classic Plasma Rifle)
 - Plasma Rifle (Fallout 1/2/Tactics)
+- Turbo Plasma Rifle (Fallout 1/2)
 
 ---
 
