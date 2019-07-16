@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T11:08:28.097Z
+date: 2019-07-16T11:15:11.443Z
 tags: 
 ---
 
@@ -562,3 +562,12 @@ tags:
 [**Wasteland Melody's Heavy Machine Gun**](https://www.nexusmods.com/fallout4/mods/19417)
 
 ![brown.jpg](/brown.jpg)
+
+## Rocket Launcher(RPG-7)
+- Rocket launcher (Fallout Tactics)
+
+---
+
+[**The Shiny Haxorus/robersonb1's RPG-7V2**](https://www.nexusmods.com/fallout4/mods/26446)
+
+![rpg.jpg](/rpg.jpg)
