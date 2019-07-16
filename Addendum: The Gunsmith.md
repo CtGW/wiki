@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T08:18:06.434Z
+date: 2019-07-16T08:24:06.637Z
 tags: 
 ---
 
@@ -362,3 +362,12 @@ tags:
 [**Major_McCrackin's AK-112 Assault Rifle**](https://www.nexusmods.com/fallout4/mods/25209)
 
 ![ak112.jpg](/ak112.jpg)
+
+## FN FAL
+- FN FAL (Fallout 2/Tactics)
+
+---
+
+[**DOOM/Wardaddy's FN-FAL**](https://www.nexusmods.com/fallout4/mods/37057)
+
+![fnfal.jpg](/fnfal.jpg)
