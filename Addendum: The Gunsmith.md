@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T10:27:23.013Z
+date: 2019-07-16T10:28:35.433Z
 tags: 
 ---
 
@@ -24,8 +24,6 @@ tags:
 [**Skibadaa's .223 Revolver REDUX**](https://www.nexusmods.com/fallout4/mods/19803)
 
 ![223revolverredux.jpg](/223revolverredux.jpg)
-
----
 
 [**DOOM's M2019 PKD Detective Special - That Gun**](https://www.nexusmods.com/fallout4/mods/10669)
 
