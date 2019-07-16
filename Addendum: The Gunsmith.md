@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T13:22:43.077Z
+date: 2019-07-16T13:31:16.320Z
 tags: 
 ---
 
@@ -768,3 +768,14 @@ Includes
 [**Texashokies's Intimidation Overhaul**](https://www.nexusmods.com/fallout4/mods/23922)
 
 ![mesm.jpg](/mesm.jpg)
+
+# Melee
+
+## Super Sledge (Classic)
+- Super Sledge (Fallout 1/2/3/New Vegas)
+
+---
+
+[**WJS's Classic Super Sledge**](https://www.nexusmods.com/fallout4/mods/28217)
+
+![sledge.jpg](/sledge.jpg)
