@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T09:20:33.935Z
+date: 2019-07-16T09:24:29.610Z
 tags: 
 ---
 
@@ -445,3 +445,12 @@ tags:
 [**covadonga's M1918 BAR REDUX**](https://www.nexusmods.com/fallout4/mods/15802)
 
 ![bar.jpg](/bar.jpg)
+
+## Varmint Rifle/Rat Slayer
+- Varmint Rifle/Rat Slayer (Fallout New Vegas)
+
+---
+
+[**asXas's Varmint Rifle - The Return**](https://www.nexusmods.com/fallout4/mods/19342)
+
+![fujhnfy.gif](/fujhnfy.gif)
