@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T09:47:28.875Z
+date: 2019-07-16T10:06:55.817Z
 tags: 
 ---
 
@@ -476,3 +476,29 @@ tags:
 [**ToastyFresh/WarDaddy/Fallout 4 New Vegas team's Anti Materiel Rifle**](https://www.nexusmods.com/fallout4/mods/36922)
 
 ![amr.jpg](/amr.jpg)
+
+## AK-47/Handmade Rifle
+- AK-47 (Fallout Tactics)
+- Handmade Rifle (Fallout 4)
+
+---
+
+[**DeadPool2099's Handmade Rifle - Classic Wooden Stock**](https://www.nexusmods.com/fallout4/mods/22889)
+
+![ak.jpg](/ak.jpg)
+
+## XL70E3/Light support weapon
+- XL70E3 (Fallout Tactics)
+- Light support weapon (Fallout 2)
+
+---
+
+[**Conn08/ConradTheThird's SA80 British Rifle (L85 and L86)**](https://www.nexusmods.com/fallout4/mods/24619)
+
+![sa80.jpg](/sa80.jpg)
+
+---
+
+[**Scail's Light Support Weapon**](https://www.nexusmods.com/fallout4/mods/29910)
+
+![lsw.jpg](/lsw.jpg)
