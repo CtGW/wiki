@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-15T20:53:12.240Z
+date: 2019-07-16T07:58:36.250Z
 tags: 
 ---
 
@@ -332,3 +332,14 @@ tags:
 ![caras.jpg](/caras.jpg)
 
 # Rifle's
+
+## Sniper Rifle/Reservist's rifle/Victory rifle/Christine's CoS silencer rifle
+- Sniper Rifle (Fallout 1/2/3/New Vegas/Tactics)
+- Reservist's rifle/Victory rifle (Fallout 3)
+- Christine's CoS silencer rifle (Fallout New Vegas: Old World Blues)
+
+---
+
+[**LtCommander's DKS-501 Sniper Rifle - Standalone**](https://www.nexusmods.com/fallout4/mods/15909)
+
+![dks.jpg](/dks.jpg)
