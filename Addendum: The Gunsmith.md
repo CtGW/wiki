@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T12:44:06.385Z
+date: 2019-07-16T12:48:50.716Z
 tags: 
 ---
 
@@ -678,3 +678,12 @@ tags:
 [**Jake Necroix's Wattz Electronics Weaponry**](https://www.nexusmods.com/fallout4/mods/22189)
 
 ![wattz2.jpg](/wattz2.jpg)
+
+## Winchester P94 (Classic Plasma Rifle)
+- Plasma Rifle (Fallout 1/2/Tactics)
+
+---
+
+[**3nikhey's Winchester P94**](https://www.nexusmods.com/fallout4/mods/35676)
+
+![p94.jpg](/p94.jpg)
