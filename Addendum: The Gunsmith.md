@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T09:24:29.610Z
+date: 2019-07-16T09:34:39.055Z
 tags: 
 ---
 
@@ -453,4 +453,16 @@ tags:
 
 [**asXas's Varmint Rifle - The Return**](https://www.nexusmods.com/fallout4/mods/19342)
 
-![fujhnfy.gif](/fujhnfy.gif)
+![varm.jpg](/varm.jpg)
+
+## Battle Rifle/This Machine/M1 Garand
+- This Machine (Fallout New Vegas)
+- Battle Rifle (Fallout New Vegas: Gun Runner's Arsenal)
+- M1 Garand (Fallout Tactics)
+
+---
+
+[**asXas's M1 Garand - A WWII Classic**](https://www.nexusmods.com/fallout4/mods/20687)
+[**Oh Deer/asXas's M1 Garand Skin Packs**](https://www.nexusmods.com/fallout4/mods/28863)
+
+![m1.jpg](/m1.jpg)
