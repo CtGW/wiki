@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T08:24:06.637Z
+date: 2019-07-16T08:27:45.163Z
 tags: 
 ---
 
@@ -371,3 +371,12 @@ tags:
 [**DOOM/Wardaddy's FN-FAL**](https://www.nexusmods.com/fallout4/mods/37057)
 
 ![fnfal.jpg](/fnfal.jpg)
+
+## H&K G11
+- H&K G11 (Fallout 2)
+
+---
+
+[**asXas's HK G11 K2 - Kraut Space Magic**](https://www.nexusmods.com/fallout4/mods/36894)
+
+![g11.jpg](/g11.jpg)
