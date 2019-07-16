@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T08:41:02.768Z
+date: 2019-07-16T08:43:53.024Z
 tags: 
 ---
 
@@ -363,8 +363,9 @@ tags:
 
 ![ak112.jpg](/ak112.jpg)
 
-## Assault Rifle (Modern)
+## Assault Rifle/Infiltrator/Perforator (Modern)
 - Assault Rifle (Fallout 3)
+- Infiltrator/Perforator (Fallout 3: The Pitt)
 
 ---
 
