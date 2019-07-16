@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T07:58:36.250Z
+date: 2019-07-16T08:11:30.186Z
 tags: 
 ---
 
@@ -343,3 +343,13 @@ tags:
 [**LtCommander's DKS-501 Sniper Rifle - Standalone**](https://www.nexusmods.com/fallout4/mods/15909)
 
 ![dks.jpg](/dks.jpg)
+
+## Hunting Rifle (Classic)
+- Hunting Rifle (Fallout 1/2/Tactics)
+
+---
+
+[**jkruse05's Return of the Rangemaster Rifle**](https://www.nexusmods.com/fallout4/mods/28851)
+[**brammcnasty's Rangemaster Rifle Redux**](https://www.nexusmods.com/fallout4/mods/39650)
+
+![range.jpg](/range.jpg)
