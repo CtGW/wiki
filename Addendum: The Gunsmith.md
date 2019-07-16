@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T12:56:25.037Z
+date: 2019-07-16T13:01:19.244Z
 tags: 
 ---
 
@@ -700,9 +700,12 @@ tags:
 
 ![pulse.jpg](/pulse.jpg)
 
-## YK42B Pulse Rifle
-- Pulse Rifle (Fallout 2/Tactics)
+## LAER ("Laser Assisted Electrical Rifle")
+- LAER/Elijah's advanced LAER (Fallout New Vegas: Old World Blues)
 
 ---
 
-[**3nikhey's YK42B - Pulse Rifle**](https://www.nexusmods.com/fallout4/mods/37575)
+[**The Rizzler/Wanaming0/Ha_ru/Pie_Savvy/guicool/Vicyorus/friend's LAER (Laser Assisted Electrical Rifle)**](https://www.nexusmods.com/fallout4/mods/30868)
+[**MrColonelMustard/TheRizzler1 and his team's When Science Retires - A LAER Standalone Version**](https://www.nexusmods.com/fallout4/mods/31224)
+
+![laer.jpg](/laer.jpg)
