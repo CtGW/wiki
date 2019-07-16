@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T09:15:36.924Z
+date: 2019-07-16T09:20:33.935Z
 tags: 
 ---
 
@@ -435,3 +435,13 @@ tags:
 [**DeadPool2099/Hitman47101's Bullpup Bozar**](https://www.nexusmods.com/fallout4/mods/28478)
 
 ![bozar.jpg](/bozar.jpg)
+
+## Automatic Rifle/Browning Auto Rifle
+- Automatic Rifle (Fallout New Vegas: Dead Money)
+- Browning Auto Rifle (Fallout Tactics)
+
+---
+
+[**covadonga's M1918 BAR REDUX**](https://www.nexusmods.com/fallout4/mods/15802)
+
+![bar.jpg](/bar.jpg)
