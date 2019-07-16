@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T13:31:16.320Z
+date: 2019-07-16T13:53:10.396Z
 tags: 
 ---
 
@@ -11,37 +11,6 @@ tags:
 - Links directly beneath the Weapon Mod are highly suggested Addon's/Option's.
 - This list is not a reflection of my taste, if I missed a Mod, feel free to send me a message on the Nexus/Discord
 - Some Weapons mods are not perfect copy's of the classic weapons. I tried to be as accurate as possible, though.
-
-# Special
-
-## New Vegas Uniques
-
-Includes
-
-- AER14 Prototype
-- Pew Pew
-- Q-35 Matter Modulator
-- Esther
-- Sprtel-Wood 9700
-- Holy Frag Grenade
-- Cleansing Flame
-- CZ57 Avenger
-- Golden Glove
-- Gehenna
-- Fist of Rawr
-- Annabelle
-- Chance's Knife
-- The Humble Cudgel
-- Mysterious Magnum
-- Paciencia
-- Medicine Stick (requires Far Harbor)
-- YCS 186 (requires Gauss Rifle Prototype from Creation Club)
-- Love and Hate
-- Weathered 10mm Pistol
-
-[**Captain-Ultima's New Vegas Uniques Mega Pack**](https://www.nexusmods.com/fallout4/mods/30529)
-
-![nvu.jpg](/nvu.jpg)
 
 
 # Pistol's
@@ -658,6 +627,25 @@ Includes
 
 ![mk22.jpg](/mk22.jpg)
 
+## Thrown Explosives
+Too varied between the Games. So I'll add some Packs that add known Explosives as well as Lore Friendly new ones
+
+[**fadingsignal's Remote Explosives - C4 with Detonators and More**](https://www.nexusmods.com/fallout4/mods/22444)
+
+![rem.jpg](/rem.jpg)
+
+[**Seanms1991's Grenade Expansion Pack 2 -- M79 Grenade Launcher and New Explosives**](https://www.nexusmods.com/fallout4/mods/16404)
+
+![gex.jpg](/gex.jpg)
+
+[**mmdestiny's Anarchist's Cookbook Vol.1 - 9 New Explosives (and some old New Vegas favorites)**](https://www.nexusmods.com/fallout4/mods/30754)
+
+![ac1.jpg](/ac1.jpg)
+
+[**mmdestiny's Anarchist's Cookbook Vol.2 - 9 More New Explosives (many scratch-made)**](https://www.nexusmods.com/fallout4/mods/32665)
+
+![ac2.jpg](/ac2.jpg)
+
 # Energy Pistols
 
 ## Glock 86 (Classic Plasma Pistol)
@@ -779,3 +767,34 @@ Includes
 [**WJS's Classic Super Sledge**](https://www.nexusmods.com/fallout4/mods/28217)
 
 ![sledge.jpg](/sledge.jpg)
+
+# Special
+
+## New Vegas Uniques
+
+Includes
+
+- AER14 Prototype
+- Pew Pew
+- Q-35 Matter Modulator
+- Esther
+- Sprtel-Wood 9700
+- Holy Frag Grenade
+- Cleansing Flame
+- CZ57 Avenger
+- Golden Glove
+- Gehenna
+- Fist of Rawr
+- Annabelle
+- Chance's Knife
+- The Humble Cudgel
+- Mysterious Magnum
+- Paciencia
+- Medicine Stick (requires Far Harbor)
+- YCS 186 (requires Gauss Rifle Prototype from Creation Club)
+- Love and Hate
+- Weathered 10mm Pistol
+
+[**Captain-Ultima's New Vegas Uniques Mega Pack**](https://www.nexusmods.com/fallout4/mods/30529)
+
+![nvu.jpg](/nvu.jpg)
