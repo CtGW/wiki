@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T13:07:35.405Z
+date: 2019-07-16T13:13:01.070Z
 tags: 
 ---
 
@@ -727,3 +727,12 @@ tags:
 [**MikeMoore's The Laser RCW - An Energy Submachine Gun from New Vegas (from scratch)**](https://www.nexusmods.com/fallout4/mods/19597)
 
 ![rcw.jpg](/rcw.jpg)
+
+## Mesmetron
+- Mesmetron (Fallout 3)
+
+---
+
+[**Texashokies's Intimidation Overhaul**](https://www.nexusmods.com/fallout4/mods/23922)
+
+![mesm.jpg](/mesm.jpg)
