@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T12:06:53.632Z
+date: 2019-07-16T12:28:46.715Z
 tags: 
 ---
 
@@ -636,3 +636,18 @@ tags:
 [**3nikhey's Glock 86 - Plasma Pistol**](https://www.nexusmods.com/fallout4/mods/36358)
 
 ![glock.jpg](/glock.jpg)
+
+## Wattz 1000 (Classic Laser Pistol)
+- Laser Pistol (Fallout 1/2/Tactics)
+
+---
+
+[**DeadPool2099/Ha_Ru/friend's Wattz Laser Gun**](https://www.nexusmods.com/fallout4/mods/26386)
+
+![wattzp1.jpg](/wattzp1.jpg)
+
+---
+
+[**Jake Necroix's Wattz Electronics Weaponry**](https://www.nexusmods.com/fallout4/mods/22189)
+
+![wattzp2.jpg](/wattzp2.jpg)
