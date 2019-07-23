@@ -2,14 +2,16 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T20:13:31.398Z
+date: 2019-07-23T20:15:02.412Z
 tags: 
 ---
 
 # Main modding
 ## Choosing ESL or not
-
-**TLDR**: When given a choice of choosing an ESP or an ESL you should always download the ESP and then manually mark it as an ESL in FO4Edit.
+> 
+> **TLDR**: When given a choice of choosing an ESP or an ESL you should always download the ESP and then manually mark it as an ESL in FO4Edit.
+> 
+{.is-info}
 
 For an in-depth understanding: https://www.afkmods.com/index.php?/topic/5079-plugin-files-and-you-esmeslesp/
 Another nice explanation: https://steamcommunity.com/app/489830/discussions/0/3276824488728505237/
