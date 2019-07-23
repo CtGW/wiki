@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T23:18:19.645Z
+date: 2019-07-23T23:22:29.091Z
 tags: 
 ---
 
@@ -676,51 +676,51 @@ Install version 1.6.2, the version before MCM, as it reportedly works better.
 
 ## NPC and creature overhauls
 
-##### []()
+##### [Raider Overhaul]()
 
-##### []()
+##### [D.E.C.A.Y – Better Ghouls]()
 
-##### []()
+##### [Deadlier Deathclaws]()
 
-##### []()
+##### [Unique NPCs - Creatures and Monsters]()
 
-##### []()
+##### [Less Loot D.E.C.A.Y]()
 
-##### []()
+##### [Feral Ghouls After Dark]()
 
-##### []()
+##### [Super Mutant Redux]()
 
-##### []()
+##### [We are the minutemen]()
 
-##### []()
+##### [Far West Minutemen]()
 
-##### []()
+##### [Militarized Minutemen]()
 
-##### []()
+##### [Synth Overhaul – C.A.S.T]()
 
-##### []()
+##### [Better Settlers]()
 
-##### []()
+##### [Simple Settlers]()
 
-##### []()
+##### [Unique NPCs - An Overhaul of the Commonwealth]()
 
-##### []()
+##### [Raider children]()
 
-##### []()
+##### [FO4 NPCs Travel]()
 
-##### []()
+##### [Settlers of the Commonwealth]()
 
-##### []()
+##### [Sim Settlements - Settlers of the Commonweath - City Leaders]()
 
-##### []()
+##### [Immersive Dogmeat]()
 
-##### []()
+##### [Moddable Robot Settlers]()
 
-##### []()
+##### [Killable Children]()
 
-##### []()
+##### [Less Aggressive Settlers]()
 
-##### []()
+##### [Grieving Raider - A Most Important Mod]()
 
 ##### []()
 
