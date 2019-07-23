@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T22:29:49.839Z
+date: 2019-07-23T22:30:15.312Z
 tags: 
 ---
 
@@ -268,6 +268,8 @@ plugins related to Sim Settlements in the right pane before starting the patchin
 8. Put your newly created patch last in the right pane of MO2. We ́re done
 
 ##### [Clock Widget - Show Real Time While Loading](https://www.nexusmods.com/fallout4/mods/26759)
+You can change setting in ClockWidget.ini to toggle on/off 24-hour clock, by changing the
+value of iEnable24HourClock=1 to 0.
 
 ##### [Satellite Color World Map Combo](https://www.nexusmods.com/fallout4/mods/9414)
 
