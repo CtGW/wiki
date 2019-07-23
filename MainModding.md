@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T22:30:44.414Z
+date: 2019-07-23T22:30:55.691Z
 tags: 
 ---
 
@@ -240,8 +240,7 @@ A slicker Powerarmor HUD.
 
 ##### [ApeHUD](https://www.nexusmods.com/fallout4/mods/30294)
 In CtGW main archive there are two version:
-- standard – some UI elements removed and the rest resized and move towards the
-edge of the screen
+- standard – some UI elements removed and the rest resized and move towards the edge of the screen
 - lean – same as above but also compass, enemy health and notifications turned off
 
 ##### [Immersive HUD](https://www.nexusmods.com/fallout4/mods/20830)
