@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T20:58:36.708Z
+date: 2019-07-23T20:59:49.426Z
 tags: 
 ---
 
@@ -250,21 +250,21 @@ Adjusts the eyeheight in first person if you play as a male character.
 
 ##### [Master Plan WRA Patch]()
 
-##### []()
+##### [Better Stores]()
 
-##### []()
+##### [Better Vendor Stalls]()
 
-##### []()
+##### [Manufacturing Extended]()
 
-##### []()
+##### [Thematic and Practical]()
 
-##### []()
+##### [Creative clutter]()
 
-##### []()
+##### [Do It Yourshelf]()
 
-##### []()
+##### [Gruffydds Signs and Posters]()
 
-##### []()
+##### [g2m Workshop]()
 
 ##### []()
 
