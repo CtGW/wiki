@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T22:53:50.554Z
+date: 2019-07-23T22:54:12.203Z
 tags: 
 ---
 
@@ -519,6 +519,10 @@ ad and install:
 - West Tek Tactical Optics v2.0 - Standard Leveled Lists
 
 ##### [PreWar Binoculars](https://www.nexusmods.com/fallout4/mods/17819/)
+Adds functional binoculars to the game.
+During install, select:
+- “Binoculars – AWKCR” and 
+- “Standard viewfinder”
 
 ##### [Crimsomrider's Accessories](https://www.nexusmods.com/fallout4/mods/19563)
 
