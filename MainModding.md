@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T22:27:54.517Z
+date: 2019-07-23T22:29:35.642Z
 tags: 
 ---
 
@@ -245,8 +245,27 @@ edge of the screen
 - lean – same as above but also compass, enemy health and notifications turned off
 
 ##### [Immersive HUD](https://www.nexusmods.com/fallout4/mods/20830)
+A hud that gets out of the way when you don ́t need it.
 
 ##### [Ruddy88 ́s Simple Sorter](https://www.nexusmods.com/fallout4/mods/33983)
+an alternative to VIS which is less flexible but much easier to work with, as it
+patches the whole list for you, without any need for extra patches.
+Go to the RSS files and first download R88SimpleSorter_SCRIPT. Extract the file menu
+manually into your F04edit folder.
+Now download MXPF - Mator's xEdit Patching Framework, and repeat the process from
+above.
+Next, install in MO2 R88SimpleSorter_XML.
+Finally, we will do the actual patching. Note that it ́s recommended that you deactivate all
+plugins related to Sim Settlements in the right pane before starting the patching process.
+
+1. Open FO4Edit, and click OK. Holdiing shift while clicking ok will load the program quicker. Wait for thr background loader to finish.
+2. Right-click on any of the plugins in the left pane and select "Apply Script".
+3. In the Apply Script dialogue, click in the script box and navigate to R88_SimpleSorter. Click OK.
+4. In the first dialogue box, check your options as below:Revision 2.5.0 alpha 2 guide updated 2018-07-04, load order list updated 2018-07-04
+5. Click on New Patch. You can name your sorting file whatever you want, I name it CtGW – simple sorter
+6. Let the sorter do it ́s job (which only takes a couple of minutes on my rig. When it ́s done, you will get a popup message saying "Patching Complete".
+7. Close FO4Edit, make sure your new plugin is selected.
+8. Put your newly created patch last in the right pane of MO2. We ́re done
 
 ##### [Clock Widget - Show Real Time While Loading](https://www.nexusmods.com/fallout4/mods/26759)
 
