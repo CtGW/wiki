@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T23:39:35.141Z
+date: 2019-07-23T23:40:30.890Z
 tags: 
 ---
 
@@ -870,7 +870,15 @@ friendly face and background.
 
 ## Animations
 
-##### []()
+##### [Laser weapons 1st person reposition]()
+
+##### [Automatically Lowered Weapons]()
+
+##### [New Alternative Animations]()
+
+##### [Stay Focused Son]()
+
+##### [Power Armor Animation Changes]()
 
 ## Vanilla location overhauls
 
