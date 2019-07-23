@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T23:36:36.425Z
+date: 2019-07-23T23:38:43.967Z
 tags: 
 ---
 
@@ -844,7 +844,17 @@ Install Live Action Handy - With Iris and GlowMap – Repack version
 
 ## New companions
 
-##### []()
+##### [Tina De Luca Voiced as a Settler (Dependency Revisited)](https://www.nexusmods.com/fallout4/mods/20226)
+
+##### [Heather Casdin](https://www.nexusmods.com/fallout4/mods/23273)
+
+##### [Heather Casdin - Assorted Patches](https://www.nexusmods.com/fallout4/mods/24314)
+
+##### [Ellen - the cartographer](https://www.nexusmods.com/fallout4/mods/15962)
+
+##### [Buttons – Companion](https://www.nexusmods.com/fallout4/mods/31710)
+
+##### [I am Darlene](https://www.nexusmods.com/fallout4/mods/36254)
 
 ## Animations
 
