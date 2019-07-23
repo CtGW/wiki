@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T20:32:08.737Z
+date: 2019-07-23T20:32:16.379Z
 tags: 
 ---
 
@@ -105,7 +105,7 @@ Disabled Mouse Acceleration, Horizontal/Vertical Parity, Scalable ADS Multiplier
 
 ##### [Vault111 And Billboard LOD Fix](https://www.nexusmods.com/fallout4/mods/36288)
 
-##### [Sanctuary Bridge LOD Fix](https://www.nexusmods.com/fallout4/mods/36288?tab=files)
+##### [Sanctuary Bridge LOD Fix](https://www.nexusmods.com/fallout4/mods/36288)
 
 ##### [Far Harbor Bed Fix](https://www.nexusmods.com/fallout4/mods/34504)
 
