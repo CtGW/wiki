@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T22:54:33.512Z
+date: 2019-07-23T22:54:52.440Z
 tags: 
 ---
 
@@ -533,6 +533,9 @@ During install, select:
 - 100% + shadows
 
 ##### [K-9 harness](https://www.nexusmods.com/fallout4/mods/17686)
+download:
+- K-9 Harness - Tactical Body Armor and Backpack for Dogmeat
+- K-9 Harness - Armorsmith Extended plus DEF UI
 
 ##### [CROSS Pre-War Cybernetics](https://www.nexusmods.com/fallout4/mods/8609)
 
