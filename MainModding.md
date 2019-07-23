@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T22:21:34.033Z
+date: 2019-07-23T22:23:07.036Z
 tags: 
 ---
 
@@ -306,21 +306,21 @@ Adjusts the eyeheight in first person if you play as a male character.
 
 ## Cosmetic overhauls
 
-##### [BodySlide and Outfit Studio]()
+##### [BodySlide and Outfit Studio](https://www.nexusmods.com/fallout4/mods/25)
 
-##### [LooksMenu]()
+##### [LooksMenu](https://www.nexusmods.com/fallout4/mods/12631)
 
-##### [Looksmenu Customization Compendium]()
+##### [Looksmenu Customization Compendium](https://www.nexusmods.com/fallout4/mods/24830)
 
-##### [LooksMenu Body Tattoos]()
+##### [LooksMenu Body Tattoos](https://www.nexusmods.com/fallout4/mods/25000/)
 
-##### [FSM Body Textures]()
+##### [FSM Body Textures](https://www.nexusmods.com/fallout4/mods/31965)
 
-##### [Picturesque Presets]()
+##### [Picturesque Presets](https://www.nexusmods.com/fallout4/mods/16788)
 
-##### [Caliente's Beautiful Bodies Enhancer -CBBE-]()
+##### [Caliente's Beautiful Bodies Enhancer -CBBE-](https://www.nexusmods.com/fallout4/mods/15)
 
-##### [Malestra's CBBE BodySlide Preset Collection]()
+##### [Malestra's CBBE BodySlide Preset Collection](https://www.nexusmods.com/fallout4/mods/35316)
 
 
 ## Clothing
