@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T20:52:17.391Z
+date: 2019-07-23T20:57:19.124Z
 tags: 
 ---
 
@@ -184,41 +184,78 @@ Adjusts the eyeheight in first person if you play as a male character.
 
 ## Camera and UI
 
-##### []()
+##### [DEF_UI]()
 
-##### []()
+##### [DEF_UI Iconlibs Rescaled and Fixed]()
 
-##### []()
+##### [Extended Dialogue Interface]()
 
-##### []()
+##### [HUDFramework]()
 
-##### []()
+##### [Power Armor HoloHUD]()
 
-##### []()
+##### [HUD Plus Plus]()
 
-##### []()
+##### [ApeHUD]()
 
-##### []()
+##### [Immersive HUD]()
 
-##### []()
+##### [Ruddy88 ́s Simple Sorter]()
 
-##### []()
+##### [Clock Widget - Show Real Time While Loading]()
 
-##### []()
+##### [Satellite Color World Map Combo]()
 
-##### []()
+##### [Crafting Highlight Fix]()
 
-##### []()
+##### [No more hold v to enter workshop]()
 
-##### []()
+##### [Loading Screen Spoiler Remover]()
 
 ## Settlements
 
+##### [Workshop Framework]()
+
+##### [Workshop Plus]()
+
+##### [All Setlements Extended]()
+
+##### [Uncapped Settlement Surplus]()
+
+##### [Faster Workshop (Workshop Lag Fix)]()
+
+##### [Quieter settlements]()
+
+##### [Locksmith]()
+
+##### [Basement Living]()
+
+##### [Basement Living-Immersion Adjustment]()
+
+##### [The Master Plan]()
+
+##### [Vanilla Extensions]()
+
+##### [This is MY Bed]()
+
+##### [Better Cooking Stations]()
+
+##### [PWR - Passive Water Resources]()## Cosmetic overhauls
+
 ##### []()
 
-## Cosmetic overhauls
+##### []()
 
 ##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
 
 ## Clothing
 
