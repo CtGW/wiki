@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T23:27:14.928Z
+date: 2019-07-23T23:28:28.516Z
 tags: 
 ---
 
@@ -697,8 +697,27 @@ Install version 1.6.2, the version before MCM, as it reportedly works better.
 ##### [Militarized Minutemen]()
 
 ##### [Synth Overhaul – C.A.S.T]()
+This mods overhauls all the Synths by giving them 70 new armor sets, 77 helmets, 42
+uniforms and 2 Synth weapons. From damaged armor to undamaged looking armor sets.Revision 2.5.0 alpha 2
+guide updated 2018-07-04, load order list updated 2018-07-04
+Install the main ba2 version, and any update
+During install select:
+- Synth Overhaul – no weapons
+- AWKCR + AE
+- Remove level requirements (Optional. Synths will be more powerful at lower levels!)
 
 ##### [Better Settlers]()
+Better Settlers is a lore friendly mod that adds more than 240 new settlers to the vanilla
+settler selections.
+Install Better Settlers v2.0 DLC Master FOMOD main file
+During install select:
+- Bettersettlers.esp
+- No Lollygagging!
+- Dirty faces
+- Better settlers default
+- Vanilla
+- Community hair and clothing
+- Mortal pack
 
 ##### [Simple Settlers]()
 Main options
