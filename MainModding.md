@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T19:45:20.251Z
+date: 2019-07-23T19:55:17.814Z
 tags: 
 ---
 
@@ -36,10 +36,32 @@ On the other hand, if you use an .esp marked as an ESL in FO4Edit, the plugin re
 
 So whenever there is an option, always choose the ESP file instead of the ESL file and then you can decide if you want to make it into and ESL or not.
 
-
 ---
 
 ## Core mods
+
+##### F4SE
+Brose install file manually and install only data folder. This way we can more easily
+determine if any of the scripts are overwritten by later mods.
+
+##### PrivateProfileRedirector F4
+Speeds up game start by storing INI files in memory instead of opening, parsing and closing the file
+each time some value from it is needed.
+
+##### Unofficial Fallout 4 Patch
+Fixes things Bethesda won ́t. Drag esp to just after esm-files.
+
+##### Mod Configuration Menu
+
+##### Game Configuration Menu
+GCM allows you easily set many game settings, like game difficulty, skills, XP, quests etc,
+without the need of additional ESPs or console commands. Install both main file.
+
+##### Armor and Weapon Keywords Community (AWKCR)
+Make sure to ticket the CBBE patch option during the installer
+
+##### Armorsmith Extended
+Install main file
 
 ## Minor fixes
 
