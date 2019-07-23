@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T22:34:45.634Z
+date: 2019-07-23T22:36:00.065Z
 tags: 
 ---
 
@@ -359,18 +359,25 @@ During installation, select:
 - Far Harbor patch
 
 ##### [Better Vendor Stalls](https://www.nexusmods.com/fallout4/mods/9758)
+During installation, select standalone with clutter
 
 ##### [Manufacturing Extended](https://www.nexusmods.com/fallout4/mods/15429)
+Install main file and Far Harbor patch
 
 ##### [Thematic and Practical](https://www.nexusmods.com/fallout4/mods/16207)
+Install main file and DLCpatch
 
 ##### [Creative clutter](https://www.nexusmods.com/fallout4/mods/20782)
+During installation, select Creative Clutter DLC
 
 ##### [Do It Yourshelf](https://www.nexusmods.com/fallout4/mods/14532)
+During installation, select extra half-shelf clutter full cost
 
 ##### [Gruffydds Signs and Posters](https://www.nexusmods.com/fallout4/mods/9711)
+Install main file only
 
 ##### [g2m Workshop](https://www.nexusmods.com/fallout4/mods/17088)
+During installation, check Main version [default]. If you during the intro sequence (right before the bathroom scene) get a white screen, press enter, downarrow and enter again. It ́s a message box spamming the screen at startup.
 
 ##### [Organized Workbench Menu](https://www.nexusmods.com/fallout4/mods/32588)
 
