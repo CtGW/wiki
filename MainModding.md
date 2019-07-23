@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T22:23:07.036Z
+date: 2019-07-23T22:23:13.504Z
 tags: 
 ---
 
@@ -312,7 +312,7 @@ Adjusts the eyeheight in first person if you play as a male character.
 
 ##### [Looksmenu Customization Compendium](https://www.nexusmods.com/fallout4/mods/24830)
 
-##### [LooksMenu Body Tattoos](https://www.nexusmods.com/fallout4/mods/25000/)
+##### [LooksMenu Body Tattoos](https://www.nexusmods.com/fallout4/mods/25000)
 
 ##### [FSM Body Textures](https://www.nexusmods.com/fallout4/mods/31965)
 
