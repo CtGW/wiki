@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T23:38:43.967Z
+date: 2019-07-23T23:39:35.141Z
 tags: 
 ---
 
@@ -845,12 +845,24 @@ Install Live Action Handy - With Iris and GlowMap – Repack version
 ## New companions
 
 ##### [Tina De Luca Voiced as a Settler (Dependency Revisited)](https://www.nexusmods.com/fallout4/mods/20226)
+Allows you to recruit Tina outside Dependency even after the quest was already finished. It
+also fixes several bugs with the "good" ending of the Vault 81 quest Dependency.
 
 ##### [Heather Casdin](https://www.nexusmods.com/fallout4/mods/23273)
+Heather is a story-driven character with over 1200 lines of custom, voiced dialogue, quests,
+etc
+Custom voiced companion for Fallout 4, boasting over 1200 lines of custom made and
+voiced dialogue. Affinity system, supporting DLC. Romance. Custom quest. Vanilla lore-
+friendly face and background.
+During install choose "Heather with Extended Dialogue Interface" on the first pane, AE on
+the second pane.
 
 ##### [Heather Casdin - Assorted Patches](https://www.nexusmods.com/fallout4/mods/24314)
 
 ##### [Ellen - the cartographer](https://www.nexusmods.com/fallout4/mods/15962)
+Custom voiced companion for Fallout 4, boasting over 1200 lines of custom made and
+voiced dialogue. Affinity system, supporting DLC. Romance. Custom quest. Vanilla lore-
+friendly face and background.
 
 ##### [Buttons – Companion](https://www.nexusmods.com/fallout4/mods/31710)
 
