@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T22:04:18.028Z
+date: 2019-07-23T22:06:49.778Z
 tags: 
 ---
 
@@ -214,33 +214,33 @@ Adjusts the eyeheight in first person if you play as a male character.
 
 ## Settlements
 
-##### [Workshop Framework]()
+##### [Workshop Framework](https://www.nexusmods.com/fallout4/mods/35004)
 
-##### [Workshop Plus]()
+##### [Workshop Plus](https://www.nexusmods.com/fallout4/mods/35005)
 
-##### [All Setlements Extended]()
+##### [All Setlements Extended](https://www.nexusmods.com/fallout4/mods/25316?tab=description)
 
-##### [Uncapped Settlement Surplus]()
+##### [Uncapped Settlement Surplus](https://www.nexusmods.com/fallout4/mods/12430)
 
-##### [Faster Workshop (Workshop Lag Fix)]()
+##### [Faster Workshop (Workshop Lag Fix)](https://www.nexusmods.com/fallout4/mods/35382)
 
-##### [Quieter settlements]()
+##### [Quieter settlements](https://www.nexusmods.com/fallout4/mods/2819)
 
-##### [Locksmith]()
+##### [Locksmith](https://www.nexusmods.com/fallout4/mods/12454)
 
-##### [Basement Living]()
+##### [Basement Living](https://www.nexusmods.com/fallout4/mods/10967)
 
-##### [Basement Living-Immersion Adjustment]()
+##### [Basement Living-Immersion Adjustment](https://www.nexusmods.com/fallout4/mods/28942)
 
-##### [The Master Plan]()
+##### [The Master Plan](https://www.nexusmods.com/fallout4/mods/16626)
 
-##### [Vanilla Extensions]()
+##### [Vanilla Extensions](https://www.nexusmods.com/fallout4/mods/10032)
 
-##### [This is MY Bed]()
+##### [This is MY Bed](https://www.nexusmods.com/fallout4/mods/7399)
 
-##### [Better Cooking Stations]()
+##### [Better Cooking Stations](https://www.nexusmods.com/fallout4/mods/12104)
 
-##### [PWR - Passive Water Resources]()
+##### [PWR - Passive Water Resources](https://www.nexusmods.com/fallout4/mods/19871)
 
 ##### [CWSS Redux]()
 
