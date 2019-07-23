@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T22:37:48.880Z
+date: 2019-07-23T22:41:52.586Z
 tags: 
 ---
 
@@ -443,21 +443,39 @@ Industrial City v0.9.0+, Junk Town by uituit v9+
 ## Cosmetic overhauls
 
 ##### [BodySlide and Outfit Studio](https://www.nexusmods.com/fallout4/mods/25)
+An easy to use tool for customizing bodies and outfits, creating new bodies and outfits, and
+converting outfits between body types.
+For a tutorial on how to use, click here. It ́s for NMM but the functionality of the program is
+identical for MO2.
 
 ##### [LooksMenu](https://www.nexusmods.com/fallout4/mods/12631)
+Adds engine modifications to improve character creation.
 
 ##### [Looksmenu Customization Compendium](https://www.nexusmods.com/fallout4/mods/24830)
 
 ##### [LooksMenu Body Tattoos](https://www.nexusmods.com/fallout4/mods/25000)
+Tattoo overlays for LooksMenu. Install only ESP version (flag as ESL instead)
 
 ##### [FSM Body Textures](https://www.nexusmods.com/fallout4/mods/31965)
+Download the first main file and install it.
+During the Installer, click next till on the fourth panel and select Neck and Scalp
+Adjustament option only. In the fifth panel select all Valkyr options, then click next and
+select finish.
 
 ##### [Picturesque Presets](https://www.nexusmods.com/fallout4/mods/16788)
+Adds a huge number of Looks Menu presets
+Note: a minor bug causes some of the eyes and markings in the presets to be incorrect (crazy
+red eyes, etc,)
 
 ##### [Caliente's Beautiful Bodies Enhancer -CBBE-](https://www.nexusmods.com/fallout4/mods/15)
+Body replacer allowing for body physics and customization
+Install first main file
+Choose whatever body shape you like best
+Tick all boxes under Outfit Options and F4EEMorphs
 
 ##### [Malestra's CBBE BodySlide Preset Collection](https://www.nexusmods.com/fallout4/mods/35316)
-
+NSFW! optional This is a collection of 35 very accurate presets based on real people or
+erotic fantasy art characters for CBBE/BodySlide. With variations it is ~90 presets total.
 
 ## Clothing
 
