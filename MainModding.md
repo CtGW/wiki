@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T23:31:20.893Z
+date: 2019-07-23T23:34:07.570Z
 tags: 
 ---
 
@@ -683,9 +683,9 @@ Overhaul 11.4c from the Armorsmith Extended files.
 ##### [D.E.C.A.Y – Better Ghouls](https://www.nexusmods.com/fallout4/mods/2500)
 Install main file only
 
-##### [Deadlier Deathclaws]()
+##### [Deadlier Deathclaws](https://www.nexusmods.com/fallout4/mods/13822)
 
-##### [Unique NPCs - Creatures and Monsters]()
+##### [Unique NPCs - Creatures and Monsters](https://www.nexusmods.com/fallout4/mods/24357?tab=files)
 Install main file and any updates/fixes
 During installer choose
 - DECAY
@@ -710,24 +710,24 @@ Worldspace
 >0000E48E
 >Temporary
 and remove 001D0F96 (breaks precombines)
-##### [Less Loot D.E.C.A.Y]()
+##### [Less Loot D.E.C.A.Y](https://www.nexusmods.com/fallout4/mods/32938)
 
-##### [Feral Ghouls After Dark]()
+##### [Feral Ghouls After Dark](https://www.nexusmods.com/fallout4/mods/22434)
 
-##### [Super Mutant Redux]()
+##### [Super Mutant Redux](https://www.nexusmods.com/fallout4/mods/11853/)
 Reworks the super mutant faction including Behemoths, FEV Hounds, and of course, Super
 Mutants.
 Install Super Mutant Redux and any updates. During installer select Armorsmith patch
 
-##### [We are the minutemen]()
+##### [We are the minutemen](https://www.nexusmods.com/fallout4/mods/6443/)
 
-##### [Far West Minutemen]()
+##### [Far West Minutemen](https://www.nexusmods.com/fallout4/mods/27972)
 
-##### [Militarized Minutemen]()
+##### [Militarized Minutemen](https://www.nexusmods.com/fallout4/mods/29853)
 During installer:
 • WATM compatibility
 
-##### [Synth Overhaul – C.A.S.T]()
+##### [Synth Overhaul – C.A.S.T](https://www.nexusmods.com/fallout4/mods/9525)
 This mods overhauls all the Synths by giving them 70 new armor sets, 77 helmets, 42
 uniforms and 2 Synth weapons. From damaged armor to undamaged looking armor sets.Revision 2.5.0 alpha 2
 guide updated 2018-07-04, load order list updated 2018-07-04
@@ -737,7 +737,7 @@ During install select:
 - AWKCR + AE
 - Remove level requirements (Optional. Synths will be more powerful at lower levels!)
 
-##### [Better Settlers]()
+##### [Better Settlers](https://www.nexusmods.com/fallout4/mods/4772)
 Better Settlers is a lore friendly mod that adds more than 240 new settlers to the vanilla
 settler selections.
 Install Better Settlers v2.0 DLC Master FOMOD main file
@@ -750,12 +750,12 @@ During install select:
 - Community hair and clothing
 - Mortal pack
 
-##### [Simple Settlers]()
+##### [Simple Settlers](https://www.nexusmods.com/fallout4/mods/36074)
 Main options
 - Mortal settlers
 Optional
 - None
-##### [Unique NPCs - An Overhaul of the Commonwealth]()
+##### [Unique NPCs - An Overhaul of the Commonwealth](https://www.nexusmods.com/fallout4/mods/21248)
 Install any of the two mian files (they ́re identical), and the 2.1 update
 FOMOD instructions:
 Core
@@ -798,33 +798,31 @@ Militarized minutemen
 Better Settlers
 make sure that this section of your right pane now looks like this:
 
-##### [Raider children]()
+##### [Raider children](https://www.nexusmods.com/fallout4/mods/16586/)
 Raiders have been known to abduct children in the commonwealth to replenish their ranks.
 Once indoctrinated, those poor children return the world from which they came to pillage
 and kill.
 
-##### [FO4 NPCs Travel]()
+##### [FO4 NPCs Travel](https://www.nexusmods.com/fallout4/mods/16987/)
 This mod adds 338 new NPCs, travelling across the commonwealth
 Install FO4 NPCs Travel main file
 
-##### [Settlers of the Commonwealth]()
+##### [Settlers of the Commonwealth](http://3dnpc.com/wiki/fallout-mods/fallout-4/settlers-of-the-commonwealth/)
 Adds 30 new recruitable settlers across the commonwealth. From the creator of Tales of the
 Commonwealth
 
-##### [Sim Settlements - Settlers of the Commonweath - City Leaders]()
+##### [Sim Settlements - Settlers of the Commonweath - City Leaders](https://www.nexusmods.com/fallout4/mods/29799)
 
-##### [Immersive Dogmeat]()
+##### [Immersive Dogmeat](https://www.nexusmods.com/fallout4/mods/34128)
 ESP version
 
-##### [Moddable Robot Settlers]()
+##### [Moddable Robot Settlers](https://www.nexusmods.com/fallout4/mods/11976)
 
-##### [Killable Children]()
+##### [Killable Children](https://www.nexusmods.com/fallout4/mods/197)
 
-##### [Less Aggressive Settlers]()
+##### [Less Aggressive Settlers](https://www.nexusmods.com/fallout4/mods/36399)
 
-##### [Grieving Raider - A Most Important Mod]()
-
-##### []()
+##### [Grieving Raider - A Most Important Mod](https://www.nexusmods.com/fallout4/mods/32335)
 
 ## Companion overhauls
 
