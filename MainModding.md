@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T23:14:37.721Z
+date: 2019-07-23T23:17:32.794Z
 tags: 
 ---
 
@@ -592,10 +592,14 @@ timestamp 09:53.
 ## Gameplay
 
 ##### [Unbogus Fallout overhaul](https://www.nexusmods.com/fallout4/mods/26026)
+A fairly extensive game overhaul that will give you a more consistent, challenging and fun
+experience with many neat features.
+Install main file only.
 
 ##### [BS Defence](https://www.nexusmods.com/fallout4/mods/20137)
 
 ##### [More Attackers – Get off my Buildzone](https://www.nexusmods.com/fallout4/mods/27465)
+Install main file
 
 ##### [Night Of The Creeps](https://www.nexusmods.com/fallout4/mods/23721)
 
@@ -604,30 +608,48 @@ timestamp 09:53.
 ##### [Shaikujin's Better warning for settlements being attacked](https://www.nexusmods.com/fallout4/mods/4106)
 
 ##### [Pack Attack NPC Edition - Gangs With Group Combat Tactics](https://www.nexusmods.com/fallout4/mods/30140)
+Adds group combat AI to raider gangs, Gunners, and most other NPC groups, based on
+individual NPC social awareness and tactical combat evaluation. Now with MCM!
+NOTE: this mod is heavy on script resources and might cause game instability, especially if
+adding further scripted mods on top of this list.
 
 ##### [H.A.R.D.Core - Fusion Generator Overhaul](https://www.nexusmods.com/fallout4/mods/28890/)
+isn ́t it amazing how every fusion core you find, regardless of how many hundreds of years
+they ́ve been in use, are fully charged?
 
 ##### [QuickTrade](https://www.nexusmods.com/fallout4/mods/16229)
+Yeah, yeah, I ́m here to trade, not chit-chat.
 
 ##### [Auto Eat and Drink in Survival](https://www.nexusmods.com/fallout4/mods/25408)
+In the real world you don ́t need a pip-boy to eat and drink, you just do.
 
 ##### [Grab and Eat All-in-One](https://www.nexusmods.com/fallout4/mods/17608)
+use 1.0 version from old without notereading feature. 1.5 version has issues.
 
 ##### [Read Notes from Containers and Corpses](https://www.nexusmods.com/fallout4/mods/18077)
 
 ##### [GET DIRTY (take a bath)](https://www.nexusmods.com/fallout4/mods/29171)
+Get dirty while exploring the wasteland. Take a bath to get clean again.
 
 ##### [GET DIRTY (take a bath) additional effects](https://www.nexusmods.com/fallout4/mods/36880)
+This little patch for 7StarC's GET DIRTY mod adds charisma modifiers and some other
+minor tweaks to the original mod. I made several flavors to accomodate your preferences.
 
 ##### [Canteens of the commonwealth](https://www.nexusmods.com/fallout4/mods/24493)
 
 ##### [Fill'em Up Again (Dynamic Bottle Recyclation)](https://www.nexusmods.com/fallout4/mods/12674)
+SURVIVAL Ever wondered that you drink a beer for example and the bottle is magically
+gone? With the new survival mode you could use the bottle to get some water! But how to
+get this bottle!? Fill ́em up again fixes that and gives a bottle in return!
+Install loose files version
 
 ##### [Intimidation Overhaul](https://www.nexusmods.com/fallout4/mods/23922)
 
 ##### [Critical Hits Outside of VATS Revisited](https://www.nexusmods.com/fallout4/mods/25583)
+Install main and worse criticals optional files.
 
 ##### [Hacking 101](https://www.nexusmods.com/fallout4/mods/15033)
+Major rework of the Hacking system.
 
 ##### [Salvage Robot Parts](https://www.nexusmods.com/fallout4/mods/25355)
 
@@ -638,10 +660,14 @@ timestamp 09:53.
 ##### [RSE Elements Vol.3 - Karma System feat. Bounty Hunters](https://www.nexusmods.com/fallout4/mods/36020)
 
 ##### [Outfit Switcher](https://www.nexusmods.com/fallout4/mods/10282)
+Lets you save your entire loadout, including armor pieces! Then equip and swap between
+saved loadouts with the press of a button.
 
 ##### [I Ain't Drunk (I'm Just Drinking)](https://www.nexusmods.com/fallout4/mods/36888)
+Now you can have a beer without getting drunk, and beer quenches thirst.
 
 ##### [First Person Death Cam](https://www.nexusmods.com/fallout4/mods/27537)
+Die in first person
 
 ##### [Survival options](https://www.nexusmods.com/fallout4/mods/14650)
 SURVIVAL This is an F4SE plugin which restores some hard-coded features disabled by
