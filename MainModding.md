@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T20:33:23.210Z
+date: 2019-07-23T20:33:49.832Z
 tags: 
 ---
 
@@ -76,6 +76,7 @@ Uses F4SE to re-enable achievements while mods are active
 Disabled Mouse Acceleration, Horizontal/Vertical Parity, Scalable ADS Multiplier, Normalized Sensitivity
 
 ##### [Simple Trashcan fix](https://www.nexusmods.com/fallout4/mods/14707/)
+One of those small fixes you can only truly appreciate if you suffer from OCD...
 
 ##### [Wetness shader fix](https://www.nexusmods.com/fallout4/mods/23389)
 
@@ -96,6 +97,7 @@ Disabled Mouse Acceleration, Horizontal/Vertical Parity, Scalable ADS Multiplier
 ##### [Protectron Subway Steward (fix)](https://www.nexusmods.com/fallout4/mods/22022)
 
 ##### [Alex's Male First Person Camera Height Fix](https://www.nexusmods.com/fallout4/mods/27582)
+Adjusts the eyeheight in first person if you play as a male character.
 
 ##### [Vault 111 Floor Guide Fix](https://www.nexusmods.com/fallout4/mods/28167)
 
