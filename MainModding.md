@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T22:33:21.388Z
+date: 2019-07-23T22:34:26.246Z
 tags: 
 ---
 
@@ -322,12 +322,34 @@ Download and install:
 - DLC patches
 
 ##### [PWR - Passive Water Resources](https://www.nexusmods.com/fallout4/mods/19871)
+Install only main file, not the SKE patch
 
 ##### [CWSS Redux](https://www.nexusmods.com/fallout4/mods/14326)
+Craftable working showers, baths, toilets, sinks, urinals, bubblers, and kitchens, that
+followers, settlers, traders and caravan guards can use automatically. Custom idles, models,
+sounds and visual FX. Automatic undressing/dressing. Immersive buffs that taper over time.
+Essential to this modlist if you ́ve also installed “Get Dirty”
 
 ##### [Lore Friendly Posters](https://www.nexusmods.com/fallout4/mods/7145)
+Install mod, and then the Wasteland and Contraptions Workshop and disappearing Mesh Fix
+patches
 
 ##### [Workshop Rearranged](https://www.nexusmods.com/fallout4/mods/16181)
+Install main file and patch pack
+during installation of patch file, select:
+Required patches
+
+- Lore friendly posters – Replacer (after install, move replacer after WRA)
+- Master Plan – Standalone
+
+Optional patches
+
+- Atomic radio – standalone
+- Beantown interiors – standalone – DEF_UI
+
+Creation club
+
+- your choice
 
 ##### [Master Plan WRA Patch](https://www.nexusmods.com/fallout4/mods/16626)
 
