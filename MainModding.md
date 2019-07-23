@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T22:06:49.778Z
+date: 2019-07-23T22:09:19.069Z
 tags: 
 ---
 
@@ -242,67 +242,67 @@ Adjusts the eyeheight in first person if you play as a male character.
 
 ##### [PWR - Passive Water Resources](https://www.nexusmods.com/fallout4/mods/19871)
 
-##### [CWSS Redux]()
+##### [CWSS Redux](https://www.nexusmods.com/fallout4/mods/14326)
 
-##### [Lore Friendly Posters]()
+##### [Lore Friendly Posters](https://www.nexusmods.com/fallout4/mods/7145)
 
-##### [Workshop Rearranged]()
+##### [Workshop Rearranged](https://www.nexusmods.com/fallout4/mods/16181)
 
-##### [Master Plan WRA Patch]()
+##### [Master Plan WRA Patch](https://www.nexusmods.com/fallout4/mods/16626)
 
-##### [Better Stores]()
+##### [Better Stores](https://danielgamache.wixsite.com/awarhero/mod-archive)
 
-##### [Better Vendor Stalls]()
+##### [Better Vendor Stalls](https://www.nexusmods.com/fallout4/mods/9758)
 
-##### [Manufacturing Extended]()
+##### [Manufacturing Extended](https://www.nexusmods.com/fallout4/mods/15429)
 
-##### [Thematic and Practical]()
+##### [Thematic and Practical](https://www.nexusmods.com/fallout4/mods/16207)
 
-##### [Creative clutter]()
+##### [Creative clutter](https://www.nexusmods.com/fallout4/mods/20782)
 
-##### [Do It Yourshelf]()
+##### [Do It Yourshelf](https://www.nexusmods.com/fallout4/mods/14532)
 
-##### [Gruffydds Signs and Posters]()
+##### [Gruffydds Signs and Posters](https://www.nexusmods.com/fallout4/mods/9711)
 
-##### [g2m Workshop]()
+##### [g2m Workshop](https://www.nexusmods.com/fallout4/mods/17088)
 
-##### [Organized Workbench Menu]()
+##### [Organized Workbench Menu](https://www.nexusmods.com/fallout4/mods/32588)
 
-##### [JP Guard Towers]()
+##### [JP Guard Towers](https://www.nexusmods.com/fallout4/mods/36178)
 
-##### [Woody's Wasteland Stuff]()
+##### [Woody's Wasteland Stuff](https://www.nexusmods.com/fallout4/mods/24951)
 
-##### [Private Area Markers (keep settlers out of your house)]()
+##### [Private Area Markers (keep settlers out of your house)](https://www.nexusmods.com/fallout4/mods/26377)
 
-##### [Timer Power Switch]()
+##### [Timer Power Switch](https://www.nexusmods.com/fallout4/mods/10750)
 
-##### [Weapon Rack Extended]()
+##### [Weapon Rack Extended](https://www.nexusmods.com/fallout4/mods/15729)
 
-##### [Weapon Rack Fixes]()
+##### [Weapon Rack Fixes](https://www.nexusmods.com/fallout4/mods/19324)
 
-##### [Settlement Objects Combined]()
+##### [Settlement Objects Combined](https://www.nexusmods.com/fallout4/mods/36461)
 
-##### [Settlement Tidy bot]()
+##### [Settlement Tidy bot](https://www.nexusmods.com/fallout4/mods/33217)
 
-##### [Settlement Menu Manager]()
+##### [Settlement Menu Manager](https://www.nexusmods.com/fallout4/mods/24204)
 
-##### [Sim Settlements]()
+##### [Sim Settlements](https://www.nexusmods.com/fallout4/mods/21872)
 
-##### [Sim Settlements Mega Pack - Year One]()
+##### [Sim Settlements Mega Pack - Year One](https://www.nexusmods.com/fallout4/mods/30396)
 
-##### [Sim Settlements Mega Pack - Year Two]()
+##### [Sim Settlements Mega Pack - Year Two](https://www.nexusmods.com/fallout4/mods/37983)
 
-##### [Sim Settlements – Conqueror]()
+##### [Sim Settlements – Conqueror](https://www.nexusmods.com/fallout4/mods/37000)
 
-##### [Sim Settlements Conqueror Faction Pack - The Forsaken Vaulters]()
+##### [Sim Settlements Conqueror Faction Pack - The Forsaken Vaulters](https://www.nexusmods.com/fallout4/mods/38425)
 
-##### [Sim Settlements - Building Plan Preview]()
+##### [Sim Settlements - Building Plan Preview](https://www.nexusmods.com/fallout4/mods/26004)
 
-##### [Sim Settlements - IDEK's Logistics Station]()
+##### [Sim Settlements - IDEK's Logistics Station](https://www.nexusmods.com/fallout4/mods/28945)
 
-##### [Wasteland Venturers 2 All-In-One]()
+##### [Wasteland Venturers 2 All-In-One](https://www.nexusmods.com/fallout4/mods/30081)
 
-##### [Place Everywhere]()
+##### [Place Everywhere](https://www.nexusmods.com/fallout4/mods/9424)
 
 ## Cosmetic overhauls
 
