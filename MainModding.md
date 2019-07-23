@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T20:40:01.886Z
+date: 2019-07-23T20:43:04.318Z
 tags: 
 ---
 
@@ -134,53 +134,53 @@ Adjusts the eyeheight in first person if you play as a male character.
 
 ## Misc tweaks
 
-##### []()
+##### [No Quest Autostart - BoS Fire Support]()
 
-##### []()
+##### [No Quest Autostart - Far Harbor]()
 
-##### []()
+##### [No Quest Autostart - Nuka World]()
 
-##### []()
+##### [No Quest Autostart – Automatron]()
 
-##### []()
+##### [No Quest Autostart – Vault-Tec]()
 
-##### []()
+##### [Recruiter Radio Freedom]()
 
-##### []()
+##### [Corpse Collision]()
 
-##### []()
+##### [Realistic Death Physics - No Animations]()
 
-##### []()
+##### [Remove Interior Fog]()
 
-##### []()
+##### [Realistic conversations]()
 
-##### []()
+##### [Immersive Generic Dialogue]()
 
-##### []()
+##### [Icebreaker Settlements – Settler Dialogue Overhaul]()
 
-##### []()
+##### [Icebreaker - Piper - Companion Dialogue Overhaul]()
 
-##### []()
+##### [Settler Sandbox]()
 
-##### []()
+##### [Locky bastard]()
 
-##### []()
+##### [First Person messages]()
 
-##### []()
+##### [Quest Summary by Default]()
 
-##### []()
+##### [Puddle remover plus]()
 
-##### []()
+##### [R2K fast pipboy]()
 
-##### []()
+##### [Not So Bright Pins]()
 
-##### []()
+##### [Swinging Animated Meat Bags]()
 
-##### []()
+##### [Tougher Cars Durable Vehicles]()
 
-##### []()
+##### [Lootable vendors]()
 
-##### []()
+##### [ExitSave Killer]()
 
 ## Camera and UI
 
