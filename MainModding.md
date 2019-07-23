@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T20:27:13.278Z
+date: 2019-07-23T20:29:46.568Z
 tags: 
 ---
 
@@ -107,27 +107,27 @@ Disabled Mouse Acceleration, Horizontal/Vertical Parity, Scalable ADS Multiplier
 
 ##### [Sanctuary Bridge LOD Fix]()
 
-##### []()
+##### [Far Harbor Bed Fix]()
 
-##### []()
+##### [Hardware Town Key Havok Fix]()
 
-##### []()
+##### [Nuka Cola Storage Rack]()
 
-##### []()
+##### [Space Sentry Leg Fix]()
 
-##### []()
+##### [Vault Door FIXED]()
 
-##### []()
+##### [Blood Pack Mesh Fix]()
 
-##### []()
+##### [Fixed Gobo Effects]()
 
-##### []()
+##### [Plasma Impact Fix]()
 
-##### []()
+##### [Doorway Endcap Fix]()
 
-##### []()
+##### [Flicker fixer]()
 
-##### []()
+##### [BiRaitBec ́s merged Fixes]()
 
 
 ## Misc tweaks
