@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T20:44:38.920Z
+date: 2019-07-23T20:49:23.867Z
 tags: 
 ---
 
@@ -134,21 +134,21 @@ Adjusts the eyeheight in first person if you play as a male character.
 
 ## Misc tweaks
 
-##### [No Quest Autostart - BoS Fire Support]()
+##### [No Quest Autostart - BoS Fire Support](https://www.nexusmods.com/fallout4/mods/31563)
 
-##### [No Quest Autostart - Far Harbor]()
+##### [No Quest Autostart - Far Harbor](https://www.nexusmods.com/fallout4/mods/31450)
 
-##### [No Quest Autostart - Nuka World]()
+##### [No Quest Autostart - Nuka World](https://www.nexusmods.com/fallout4/mods/31433)
 
-##### [No Quest Autostart – Automatron]()
+##### [No Quest Autostart – Automatron](https://www.nexusmods.com/fallout4/mods/31576)
 
-##### [No Quest Autostart – Vault-Tec]()
+##### [No Quest Autostart – Vault-Tec](https://www.nexusmods.com/fallout4/mods/31454)
 
-##### [Recruiter Radio Freedom]()
+##### [Recruiter Radio Freedom](https://www.nexusmods.com/fallout4/mods/14762)
 
-##### [Corpse Collision]()
+##### [Corpse Collision](https://www.nexusmods.com/fallout4/mods/37133)
 
-##### [Realistic Death Physics - No Animations]()
+##### [Realistic Death Physics - No Animations](https://www.nexusmods.com/fallout4/mods/4371)
 
 ##### [Remove Interior Fog]()
 
