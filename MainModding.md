@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T23:28:45.863Z
+date: 2019-07-23T23:29:35.048Z
 tags: 
 ---
 
@@ -683,7 +683,30 @@ Install version 1.6.2, the version before MCM, as it reportedly works better.
 ##### [Deadlier Deathclaws]()
 
 ##### [Unique NPCs - Creatures and Monsters]()
+Install main file and any updates/fixes
+During installer choose
+- DECAY
+- Deadlier Deathclaws
+- SMR no patch
+- Respawnable no patch
+- Unique NPCs - C n M – Non-Lore
+The Unique NPCs installer will have replaced a couple of earlier installed esps (edited
+versions to make them cmpatible with Unique NPCs). Those esps will now need to be
+moved below the main Unique NPC esp to work properly. Below is a ist of the esps you
+need to move before moving on to the next mod:
 
+D.E.C.A.Y.esp
+DeadlierDeathclaws
+make sure that this section of your right pane now looks like this:
+
+After installation, open Unique NPCs – Creatures and Monsters.esp in FO4Edit expand:
+Worldspace
+>0000003c
+>Block -1, -1
+>Sub-Block -2, -1
+>0000E48E
+>Temporary
+and remove 001D0F96 (breaks precombines)
 ##### [Less Loot D.E.C.A.Y]()
 
 ##### [Feral Ghouls After Dark]()
