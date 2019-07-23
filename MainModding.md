@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T22:36:00.065Z
+date: 2019-07-23T22:37:07.766Z
 tags: 
 ---
 
@@ -388,12 +388,23 @@ During installation, check Main version [default]. If you during the intro seque
 ##### [Private Area Markers (keep settlers out of your house)](https://www.nexusmods.com/fallout4/mods/26377)
 
 ##### [Timer Power Switch](https://www.nexusmods.com/fallout4/mods/10750)
+Allows you to build power switches that automatically power on/off.
 
 ##### [Weapon Rack Extended](https://www.nexusmods.com/fallout4/mods/15729)
 
 ##### [Weapon Rack Fixes](https://www.nexusmods.com/fallout4/mods/19324)
 
 ##### [Settlement Objects Combined](https://www.nexusmods.com/fallout4/mods/36461)
+oad esp version 2 (loose files)
+If you use the get Dirty mod we will want to make the showers from this mod compatible.
+- Open F04Edit. Select both "Get Dirty" and "Settlement Objects Combined" and click ok.
+Only those 2 should be selected.
+- Once loaded, Right Click on SOC, and click "Add Master" > select "Get Dirty".
+- Expand Spells then click on "SShowerBetterEffect"
+- Replace the 'DamageradiationWater' Effect with the CS7_DirtTier00 'Clean'" Effect (which
+is what is triggered when you swim in the Get Dirty mod, for example).
+- Repeat for SShowerBasicEffect
+- Close and Save the "Showers" mod, as that is the only mod you've edited.
 
 ##### [Settlement Tidy bot](https://www.nexusmods.com/fallout4/mods/33217)
 
