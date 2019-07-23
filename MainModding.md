@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T23:26:43.658Z
+date: 2019-07-23T23:27:14.928Z
 tags: 
 ---
 
@@ -701,7 +701,10 @@ Install version 1.6.2, the version before MCM, as it reportedly works better.
 ##### [Better Settlers]()
 
 ##### [Simple Settlers]()
-
+Main options
+- Mortal settlers
+Optional
+- None
 ##### [Unique NPCs - An Overhaul of the Commonwealth]()
 Install any of the two mian files (they ́re identical), and the 2.1 update
 FOMOD instructions:
