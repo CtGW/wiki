@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T20:01:03.456Z
+date: 2019-07-23T20:04:44.391Z
 tags: 
 ---
 
@@ -64,6 +64,18 @@ Make sure to ticket the CBBE patch option during the installer
 Install main file
 
 ## Minor fixes
+
+##### [CCCleaner](https://www.nexusmods.com/fallout4/mods/26592)
+
+##### [Achievements](https://www.nexusmods.com/fallout4/mods/12465)
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
 
 ## Misc tweaks
 
