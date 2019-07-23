@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T23:46:45.218Z
+date: 2019-07-23T23:51:02.669Z
 tags: 
 ---
 
@@ -908,12 +908,39 @@ Download and install main file and cleaned esp
 ##### [Aloot's Home Plate](https://www.nexusmods.com/fallout4/mods/15300/)
 
 ##### [Hotel Rexford](https://www.nexusmods.com/fallout4/mods/36458)
+Install main file and optional NPCs outside of the street file
 
 ##### [Better Robotics Disposal](https://www.nexusmods.com/fallout4/mods/36077)
 
 ## New quests and locations
 
-##### []()
+##### [Fusion City Rising](https://www.nexusmods.com/fallout4/mods/16423/)
+
+##### [Outcasts and Remnants](https://www.nexusmods.com/fallout4/mods/21469/)
+
+##### [Project Valkyrie](https://www.nexusmods.com/fallout4/mods/28085)
+
+##### [Nuka-World Reborn](https://www.nexusmods.com/fallout4/mods/32857)
+Install main and optional file, then the AE patch here: https://www.nexusmods.com/fallout4/mods/34260
+
+##### [50 Ways to Die at Dr. Nick's](https://www.nexusmods.com/fallout4/mods/25564/)
+10 Connected Quests, Unique Rewards, Custom Player Home, Lore-Friendly Backstory,
+Lots of Explosions, and a Twist.
+
+##### [The Secret of Huntress Manor - A Far Harbor Story](https://www.nexusmods.com/fallout4/mods/27311)
+Install 1.2 regular main file
+
+##### [Vault 494 - A Vault-Tec Story](https://www.nexusmods.com/fallout4/mods/23651)
+
+##### [David Hunter - A Brotherhood Story](https://www.nexusmods.com/fallout4/mods/16808)
+
+##### [Hilda Hughes - An Institute Story](https://www.nexusmods.com/fallout4/mods/22128)
+
+##### [Tales from the Commonwealth](http://3dnpc.com/)
+install Tales and Atomic Radio (optional) from 3Dnpc.com (always update before Nexus
+version and contains custom tracks not on Nexus).
+
+##### [Sector 5 – Rise and Fall](https://www.nexusmods.com/fallout4/mods/38457)
 
 ## Weather and environment
 
