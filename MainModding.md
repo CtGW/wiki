@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T20:57:19.124Z
+date: 2019-07-23T20:58:36.708Z
 tags: 
 ---
 
@@ -240,7 +240,57 @@ Adjusts the eyeheight in first person if you play as a male character.
 
 ##### [Better Cooking Stations]()
 
-##### [PWR - Passive Water Resources]()## Cosmetic overhauls
+##### [PWR - Passive Water Resources]()
+
+##### [CWSS Redux]()
+
+##### [Lore Friendly Posters]()
+
+##### [Workshop Rearranged]()
+
+##### [Master Plan WRA Patch]()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+## Cosmetic overhauls
 
 ##### []()
 
