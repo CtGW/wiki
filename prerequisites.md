@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-07-23T19:21:01.118Z
+date: 2019-07-23T19:22:11.053Z
 tags: 
 ---
 
@@ -107,7 +107,7 @@ FO4Edit is smart and will save a backup of said ESM files in it´s overwrite fol
 
 ## Texture overhaul (from BiRaitBec)
 
-## ESP vs ESL
+## Choosing ESLs
 
 **TLDR**: When given a choice of choosing an ESP or an ESL you should always download the ESP and then manually mark it as an ESL in FO4Edit.
 
@@ -120,3 +120,7 @@ So, in theory, any plugin can add `16^6^` new items.
 
 ESLs work by sharing the `FE` namespace, so that an element in the plugin looks like `FEyyyyyy`.
 The first ESL has the plugin FormIDs as: `FE00zzzz`, the second ESL has FormIDs as: `FE01zzzz`
+
+So in theory, you cannot have more than 256 ESL plugins in your modlist.
+
+### ESL vs ESP
