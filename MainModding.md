@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T22:54:52.440Z
+date: 2019-07-23T22:55:36.477Z
 tags: 
 ---
 
@@ -538,6 +538,7 @@ download:
 - K-9 Harness - Armorsmith Extended plus DEF UI
 
 ##### [CROSS Pre-War Cybernetics](https://www.nexusmods.com/fallout4/mods/8609)
+download main file only
 
 ##### [CROSS Institute Tech Mask](https://www.nexusmods.com/fallout4/mods/11881)
 
@@ -552,6 +553,11 @@ download:
 ##### [CROSS Mojave manhunter](https://www.nexusmods.com/fallout4/mods/32214)
 
 ##### [Wearable Backpacks and Pouches](https://www.nexusmods.com/fallout4/mods/3258)
+Install main file and the AWKCR Crafting optional patch
+These clothes and armors need to be run through Bodyslide if you ́re using a bodyslide preset other
+than the CBBE vanilla one. For instructions on how to do this, I will refer to the ever excellent
+Gopher on YouTube. I recommend you watch the whole video, but for this step, you can skip to
+timestamp 09:53.
 
 ## Power armor
 
