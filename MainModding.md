@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T21:00:35.894Z
+date: 2019-07-23T21:02:30.215Z
 tags: 
 ---
 
@@ -280,15 +280,29 @@ Adjusts the eyeheight in first person if you play as a male character.
 
 ##### [Weapon Rack Fixes]()
 
-##### []()
+##### [Settlement Objects Combined]()
 
-##### []()
+##### [Settlement Tidy bot]()
 
-##### []()
+##### [Settlement Menu Manager]()
 
-##### []()
+##### [Sim Settlements]()
 
-##### []()
+##### [Sim Settlements Mega Pack - Year One]()
+
+##### [Sim Settlements Mega Pack - Year Two]()
+
+##### [Sim Settlements – Conqueror]()
+
+##### [Sim Settlements Conqueror Faction Pack - The Forsaken Vaulters]()
+
+##### [Sim Settlements - Building Plan Preview]()
+
+##### [Sim Settlements - IDEK's Logistics Station]()
+
+##### [Wasteland Venturers 2 All-In-One]()
+
+##### [Place Everywhere]()
 
 ## Cosmetic overhauls
 
