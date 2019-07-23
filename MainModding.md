@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T20:49:23.867Z
+date: 2019-07-23T20:51:09.434Z
 tags: 
 ---
 
@@ -150,37 +150,37 @@ Adjusts the eyeheight in first person if you play as a male character.
 
 ##### [Realistic Death Physics - No Animations](https://www.nexusmods.com/fallout4/mods/4371)
 
-##### [Remove Interior Fog]()
+##### [Remove Interior Fog](https://www.nexusmods.com/fallout4/mods/2628)
 
-##### [Realistic conversations]()
+##### [Realistic conversations](https://www.nexusmods.com/fallout4/mods/32514)
 
-##### [Immersive Generic Dialogue]()
+##### [Immersive Generic Dialogue](https://www.nexusmods.com/fallout4/mods/14108)
 
-##### [Icebreaker Settlements – Settler Dialogue Overhaul]()
+##### [Icebreaker Settlements – Settler Dialogue Overhaul](https://www.nexusmods.com/fallout4/mods/25972)
 
-##### [Icebreaker - Piper - Companion Dialogue Overhaul]()
+##### [Icebreaker - Piper - Companion Dialogue Overhaul](https://www.nexusmods.com/fallout4/mods/25525)
 
-##### [Settler Sandbox]()
+##### [Settler Sandbox](https://www.nexusmods.com/fallout4/mods/20442/)
 
-##### [Locky bastard]()
+##### [Locky bastard](https://www.nexusmods.com/fallout4/mods/13380/)
 
-##### [First Person messages]()
+##### [First Person messages](https://www.nexusmods.com/fallout4/mods/10870)
 
-##### [Quest Summary by Default]()
+##### [Quest Summary by Default](https://www.nexusmods.com/fallout4/mods/2664)
 
-##### [Puddle remover plus]()
+##### [Puddle remover plus](https://www.nexusmods.com/fallout4/mods/34035)
 
-##### [R2K fast pipboy]()
+##### [R2K fast pipboy](https://www.nexusmods.com/fallout4/mods/17777)
 
-##### [Not So Bright Pins]()
+##### [Not So Bright Pins](https://www.nexusmods.com/fallout4/mods/35097)
 
-##### [Swinging Animated Meat Bags]()
+##### [Swinging Animated Meat Bags](https://www.nexusmods.com/fallout4/mods/21087)
 
-##### [Tougher Cars Durable Vehicles]()
+##### [Tougher Cars Durable Vehicles](https://www.nexusmods.com/fallout4/mods/3680)
 
-##### [Lootable vendors]()
+##### [Lootable vendors](https://www.nexusmods.com/fallout4/mods/34960)
 
-##### [ExitSave Killer]()
+##### [ExitSave Killer](https://www.nexusmods.com/fallout4/mods/18102)
 
 ## Camera and UI
 
