@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-07-23T19:33:20.920Z
+date: 2019-07-23T19:37:21.665Z
 tags: 
 ---
 
@@ -129,5 +129,9 @@ The first ESL has the plugin FormIDs as: `FE000zzz`, the second ESL has FormIDs 
 So in theory, you cannot have more than <code>16<sup>3</sup></code> ESL plugins in your modlist, each of which can only introduce another <code>16<sup>3</sup></code> new items/elements.
 
 ### ESL vs ESP
-If you use an ESP marked as an ESL in FO4Edit, the plugin respects your load order, while if you use an ESL, the bethesda engine loads it in the ESM space.
-ESL plugins are loaded
+.esl plugins are loaded in the master space and is termed as a *light master*, as internally the bethesda engine makes every .esl 
+This means that they are loaded before the other files and they can mess up your load order.
+
+On the other hand, if you use an .esp marked as an ESL in FO4Edit, the plugin respects your load order.
+
+
