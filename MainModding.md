@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T22:54:12.203Z
+date: 2019-07-23T22:54:33.512Z
 tags: 
 ---
 
@@ -527,6 +527,10 @@ During install, select:
 ##### [Crimsomrider's Accessories](https://www.nexusmods.com/fallout4/mods/19563)
 
 ##### [Tactical Flashlights](https://www.nexusmods.com/fallout4/mods/16172)
+Adds wearable flashlight gear to the wasteland.
+During install, select:
+- AWKCR+AE
+- 100% + shadows
 
 ##### [K-9 harness](https://www.nexusmods.com/fallout4/mods/17686)
 
