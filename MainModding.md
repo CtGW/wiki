@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T22:51:01.630Z
+date: 2019-07-23T22:53:50.554Z
 tags: 
 ---
 
@@ -503,10 +503,20 @@ Install main file and Boston Belle Belt Hotfix for CBBE
 ## Armor
 
 ##### [Eli's Armour Compendium](https://www.nexusmods.com/fallout4/mods/22431)
+Download and install CBBE main file
 
 ##### [The Mercenary Pack](https://www.nexusmods.com/fallout4/mods/20088)
+Download and install:
+- The Mercenary - Pack v0.9b – loose files
+- The Mercenary - Pack v0.9.c - plugin only update
+there are optional, though reportedly a bit buggy, BodySlide files available for those who
+intend to use BodySlide to custom fit armor to their characters body.
 
 ##### [West Tec Tactical Optics](https://www.nexusmods.com/fallout4/mods/12220)
+ad and install:
+- West Tek Tactical Optics v2.0.1 (minor update)Revision 2.5.0 alpha 2
+- West Tek Tactical Optics v2.0 - AWKCR
+- West Tek Tactical Optics v2.0 - Standard Leveled Lists
 
 ##### [PreWar Binoculars](https://www.nexusmods.com/fallout4/mods/17819/)
 
