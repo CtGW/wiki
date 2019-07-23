@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T23:10:33.656Z
+date: 2019-07-23T23:14:37.721Z
 tags: 
 ---
 
@@ -591,59 +591,62 @@ timestamp 09:53.
 
 ## Gameplay
 
-##### [Unbogus Fallout overhaul]()
+##### [Unbogus Fallout overhaul](https://www.nexusmods.com/fallout4/mods/26026)
 
-##### [BS Defence]()
+##### [BS Defence](https://www.nexusmods.com/fallout4/mods/20137)
 
-##### [More Attackers – Get off my Buildzone]()
+##### [More Attackers – Get off my Buildzone](https://www.nexusmods.com/fallout4/mods/27465)
 
-##### [Night Of The Creeps]()
+##### [Night Of The Creeps](https://www.nexusmods.com/fallout4/mods/23721)
 
-##### [Sleepless Nights]()
+##### [Sleepless Nights](https://www.nexusmods.com/fallout4/mods/33057)
 
-##### [Shaikujin's Better warning for settlements being attacked]()
+##### [Shaikujin's Better warning for settlements being attacked](https://www.nexusmods.com/fallout4/mods/4106)
 
-##### [Pack Attack NPC Edition - Gangs With Group Combat Tactics]()
+##### [Pack Attack NPC Edition - Gangs With Group Combat Tactics](https://www.nexusmods.com/fallout4/mods/30140)
 
-##### [H.A.R.D.Core - Fusion Generator Overhaul]()
+##### [H.A.R.D.Core - Fusion Generator Overhaul](https://www.nexusmods.com/fallout4/mods/28890/)
 
-##### [QuickTrade]()
+##### [QuickTrade](https://www.nexusmods.com/fallout4/mods/16229)
 
-##### [Auto Eat and Drink in Survival]()
+##### [Auto Eat and Drink in Survival](https://www.nexusmods.com/fallout4/mods/25408)
 
-##### [Grab and Eat All-in-One]()
+##### [Grab and Eat All-in-One](https://www.nexusmods.com/fallout4/mods/17608)
 
-##### [Read Notes from Containers and Corpses]()
+##### [Read Notes from Containers and Corpses](https://www.nexusmods.com/fallout4/mods/18077)
 
-##### [GET DIRTY (take a bath)]()
+##### [GET DIRTY (take a bath)](https://www.nexusmods.com/fallout4/mods/29171)
 
-##### [GET DIRTY (take a bath) additional effects]()
+##### [GET DIRTY (take a bath) additional effects](https://www.nexusmods.com/fallout4/mods/36880)
 
-##### [Canteens of the commonwealth]()
+##### [Canteens of the commonwealth](https://www.nexusmods.com/fallout4/mods/24493)
 
-##### [Fill'em Up Again (Dynamic Bottle Recyclation)]()
+##### [Fill'em Up Again (Dynamic Bottle Recyclation)](https://www.nexusmods.com/fallout4/mods/12674)
 
-##### [Intimidation Overhaul]()
+##### [Intimidation Overhaul](https://www.nexusmods.com/fallout4/mods/23922)
 
-##### [CriticalHitsOutsideofVATSRevisited]()
+##### [Critical Hits Outside of VATS Revisited](https://www.nexusmods.com/fallout4/mods/25583)
 
-##### [Hacking 101]()
+##### [Hacking 101](https://www.nexusmods.com/fallout4/mods/15033)
 
-##### [Salvage Robot Parts]()
+##### [Salvage Robot Parts](https://www.nexusmods.com/fallout4/mods/25355)
 
-##### [Sofa Surfer - Sleeping on Couches]()
+##### [Sofa Surfer - Sleeping on Couches](https://www.nexusmods.com/fallout4/mods/24944)
 
-##### [SKK Combat Stalkers (hostile spawns)]()
+##### [SKK Combat Stalkers (hostile spawns)](https://www.nexusmods.com/fallout4/mods/30308)
 
-##### [RSE Elements Vol.3 - Karma System feat. Bounty Hunters]()
+##### [RSE Elements Vol.3 - Karma System feat. Bounty Hunters](https://www.nexusmods.com/fallout4/mods/36020)
 
-##### [Outfit Switcher]()
+##### [Outfit Switcher](https://www.nexusmods.com/fallout4/mods/10282)
 
-##### [I Ain't Drunk (I'm Just Drinking)]()
+##### [I Ain't Drunk (I'm Just Drinking)](https://www.nexusmods.com/fallout4/mods/36888)
 
-##### [First Person Death Cam]()
+##### [First Person Death Cam](https://www.nexusmods.com/fallout4/mods/27537)
 
-##### [Survival options]()
+##### [Survival options](https://www.nexusmods.com/fallout4/mods/14650)
+SURVIVAL This is an F4SE plugin which restores some hard-coded features disabled by
+the game
+Install version 1.6.2, the version before MCM, as it reportedly works better.
 
 ## NPC and creature overhauls
 
