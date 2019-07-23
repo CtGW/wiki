@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T21:03:29.776Z
+date: 2019-07-23T22:04:18.028Z
 tags: 
 ---
 
@@ -184,33 +184,33 @@ Adjusts the eyeheight in first person if you play as a male character.
 
 ## Camera and UI
 
-##### [DEF_UI]()
+##### [DEF_UI](https://www.nexusmods.com/fallout4/mods/10654)
 
-##### [DEF_UI Iconlibs Rescaled and Fixed]()
+##### [DEF_UI Iconlibs Rescaled and Fixed](https://www.nexusmods.com/fallout4/mods/31088/)
 
-##### [Extended Dialogue Interface]()
+##### [Extended Dialogue Interface](https://www.nexusmods.com/fallout4/mods/27216)
 
-##### [HUDFramework]()
+##### [HUDFramework](https://www.nexusmods.com/fallout4/mods/20309)
 
-##### [Power Armor HoloHUD]()
+##### [Power Armor HoloHUD](https://www.nexusmods.com/fallout4/mods/29969)
 
-##### [HUD Plus Plus]()
+##### [HUD Plus Plus](https://www.nexusmods.com/fallout4/mods/27218)
 
-##### [ApeHUD]()
+##### [ApeHUD](https://www.nexusmods.com/fallout4/mods/30294)
 
-##### [Immersive HUD]()
+##### [Immersive HUD](https://www.nexusmods.com/fallout4/mods/20830)
 
-##### [Ruddy88 ́s Simple Sorter]()
+##### [Ruddy88 ́s Simple Sorter](https://www.nexusmods.com/fallout4/mods/33983)
 
-##### [Clock Widget - Show Real Time While Loading]()
+##### [Clock Widget - Show Real Time While Loading](https://www.nexusmods.com/fallout4/mods/26759)
 
-##### [Satellite Color World Map Combo]()
+##### [Satellite Color World Map Combo](https://www.nexusmods.com/fallout4/mods/9414)
 
-##### [Crafting Highlight Fix]()
+##### [Crafting Highlight Fix](https://www.nexusmods.com/fallout4/mods/27479)
 
-##### [No more hold v to enter workshop]()
+##### [No more hold v to enter workshop](https://www.nexusmods.com/fallout4/mods/19996)
 
-##### [Loading Screen Spoiler Remover]()
+##### [Loading Screen Spoiler Remover](https://www.nexusmods.com/fallout4/mods/30594)
 
 ## Settlements
 
