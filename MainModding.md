@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T22:34:26.246Z
+date: 2019-07-23T22:34:45.634Z
 tags: 
 ---
 
@@ -354,6 +354,9 @@ Creation club
 ##### [Master Plan WRA Patch](https://www.nexusmods.com/fallout4/mods/16626)
 
 ##### [Better Stores](https://danielgamache.wixsite.com/awarhero/mod-archive)
+During installation, select:
+- Extra Custom Props
+- Far Harbor patch
 
 ##### [Better Vendor Stalls](https://www.nexusmods.com/fallout4/mods/9758)
 
