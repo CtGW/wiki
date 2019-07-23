@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T22:55:36.477Z
+date: 2019-07-23T22:57:06.947Z
 tags: 
 ---
 
@@ -560,6 +560,28 @@ Gopher on YouTube. I recommend you watch the whole video, but for this step, you
 timestamp 09:53.
 
 ## Power armor
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
 
 ##### []()
 
