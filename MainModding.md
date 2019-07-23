@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T19:56:03.299Z
+date: 2019-07-23T19:59:54.417Z
 tags: 
 ---
 
@@ -40,27 +40,27 @@ So whenever there is an option, always choose the ESP file instead of the ESL fi
 
 ## Core mods
 
-##### F4SE
+##### [F4SE](https://f4se.silverlock.org/) 
 Brose install file manually and install only data folder. This way we can more easily
 determine if any of the scripts are overwritten by later mods.
 
-##### PrivateProfileRedirector F4
+##### [PrivateProfileRedirector F4](https://www.nexusmods.com/fallout4/mods/33947)
 Speeds up game start by storing INI files in memory instead of opening, parsing and closing the file
 each time some value from it is needed.
 
-##### Unofficial Fallout 4 Patch
+##### [Unofficial Fallout 4 Patch]()
 Fixes things Bethesda won ́t. Drag esp to just after esm-files.
 
-##### Mod Configuration Menu
+##### [Mod Configuration Menu]()
 
-##### Game Configuration Menu
+##### [Game Configuration Menu]()
 GCM allows you easily set many game settings, like game difficulty, skills, XP, quests etc,
 without the need of additional ESPs or console commands. Install both main file.
 
-##### Armor and Weapon Keywords Community (AWKCR)
+##### [Armor and Weapon Keywords Community (AWKCR)]()
 Make sure to ticket the CBBE patch option during the installer
 
-##### Armorsmith Extended
+##### [Armorsmith Extended]()
 Install main file
 
 ## Minor fixes
