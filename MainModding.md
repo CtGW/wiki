@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T23:04:34.692Z
+date: 2019-07-23T23:06:31.022Z
 tags: 
 ---
 
@@ -561,29 +561,29 @@ timestamp 09:53.
 
 ## Power armor
 
-##### [Enclave X-02 Power Armor]()
+##### [Enclave X-02 Power Armor](https://www.nexusmods.com/fallout4/mods/11017)
 
-##### [Hellfire X-03 Power Armor]()
+##### [Hellfire X-03 Power Armor](https://www.nexusmods.com/fallout4/mods/26251)
 
-##### [InstitutePowerArmor]()
+##### [InstitutePowerArmor](https://www.nexusmods.com/fallout4/mods/18315)
 
-##### [Tribal Power Armor]()
+##### [Tribal Power Armor](https://www.nexusmods.com/fallout4/mods/22437)
 
-##### [Standalone Construction Power Armor]()
+##### [Standalone Construction Power Armor](https://www.nexusmods.com/fallout4/mods/12096)
 
-##### [Liberty Power Armor]()
+##### [Liberty Power Armor](https://www.nexusmods.com/fallout4/mods/16305)
 
-##### [Submersible Power Armor Redux - BioShock Inspired]()
+##### [Submersible Power Armor Redux - BioShock Inspired](https://www.nexusmods.com/fallout4/mods/25591)
 
-##### [Some assembly required]()
+##### [Some assembly required](https://www.nexusmods.com/fallout4/mods/12050)
 
-##### [Some Assembly Required Patches for X-02 and X-03 Pas]()
+##### [Some Assembly Required Patches for X-02 and X-03 Pas](https://www.nexusmods.com/fallout4/mods/26739?tab=files)
 
-##### [Improved Jetpack Flight Model]()
+##### [Improved Jetpack Flight Model](https://www.nexusmods.com/fallout4/mods/34249)
 
-##### [Restore Power Armor Frames]()
+##### [Restore Power Armor Frames](https://www.nexusmods.com/fallout4/mods/20890)
 
-##### [Power Armor Impact FX]()
+##### [Power Armor Impact FX](https://www.nexusmods.com/fallout4/mods/34012)
 
 ## Weapons of lore
 
