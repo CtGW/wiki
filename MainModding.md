@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T22:23:13.504Z
+date: 2019-07-23T22:25:15.739Z
 tags: 
 ---
 
@@ -186,7 +186,43 @@ Adjusts the eyeheight in first person if you play as a male character.
 
 ##### [DEF_UI](https://www.nexusmods.com/fallout4/mods/10654)
 
+A UI better suited for PC (Hear that Bethesda?)
+install both main files in order, use same name for both during manual install and choose
+merge.
+During Installation of first file select:
+- DEF_HUD
+- DEF_INV
+- Language and Screen Ratio based on your preferences
+- Do NOT install component tags and Vanilla Hud
+- i already have sorting xml files option
+After the second file is merged, use right-click Open in Explorer and delete any Translate_%%.txt
+files in the \Interface folder. If $CREATION CLUB appears on the main menu, you've missed this
+step.
+
 ##### [DEF_UI Iconlibs Rescaled and Fixed](https://www.nexusmods.com/fallout4/mods/31088/)
+Based on Updated ICONLIBS2 for DEF_UI by omega9380. Aims to bring consistency in
+design and coloring to the icon library. Also fixes various issues with icon sizes, bounding
+boxes and scaling.
+Install the subtle color main file.
+For the colors to work, a couple of changes need to be made to fallout4custom.ini
+```
+[Pipboy]
+bPipboyDisableFX=1
+fPAEffectColorR=1
+fPAEffectColorG=1
+fPAEffectColorB=1
+
+[Interface]
+iHUDColorR=255
+iHUDColorG=255
+iHUDColorB=255
+
+[Display]
+fPipboyScreenEmitIntensityPA=1
+fPipboyScreenDiffuseIntensityPA=0
+```
+If those values are already present, override them. Otherwise just add them in the
+appropriate section.
 
 ##### [Extended Dialogue Interface](https://www.nexusmods.com/fallout4/mods/27216)
 
