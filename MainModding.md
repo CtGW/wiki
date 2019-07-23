@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T22:31:51.704Z
+date: 2019-07-23T22:33:21.388Z
 tags: 
 ---
 
@@ -293,8 +293,7 @@ them as separate mods for some reason.
 
 ##### [All Setlements Extended](https://www.nexusmods.com/fallout4/mods/25316?tab=description)
 Download and install No Bunker Hill or Hangman's Alley main version
-Allows you to lock any door or container, preventing any of those snoopy settlers to mess with your stuff.
-Install Locksmith, then the replacer Locksmith.esp provided in my files.
+
 ##### [Uncapped Settlement Surplus](https://www.nexusmods.com/fallout4/mods/12430)
 
 ##### [Faster Workshop (Workshop Lag Fix)](https://www.nexusmods.com/fallout4/mods/35382)
@@ -302,6 +301,8 @@ Install Locksmith, then the replacer Locksmith.esp provided in my files.
 ##### [Quieter settlements](https://www.nexusmods.com/fallout4/mods/2819)
 
 ##### [Locksmith](https://www.nexusmods.com/fallout4/mods/12454)
+Allows you to lock any door or container, preventing any of those snoopy settlers to mess with your stuff.
+Install Locksmith, then the replacer Locksmith.esp provided in my files.
 
 ##### [Basement Living](https://www.nexusmods.com/fallout4/mods/10967)
 
@@ -310,10 +311,15 @@ Install Locksmith, then the replacer Locksmith.esp provided in my files.
 ##### [The Master Plan](https://www.nexusmods.com/fallout4/mods/16626)
 
 ##### [Vanilla Extensions](https://www.nexusmods.com/fallout4/mods/10032)
+Improves vanilla snapping and adds a variety of highly functional blocks to the workshop menu. 
+Install main file and any update file
 
 ##### [This is MY Bed](https://www.nexusmods.com/fallout4/mods/7399)
 
 ##### [Better Cooking Stations](https://www.nexusmods.com/fallout4/mods/12104)
+Download and install:
+- main file
+- DLC patches
 
 ##### [PWR - Passive Water Resources](https://www.nexusmods.com/fallout4/mods/19871)
 
