@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-07-23T19:33:08.093Z
+date: 2019-07-23T19:33:20.920Z
 tags: 
 ---
 
@@ -124,9 +124,9 @@ Each plugin occupies a namespace, `xx`, for its load order, where a general elem
 So, in theory, any plugin can add <code>16<sup>6</sup></code> new items, though in reality the number is a bit smaller.
 
 ESLs work by sharing the `FE` namespace, so that an element in the plugin looks like `FEyyyyyy`.
-The first ESL has the plugin FormIDs as: `FE000zzz`, the second ESL has FormIDs as: `FE001zzz`
+The first ESL has the plugin FormIDs as: `FE000zzz`, the second ESL has FormIDs as: `FE001zzz`, so on and so forth.
 
-So in theory, you cannot have more than <code>16<sup>3</sup></code> ESL plugins in your modlist, each of which can only introduce another <code>16<sup>3</sup></code> new items/
+So in theory, you cannot have more than <code>16<sup>3</sup></code> ESL plugins in your modlist, each of which can only introduce another <code>16<sup>3</sup></code> new items/elements.
 
 ### ESL vs ESP
 If you use an ESP marked as an ESL in FO4Edit, the plugin respects your load order, while if you use an ESL, the bethesda engine loads it in the ESM space.
