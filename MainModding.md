@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T19:39:48.645Z
+date: 2019-07-23T19:41:39.955Z
 tags: 
 ---
 
@@ -33,6 +33,8 @@ So in theory, you cannot have more than <code>16<sup>3</sup></code> ESL plugins 
 This means that they are loaded before the other files and they can mess up your load order.
 
 On the other hand, if you use an .esp marked as an ESL in FO4Edit, the plugin respects your load order.
+
+So whenever there is an option, always choose the ESP file instead of the ESL file and then you can decide if you want to make it into and ESL or not.
 
 
 ---
