@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T22:30:55.691Z
+date: 2019-07-23T22:31:51.704Z
 tags: 
 ---
 
@@ -292,7 +292,9 @@ them as separate mods for some reason.
 ##### [Workshop Plus](https://www.nexusmods.com/fallout4/mods/35005)
 
 ##### [All Setlements Extended](https://www.nexusmods.com/fallout4/mods/25316?tab=description)
-
+Download and install No Bunker Hill or Hangman's Alley main version
+Allows you to lock any door or container, preventing any of those snoopy settlers to mess with your stuff.
+Install Locksmith, then the replacer Locksmith.esp provided in my files.
 ##### [Uncapped Settlement Surplus](https://www.nexusmods.com/fallout4/mods/12430)
 
 ##### [Faster Workshop (Workshop Lag Fix)](https://www.nexusmods.com/fallout4/mods/35382)
