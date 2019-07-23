@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-07-23T19:29:13.662Z
+date: 2019-07-23T19:30:00.341Z
 tags: 
 ---
 
@@ -110,6 +110,10 @@ FO4Edit is smart and will save a backup of said ESM files in it´s overwrite fol
 ## Choosing ESLs
 
 **TLDR**: When given a choice of choosing an ESP or an ESL you should always download the ESP and then manually mark it as an ESL in FO4Edit.
+
+For an in-depth understanding: https://www.afkmods.com/index.php?/topic/5079-plugin-files-and-you-esmeslesp/
+
+We outline a small summary:
 
 ### How ESLs work
 
