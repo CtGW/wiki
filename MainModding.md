@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T22:30:31.556Z
+date: 2019-07-23T22:30:44.414Z
 tags: 
 ---
 
@@ -273,7 +273,9 @@ value of iEnable24HourClock=1 to 0.
 
 ##### [Satellite Color World Map Combo](https://www.nexusmods.com/fallout4/mods/9414)
 During installer choose:
+
 - No Special
+
 Also install maps for Nuka-World and Far harbor and Zoom-out Extended (half-sized
 markers) and make sure to merge them with the main mod. I had issues when installing
 them as separate mods for some reason.
