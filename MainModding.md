@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T20:17:24.034Z
+date: 2019-07-23T20:27:13.278Z
 tags: 
 ---
 
@@ -81,7 +81,54 @@ Disabled Mouse Acceleration, Horizontal/Vertical Parity, Scalable ADS Multiplier
 
 ##### [Eye Normal Map Fix](https://www.nexusmods.com/fallout4/mods/819)
 
+##### [Far Harbor Doctor Dialogue Fix](https://www.nexusmods.com/fallout4/mods/16274)
+
+##### [Search and Destroy Fixed](https://www.nexusmods.com/fallout4/mods/33127)
+
+##### [Lever Action Reload Fix](https://www.nexusmods.com/fallout4/mods/22896)
+
+##### [Overboss Power Armor headlamp fix](https://www.nexusmods.com/fallout4/mods/19295)
+
+##### [Mechanist's Lair - expanded corrected and fixed](https://www.nexusmods.com/fallout4/mods/11490)
+
+##### [Perception Bug Fix](https://www.nexusmods.com/fallout4/mods/35376)
+
+##### [Protectron Subway Steward (fix)](https://www.nexusmods.com/fallout4/mods/22022)
+
+##### [Alex's Male First Person Camera Height Fix](https://www.nexusmods.com/fallout4/mods/27582)
+
+##### [Vault 111 Floor Guide Fix](https://www.nexusmods.com/fallout4/mods/28167)
+
+##### [Starlight Drive In LOD Fix with ESL](https://www.nexusmods.com/fallout4/mods/23034)
+
+##### [NukaWorld Transit Center LOD Fix with ESL](https://www.nexusmods.com/fallout4/mods/30925)
+
+##### [Vault111 And Billboard LOD Fix](https://www.nexusmods.com/fallout4/mods/36288)
+
+##### [Sanctuary Bridge LOD Fix]()
+
 ##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
 
 ## Misc tweaks
 
