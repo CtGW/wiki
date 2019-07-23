@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T19:59:54.417Z
+date: 2019-07-23T20:01:03.456Z
 tags: 
 ---
 
@@ -48,19 +48,19 @@ determine if any of the scripts are overwritten by later mods.
 Speeds up game start by storing INI files in memory instead of opening, parsing and closing the file
 each time some value from it is needed.
 
-##### [Unofficial Fallout 4 Patch]()
+##### [Unofficial Fallout 4 Patch](https://www.nexusmods.com/fallout4/mods/4598)
 Fixes things Bethesda won ́t. Drag esp to just after esm-files.
 
-##### [Mod Configuration Menu]()
+##### [Mod Configuration Menu](https://www.nexusmods.com/fallout4/mods/21497)
 
-##### [Game Configuration Menu]()
+##### [Game Configuration Menu](https://www.nexusmods.com/fallout4/mods/33759)
 GCM allows you easily set many game settings, like game difficulty, skills, XP, quests etc,
 without the need of additional ESPs or console commands. Install both main file.
 
-##### [Armor and Weapon Keywords Community (AWKCR)]()
+##### [Armor and Weapon Keywords Community (AWKCR)](https://www.nexusmods.com/fallout4/mods/6091)
 Make sure to ticket the CBBE patch option during the installer
 
-##### [Armorsmith Extended]()
+##### [Armorsmith Extended](https://www.nexusmods.com/fallout4/mods/2228)
 Install main file
 
 ## Minor fixes
