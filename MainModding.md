@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T22:46:51.837Z
+date: 2019-07-23T22:51:01.630Z
 tags: 
 ---
 
@@ -502,7 +502,35 @@ Install main file and Boston Belle Belt Hotfix for CBBE
 
 ## Armor
 
-##### []()
+##### [Eli's Armour Compendium](https://www.nexusmods.com/fallout4/mods/22431)
+
+##### [The Mercenary Pack](https://www.nexusmods.com/fallout4/mods/20088)
+
+##### [West Tec Tactical Optics](https://www.nexusmods.com/fallout4/mods/12220)
+
+##### [PreWar Binoculars](https://www.nexusmods.com/fallout4/mods/17819/)
+
+##### [Crimsomrider's Accessories](https://www.nexusmods.com/fallout4/mods/19563)
+
+##### [Tactical Flashlights](https://www.nexusmods.com/fallout4/mods/16172)
+
+##### [K-9 harness](https://www.nexusmods.com/fallout4/mods/17686)
+
+##### [CROSS Pre-War Cybernetics](https://www.nexusmods.com/fallout4/mods/8609)
+
+##### [CROSS Institute Tech Mask](https://www.nexusmods.com/fallout4/mods/11881)
+
+##### [CROSS Brotherhood Recon](https://www.nexusmods.com/fallout4/mods/27418)
+
+##### [CROSS Chosen of Atom](https://www.nexusmods.com/fallout4/mods/37820)
+
+##### [CROSS Courser Strigidae](https://www.nexusmods.com/fallout4/mods/28009)
+
+##### [CROSS Institute Expeditionary suit](https://www.nexusmods.com/fallout4/mods/30857)
+
+##### [CROSS Mojave manhunter](https://www.nexusmods.com/fallout4/mods/32214)
+
+##### [Wearable Backpacks and Pouches](https://www.nexusmods.com/fallout4/mods/3258)
 
 ## Power armor
 
