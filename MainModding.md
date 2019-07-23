@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T23:24:17.088Z
+date: 2019-07-23T23:26:43.658Z
 tags: 
 ---
 
@@ -706,33 +706,31 @@ Install version 1.6.2, the version before MCM, as it reportedly works better.
 Install any of the two mian files (they ́re identical), and the 2.1 update
 FOMOD instructions:
 Core
-•
-•
-Unique Npcs Core.esp
-I read this if you don ́t use the HD DLC (which you shouldn ́t anyway)
+- Unique Npcs Core.esp
+- I read this if you don ́t use the HD DLC (which you shouldn ́t anyway)
 Better Settlers and it ́s patches
-• Better Settlers - No LollyGagging
-• Mortal Pack
-• No Patch - Standard Mix
+- Better Settlers - No LollyGagging
+- Mortal Pack
+- No Patch - Standard Mix
 No Patch - Standard Armor Mix
 Better Settlers - Elis armour compendium - AE
 No patches
 Special Settlers
-• No special settlers
+- No special settlers
 Minutemen options
-• Militarized Minutemen
-• Far West Minutemen
-• WATM 5.x enhanced
-• none (we are the far west minutemen merged)
-• UniqueNPCs_WATMM_FarWest_MilitarizedMinuetmen.esp
+- Militarized Minutemen
+- Far West Minutemen
+- WATM 5.x enhanced
+- none (we are the far west minutemen merged)
+- UniqueNPCs_WATMM_FarWest_MilitarizedMinuetmen.esp
 Gunner options
-• No patches
+- No patches
 3rd party patches and final otpions
-• Standard mortality
-• Diamond city expansion
-• No settlement patches
-• Unique NPCs_AE_SuperMutantRedux
-• Looks Menu Customization Compendium Replacer
+- Standard mortality
+- Diamond city expansion
+- No settlement patches
+- Unique NPCs_AE_SuperMutantRedux
+- Looks Menu Customization Compendium Replacer
 If the FOMOD installer doesn ́t let you install the DCE patch, then I ́ve added the patch to
 the CtGW R2 archive. Install separately or merge with Unique NPCs doesn ́t matter as long
 as it ́s place after it.
