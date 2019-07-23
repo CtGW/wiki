@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-07-23T19:37:21.665Z
+date: 2019-07-23T19:37:39.635Z
 tags: 
 ---
 
@@ -107,7 +107,7 @@ FO4Edit is smart and will save a backup of said ESM files in it´s overwrite fol
 
 ## Texture overhaul (from BiRaitBec)
 
-## Choosing ESLs
+## Choosing ESL or not
 
 **TLDR**: When given a choice of choosing an ESP or an ESL you should always download the ESP and then manually mark it as an ESL in FO4Edit.
 
