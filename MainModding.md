@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T23:41:02.185Z
+date: 2019-07-23T23:41:20.070Z
 tags: 
 ---
 
@@ -871,6 +871,7 @@ friendly face and background.
 ## Animations
 
 ##### [Laser weapons 1st person reposition](https://www.nexusmods.com/fallout4/mods/23102)
+Install Institute and standard lasers main file
 
 ##### [Automatically Lowered Weapons](https://www.nexusmods.com/fallout4/mods/20093)
 
