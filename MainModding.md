@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T23:28:28.516Z
+date: 2019-07-23T23:28:45.863Z
 tags: 
 ---
 
@@ -689,12 +689,17 @@ Install version 1.6.2, the version before MCM, as it reportedly works better.
 ##### [Feral Ghouls After Dark]()
 
 ##### [Super Mutant Redux]()
+Reworks the super mutant faction including Behemoths, FEV Hounds, and of course, Super
+Mutants.
+Install Super Mutant Redux and any updates. During installer select Armorsmith patch
 
 ##### [We are the minutemen]()
 
 ##### [Far West Minutemen]()
 
 ##### [Militarized Minutemen]()
+During installer:
+• WATM compatibility
 
 ##### [Synth Overhaul – C.A.S.T]()
 This mods overhauls all the Synths by giving them 70 new armor sets, 77 helmets, 42
