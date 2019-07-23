@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T23:06:31.022Z
+date: 2019-07-23T23:10:33.656Z
 tags: 
 ---
 
@@ -591,7 +591,59 @@ timestamp 09:53.
 
 ## Gameplay
 
-##### []()
+##### [Unbogus Fallout overhaul]()
+
+##### [BS Defence]()
+
+##### [More Attackers – Get off my Buildzone]()
+
+##### [Night Of The Creeps]()
+
+##### [Sleepless Nights]()
+
+##### [Shaikujin's Better warning for settlements being attacked]()
+
+##### [Pack Attack NPC Edition - Gangs With Group Combat Tactics]()
+
+##### [H.A.R.D.Core - Fusion Generator Overhaul]()
+
+##### [QuickTrade]()
+
+##### [Auto Eat and Drink in Survival]()
+
+##### [Grab and Eat All-in-One]()
+
+##### [Read Notes from Containers and Corpses]()
+
+##### [GET DIRTY (take a bath)]()
+
+##### [GET DIRTY (take a bath) additional effects]()
+
+##### [Canteens of the commonwealth]()
+
+##### [Fill'em Up Again (Dynamic Bottle Recyclation)]()
+
+##### [Intimidation Overhaul]()
+
+##### [CriticalHitsOutsideofVATSRevisited]()
+
+##### [Hacking 101]()
+
+##### [Salvage Robot Parts]()
+
+##### [Sofa Surfer - Sleeping on Couches]()
+
+##### [SKK Combat Stalkers (hostile spawns)]()
+
+##### [RSE Elements Vol.3 - Karma System feat. Bounty Hunters]()
+
+##### [Outfit Switcher]()
+
+##### [I Ain't Drunk (I'm Just Drinking)]()
+
+##### [First Person Death Cam]()
+
+##### [Survival options]()
 
 ## NPC and creature overhauls
 
