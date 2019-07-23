@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T23:40:30.890Z
+date: 2019-07-23T23:41:02.185Z
 tags: 
 ---
 
@@ -870,15 +870,15 @@ friendly face and background.
 
 ## Animations
 
-##### [Laser weapons 1st person reposition]()
+##### [Laser weapons 1st person reposition](https://www.nexusmods.com/fallout4/mods/23102)
 
-##### [Automatically Lowered Weapons]()
+##### [Automatically Lowered Weapons](https://www.nexusmods.com/fallout4/mods/20093)
 
-##### [New Alternative Animations]()
+##### [New Alternative Animations](https://www.nexusmods.com/fallout4/mods/29857)
 
-##### [Stay Focused Son]()
+##### [Stay Focused Son](https://www.nexusmods.com/fallout4/mods/18619)
 
-##### [Power Armor Animation Changes]()
+##### [Power Armor Animation Changes](https://www.nexusmods.com/fallout4/mods/4408)
 
 ## Vanilla location overhauls
 
