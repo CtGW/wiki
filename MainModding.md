@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T20:05:31.901Z
+date: 2019-07-23T20:06:45.636Z
 tags: 
 ---
 
@@ -73,11 +73,11 @@ Uses F4SE to re-enable achievements while mods are active
 ##### [RAW INPUT - The Ultimate Mouse Sensitivity Fix](https://www.nexusmods.com/fallout4/mods/27019)
 Disabled Mouse Acceleration, Horizontal/Vertical Parity, Scalable ADS Multiplier, Normalized Sensitivity
 
-##### []()
+##### [Simple Trashcan fix](https://www.nexusmods.com/fallout4/mods/14707/)
 
-##### []()
+##### [Wetness shader fix](https://www.nexusmods.com/fallout4/mods/23389)
 
-##### []()
+##### [Eye Normal Map Fix](https://www.nexusmods.com/fallout4/mods/819)
 
 ## Misc tweaks
 
