@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T22:41:52.586Z
+date: 2019-07-23T22:45:41.183Z
 tags: 
 ---
 
@@ -479,7 +479,23 @@ erotic fantasy art characters for CBBE/BodySlide. With variations it is ~90 pres
 
 ## Clothing
 
-##### []()
+##### [Modular Road Leathers]()
+
+##### [Commonwealth Shorts – CBBE]()
+
+##### [Shade Girl Leather Outfits – CBBE]()
+
+##### [Raider Themed Mashups]()
+
+##### [Badlands Mashups]()
+
+##### [Commonwealth Mashups]()
+
+##### [Wasteland Mashups]()
+
+##### [Irradiated Raiments]()
+
+##### [Spiff's Wasteland Clothing Pack]()
 
 ## Armor
 
