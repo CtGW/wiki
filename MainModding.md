@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T22:19:33.708Z
+date: 2019-07-23T22:21:34.033Z
 tags: 
 ---
 
@@ -306,19 +306,21 @@ Adjusts the eyeheight in first person if you play as a male character.
 
 ## Cosmetic overhauls
 
-##### []()
+##### [BodySlide and Outfit Studio]()
 
-##### []()
+##### [LooksMenu]()
 
-##### []()
+##### [Looksmenu Customization Compendium]()
 
-##### []()
+##### [LooksMenu Body Tattoos]()
 
-##### []()
+##### [FSM Body Textures]()
 
-##### []()
+##### [Picturesque Presets]()
 
-##### []()
+##### [Caliente's Beautiful Bodies Enhancer -CBBE-]()
+
+##### [Malestra's CBBE BodySlide Preset Collection]()
 
 
 ## Clothing
