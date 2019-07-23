@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T23:29:35.048Z
+date: 2019-07-23T23:30:08.453Z
 tags: 
 ---
 
@@ -677,8 +677,11 @@ Install version 1.6.2, the version before MCM, as it reportedly works better.
 ## NPC and creature overhauls
 
 ##### [Raider Overhaul]()
+Install Raider Overhaul WIP 11.4c optional file only, then install AE replacer Raider
+Overhaul 11.4c from the Armorsmith Extended files.
 
 ##### [D.E.C.A.Y – Better Ghouls]()
+Install main file only
 
 ##### [Deadlier Deathclaws]()
 
