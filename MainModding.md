@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T22:25:15.739Z
+date: 2019-07-23T22:27:54.517Z
 tags: 
 ---
 
@@ -225,14 +225,24 @@ If those values are already present, override them. Otherwise just add them in t
 appropriate section.
 
 ##### [Extended Dialogue Interface](https://www.nexusmods.com/fallout4/mods/27216)
+Displays full dialogue, and adds engine support for any number of player dialogue options.
+Contains and ESM, which MO2 won ́t automatically put in the correct place. Drag manually
+up in the right pane to the other ESMs.
 
 ##### [HUDFramework](https://www.nexusmods.com/fallout4/mods/20309)
+a UI framework that makes it possible for mods to add new UI elements to the HUD
+Install main file only
 
 ##### [Power Armor HoloHUD](https://www.nexusmods.com/fallout4/mods/29969)
+A slicker Powerarmor HUD.
 
 ##### [HUD Plus Plus](https://www.nexusmods.com/fallout4/mods/27218)
 
 ##### [ApeHUD](https://www.nexusmods.com/fallout4/mods/30294)
+In CtGW main archive there are two version:
+- standard – some UI elements removed and the rest resized and move towards the
+edge of the screen
+- lean – same as above but also compass, enemy health and notifications turned off
 
 ##### [Immersive HUD](https://www.nexusmods.com/fallout4/mods/20830)
 
