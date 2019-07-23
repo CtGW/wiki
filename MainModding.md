@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T22:45:41.183Z
+date: 2019-07-23T22:46:51.837Z
 tags: 
 ---
 
@@ -479,23 +479,26 @@ erotic fantasy art characters for CBBE/BodySlide. With variations it is ~90 pres
 
 ## Clothing
 
-##### [Modular Road Leathers]()
+##### [Modular Road Leathers](https://www.nexusmods.com/fallout4/mods/29779)
 
-##### [Commonwealth Shorts – CBBE]()
+##### [Commonwealth Shorts – CBBE](https://www.nexusmods.com/fallout4/mods/7898)
+Install CBBE main file an the tight armors optional file, then install bodyslide from here.
 
-##### [Shade Girl Leather Outfits – CBBE]()
+##### [Shade Girl Leather Outfits – CBBE](https://www.nexusmods.com/fallout4/mods/32547)
+Install main file and bodyslide hotfix file
 
-##### [Raider Themed Mashups]()
+##### [Raider Themed Mashups](https://www.nexusmods.com/fallout4/mods/29503)
 
-##### [Badlands Mashups]()
+##### [Badlands Mashups](https://www.nexusmods.com/fallout4/mods/30013)
 
-##### [Commonwealth Mashups]()
+##### [Commonwealth Mashups](https://www.nexusmods.com/fallout4/mods/27776)
 
-##### [Wasteland Mashups]()
+##### [Wasteland Mashups](https://www.nexusmods.com/fallout4/mods/28099?tab=files)
 
-##### [Irradiated Raiments]()
+##### [Irradiated Raiments](https://www.nexusmods.com/fallout4/mods/34193)
+Install main file and Boston Belle Belt Hotfix for CBBE
 
-##### [Spiff's Wasteland Clothing Pack]()
+##### [Spiff's Wasteland Clothing Pack](https://www.nexusmods.com/fallout4/mods/31129)
 
 ## Armor
 
