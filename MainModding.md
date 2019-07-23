@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T22:37:07.766Z
+date: 2019-07-23T22:37:48.880Z
 tags: 
 ---
 
@@ -411,6 +411,14 @@ is what is triggered when you swim in the Get Dirty mod, for example).
 ##### [Settlement Menu Manager](https://www.nexusmods.com/fallout4/mods/24204)
 
 ##### [Sim Settlements](https://www.nexusmods.com/fallout4/mods/21872)
+Install 3 in 1 version
+Allows you to build zone objects that tell the settlers what type of buildings to create in
+different areas of your settlement and they will do so. Includes a progression system, a more
+interesting settler needs system, and rewards to help settlements matter more. This mod aims
+to completely change the way you think about settlements. You'll now be able to create
+detailed, living places with minimal effort.
+The ultimate goal: making every settlement a unique and awesome looking Fallout city, with
+perks and rewards that help you at every stage of the game.
 
 ##### [Sim Settlements Mega Pack - Year One](https://www.nexusmods.com/fallout4/mods/30396)
 
@@ -421,6 +429,10 @@ is what is triggered when you swim in the Get Dirty mod, for example).
 ##### [Sim Settlements Conqueror Faction Pack - The Forsaken Vaulters](https://www.nexusmods.com/fallout4/mods/38425)
 
 ##### [Sim Settlements - Building Plan Preview](https://www.nexusmods.com/fallout4/mods/26004)
+Download and install Newest main file, and the Mega pack – year one file.
+Apart from the Sim Settlement add-ons we ́ve already installed, this mod also covers
+Wasteland Venturers v7.1.1+, Always Free Sim Settlements MrJoseCuervo v1.3.2+ ,
+Industrial City v0.9.0+, Junk Town by uituit v9+
 
 ##### [Sim Settlements - IDEK's Logistics Station](https://www.nexusmods.com/fallout4/mods/28945)
 
