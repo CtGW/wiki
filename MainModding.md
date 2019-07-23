@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T22:57:06.947Z
+date: 2019-07-23T23:04:34.692Z
 tags: 
 ---
 
@@ -561,29 +561,29 @@ timestamp 09:53.
 
 ## Power armor
 
-##### []()
+##### [Enclave X-02 Power Armor]()
 
-##### []()
+##### [Hellfire X-03 Power Armor]()
 
-##### []()
+##### [InstitutePowerArmor]()
 
-##### []()
+##### [Tribal Power Armor]()
 
-##### []()
+##### [Standalone Construction Power Armor]()
 
-##### []()
+##### [Liberty Power Armor]()
 
-##### []()
+##### [Submersible Power Armor Redux - BioShock Inspired]()
 
-##### []()
+##### [Some assembly required]()
 
-##### []()
+##### [Some Assembly Required Patches for X-02 and X-03 Pas]()
 
-##### []()
+##### [Improved Jetpack Flight Model]()
 
-##### []()
+##### [Restore Power Armor Frames]()
 
-##### []()
+##### [Power Armor Impact FX]()
 
 ## Weapons of lore
 
