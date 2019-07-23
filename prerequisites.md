@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-07-23T19:22:11.053Z
+date: 2019-07-23T19:29:13.662Z
 tags: 
 ---
 
@@ -116,7 +116,7 @@ FO4Edit is smart and will save a backup of said ESM files in it´s overwrite fol
 Firstly, lets remember that the Bethesda engine allows loading 255 plugins in total.
 Each plugin occupies a namespace, `xx`, for its load order, where a general element is represented by: `xx123456`
 
-So, in theory, any plugin can add `16^6^` new items.
+So, in theory, any plugin can add <code>16<sup>6</sup></code> new items.
 
 ESLs work by sharing the `FE` namespace, so that an element in the plugin looks like `FEyyyyyy`.
 The first ESL has the plugin FormIDs as: `FE00zzzz`, the second ESL has FormIDs as: `FE01zzzz`
@@ -124,3 +124,5 @@ The first ESL has the plugin FormIDs as: `FE00zzzz`, the second ESL has FormIDs 
 So in theory, you cannot have more than 256 ESL plugins in your modlist.
 
 ### ESL vs ESP
+If you use an ESP marked as an ESL in FO4Edit, the plugin respects your load order, while if you use an ESL, the bethesda engine loads it in the ESM space.
+ESL plugins are loaded
