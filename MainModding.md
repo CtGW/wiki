@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T23:34:07.570Z
+date: 2019-07-23T23:36:36.425Z
 tags: 
 ---
 
@@ -826,7 +826,21 @@ ESP version
 
 ## Companion overhauls
 
-##### []()
+##### [Valentine REBORN](https://www.nexusmods.com/fallout4/mods/9568)
+
+##### [Valentine Noir](https://www.nexusmods.com/fallout4/mods/7551)
+
+##### [Live Action Mr. Handy](https://www.nexusmods.com/fallout4/mods/9571)
+Adds spotlights to Codsworth and all Handy models eyes including Gutsy and Nanny.
+Spotlights also included in all Automatron eyes added in the Robot Workbench under Handy
+Torso.
+Install Live Action Handy - With Iris and GlowMap – Repack version
+
+##### [Cait's Corset – Tailored](https://www.nexusmods.com/fallout4/mods/27939)
+
+##### [Just another Piper Outfit](https://www.nexusmods.com/fallout4/mods/21114)
+
+##### [CIO - Companion Inventory Overhaul](https://www.nexusmods.com/fallout4/mods/34977)
 
 ## New companions
 
