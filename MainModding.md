@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T23:41:20.070Z
+date: 2019-07-23T23:46:45.218Z
 tags: 
 ---
 
@@ -876,6 +876,7 @@ Install Institute and standard lasers main file
 ##### [Automatically Lowered Weapons](https://www.nexusmods.com/fallout4/mods/20093)
 
 ##### [New Alternative Animations](https://www.nexusmods.com/fallout4/mods/29857)
+Download and install one big pile of animations optional file
 
 ##### [Stay Focused Son](https://www.nexusmods.com/fallout4/mods/18619)
 
@@ -883,7 +884,32 @@ Install Institute and standard lasers main file
 
 ## Vanilla location overhauls
 
-##### []()
+##### [Better Goodneighbor](https://www.nexusmods.com/fallout4/mods/16594/)
+Download and install main file, update and cleaned esp
+
+##### [Better The Third Rail](https://www.nexusmods.com/fallout4/mods/15388/)
+Download and install main file, update and cleaned esp
+
+##### [Better Atom Cats Garage](https://www.nexusmods.com/fallout4/mods/14764/)
+Download and install main file and cleaned esp
+
+##### [Vault 88 - Your Vault Your Way - Build Ready](https://www.nexusmods.com/fallout4/mods/35076)
+
+##### [A sensible Prydwen overhaul](https://www.nexusmods.com/fallout4/mods/24198/)
+
+##### [Introducing – Radium-Inc](https://www.nexusmods.com/fallout4/mods/32175)
+
+##### [The Lost Building of Atlantic](https://www.nexusmods.com/fallout4/mods/25401)
+
+##### [Sanctuary Hills - Root Cellar Remade](https://www.nexusmods.com/fallout4/mods/24791)
+
+##### [Virgils LABORATORY - Evil Lab Overhaul](https://www.nexusmods.com/fallout4/mods/29540)
+
+##### [Aloot's Home Plate](https://www.nexusmods.com/fallout4/mods/15300/)
+
+##### [Hotel Rexford](https://www.nexusmods.com/fallout4/mods/36458)
+
+##### [Better Robotics Disposal](https://www.nexusmods.com/fallout4/mods/36077)
 
 ## New quests and locations
 
