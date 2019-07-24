@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-24T00:20:35.147Z
+date: 2019-07-24T00:22:17.691Z
 tags: 
 ---
 
@@ -1072,15 +1072,15 @@ Diamond City Plus.
 
 ## Rounding up
 
-##### []()
+##### [Universal Patch Installer](https://www.nexusmods.com/fallout4/mods/34825)
 
-##### []()
+##### [Ruse VIS-G and AE Patches](https://www.nexusmods.com/fallout4/mods/33480)
 
-##### []()
+##### [Resh's GNARLY Unbogus Fallout Overhaul Patches - VIS-G - AE – UNPCs](https://www.nexusmods.com/fallout4/mods/35532?tab=files)
 
-##### []()
+##### [We Are The Minutemen - VIS-G - Armorsmith Extended Patch](https://www.nexusmods.com/fallout4/mods/18744?)
 
-##### []()
+##### [CtGW Community patches](https://www.nexusmods.com/fallout4/mods/30294)
 
 ## Dead last (conflict resolutions)
 
