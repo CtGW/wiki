@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-24T19:09:39.824Z
+date: 2019-07-24T19:16:08.973Z
 tags: 
 ---
 
@@ -47,27 +47,30 @@ So whenever there is an option, always choose the ESP file instead of the ESL fi
 ## Core mods
 
 ##### [F4SE](https://f4se.silverlock.org/) 
-Brose install file manually and install only data folder. This way we can more easily
-determine if any of the scripts are overwritten by later mods.
+Install manually by selecting data folder.
+
+> This way we can more easily determine if any of the scripts are overwritten by later mods.
+{.is-success}
+
 
 ##### [PrivateProfileRedirector F4](https://www.nexusmods.com/fallout4/mods/33947)
-Speeds up game start by storing INI files in memory instead of opening, parsing and closing the file
-each time some value from it is needed.
+Speeds up game start by storing INI files in memory instead of opening, parsing and closing the file each time some value from it is needed.
 
 ##### [Unofficial Fallout 4 Patch](https://www.nexusmods.com/fallout4/mods/4598)
-Fixes things Bethesda won ́t. Drag esp to just after esm-files.
+A comprehensive bugfixing mod for Fallout 4. The goal of the Unofficial Fallout 4 Patch (aka UFO4P) is to eventually fix every bug with Fallout 4 not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package. 
 
 ##### [Mod Configuration Menu](https://www.nexusmods.com/fallout4/mods/21497)
-
+The Mod Configuration Menu is a settings page for mods! It provides a central location for mod configuration, accessible via the Pause menu. 
+ 
 ##### [Game Configuration Menu](https://www.nexusmods.com/fallout4/mods/33759)
-GCM allows you easily set many game settings, like game difficulty, skills, XP, quests etc,
-without the need of additional ESPs or console commands. Install both main file.
+GCM allows you easily set many game settings without the need of additional ESPs or console commands. 
+ 
 
 ##### [Armor and Weapon Keywords Community (AWKCR)](https://www.nexusmods.com/fallout4/mods/6091)
-Make sure to ticket the CBBE patch option during the installer
-
+ This is a master file to create a standardize framework for armor so that modders can create and modify armor (like Armorsmith) while making edits compatible with mods that adjust dynamic item naming (like Valdacil's Item Sorting).
+ 
 ##### [Armorsmith Extended](https://www.nexusmods.com/fallout4/mods/2228)
-Install main file
+This mod does so much awesome stuff that the description doesn't come anywhere close to fitting here. 
 
 ## Minor fixes
 
