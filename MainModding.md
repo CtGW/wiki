@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-24T21:22:15.351Z
+date: 2019-07-24T21:38:27.160Z
 tags: 
 ---
 
@@ -43,10 +43,16 @@ So whenever there is an option, always choose the ESP file instead of the ESL fi
 
 ---
 
+## Mod outline
+
+##### Mod name *version*
+<span style="background-color:red; padding:3px;"><font color="white"> Clean </font></span> <span style="background-color:cyan; padding:3px;"><font color="black"> Optional </font></span> <span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> <span style="background-color:grey; padding:3px;"><font color="white"> Extracted </font></span> <span style="background-color:yellow; padding:3px;"><font color="black"> ESL </font></span> <span style="background-color:violet; padding:3px;"><font color="black"> HD-HQ </font></span>
+
+
 ## Core mods
 
 ##### [F4SE](https://f4se.silverlock.org/) *v0.6.17*
-Install only the scripts, by selecting manual install and selecting data folder.
+Install only the scripts, by doing a manual install in MO2 and selecting data folder.
 
 > This way we can more easily determine if any of the scripts are overwritten by later mods.
 {.is-success}
