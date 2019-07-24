@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-24T00:10:08.480Z
+date: 2019-07-24T00:18:46.764Z
 tags: 
 ---
 
@@ -1020,27 +1020,27 @@ The ability for the player to fight for caps
 
 ## Late loaders
 
-##### []()
+##### [No combat boundaries](https://www.nexusmods.com/fallout4/mods/6752)
 
-##### []()
+##### [More Attackers – Get off my Buildzone + Unique NPCs – C and M patch](https://www.nexusmods.com/fallout4/mods/27465)
 
-##### []()
+##### [Better Companions](https://www.nexusmods.com/fallout4/mods/18547/)
 
-##### []()
+##### [Amazing Follower Tweaks](https://www.nexusmods.com/fallout4/mods/26976)
 
-##### []()
+##### [Comic Collector](https://www.nexusmods.com/fallout4/mods/18564)
 
-##### []()
+##### [Load Screen Art](https://www.nexusmods.com/fallout4/mods/35361)
 
-##### []()
+##### [Immersive Drumlin Diner](https://www.nexusmods.com/fallout4/mods/18995/)
 
-##### []()
+##### [Fallout 4 Revisited - Sanctuary - Safe Haven](https://www.nexusmods.com/fallout4/mods/26679)
 
-##### []()
+##### [AWARHERO's Great Green Jewel](https://danielgamache.wixsite.com/awarhero/diamond-city-the-great-green-jewel)
 
-##### []()
+##### [Diamond City Auto Close Gate](https://www.nexusmods.com/fallout4/mods/12928)
 
-##### []()
+##### [Insignificant Object Remover](https://www.nexusmods.com/fallout4/mods/9835)
 
 ## Rounding up
 
