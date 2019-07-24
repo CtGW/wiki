@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-24T00:07:34.071Z
+date: 2019-07-24T00:10:08.480Z
 tags: 
 ---
 
@@ -1022,10 +1022,57 @@ The ability for the player to fight for caps
 
 ##### []()
 
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
 ## Rounding up
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
 
 ##### []()
 
 ## Dead last (conflict resolutions)
 
 ##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
