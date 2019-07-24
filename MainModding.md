@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-24T20:11:44.110Z
+date: 2019-07-24T20:21:20.858Z
 tags: 
 ---
 
@@ -46,30 +46,30 @@ So whenever there is an option, always choose the ESP file instead of the ESL fi
 
 ## Core mods
 
-##### [F4SE](https://f4se.silverlock.org/) 
+##### [F4SE](https://f4se.silverlock.org/) *v0.6.17*
 Install only the scripts, by selecting manual install and selecting data folder.
 
 > This way we can more easily determine if any of the scripts are overwritten by later mods.
 {.is-success}
 
 
-##### [PrivateProfileRedirector F4](https://www.nexusmods.com/fallout4/mods/33947)
+##### [PrivateProfileRedirector F4](https://www.nexusmods.com/fallout4/mods/33947) *v0.4*
 Speeds up game start by storing INI files in memory instead of opening, parsing and closing the file each time some value from it is needed.
 
-##### [Unofficial Fallout 4 Patch](https://www.nexusmods.com/fallout4/mods/4598)
+##### [Unofficial Fallout 4 Patch](https://www.nexusmods.com/fallout4/mods/4598) *v2.0.7*
 A comprehensive bugfixing mod for Fallout 4. The goal of the Unofficial Fallout 4 Patch (aka UFO4P) is to eventually fix every bug with Fallout 4 not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package. 
 
-##### [Mod Configuration Menu](https://www.nexusmods.com/fallout4/mods/21497)
+##### [Mod Configuration Menu](https://www.nexusmods.com/fallout4/mods/21497) *v1.37*
 The Mod Configuration Menu is a settings page for mods! It provides a central location for mod configuration, accessible via the Pause menu. 
  
-##### [Game Configuration Menu](https://www.nexusmods.com/fallout4/mods/33759)
+##### [Game Configuration Menu](https://www.nexusmods.com/fallout4/mods/33759) *v0.6*
 GCM allows you easily set many game settings without the need of additional ESPs or console commands. 
  
 
-##### [Armor and Weapon Keywords Community (AWKCR)](https://www.nexusmods.com/fallout4/mods/6091)
+##### [Armor and Weapon Keywords Community (AWKCR)](https://www.nexusmods.com/fallout4/mods/6091) *v8.51*
  This is a master file to create a standardize framework for armor so that modders can create and modify armor (like Armorsmith) while making edits compatible with mods that adjust dynamic item naming (like Valdacil's Item Sorting).
  
-##### [Armorsmith Extended](https://www.nexusmods.com/fallout4/mods/2228)
+##### [Armorsmith Extended](https://www.nexusmods.com/fallout4/mods/2228) *v4.6*
 This mod does so much awesome stuff that the description doesn't come anywhere close to fitting here. 
 
 ## Minor fixes
