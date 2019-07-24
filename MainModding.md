@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-24T19:07:53.376Z
+date: 2019-07-24T19:08:21.466Z
 tags: 
 ---
 
@@ -16,7 +16,7 @@ tags:
 For an in-depth understanding: https://www.afkmods.com/index.php?/topic/5079-plugin-files-and-you-esmeslesp/
 Another nice explanation: https://steamcommunity.com/app/489830/discussions/0/3276824488728505237/
 
-We outline a small <details><summary> summary </summary>
+<details><summary>We outline a small summary </summary>
 <p>
 
 ### How ESLs work
