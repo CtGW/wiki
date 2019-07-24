@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-24T19:18:13.516Z
+date: 2019-07-24T19:20:21.733Z
 tags: 
 ---
 
@@ -75,7 +75,8 @@ This mod does so much awesome stuff that the description doesn't come anywhere c
 ## Minor fixes
 
 ##### [CCCleaner](https://www.nexusmods.com/fallout4/mods/26592)
-
+clean all about CC from ur game interface 
+ 
 ##### [Achievements](https://www.nexusmods.com/fallout4/mods/12465)
 Uses F4SE to re-enable achievements while mods are active
 
@@ -83,7 +84,7 @@ Uses F4SE to re-enable achievements while mods are active
 Disabled Mouse Acceleration, Horizontal/Vertical Parity, Scalable ADS Multiplier, Normalized Sensitivity
 
 ##### [Simple Trashcan fix](https://www.nexusmods.com/fallout4/mods/14707/)
-One of those small fixes you can only truly appreciate if you suffer from OCD...
+One does not simply "steal" trashes.  
 
 ##### [Wetness shader fix](https://www.nexusmods.com/fallout4/mods/23389)
 
