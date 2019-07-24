@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-24T00:02:48.636Z
+date: 2019-07-24T00:03:35.405Z
 tags: 
 ---
 
@@ -974,14 +974,17 @@ Install both main and optional files, during installer, choose:
 Leave the other options unticked
 
 ##### [Vault-Tec Workshop Overhaul](https://www.nexusmods.com/fallout4/mods/17174)
+Install main file only
 
 ##### [Clarity](https://www.nexusmods.com/fallout4/mods/31991)
 
 ##### [Fr4nsson's Light Tweaks](https://www.nexusmods.com/fallout4/mods/2139)
 
 ##### [Thaylar's Settlement Lighting Fixes](https://www.nexusmods.com/fallout4/mods/20003)
+Install base edition main file
 
 ##### [Pip-Boy Flashlight](https://www.nexusmods.com/fallout4/mods/10840)
+Turn your radial Pip-Boy light into a directional flashlight
 
 ## Audio overhauls
 
