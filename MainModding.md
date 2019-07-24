@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-23T23:51:55.367Z
+date: 2019-07-24T00:00:13.842Z
 tags: 
 ---
 
@@ -944,7 +944,33 @@ version and contains custom tracks not on Nexus).
 
 ## Weather and environment
 
-##### []()
+##### [Vivid Weathers](https://www.nexusmods.com/fallout4/mods/15466)
+During install
+Alternative addons
+- Disable Volumetric Fogs
+- Extended Rain Sounds
+- Vivid Weathers Quest and Player Home
+Visual changes
+- Default - No changes
+Compatibility patches
+- Far Harbor Patch
+- Nuka World
+Seasons of Vivid Weathers
+- NO Season Limitation
+
+##### [WET – Water Enhancement textures](https://www.nexusmods.com/fallout4/mods/20775)
+
+##### [Darker nights](https://www.nexusmods.com/fallout4/mods/191)
+
+##### [Vault-Tec Workshop Overhaul](https://www.nexusmods.com/fallout4/mods/17174)
+
+##### [Clarity](https://www.nexusmods.com/fallout4/mods/31991)
+
+##### [Fr4nsson's Light Tweaks](https://www.nexusmods.com/fallout4/mods/2139)
+
+##### [Thaylar's Settlement Lighting Fixes](https://www.nexusmods.com/fallout4/mods/20003)
+
+##### [Pip-Boy Flashlight](https://www.nexusmods.com/fallout4/mods/10840)
 
 ## Audio overhauls
 
