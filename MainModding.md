@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-24T20:21:20.858Z
+date: 2019-07-24T21:13:07.518Z
 tags: 
 ---
 
@@ -74,74 +74,96 @@ This mod does so much awesome stuff that the description doesn't come anywhere c
 
 ## Minor fixes
 
-##### [CCCleaner](https://www.nexusmods.com/fallout4/mods/26592)
+##### [CCCleaner](https://www.nexusmods.com/fallout4/mods/26592) *v3.11*
 clean all about CC from ur game interface 
  
-##### [Achievements](https://www.nexusmods.com/fallout4/mods/12465)
+##### [Achievements](https://www.nexusmods.com/fallout4/mods/12465) *v1.0.5*
 Uses F4SE to re-enable achievements while mods are active
 
-##### [RAW INPUT - The Ultimate Mouse Sensitivity Fix](https://www.nexusmods.com/fallout4/mods/27019)
+##### [RAW INPUT - The Ultimate Mouse Sensitivity Fix](https://www.nexusmods.com/fallout4/mods/27019) *v2.4*
 Disabled Mouse Acceleration, Horizontal/Vertical Parity, Scalable ADS Multiplier, Normalized Sensitivity
 
-##### [Simple Trashcan fix](https://www.nexusmods.com/fallout4/mods/14707/)
+##### [Simple Trashcan fix](https://www.nexusmods.com/fallout4/mods/14707/) *v1*
 One does not simply "steal" trashes.  
 
-##### [Wetness shader fix](https://www.nexusmods.com/fallout4/mods/23389)
+##### [Wetness shader fix](https://www.nexusmods.com/fallout4/mods/23389) *v2.2*
 This small mod fixes the exaggerated shine of specific objects while it's raining. Comes with an installer for different options. 
  
-##### [Eye Normal Map Fix](https://www.nexusmods.com/fallout4/mods/819)
+##### [Eye Normal Map Fix](https://www.nexusmods.com/fallout4/mods/819) *v1b*
 Enhanced normal maps for the eyes. 
 
-##### [Far Harbor Doctor Dialogue Fix](https://www.nexusmods.com/fallout4/mods/16274)
+##### [Far Harbor Doctor Dialogue Fix](https://www.nexusmods.com/fallout4/mods/16274) *v1.0*
  Far Harbor doctors will now offer doctor services. 
 
-##### [Search and Destroy Fixed](https://www.nexusmods.com/fallout4/mods/33127)
+##### [Search and Destroy Fixed](https://www.nexusmods.com/fallout4/mods/33127) *v1.0*
+The Far Harbor Quest "Search and Destroy" is massively bugged in the game, and while the quest can be completed, the Brotherhood doesn't attack as it is supposed to. This mod fixes the reasons they don't arrive at the attack site and several other bugs within the quest that would probably never have been noticed without it being fixed. 
 
+##### [Lever Action Reload Fix](https://www.nexusmods.com/fallout4/mods/22896) *v1.4*
+The most stable lever action reload fix out there with working 3rd person. 
 
-##### [Lever Action Reload Fix](https://www.nexusmods.com/fallout4/mods/22896)
+##### [Overboss Power Armor headlamp fix](https://www.nexusmods.com/fallout4/mods/19295) *v1.2*
+Adds better headlamp functionality to the Overboss power armor helmet from Nuka World. 
 
-##### [Overboss Power Armor headlamp fix](https://www.nexusmods.com/fallout4/mods/19295)
+##### [Mechanist's Lair - expanded corrected and fixed](https://www.nexusmods.com/fallout4/mods/11490) *v0.1*
+This settlement expansion comes in three flavours and with an additional fix added !
+You can choose from simply using a fix, that will allow to build in the Lair like in every other settlement, or you can go for one of the three / four expansions, one fullfeatured, a more immersive one and a third/fourth Version, that is really as immersi 
 
-##### [Mechanist's Lair - expanded corrected and fixed](https://www.nexusmods.com/fallout4/mods/11490)
+##### [Perception Bug Fix](https://www.nexusmods.com/fallout4/mods/35376) *v1.0.0*
+This mod prevents the "Perception Bug" from affecting the player. 
 
-##### [Perception Bug Fix](https://www.nexusmods.com/fallout4/mods/35376)
-
-##### [Protectron Subway Steward (fix)](https://www.nexusmods.com/fallout4/mods/22022)
-
-##### [Alex's Male First Person Camera Height Fix](https://www.nexusmods.com/fallout4/mods/27582)
+##### [Protectron Subway Steward (fix)](https://www.nexusmods.com/fallout4/mods/22022) *v*
+Enables the scene for Protectrons when assigned the Subway Steward personality. 
+ 
+##### [Alex's Male First Person Camera Height Fix](https://www.nexusmods.com/fallout4/mods/27582) *v1.0*
 Adjusts the eyeheight in first person if you play as a male character.
 
-##### [Vault 111 Floor Guide Fix](https://www.nexusmods.com/fallout4/mods/28167)
+##### [Vault 111 Floor Guide Fix](https://www.nexusmods.com/fallout4/mods/28167) *v1.0*
+ This mod fixes the arrows and lines at the entrance in prewar Vault 111. They're disappearing when viewed from certain angles. Now not anymore. 
 
-##### [Starlight Drive In LOD Fix with ESL](https://www.nexusmods.com/fallout4/mods/23034)
+##### [Starlight Drive In LOD Fix with ESL](https://www.nexusmods.com/fallout4/mods/23034) *v1.0*
+ Was always annoyed with how the Drive In would fade into view when walking up to it. Can now be seen properly from far away. More immersive. ESL Version Available. 
 
-##### [NukaWorld Transit Center LOD Fix with ESL](https://www.nexusmods.com/fallout4/mods/30925)
+##### [NukaWorld Transit Center LOD Fix with ESL](https://www.nexusmods.com/fallout4/mods/30925) *v1.0*
+ Makes the giant Nuka Bottles at the Transit Center in the Commonwealth visible from far away so they don't pop in when you get close. Purely for immersion. ESL version available. 
 
-##### [Vault111 And Billboard LOD Fix](https://www.nexusmods.com/fallout4/mods/36288)
+##### [Vault111 And Billboard LOD Fix](https://www.nexusmods.com/fallout4/mods/36288) *v1*
+ Makes Vault 111 and the giant Billboard next to it visible from a distance! 
 
-##### [Sanctuary Bridge LOD Fix](https://www.nexusmods.com/fallout4/mods/36288)
+##### [Sanctuary Bridge LOD Fix](https://www.nexusmods.com/fallout4/mods/36288) *v1*
+ Makes Vault 111 and the giant Billboard next to it visible from a distance! 
 
-##### [Far Harbor Bed Fix](https://www.nexusmods.com/fallout4/mods/34504)
+##### [Far Harbor Bed Fix](https://www.nexusmods.com/fallout4/mods/34504) *v1*
+ Fixes the evil bed at far harbor red rocket. 
+ 
+##### [Hardware Town Key Havok Fix](https://www.nexusmods.com/fallout4/mods/34497) *v1.0*
+ A super simple mod that disables Havok settling on the Hardware Town Storage Key by applying the defaultdisablehavokonload script to it. This prevents it from being knocked off the desk on the second floor should you use frag grenades or mines. 
 
-##### [Hardware Town Key Havok Fix](https://www.nexusmods.com/fallout4/mods/34497)
+##### [Nuka Cola Storage Rack](https://www.nexusmods.com/fallout4/mods/24909) *v02.00.00*
+ The constructable object form for the Nuka Cola Storage Rack has an error This fixes that. 
 
-##### [Nuka Cola Storage Rack](https://www.nexusmods.com/fallout4/mods/24909)
+##### [Space Sentry Leg Fix](https://www.nexusmods.com/fallout4/mods/29869) *v1.00*
+ Fixes the wonky wheels on the Space Sentry legs 
 
-##### [Space Sentry Leg Fix](https://www.nexusmods.com/fallout4/mods/29869)
+##### [Vault Door FIXED](https://www.nexusmods.com/fallout4/mods/24954) *v0.1*
+ Fixed navmesh for Vault-Tec Workshop DLC Vault Door 
 
-##### [Vault Door FIXED](https://www.nexusmods.com/fallout4/mods/24954)
+##### [Blood Pack Mesh Fix](https://www.nexusmods.com/fallout4/mods/25800) *v1.0*
+ Fixed model of Blood Pack. Now tubes are visible. 
 
-##### [Blood Pack Mesh Fix](https://www.nexusmods.com/fallout4/mods/25800)
+##### [Fixed Gobo Effects](https://www.nexusmods.com/fallout4/mods/27445) *v1.4*
+ This mod fixes artefacts, pixelation and color banding in textures that are used for special light effects. Zero performance loss, little to nothing strain for your VRAM, no esp needed, no reason to not use it. 
 
-##### [Fixed Gobo Effects](https://www.nexusmods.com/fallout4/mods/27445)
+##### [Plasma Impact Fix](https://www.nexusmods.com/fallout4/mods/25412) *v1.1*
+ A very simple little mod that fixes the bugged plasma impact sets if you're running EBT. 
 
-##### [Plasma Impact Fix](https://www.nexusmods.com/fallout4/mods/25412)
+##### [Doorway Endcap Fix](https://www.nexusmods.com/fallout4/mods/35818) *v1.0*
+ Fixes the Workshop Vault Domestic Doorway Endcap so that it snaps in the correct place. 
 
-##### [Doorway Endcap Fix](https://www.nexusmods.com/fallout4/mods/35818)
+##### [Flicker fixer](https://www.nexusmods.com/fallout4/mods/35720) *v5.0*
+ Fixes most of the exterior flickering aka z fighting in the game, particularly in the Boston and Cambridge areas. 
 
-##### [Flicker fixer](https://www.nexusmods.com/fallout4/mods/35720)
+##### [BiRaitBec ́s merged Fixes](https://www.nexusmods.com/fallout4/mods/23556) *v1.0*
 
-##### [BiRaitBec ́s merged Fixes](https://www.nexusmods.com/fallout4/mods/23556)
 
 
 ## Misc tweaks
