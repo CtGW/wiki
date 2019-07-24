@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-24T00:22:17.691Z
+date: 2019-07-24T00:23:34.707Z
 tags: 
 ---
 
@@ -1073,14 +1073,30 @@ Diamond City Plus.
 ## Rounding up
 
 ##### [Universal Patch Installer](https://www.nexusmods.com/fallout4/mods/34825)
+During installer, choose:
+- Armorsmith extended
+- Commonwealth shorts
+- Commonwealth shorts – Vault Girl
 
 ##### [Ruse VIS-G and AE Patches](https://www.nexusmods.com/fallout4/mods/33480)
+During installer, under equipment patches, choose:
+- Crimsonrider ́s accessories
+- Eli ́s armor compendium
+- West Tek tactical optics
 
 ##### [Resh's GNARLY Unbogus Fallout Overhaul Patches - VIS-G - AE – UNPCs](https://www.nexusmods.com/fallout4/mods/35532?tab=files)
+Install Unbogus VIS-G and AE patch only
 
 ##### [We Are The Minutemen - VIS-G - Armorsmith Extended Patch](https://www.nexusmods.com/fallout4/mods/18744?)
+Comments on Nexus site regarding WATm 6: “there are several item that are
+different. Like backpack world models and variant 6 flannel shirt is new item without
+a tag.” 
+> TODO: fix this
+{.is-danger}
+
 
 ##### [CtGW Community patches](https://www.nexusmods.com/fallout4/mods/30294)
+In CtGW main archive
 
 ## Dead last (conflict resolutions)
 
