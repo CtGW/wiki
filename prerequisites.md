@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-07-24T18:48:51.820Z
+date: 2019-07-24T18:51:00.047Z
 tags: 
 ---
 
@@ -82,15 +82,17 @@ good primer how to use FO4Edit on YouTube.
 
 ### [F4SE](http://f4se.silverlock.org/)
 
-### [Mod Organizer 2]()
+### [Mod Organizer 2](https://github.com/ModOrganizer2/modorganizer/releases)
 
-### [FO4 configuration tool]()
+### [FO4 configuration tool](https://www.nexusmods.com/fallout4/mods/102/)
 
-### [BethINI]()
+### [BethINI](https://www.nexusmods.com/fallout4/mods/67)
 
-### [xSE plugin preloader]()
+### [xSE plugin preloader](https://www.nexusmods.com/fallout4/mods/33946)
 
-### [Dynamic performance tuner and load accelerator]()
+### [Dynamic performance tuner and load accelerator](https://www.nexusmods.com/fallout4/mods/28143)
+
+Also download: [Configuration Files For Dynamic Performance Tuner And Load Accelerator](https://www.nexusmods.com/fallout4/mods/33632)
 
 ## Cleaning master files
 In the last section we learned how to open a tool from MO2 with a command line flag which allowed us to easily determine which esps can be flagged a esl. That means I don´t have to show you the Modify executables window again, right? Right.
