@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-24T19:08:49.574Z
+date: 2019-07-24T19:09:39.824Z
 tags: 
 ---
 
@@ -16,7 +16,7 @@ tags:
 For an in-depth understanding: https://www.afkmods.com/index.php?/topic/5079-plugin-files-and-you-esmeslesp/
 Another nice explanation: https://steamcommunity.com/app/489830/discussions/0/3276824488728505237/
 
-<details><summary><b>We outline a small summary*</b> </summary>
+<center><details><summary><b>We outline a small summary</b> </summary>
 <p>
 
 ### How ESLs work
@@ -40,7 +40,7 @@ On the other hand, if you use an .esp marked as an ESL in FO4Edit, the plugin re
 So whenever there is an option, always choose the ESP file instead of the ESL file and then you can decide if you want to make it into and ESL or not.
 </p>
 </details>
-
+</center>
 
 ---
 
