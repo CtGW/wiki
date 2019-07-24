@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-24T00:00:13.842Z
+date: 2019-07-24T00:02:48.636Z
 tags: 
 ---
 
@@ -959,8 +959,19 @@ Seasons of Vivid Weathers
 - NO Season Limitation
 
 ##### [WET – Water Enhancement textures](https://www.nexusmods.com/fallout4/mods/20775)
+WET enhances all the bodies of water in the game, as well as adding new water and rain
+effects.
+During Installer select the WET Assets With Rain and the WET Clearer (ESL) options
 
 ##### [Darker nights](https://www.nexusmods.com/fallout4/mods/191)
+Install both main and optional files, during installer, choose:
+- Light (level 4)
+- Far harbor and Nuka World DLC patches
+- Vivid weathers
+- Easiest (level 6)
+- Alternative (green tint)
+- Weaker night vision
+Leave the other options unticked
 
 ##### [Vault-Tec Workshop Overhaul](https://www.nexusmods.com/fallout4/mods/17174)
 
