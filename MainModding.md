@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-24T00:03:48.101Z
+date: 2019-07-24T00:05:48.098Z
 tags: 
 ---
 
@@ -988,7 +988,23 @@ Turn your radial Pip-Boy light into a directional flashlight
 
 ## Audio overhauls
 
-##### []()
+##### [Bleak Beauty](https://www.nexusmods.com/fallout4/mods/9663)
+
+##### [Radiant Birds](https://www.nexusmods.com/fallout4/mods/2397)
+Install main file only
+
+##### [Less Radiant Birds](https://www.nexusmods.com/fallout4/mods/16296)
+This is a replacer esp, merge with the original mod.
+
+##### [Second World War British Air Raid Siren](https://www.nexusmods.com/fallout4/mods/12199)
+
+##### [Immersive Pickup Sounds F04 base](https://www.nexusmods.com/fallout4/mods/35917)
+
+##### [BiRaitBec ́s merged mods - Audio](https://www.nexusmods.com/fallout4/mods/23556)
+Download and install Merged Mods - Audio
+During the FOMOD installer
+•
+All-In-One
 
 ## Cut content restored
 
