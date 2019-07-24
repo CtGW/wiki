@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-24T00:05:48.098Z
+date: 2019-07-24T00:05:54.051Z
 tags: 
 ---
 
@@ -1003,8 +1003,7 @@ This is a replacer esp, merge with the original mod.
 ##### [BiRaitBec ́s merged mods - Audio](https://www.nexusmods.com/fallout4/mods/23556)
 Download and install Merged Mods - Audio
 During the FOMOD installer
-•
-All-In-One
+- All-In-One
 
 ## Cut content restored
 
