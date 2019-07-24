@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-24T00:18:46.764Z
+date: 2019-07-24T00:20:35.147Z
 tags: 
 ---
 
@@ -1021,24 +1021,52 @@ The ability for the player to fight for caps
 ## Late loaders
 
 ##### [No combat boundaries](https://www.nexusmods.com/fallout4/mods/6752)
+Note: These worldedits need to be removed from the esp in FO4Edit.
+ConcordZone
+ConcordMuseumZone
+StarlightDriveInZone
+RedRocketTruckStopZone
+SunshineTidingsCoopZone
+MysticPinesZone
+AbernathyFarm
+CountryCrossingZone
+GreentopNurseryZone
+NordHagenBeachZone
+OberlandStationZone
+TenPinesBluffZone
+SanctuaryHillsZone
+Thanks to sentrus, there is now a patch shipped with the guide doing the same thing, but I ́m
+leaving instructions in, for those who want to get their hands dirty with FO4Edit.
 
 ##### [More Attackers – Get off my Buildzone + Unique NPCs – C and M patch](https://www.nexusmods.com/fallout4/mods/27465)
+Install Unique NPCs – C and M patch name "More AGOMBZ + Unique NPCs – C and M
+patch" so it doesn ́t merge with the main mod
 
 ##### [Better Companions](https://www.nexusmods.com/fallout4/mods/18547/)
+Improves companion accuracy, sneaking, perks etc
 
 ##### [Amazing Follower Tweaks](https://www.nexusmods.com/fallout4/mods/26976)
+Install main file and use original spouse patch, and XDI fix
 
 ##### [Comic Collector](https://www.nexusmods.com/fallout4/mods/18564)
 
 ##### [Load Screen Art](https://www.nexusmods.com/fallout4/mods/35361)
+Install the mix random DLC main file. NOTE: some users have experienced noticably
+longer game startup times (~30 seconds longer) with this mod activated.
 
 ##### [Immersive Drumlin Diner](https://www.nexusmods.com/fallout4/mods/18995/)
 
 ##### [Fallout 4 Revisited - Sanctuary - Safe Haven](https://www.nexusmods.com/fallout4/mods/26679)
+If you install mod, do note that Sim Settlement city plans for Sanctuary likely won ́t work.
 
 ##### [AWARHERO's Great Green Jewel](https://danielgamache.wixsite.com/awarhero/diamond-city-the-great-green-jewel)
+Install mod, them the replacer AWARHERO The Great Green Jewel.esp provided in my
+files, which includes no world edits (only changes to Diamond city interiors).
 
 ##### [Diamond City Auto Close Gate](https://www.nexusmods.com/fallout4/mods/12928)
+Using all the DC mods above will cause FPS drop in Diamond City. Of course they are all
+optional, so you will have to chose if you like pretty or smooth. Biggest resource hog is
+Diamond City Plus.
 
 ##### [Insignificant Object Remover](https://www.nexusmods.com/fallout4/mods/9835)
 
