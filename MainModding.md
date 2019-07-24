@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-24T19:16:08.973Z
+date: 2019-07-24T19:18:13.516Z
 tags: 
 ---
 
@@ -47,7 +47,7 @@ So whenever there is an option, always choose the ESP file instead of the ESL fi
 ## Core mods
 
 ##### [F4SE](https://f4se.silverlock.org/) 
-Install manually by selecting data folder.
+Install only the scripts, by selecting manual install and selecting data folder.
 
 > This way we can more easily determine if any of the scripts are overwritten by later mods.
 {.is-success}
