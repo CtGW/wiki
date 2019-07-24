@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-24T00:05:54.051Z
+date: 2019-07-24T00:07:34.071Z
 tags: 
 ---
 
@@ -1007,7 +1007,16 @@ During the FOMOD installer
 
 ## Cut content restored
 
-##### []()
+##### [Combat zone restored](https://www.nexusmods.com/fallout4/mods/21498)
+Restores the majority of the content originally cut from the Combat Zone
+The original introduction to cait
+The basement
+Betting on NPC fights
+The ability for the player to fight for caps
+
+##### [Piper Interview Restored](https://www.nexusmods.com/fallout4/mods/21829)
+
+##### [The Danse Dilemma](https://www.nexusmods.com/fallout4/mods/21923)
 
 ## Late loaders
 
