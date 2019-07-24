@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-24T19:20:21.733Z
+date: 2019-07-24T20:11:44.110Z
 tags: 
 ---
 
@@ -87,12 +87,16 @@ Disabled Mouse Acceleration, Horizontal/Vertical Parity, Scalable ADS Multiplier
 One does not simply "steal" trashes.  
 
 ##### [Wetness shader fix](https://www.nexusmods.com/fallout4/mods/23389)
-
+This small mod fixes the exaggerated shine of specific objects while it's raining. Comes with an installer for different options. 
+ 
 ##### [Eye Normal Map Fix](https://www.nexusmods.com/fallout4/mods/819)
+Enhanced normal maps for the eyes. 
 
 ##### [Far Harbor Doctor Dialogue Fix](https://www.nexusmods.com/fallout4/mods/16274)
+ Far Harbor doctors will now offer doctor services. 
 
 ##### [Search and Destroy Fixed](https://www.nexusmods.com/fallout4/mods/33127)
+
 
 ##### [Lever Action Reload Fix](https://www.nexusmods.com/fallout4/mods/22896)
 
