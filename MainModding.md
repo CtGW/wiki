@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-24T21:14:28.360Z
+date: 2019-07-24T21:22:15.351Z
 tags: 
 ---
 
@@ -14,7 +14,6 @@ tags:
 {.is-info}
 
 For an in-depth understanding: https://www.afkmods.com/index.php?/topic/5079-plugin-files-and-you-esmeslesp/
-Another nice explanation: https://steamcommunity.com/app/489830/discussions/0/3276824488728505237/
 
 <center><details><summary><b>We outline a small summary</b> </summary>
 <p>
