@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-24T00:27:42.028Z
+date: 2019-07-24T19:07:12.783Z
 tags: 
 ---
 
@@ -17,6 +17,8 @@ For an in-depth understanding: https://www.afkmods.com/index.php?/topic/5079-plu
 Another nice explanation: https://steamcommunity.com/app/489830/discussions/0/3276824488728505237/
 
 We outline a small summary:
+<details><summary>CLICK ME</summary>
+<p>
 
 ### How ESLs work
 
@@ -37,6 +39,9 @@ This means that they are loaded before the other files and they can mess up your
 On the other hand, if you use an .esp marked as an ESL in FO4Edit, the plugin respects your load order.
 
 So whenever there is an option, always choose the ESP file instead of the ESL file and then you can decide if you want to make it into and ESL or not.
+</p>
+</details>
+
 
 ---
 
