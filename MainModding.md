@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-24T00:23:34.707Z
+date: 2019-07-24T00:27:42.028Z
 tags: 
 ---
 
@@ -1100,23 +1100,37 @@ In CtGW main archive
 
 ## Dead last (conflict resolutions)
 
-##### []()
+##### [Scrap dead things](https://www.nexusmods.com/fallout4/mods/6497)
+Install Automatron version. After guide is done, move last in order
 
-##### []()
+##### [Diamond City Expansion](https://www.nexusmods.com/fallout4/mods/21853)
 
-##### []()
+##### [Diamond City Expansion - Female Body Replacer – EasyGirl](https://www.nexusmods.com/fallout4/mods/28740)
+Install only the Diamond City Expansion - Female Body Replacer main file
 
-##### []()
+##### [Boston Fps Fix](https://www.nexusmods.com/fallout4/mods/26286)
+Note if you ́re going to install location mods not in this guide, that due to the nature of this
+mod, a lot of location overhauls are not compatible, and will cause texture flickering/culling/
+performance issues. Especially avoid mods that affect downtown Boston.
+Install the AIO main file only
 
-##### []()
+##### [The Beantown interiors Project](https://www.nexusmods.com/fallout4/mods/4612)
 
-##### []()
+##### [BTI Optimization for BFPSFixAIO](https://www.nexusmods.com/fallout4/mods/26286)
+A test compatibility patch with Boston FPS fix. Found under miscellaneous files
 
-##### []()
+##### [CtGW - Conflict resolution](https://www.nexusmods.com/fallout4/mods/30294)
+Now modular, install CtGW – CR.rar from the CtGW archive.
 
-##### []()
+##### [CtGW - Gameplay Tweaks](https://www.nexusmods.com/fallout4/mods/30294)
+Optional Now modular, install CtGW - Tweaks.rar from the CtGW archive.
 
-##### []()
+##### [CtGW - Replacer ESPs](https://www.nexusmods.com/fallout4/mods/30294)
+These are esps with my edits, which should override the original esps
 
-##### []()
-
+##### [CtGW - Leveled Lists](https://www.nexusmods.com/fallout4/mods/30294)
+My manually edited leveled lists. I recommend you use this one if you ́ve installed the
+whole guide. If he esps complain about missing masters, there are mods in this list you
+haven ́t installed and you would either have to remove those records
+manually or use
+Wrye Bash instead.
