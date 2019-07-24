@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-24T21:42:39.019Z
+date: 2019-07-24T21:42:58.450Z
 tags: 
 ---
 
@@ -56,7 +56,7 @@ Mod description
 
 ## Legend
 
-- <span style="background-color:red; padding:3px;"><font color="white"> Clean </font></span>: Mod should be cleaned using Fo4Edit-quickclean
+- <span style="background-color:red; padding:3px;"><font color="white"> Clean </font></span>: Mods which should be cleaned using Fo4Edit-quickclean
 - <span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>: Mods which are essential to the guide
 - <span style="background-color:cyan; padding:3px;"><font color="black"> Optional </font></span>: Mods which are optional and can be skipped
 - <span style="background-color:grey; padding:3px;"><font color="white"> Extracted </font></span>: Mods where you should extract the `.bsa` files
