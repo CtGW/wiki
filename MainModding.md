@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T18:45:49.249Z
+date: 2019-07-25T18:47:57.238Z
 tags: 
 ---
 
@@ -226,15 +226,20 @@ Merged mod for a lot of fixes that UFO4P still has not gotten around to include 
 
 ## Misc tweaks
 
-##### [No Quest Autostart - BoS Fire Support](https://www.nexusmods.com/fallout4/mods/31563)
+##### [No Quest Autostart - BoS Fire Support](https://www.nexusmods.com/fallout4/mods/31563) *v1.0*
+ Prevents "Fire Support" from beginning without the player listening to Haylen's radio message. 
 
-##### [No Quest Autostart - Far Harbor](https://www.nexusmods.com/fallout4/mods/31450)
+##### [No Quest Autostart - Far Harbor](https://www.nexusmods.com/fallout4/mods/31450) *v1.0*
+ Prevents "Far From Home" from starting without the player either listening to Ellie's radio message or visiting the Nakano residence. 
 
-##### [No Quest Autostart - Nuka World](https://www.nexusmods.com/fallout4/mods/31433)
+##### [No Quest Autostart - Nuka World](https://www.nexusmods.com/fallout4/mods/31433) *v1.0*
+ Simple script edit to prevent the Nuka-World main quest from running without either visiting the Nuka-World Transit Station or listening to the radio station. 
 
-##### [No Quest Autostart – Automatron](https://www.nexusmods.com/fallout4/mods/31576)
+##### [No Quest Autostart – Automatron](https://www.nexusmods.com/fallout4/mods/31576) *v1.0*
+ Prevents the Automatron main quest from automatically starting until the player listens to the Caravan Distress Call. 
 
-##### [No Quest Autostart – Vault-Tec](https://www.nexusmods.com/fallout4/mods/31454)
+##### [No Quest Autostart – Vault-Tec](https://www.nexusmods.com/fallout4/mods/31454) *v1.0*
+ This mod prevents the quest 'Vault-Tec Calling' from automatically updating and beginning officially until you either A) listen to the Vault 88 emergency broadcast or B) Enter the Vault 88 cell--as in, go inside. 
 
 ##### [Recruiter Radio Freedom](https://www.nexusmods.com/fallout4/mods/14762)
 
