@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T20:29:22.350Z
+date: 2019-07-25T20:35:51.229Z
 tags: 
 ---
 
@@ -423,11 +423,15 @@ In CtGW main archive there are two version:
 
 > You can change this setting in `ClockWidget.ini` to toggle on/off 24-hour clock: `iEnable24HourClock=1/0`.
 
-##### [Satellite Color World Map Combo](https://www.nexusmods.com/fallout4/mods/9414)
+##### [Satellite Color World Map Combo](https://www.nexusmods.com/fallout4/mods/9414) *v1.3*
+ Combines Satellite World Map and Color Map. No ESP required. New features included. 
+- *Main files*: Satellite Color World Map Combo 1-3
+
 During installer choose:
 
 - No Special
 
+##### [Nuka World Sattelite Map](https://www.nexusmods.com/fallout4/mods/32456)
 Also install maps for Nuka-World and Far harbor and Zoom-out Extended (half-sized
 markers) and make sure to merge them with the main mod. I had issues when installing
 them as separate mods for some reason.
