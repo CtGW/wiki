@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T19:17:55.953Z
+date: 2019-07-25T19:18:26.097Z
 tags: 
 ---
 
@@ -11,7 +11,7 @@ tags:
 > 
 > **TLDR**: When given a choice of choosing an ESP or an ESL you should always download the ESP and then manually mark it as an ESL in FO4Edit.
 > 
-{.is-error}
+{.is-danger}
 
 For an in-depth understanding: https://www.afkmods.com/index.php?/topic/5079-plugin-files-and-you-esmeslesp/
 
