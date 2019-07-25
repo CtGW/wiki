@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T19:01:45.920Z
+date: 2019-07-25T19:04:49.524Z
 tags: 
 ---
 
@@ -323,12 +323,13 @@ This mod stops exit saves from being done by the game.
 
 ## Camera and UI
 
-##### [DEF_UI](https://www.nexusmods.com/fallout4/mods/10654)
-
-A UI better suited for PC (Hear that Bethesda?)
-install both main files in order, use same name for both during manual install and choose
-merge.
-During Installation of first file select:
+##### [DEF_UI](https://www.nexusmods.com/fallout4/mods/10654) *v1.5.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
+Re-release of DEF_HUD and DEF_INV by Neanka with a combined installer package. DEF_HUD is a fully 
+customizable HUD. DEF_INV provide many improvements to Pipboy, container, and barter inventory screens. 
+- *Main files*: Def_ui 1.5.1
+- *Main files*: def_ui_translations 1.10.130
+qwe
 - DEF_HUD
 - DEF_INV
 - Language and Screen Ratio based on your preferences
