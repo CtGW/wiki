@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T20:15:01.881Z
+date: 2019-07-25T20:16:11.388Z
 tags: 
 ---
 
@@ -46,7 +46,7 @@ So whenever there is an option, always choose the ESP file instead of the ESL fi
 ## Mod outline
 
 ##### Mod name *version*
-<span style="background-color:#00b159; padding:3px;"><font color="white"> Core </font></span> <span style="background-color:#00aedb; padding:3px;"><font color="white"> Optional </font></span> <span style="background-color:#d11141; padding:3px;"><font color="white"> Clean </font></span> <span style="background-color:; padding:3px;"><font color="white"> Extracted </font></span> <span style="background-color:; padding:3px;"><font color="white"> ESL </font></span> <span style="background-color:; padding:3px;"><font color="black"> HD-HQ </font></span>
+<span style="background-color:#00b159; padding:3px;"><font color="white"> Core </font></span> <span style="background-color:#00aedb; padding:3px;"><font color="white"> Optional </font></span> <span style="background-color:#d11141; padding:3px;"><font color="white"> Clean </font></span> <span style="background-color:#ffc425; padding:3px;"><font color="black"> Extracted </font></span> <span style="background-color:#f37735; padding:3px;"><font color="black"> ESL </font></span> <span style="background-color:#ffc425; padding:3px;"><font color="black"> HD-HQ </font></span>
 - File 1
 - File 2
 
