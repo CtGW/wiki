@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T23:16:35.063Z
+date: 2019-07-25T23:18:10.660Z
 tags: 
 ---
 
@@ -561,16 +561,20 @@ patches
 ##### [Master Plan WRA Patch](https://www.nexusmods.com/fallout4/mods/16626) *v2.2*
  Master categorization plugin for all my mods. 
 
-##### [Better Stores](https://danielgamache.wixsite.com/awarhero/mod-archive)
-During installation, select:
-- Extra Custom Props
-- Far Harbor patch
+##### [Better Stores](https://danielgamache.wixsite.com/awarhero/mod-archive) *v1.3.5*
+> During installation, select:
+> - Extra Custom Props
+> - Far Harbor patch
 
-##### [Better Vendor Stalls](https://www.nexusmods.com/fallout4/mods/9758)
-During installation, select standalone with clutter
+##### [Better Vendor Stalls](https://www.nexusmods.com/fallout4/mods/9758) *v3.2*
+ Makes vendor stalls small enough to fit under ceilings and adds clutter for more realism. 
 
-##### [Manufacturing Extended](https://www.nexusmods.com/fallout4/mods/15429)
-Install main file and Far Harbor patch
+> During installation, select standalone with clutter
+
+##### [Manufacturing Extended](https://www.nexusmods.com/fallout4/mods/15429) *v1.4*
+ Improves the manufacturing devices from Contraptions Workshop. Now you can choose which armor parts to build, manufacture Vault jumpsuits and energy weapon ammo, and extract components from workshop inventory! 
+
+> Install main file and Far Harbor patch
 
 ##### [Thematic and Practical](https://www.nexusmods.com/fallout4/mods/16207)
 Install main file and DLCpatch
