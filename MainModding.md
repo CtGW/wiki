@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T19:07:12.420Z
+date: 2019-07-25T19:08:21.595Z
 tags: 
 ---
 
@@ -34,7 +34,7 @@ So in theory, you cannot have more than <code>16<sup>3</sup></code> ESL plugins 
 .esl plugins are loaded in the master space and is termed as a *light master*, as internally the bethesda engine makes every .esl 
 This means that they are loaded before the other files and they can mess up your load order.
 
-On the other hand, if you use an .esp marked as an ESL in FO4Edit, the plugin respects your load order.
+On the other hand, if you use an .esp marked as an ESL in FO4Editdef_ui_translations 1.10.130, the plugin respects your load order.
 
 So whenever there is an option, always choose the ESP file instead of the ESL file and then you can decide if you want to make it into and ESL or not.
 </p>
@@ -62,7 +62,7 @@ Mod description
 - <span style="background-color:grey; padding:3px;"><font color="white"> Extracted </font></span>: Mods where you should extract the `.bsa` files
 - <span style="background-color:yellow; padding:3px;"><font color="black"> ESL </font></span> : Mods which you can/should manually mark as ESL
 - <span style="background-color:violet; padding:3px;"><font color="black"> HD-HQ </font></span>: Mods which are taxing on the computer and should be installed with caution
-
+def_ui_translations 1.10.130
 ---
 
 ## Core mods
@@ -329,13 +329,19 @@ Re-release of DEF_HUD and DEF_INV by Neanka with a combined installer package. D
 customizable HUD. DEF_INV provide many improvements to Pipboy, container, and barter inventory screens. 
 - *Main files*: Def_ui 1.5.1
 - *Main files*: def_ui_translations 1.10.130
-Def_ui <details><summary></summary>
-  <p>
+<center><details><summary><b>We outline a small summary</b> </summary>
+<p>
 - DEF_HUD
 - DEF_INV
 - Language and Screen Ratio based on your preferences
 - Do NOT install component tags and Vanilla Hud
 - i already have sorting xml files option
+</p>
+</details>
+</center>
+
+Def_ui <details><summary></summary>
+  <p>
   </p></details>
 After the second file is merged, use right-click Open in Explorer and delete any Translate_%%.txt
 files in the \Interface folder. If $CREATION CLUB appears on the main menu, you've missed this
