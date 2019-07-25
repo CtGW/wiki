@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T19:54:18.612Z
+date: 2019-07-25T19:59:26.977Z
 tags: 
 ---
 
@@ -367,19 +367,23 @@ customizable HUD. DEF_INV provide many improvements to Pipboy, container, and ba
  The Extended Dialogue Interface removes the hardcoded 4-option limit on dialogue and adds full engine support for any number of player dialogue options. 
 - *Main files*: Extended Dialogue Interface 1.3.4
 
-##### [HUDFramework](https://www.nexusmods.com/fallout4/mods/20309)
-a UI framework that makes it possible for mods to add new UI elements to the HUD
-Install main file only
+##### [HUDFramework](https://www.nexusmods.com/fallout4/mods/20309) *v1.0f*
+HUDFramework is a UI framework that makes it possible for mods to add new UI elements to the HUD. 
+- *Main files*: HUDFramework 1.0f
 
-##### [Power Armor HoloHUD](https://www.nexusmods.com/fallout4/mods/29969)
-A slicker Powerarmor HUD.
+##### [Power Armor HoloHUD](https://www.nexusmods.com/fallout4/mods/29969) *v1.1*
+ This will replace ridiculous half transparent... whatever it is with something much nicer. 
+- *Main files*: PA HoloHUD
 
-##### [HUD Plus Plus](https://www.nexusmods.com/fallout4/mods/27218)
+##### [HUD Plus Plus](https://www.nexusmods.com/fallout4/mods/27218) *v1.1.0*
+ This mod adds some UI widgets to HUD to display detailed information of object crosshair points to or selected in quick loot menu, it also provides some extra features to make player play holotape and read book directly from quick loot menu without need to open inventory while looting. 
+- *Main files*: HUD Plus Plus
 
-##### [ApeHUD](https://www.nexusmods.com/fallout4/mods/30294)
+##### [ApeHUD](https://www.nexusmods.com/fallout4/mods/30294) *v1.0*
+
 In CtGW main archive there are two version:
-- standard – some UI elements removed and the rest resized and move towards the edge of the screen
-- lean – same as above but also compass, enemy health and notifications turned off
+- standard: some UI elements removed and the rest resized and move towards the edge of the screen
+- lean: same as above but also compass, enemy health and notifications turned off
 
 ##### [Immersive HUD](https://www.nexusmods.com/fallout4/mods/20830)
 A hud that gets out of the way when you don ́t need it.
