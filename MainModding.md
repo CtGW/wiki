@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T18:59:42.768Z
+date: 2019-07-25T19:01:45.920Z
 tags: 
 ---
 
@@ -227,76 +227,99 @@ Merged mod for a lot of fixes that UFO4P still has not gotten around to include 
 ## Misc tweaks
 
 ##### [No Quest Autostart - BoS Fire Support](https://www.nexusmods.com/fallout4/mods/31563) *v1.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Prevents "Fire Support" from beginning without the player listening to Haylen's radio message. 
 
 ##### [No Quest Autostart - Far Harbor](https://www.nexusmods.com/fallout4/mods/31450) *v1.0*
- Prevents "Far From Home" from starting without the player either listening to Ellie's radio message or visiting the Nakano residence. 
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
+Prevents "Far From Home" from starting without the player either listening to Ellie's radio message or visiting the Nakano residence. 
 
 ##### [No Quest Autostart - Nuka World](https://www.nexusmods.com/fallout4/mods/31433) *v1.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Simple script edit to prevent the Nuka-World main quest from running without either visiting the Nuka-World Transit Station or listening to the radio station. 
 
 ##### [No Quest Autostart – Automatron](https://www.nexusmods.com/fallout4/mods/31576) *v1.0*
+ <span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Prevents the Automatron main quest from automatically starting until the player listens to the Caravan Distress Call. 
 
 ##### [No Quest Autostart – Vault-Tec](https://www.nexusmods.com/fallout4/mods/31454) *v1.0*
- This mod prevents the quest 'Vault-Tec Calling' from automatically updating and beginning officially until you either A) listen to the Vault 88 emergency broadcast or B) Enter the Vault 88 cell--as in, go inside. 
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
+This mod prevents the quest 'Vault-Tec Calling' from automatically updating and beginning officially until you either A) listen to the Vault 88 emergency broadcast or B) Enter the Vault 88 cell--as in, go inside. 
 
 ##### [Recruiter Radio Freedom](https://www.nexusmods.com/fallout4/mods/14762) *v1*
  Makes Radio Freedom a Recruitment Beacon 
 
 ##### [Corpse Collision](https://www.nexusmods.com/fallout4/mods/37133) *v1*
- Run into dead things and they get pushed. 
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
+Run into dead things and they get pushed. 
 
 ##### [Realistic Death Physics - No Animations](https://www.nexusmods.com/fallout4/mods/4371) *v1.2*
- 10mm bullets knocking raiders into the air? Deathclaws tossing you around like a tennis ball? Dead bodies floating gently to the ground like rose petals? No more! 
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
+10mm bullets knocking raiders into the air? Deathclaws tossing you around like a tennis ball? Dead bodies floating gently to the ground like rose petals? No more! 
 
 ##### [Remove Interior Fog](https://www.nexusmods.com/fallout4/mods/2628) *v1.5dlc6*
- This mod will pretty much remove all that ugly fog you see everywhere indoors and will look a million times better. 
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
+This mod will pretty much remove all that ugly fog you see everywhere indoors and will look a million times better. 
 
 ##### [Realistic conversations](https://www.nexusmods.com/fallout4/mods/32514) *v1.0*
- Every social logic in Fallout for NPCs is changed, they talk more often to each others. And will less likely greet to you from a distance, they will also greet less often too, making them to not act as much as robots. NPCs are also more clever and will know for example if they talked to a NPC and will therefore talk to another or not talk at all. 
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
+Every social logic in Fallout for NPCs is changed, they talk more often to each others. And will less likely greet to you from a distance, they will also greet less often too, making them to not act as much as robots. NPCs are also more clever and will know for example if they talked to a NPC and will therefore talk to another or not talk at all. 
 
 ##### [Immersive Generic Dialogue](https://www.nexusmods.com/fallout4/mods/14108) *v1.03c*
- Your reputation will now be determined by your actions and how well you manage your settlements. Earn the respect and trust by helping people and be a good ruler of your settlements, or be shunned for the opposite actions. 
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
+Your reputation will now be determined by your actions and how well you manage your settlements. Earn the respect and trust by helping people and be a good ruler of your settlements, or be shunned for the opposite actions. 
 
 ##### [Icebreaker Settlements – Settler Dialogue Overhaul](https://www.nexusmods.com/fallout4/mods/25972) *v1.03*
- 400+ new carefully selected lines of settler dialogue to reduce the repetitive sound of the 168 original. All lines in the original actors' voices. Intended to blend in very naturally with the default lines. Settler dialogue lines that insulted the player character were also tweaked. 
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
+400+ new carefully selected lines of settler dialogue to reduce the repetitive sound of the 168 original. All lines in the original actors' voices. Intended to blend in very naturally with the default lines. Settler dialogue lines that insulted the player character were also tweaked. 
  
 ##### [Icebreaker - Piper - Companion Dialogue Overhaul](https://www.nexusmods.com/fallout4/mods/25525) *v1.0.5*
- Adds more variety to the dialogue companions use the most often. Over 300 new audio files in the companions own voice, with facial expression, and supports Affinity. 
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
+Adds more variety to the dialogue companions use the most often. Over 300 new audio files in the companions own voice, with facial expression, and supports Affinity. 
 
 ##### [Settler Sandbox](https://www.nexusmods.com/fallout4/mods/20442/) *v4.0*
- Settler Sandbox and AI Expansion 
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
+Settler Sandbox and AI Expansion 
 
 ##### [Locky bastard](https://www.nexusmods.com/fallout4/mods/13380/) *v4.0*
- Tired of lockpicking ? Shoot a bullet at that goddamn lock to open it ! Or do you prefer to blow it up with some explosive ? Oh wait, you just want to kick doors open with your shiny X-01 ? Well, you can do that as well. 
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
+Tired of lockpicking ? Shoot a bullet at that goddamn lock to open it ! Or do you prefer to blow it up with some explosive ? Oh wait, you just want to kick doors open with your shiny X-01 ? Well, you can do that as well. 
 
 ##### [First Person messages](https://www.nexusmods.com/fallout4/mods/10870) *v2.0*
- Changes the messages you get to first person messages. 
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
+Changes the messages you get to first person messages. 
 
 ##### [Quest Summary by Default](https://www.nexusmods.com/fallout4/mods/2664) *v0.2*
- Show quest summary by default in the quest log instead of showing animation. Useful for avoiding spoilers and preventing excessive toggling of summary display. 
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
+Show quest summary by default in the quest log instead of showing animation. Useful for avoiding spoilers and preventing excessive toggling of summary display. 
 
 ##### [Puddle remover plus](https://www.nexusmods.com/fallout4/mods/34035) *v6.0*
- Options to remove Water Puddles, Blood Puddles, Mud Puddles, Seagull Droppings and the dirt clouds from NPC Footsteps. 
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
+Options to remove Water Puddles, Blood Puddles, Mud Puddles, Seagull Droppings and the dirt clouds from NPC Footsteps. 
 
 ##### [R2K fast pipboy](https://www.nexusmods.com/fallout4/mods/17777) *v1.1*
- A collection of mods and ends. 
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
+A collection of mods and ends. 
 
 ##### [Not So Bright Pins](https://www.nexusmods.com/fallout4/mods/35097) *v1.0*
- Reduced the brightness of the pins in the loadingscreens 
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
+Reduced the brightness of the pins in the loadingscreens 
 
 ##### [Swinging Animated Meat Bags](https://www.nexusmods.com/fallout4/mods/21087) *v1.41*
- This mod adds a new swinging animation to all the hanging meat bags in the game, with swinging sound, dripping blood and swarming flies effect. It also fixes all meat bags so their loot will respawn. Swarming flies are also added to fallen meat bags, including craftable ones. 
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
+This mod adds a new swinging animation to all the hanging meat bags in the game, with swinging sound, dripping blood and swarming flies effect. It also fixes all meat bags so their loot will respawn. Swarming flies are also added to fallen meat bags, including craftable ones. 
 
 ##### [Tougher Cars Durable Vehicles](https://www.nexusmods.com/fallout4/mods/3680) *v1.3*
- Increases the durability of destructible vehicles. Three flavors to choose from: multiplied vanilla values, diverse modified values, or indestructible vehicles. 
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
+Increases the durability of destructible vehicles. Three flavors to choose from: multiplied vanilla values, diverse modified values, or indestructible vehicles. 
  
 ##### [Lootable vendors](https://www.nexusmods.com/fallout4/mods/34960) *v1.01*
- Wipe the vendor's inventory dry with this mod. This mod transfers the items that a vendor is selling to their body when they are killed by the player. 
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
+Wipe the vendor's inventory dry with this mod. This mod transfers the items that a vendor is selling to their body when they are killed by the player. 
 
 ##### [ExitSave Killer](https://www.nexusmods.com/fallout4/mods/18102) *v0.2*
- This mod stops exit saves from being done by the game. 
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
+This mod stops exit saves from being done by the game. 
 
 ## Camera and UI
 
