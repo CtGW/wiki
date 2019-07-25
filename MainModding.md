@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T19:04:49.524Z
+date: 2019-07-25T19:07:01.128Z
 tags: 
 ---
 
@@ -329,12 +329,13 @@ Re-release of DEF_HUD and DEF_INV by Neanka with a combined installer package. D
 customizable HUD. DEF_INV provide many improvements to Pipboy, container, and barter inventory screens. 
 - *Main files*: Def_ui 1.5.1
 - *Main files*: def_ui_translations 1.10.130
-qwe
+Def_ui <details><summary></summary>
 - DEF_HUD
 - DEF_INV
 - Language and Screen Ratio based on your preferences
 - Do NOT install component tags and Vanilla Hud
 - i already have sorting xml files option
+</details>
 After the second file is merged, use right-click Open in Explorer and delete any Translate_%%.txt
 files in the \Interface folder. If $CREATION CLUB appears on the main menu, you've missed this
 step.
