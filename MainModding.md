@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T23:44:15.731Z
+date: 2019-07-25T23:44:36.015Z
 tags: 
 ---
 
@@ -604,11 +604,13 @@ patches
  Organizes workbenches by type in the workshop menu. 
 
 ##### [JP Guard Towers](https://www.nexusmods.com/fallout4/mods/36178) *v1.21*
+ Adds 6 guard towers, 3 bridge decks to connect towers, 2 different style stone steps, and a “Guard Mat” to assign settlers as guards 
 
+##### [Woody's Wasteland Stuff](https://www.nexusmods.com/fallout4/mods/24951) *v4*
+ An improvised barrel fireplace to keep you toasty warm and various other wasteland stuffs. 
 
-##### [Woody's Wasteland Stuff](https://www.nexusmods.com/fallout4/mods/24951)
-
-##### [Private Area Markers (keep settlers out of your house)](https://www.nexusmods.com/fallout4/mods/26377)
+##### [Private Area Markers (keep settlers out of your house)](https://www.nexusmods.com/fallout4/mods/26377) *v1.1*
+ Keep settlers out of your house 
 
 ##### [Timer Power Switch](https://www.nexusmods.com/fallout4/mods/10750)
 Allows you to build power switches that automatically power on/off.
