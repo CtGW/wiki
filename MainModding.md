@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T20:26:54.163Z
+date: 2019-07-25T20:29:22.350Z
 tags: 
 ---
 
@@ -417,11 +417,11 @@ In CtGW main archive there are two version:
 > 8. Put your newly created patch last in the right pane of MO2. We ́re done
 > 
 
-##### [Clock Widget - Show Real Time While Loading](https://www.nexusmods.com/fallout4/mods/26759)
+##### [Clock Widget - Show Real Time While Loading](https://www.nexusmods.com/fallout4/mods/26759) *v1.4.0*
+ This mod adds a clock widget to loading menu, main menu and fader menu to display current real time while loading.How much time did you spend on loading? 
+- *Main files*: Clock Widget
 
-
-You can change setting in ClockWidget.ini to toggle on/off 24-hour clock, by changing the
-value of iEnable24HourClock=1 to 0.
+> You can change this setting in `ClockWidget.ini` to toggle on/off 24-hour clock: `iEnable24HourClock=1/0`.
 
 ##### [Satellite Color World Map Combo](https://www.nexusmods.com/fallout4/mods/9414)
 During installer choose:
