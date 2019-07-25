@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T19:08:49.968Z
+date: 2019-07-25T19:09:10.741Z
 tags: 
 ---
 
@@ -329,7 +329,7 @@ Re-release of DEF_HUD and DEF_INV by Neanka with a combined installer package. D
 customizable HUD. DEF_INV provide many improvements to Pipboy, container, and barter inventory screens. 
 - *Main files*: Def_ui 1.5.1
 - *Main files*: def_ui_translations 1.10.130
-<details><summary><b>We outline a small summary</b> </summary>
+<details><summary><b>Def_ui 1.5.1</b> </summary>
 <pre>
 - DEF_HUD
 - DEF_INV
@@ -338,7 +338,6 @@ customizable HUD. DEF_INV provide many improvements to Pipboy, container, and ba
 - i already have sorting xml files option
 </pre>
 </details>
-</center>
 
 Def_ui <details><summary></summary>
   <p>
