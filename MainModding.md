@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T20:22:00.861Z
+date: 2019-07-25T20:26:54.163Z
 tags: 
 ---
 
@@ -47,10 +47,10 @@ So whenever there is an option, always choose the ESP file instead of the ESL fi
 
 ##### Mod name *version*
 <span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> <span style="background-color:#00aedb; padding:3px;"><font color="white"> Optional </font></span> <span style="background-color:#d11141; padding:3px;"><font color="white"> Clean </font></span> <span style="background-color:#ffc425; padding:3px;"><font color="black"> Extracted </font></span> <span style="background-color:#f37735; padding:3px;"><font color="black"> ESL </font></span> <span style="background-color:#ff8b94; padding:3px;"><font color="black"> HD-HQ </font></span>
+Mod description
 - File 1
 - File 2
-
-Mod description
+> Extra steps
 
 ---
 
@@ -394,27 +394,32 @@ In CtGW main archive there are two version:
  HUD when you need. Hide when you don't. 
 - *Main files*: Immersive HUD - iHUD
 
-##### [Ruddy88 ́s Simple Sorter](https://www.nexusmods.com/fallout4/mods/33983)
-an alternative to VIS which is less flexible but much easier to work with, as it
-patches the whole list for you, without any need for extra patches.
-Go to the RSS files and first download R88SimpleSorter_SCRIPT. Extract the file menu
-manually into your F04edit folder.
-Now download MXPF - Mator's xEdit Patching Framework, and repeat the process from
-above.
-Next, install in MO2 R88SimpleSorter_XML.
-Finally, we will do the actual patching. Note that it ́s recommended that you deactivate all
-plugins related to Sim Settlements in the right pane before starting the patching process.
+##### [Ruddy88 ́s Simple Sorter](https://www.nexusmods.com/fallout4/mods/33983) *v1.0*
+ Simple Sorter is a FO4Edit script that will automatically add the text needed for icon replacements for all valid items in your entire load order. It automatically scans your mod list, loads all valid items to a new ESP, then detects what sort of item it is so that the correct icons are used. No more patches, no more manually patching. 
 
-1. Open FO4Edit, and click OK. Holdiing shift while clicking ok will load the program quicker. Wait for thr background loader to finish.
-2. Right-click on any of the plugins in the left pane and select "Apply Script".
-3. In the Apply Script dialogue, click in the script box and navigate to R88_SimpleSorter. Click OK.
-4. In the first dialogue box, check your options as below:
-5. Click on New Patch. You can name your sorting file whatever you want, I name it CtGW – simple sorter
-6. Let the sorter do it ́s job (which only takes a couple of minutes on my rig. When it ́s done, you will get a popup message saying "Patching Complete".
-7. Close FO4Edit, make sure your new plugin is selected.
-8. Put your newly created patch last in the right pane of MO2. We ́re done
+- *Main files*: R88SimpleSorter_XML
+
+> Go to the RSS files and first download R88SimpleSorter_SCRIPT. Extract the file menu
+> manually into your F04edit folder.
+> Now download MXPF - Mator's xEdit Patching Framework, and repeat the process from
+> above.
+> Next, install in MO2 R88SimpleSorter_XML.
+> Finally, we will do the actual patching. Note that it ́s recommended that you deactivate all
+> plugins related to Sim Settlements in the right pane before starting the patching process.
+> 
+> 1. Open FO4Edit, and click OK. Holdiing shift while clicking ok will load the program quicker. Wait for thr background loader to finish.
+> 2. Right-click on any of the plugins in the left pane and select "Apply Script".
+> 3. In the Apply Script dialogue, click in the script box and navigate to R88_SimpleSorter. Click OK.
+> 4. In the first dialogue box, check your options as below:
+> 5. Click on New Patch. You can name your sorting file whatever you want, I name it CtGW – simple sorter
+> 6. Let the sorter do it ́s job (which only takes a couple of minutes on my rig. When it ́s done, you will get a popup message saying "Patching Complete".
+> 7. Close FO4Edit, make sure your new plugin is selected.
+> 8. Put your newly created patch last in the right pane of MO2. We ́re done
+> 
 
 ##### [Clock Widget - Show Real Time While Loading](https://www.nexusmods.com/fallout4/mods/26759)
+
+
 You can change setting in ClockWidget.ini to toggle on/off 24-hour clock, by changing the
 value of iEnable24HourClock=1 to 0.
 
