@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T23:45:32.425Z
+date: 2019-07-25T23:45:53.778Z
 tags: 
 ---
 
@@ -622,17 +622,19 @@ Made For Immersion!
 ##### [Weapon Rack Fixes](https://www.nexusmods.com/fallout4/mods/19324) *v1.1.1*
  Allows you to put all weapons on Contraptions Workshop Weapon Racks. 
 
-##### [Settlement Objects Combined](https://www.nexusmods.com/fallout4/mods/36461)
-load esp version 2 (loose files)
-If you use the get Dirty mod we will want to make the showers from this mod compatible.
-- Open F04Edit. Select both "Get Dirty" and "Settlement Objects Combined" and click ok.
-Only those 2 should be selected.
-- Once loaded, Right Click on SOC, and click "Add Master" > select "Get Dirty".
-- Expand Spells then click on "SShowerBetterEffect"
-- Replace the 'DamageradiationWater' Effect with the CS7_DirtTier00 'Clean'" Effect (which
-is what is triggered when you swim in the Get Dirty mod, for example).
-- Repeat for SShowerBasicEffect
-- Close and Save the "Showers" mod, as that is the only mod you've edited.
+##### [Settlement Objects Combined](https://www.nexusmods.com/fallout4/mods/36461) *v1.6.2*
+ Combines the the invidiually themed settlement objects into one file 
+
+> load esp version 2 (loose files)
+> If you use the get Dirty mod we will want to make the showers from this mod compatible.
+> - Open F04Edit. Select both "Get Dirty" and "Settlement Objects Combined" and click ok.
+> Only those 2 should be selected.
+> - Once loaded, Right Click on SOC, and click "Add Master" > select "Get Dirty".
+> - Expand Spells then click on "SShowerBetterEffect"
+> - Replace the 'DamageradiationWater' Effect with the CS7_DirtTier00 'Clean'" Effect (which
+> is what is triggered when you swim in the Get Dirty mod, for example).
+> - Repeat for SShowerBasicEffect
+> - Close and Save the "Showers" mod, as that is the only mod you've edited.
 
 ##### [Settlement Tidy bot](https://www.nexusmods.com/fallout4/mods/33217)
 
