@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T23:15:25.716Z
+date: 2019-07-25T23:16:35.063Z
 tags: 
 ---
 
@@ -558,7 +558,8 @@ patches
 > 
 > - your choice
 
-##### [Master Plan WRA Patch](https://www.nexusmods.com/fallout4/mods/16626)
+##### [Master Plan WRA Patch](https://www.nexusmods.com/fallout4/mods/16626) *v2.2*
+ Master categorization plugin for all my mods. 
 
 ##### [Better Stores](https://danielgamache.wixsite.com/awarhero/mod-archive)
 During installation, select:
