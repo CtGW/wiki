@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T23:45:53.778Z
+date: 2019-07-25T23:54:37.085Z
 tags: 
 ---
 
@@ -66,7 +66,7 @@ Mod description
 - <span style="background-color:#ffc425; padding:3px;"><font color="black"> Extracted </font></span>: Mods where you should extract the `.bsa` files
 - <span style="background-color:#f37735; padding:3px;"><font color="black"> ESL </font></span>: Mods which you can/should manually mark as ESL
 - <span style="background-color:#ff8b94; padding:3px;"><font color="black"> HD-HQ </font></span>: Mods which are taxing on the computer and should be installed with caution
-def_ui_translations 1.10.130
+
 ---
 
 ## Core mods
