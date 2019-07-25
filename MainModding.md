@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T23:18:10.660Z
+date: 2019-07-25T23:20:48.996Z
 tags: 
 ---
 
@@ -576,20 +576,29 @@ patches
 
 > Install main file and Far Harbor patch
 
-##### [Thematic and Practical](https://www.nexusmods.com/fallout4/mods/16207)
-Install main file and DLCpatch
+##### [Thematic and Practical](https://www.nexusmods.com/fallout4/mods/16207) *vAlpha1.3*
+ Thematic and Practical is a mod that aim to provide new constructible objects for your workshop. The plan is to update it with new themes during the developement. 
+> Install main file and DLCpatch
 
-##### [Creative clutter](https://www.nexusmods.com/fallout4/mods/20782)
-During installation, select Creative Clutter DLC
+##### [Creative clutter](https://www.nexusmods.com/fallout4/mods/20782) *v2.1*
+ Fun, awesome, cluttery bits that make your shack, mansion, or giant hippie commune feel like a real home. Lazy furniture, mini crafting stations, standalone decorations, and micro horticulture! Decorate your place like a pro. This mod adds over 800 decorations, furniture, food resources, and more for you to build using its own custom menu. 
 
-##### [Do It Yourshelf](https://www.nexusmods.com/fallout4/mods/14532)
-During installation, select extra half-shelf clutter full cost
+> During installation, select Creative Clutter DLC
 
-##### [Gruffydds Signs and Posters](https://www.nexusmods.com/fallout4/mods/9711)
-Install main file only
+##### [Do It Yourshelf](https://www.nexusmods.com/fallout4/mods/14532) *v1.6a*
+ Add your own clutter to those empty shelves 
 
-##### [g2m Workshop](https://www.nexusmods.com/fallout4/mods/17088)
-During installation, check Main version [default]. If you during the intro sequence (right before the bathroom scene) get a white screen, press enter, downarrow and enter again. It ́s a message box spamming the screen at startup.
+> During installation, select extra half-shelf clutter full cost
+
+##### [Gruffydds Signs and Posters](https://www.nexusmods.com/fallout4/mods/9711) *v4.00a*
+ Hundreds of new custom stand-alone signs and posters to add to your settlements. Includes settlement name signs for the Minutemen, Brotherhood of Steel, Institute, and Raiders, shop and business signs including some for Level 4 Shops, plus many, many more signs and posters of different sizes, shapes, and subjects, with regular updates adding more. 
+
+> Install main file only
+
+##### [g2m Workshop](https://www.nexusmods.com/fallout4/mods/17088) *v6.1.1*
+ Add ton of unique objects to the workshop. Expand workshop features. Fix bugs in workshop items. 
+
+> During installation, check Main version [default]. If you during the intro sequence (right before the bathroom scene) get a white screen, press enter, downarrow and enter again. It ́s a message box spamming the screen at startup.
 
 ##### [Organized Workbench Menu](https://www.nexusmods.com/fallout4/mods/32588)
 
