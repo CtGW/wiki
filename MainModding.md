@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T20:20:51.308Z
+date: 2019-07-25T20:22:00.861Z
 tags: 
 ---
 
@@ -390,8 +390,9 @@ In CtGW main archive there are two version:
  You like immersive things, eh? Well I've got 13 different presets for DEF_UI right here... 
  - *Main files*: All-in-One FOMOD Installer
 
-##### [Immersive HUD](https://www.nexusmods.com/fallout4/mods/20830)
-A hud that gets out of the way when you don ́t need it.
+##### [Immersive HUD](https://www.nexusmods.com/fallout4/mods/20830) *v3.0*
+ HUD when you need. Hide when you don't. 
+- *Main files*: Immersive HUD - iHUD
 
 ##### [Ruddy88 ́s Simple Sorter](https://www.nexusmods.com/fallout4/mods/33983)
 an alternative to VIS which is less flexible but much easier to work with, as it
