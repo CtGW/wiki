@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T22:54:50.096Z
+date: 2019-07-25T22:56:47.818Z
 tags: 
 ---
 
@@ -498,22 +498,30 @@ Flight, Undo Buttons, Layers, Cloning Tools, and more!
 ##### [Locksmith](https://www.nexusmods.com/fallout4/mods/12454) *v1.02*
  Tired of those pesky settlers walking in on you while you're using the bathroom? Worried Piper's going to find your copy of the Lusty Argonian Maid? Well, worry no longer! Now you can lock (and unlock, but why would you ever want to do that?) any door or container you wish! 
 
-##### [Basement Living](https://www.nexusmods.com/fallout4/mods/10967)
+##### [Basement Living](https://www.nexusmods.com/fallout4/mods/10967) *v1.3*
+ Basement Living adds 10 standalone basement & bunker player homes with their own workshops and craftable doors, allowing you to place/enter into them from any settlement! Just like Home Plate, you can scrap and decorate them how you like. This was done carefully and methodically, does not affect settlements, or require any batch files / workar 
 
-##### [Basement Living-Immersion Adjustment](https://www.nexusmods.com/fallout4/mods/28942)
+##### [Basement Living-Immersion Adjustment](https://www.nexusmods.com/fallout4/mods/28942) *v1.0*
+ An small .esp edit which changes the crafting requirements of the Basement Living doors to be more realistic and cleans out the unimmersive clutter objects found in the bunkers themselves. 
 
-##### [The Master Plan](https://www.nexusmods.com/fallout4/mods/16626)
+##### [The Master Plan](https://www.nexusmods.com/fallout4/mods/16626) *v2.2*
+ Master categorization plugin for all my mods. 
 
-##### [Vanilla Extensions](https://www.nexusmods.com/fallout4/mods/10032)
+##### [Vanilla Extensions](https://www.nexusmods.com/fallout4/mods/10032) *v2.5a*
 Improves vanilla snapping and adds a variety of highly functional blocks to the workshop menu. 
-Install main file and any update file
 
-##### [This is MY Bed](https://www.nexusmods.com/fallout4/mods/7399)
+>Install main file and any update file
 
-##### [Better Cooking Stations](https://www.nexusmods.com/fallout4/mods/12104)
-Download and install:
-- main file
-- DLC patches
+##### [This is MY Bed](https://www.nexusmods.com/fallout4/mods/7399) *v3*
+ Adds six (or 13) craft-able beds that settlers cannot sleep in...but you can. 
+
+##### [Better Cooking Stations](https://www.nexusmods.com/fallout4/mods/12104) *v2.03*
+ Overhauls the vanilla cooking stations with better effects and features; adds several new ones including a working kitchen stove, BBQ grill and supermutant cooking pot. All craftable cooking stations can be toggled Private or Public and can be assigned to settlers to function as food traders while still allowing you to craft recipes. 
+
+> Download and install:
+> - main file
+> - DLC patches
+
 
 ##### [PWR - Passive Water Resources](https://www.nexusmods.com/fallout4/mods/19871)
 Install only main file, not the SKE patch
