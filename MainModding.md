@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T19:18:55.186Z
+date: 2019-07-25T19:20:09.175Z
 tags: 
 ---
 
@@ -11,7 +11,7 @@ tags:
 
 > 
 > **TLDR**: When given a choice of choosing an ESP or an ESL you should always download the ESP and then manually mark it as an ESL in FO4Edit.
-> {.is-danger}
+>{.is-danger}
 
 For an in-depth understanding: https://www.afkmods.com/index.php?/topic/5079-plugin-files-and-you-esmeslesp/
 
@@ -19,9 +19,11 @@ For an in-depth understanding: https://www.afkmods.com/index.php?/topic/5079-plu
 <p>
 
 ### How ESLs work
-
-Firstly, lets remember that the Bethesda engine allows loading 255 plugins in total.
-Each plugin occupies a namespace, `xx`, for its load order, where a general element is represented by: `xx123456`
+> 
+> Firstly, lets remember that the Bethesda engine allows loading 255 plugins in total.
+> Each plugin occupies a namespace, `xx`, for its load order, where a general element is represented by: `xx123456`
+> 
+{.is-danger}
 
 So, in theory, any plugin can add <code>16<sup>6</sup></code> new items, though in reality the number is a bit smaller.
 
@@ -339,9 +341,11 @@ customizable HUD. DEF_INV provide many improvements to Pipboy, container, and ba
 > 
 {.is-info}
 
-After the second file is merged, use right-click Open in Explorer and delete any Translate_%%.txt
-files in the \Interface folder. If $CREATION CLUB appears on the main menu, you've missed this
-step.
+> After the second file is merged, use right-click Open in Explorer and delete any Translate_%%.txt
+> files in the \Interface folder. If $CREATION CLUB appears on the main menu, you've missed this
+> step.
+> 
+{.is-info}
 
 ##### [DEF_UI Iconlibs Rescaled and Fixed](https://www.nexusmods.com/fallout4/mods/31088/)
 Based on Updated ICONLIBS2 for DEF_UI by omega9380. Aims to bring consistency in
