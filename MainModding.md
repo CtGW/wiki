@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T18:53:41.469Z
+date: 2019-07-25T18:57:41.394Z
 tags: 
 ---
 
@@ -265,18 +265,20 @@ Merged mod for a lot of fixes that UFO4P still has not gotten around to include 
 ##### [Icebreaker - Piper - Companion Dialogue Overhaul](https://www.nexusmods.com/fallout4/mods/25525) *v1.0.5*
  Adds more variety to the dialogue companions use the most often. Over 300 new audio files in the companions own voice, with facial expression, and supports Affinity. 
 
-
 ##### [Settler Sandbox](https://www.nexusmods.com/fallout4/mods/20442/) *v4.0*
  Settler Sandbox and AI Expansion 
 
 ##### [Locky bastard](https://www.nexusmods.com/fallout4/mods/13380/) *v4.0*
  Tired of lockpicking ? Shoot a bullet at that goddamn lock to open it ! Or do you prefer to blow it up with some explosive ? Oh wait, you just want to kick doors open with your shiny X-01 ? Well, you can do that as well. 
 
-##### [First Person messages](https://www.nexusmods.com/fallout4/mods/10870)
+##### [First Person messages](https://www.nexusmods.com/fallout4/mods/10870) *v2.0*
+ Changes the messages you get to first person messages. 
 
-##### [Quest Summary by Default](https://www.nexusmods.com/fallout4/mods/2664)
+##### [Quest Summary by Default](https://www.nexusmods.com/fallout4/mods/2664) *v0.2*
+ Show quest summary by default in the quest log instead of showing animation. Useful for avoiding spoilers and preventing excessive toggling of summary display. 
 
-##### [Puddle remover plus](https://www.nexusmods.com/fallout4/mods/34035)
+##### [Puddle remover plus](https://www.nexusmods.com/fallout4/mods/34035) *v6.0*
+ Options to remove Water Puddles, Blood Puddles, Mud Puddles, Seagull Droppings and the dirt clouds from NPC Footsteps. 
 
 ##### [R2K fast pipboy](https://www.nexusmods.com/fallout4/mods/17777)
 
