@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T22:46:11.969Z
+date: 2019-07-25T22:54:21.896Z
 tags: 
 ---
 
@@ -50,6 +50,10 @@ So whenever there is an option, always choose the ESP file instead of the ESL fi
 Mod description
 - File 1
 - File 2
+
+> Extra information/explanation
+>{.is-success}
+
 > Extra steps
 
 ---
@@ -468,18 +472,28 @@ Pip-boy Far Harbor Satellite Map. 2K and 4K.
 
 ## Settlements
 
-##### [Workshop Framework](https://www.nexusmods.com/fallout4/mods/35004)
+##### [Workshop Framework](https://www.nexusmods.com/fallout4/mods/35004) *v1.1.7*
+ Framework to open up the settlement system to editing by the community.
+For Players: New controls and faster, more stable workshop scripts.
+For Modders: Add new resource types, override settings, and generally change the way settlements work dynamically. 
 
-##### [Workshop Plus](https://www.nexusmods.com/fallout4/mods/35005)
+##### [Workshop Plus](https://www.nexusmods.com/fallout4/mods/35005) *v1.0.5*
+ Transforms Workshop mode into a God simulator - giving you all of the tools you need to create amazing settlements.
+Flight, Undo Buttons, Layers, Cloning Tools, and more! 
 
-##### [All Setlements Extended](https://www.nexusmods.com/fallout4/mods/25316?tab=description)
-Download and install No Bunker Hill or Hangman's Alley main version
+##### [All Setlements Extended](https://www.nexusmods.com/fallout4/mods/25316?tab=description) *v2.0.2*
+ Every vanilla settlement now has a larger build area with custom border wall. Except Home Plate. Screw Home Plate. A must-have for Sim Settlements. 
+ 
+> Download and install No Bunker Hill or Hangman's Alley main version
 
-##### [Uncapped Settlement Surplus](https://www.nexusmods.com/fallout4/mods/12430)
+##### [Uncapped Settlement Surplus](https://www.nexusmods.com/fallout4/mods/12430) *v2.0.1*
+ Makes settlements produce surplus (water, food, etc) even if there's already surplus in the workbench 
 
-##### [Faster Workshop (Workshop Lag Fix)](https://www.nexusmods.com/fallout4/mods/35382)
+##### [Faster Workshop (Workshop Lag Fix)](https://www.nexusmods.com/fallout4/mods/35382) *v1.1*
+ Faster Workshop is an F4SE plugin that optimizes workshop loading times by replacing some of the most expensive and inefficient regions of workshop loading code with far more efficient versions. Also provides a hotkey to instantly enter Workshop mode and fixes workshop icon load lag. 
 
-##### [Quieter settlements](https://www.nexusmods.com/fallout4/mods/2819)
+##### [Quieter settlements](https://www.nexusmods.com/fallout4/mods/2819) *v0.30*
+ Settlements too noisy? This mod reduces the volume of generators, turrets, and other settlement sounds. Choose different volumes for different sounds. 
 
 ##### [Locksmith](https://www.nexusmods.com/fallout4/mods/12454)
 Allows you to lock any door or container, preventing any of those snoopy settlers to mess with your stuff.
