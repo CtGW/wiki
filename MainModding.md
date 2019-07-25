@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T23:20:48.996Z
+date: 2019-07-25T23:44:15.731Z
 tags: 
 ---
 
@@ -600,9 +600,11 @@ patches
 
 > During installation, check Main version [default]. If you during the intro sequence (right before the bathroom scene) get a white screen, press enter, downarrow and enter again. It ́s a message box spamming the screen at startup.
 
-##### [Organized Workbench Menu](https://www.nexusmods.com/fallout4/mods/32588)
+##### [Organized Workbench Menu](https://www.nexusmods.com/fallout4/mods/32588) *v1.2.1*
+ Organizes workbenches by type in the workshop menu. 
 
-##### [JP Guard Towers](https://www.nexusmods.com/fallout4/mods/36178)
+##### [JP Guard Towers](https://www.nexusmods.com/fallout4/mods/36178) *v1.21*
+
 
 ##### [Woody's Wasteland Stuff](https://www.nexusmods.com/fallout4/mods/24951)
 
