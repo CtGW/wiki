@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T21:16:04.367Z
+date: 2019-07-25T22:46:11.969Z
 tags: 
 ---
 
@@ -341,6 +341,7 @@ customizable HUD. DEF_INV provide many improvements to Pipboy, container, and ba
 >   `Interface\Translate_**.txt`
 
 ##### [DEF_UI Iconlibs Rescaled and Fixed](https://www.nexusmods.com/fallout4/mods/31088/) *v1.5*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Based on Updated ICONLIBS2 for DEF_UI by omega9380. Aims to bring consistency in design and coloring to the icon library. Also fixes various issues with icon sizes, bounding boxes and scaling. 
 - *Main files*: DEF_UI Iconlibs Rescaled and Fixed - Subtle Color
 
@@ -364,18 +365,22 @@ customizable HUD. DEF_INV provide many improvements to Pipboy, container, and ba
 >
 
 ##### [Extended Dialogue Interface](https://www.nexusmods.com/fallout4/mods/27216) *v1.3.4*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  The Extended Dialogue Interface removes the hardcoded 4-option limit on dialogue and adds full engine support for any number of player dialogue options. 
 - *Main files*: Extended Dialogue Interface 1.3.4
 
 ##### [HUDFramework](https://www.nexusmods.com/fallout4/mods/20309) *v1.0f*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 HUDFramework is a UI framework that makes it possible for mods to add new UI elements to the HUD. 
 - *Main files*: HUDFramework 1.0f
 
 ##### [Power Armor HoloHUD](https://www.nexusmods.com/fallout4/mods/29969) *v1.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  This will replace ridiculous half transparent... whatever it is with something much nicer. 
 - *Main files*: PA HoloHUD
 
 ##### [HUD Plus Plus](https://www.nexusmods.com/fallout4/mods/27218) *v1.1.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  This mod adds some UI widgets to HUD to display detailed information of object crosshair points to or selected in quick loot menu, it also provides some extra features to make player play holotape and read book directly from quick loot menu without need to open inventory while looting. 
 - *Main files*: HUD Plus Plus
 
@@ -391,10 +396,12 @@ In CtGW main archive there are two version:
  - *Main files*: All-in-One FOMOD Installer
 
 ##### [Immersive HUD](https://www.nexusmods.com/fallout4/mods/20830) *v3.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  HUD when you need. Hide when you don't. 
 - *Main files*: Immersive HUD - iHUD
 
 ##### [Ruddy88 ́s Simple Sorter](https://www.nexusmods.com/fallout4/mods/33983) *v1.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Simple Sorter is a FO4Edit script that will automatically add the text needed for icon replacements for all valid items in your entire load order. It automatically scans your mod list, loads all valid items to a new ESP, then detects what sort of item it is so that the correct icons are used. No more patches, no more manually patching. 
 
 - *Main files*: R88SimpleSorter_XML
@@ -418,12 +425,14 @@ In CtGW main archive there are two version:
 > 
 
 ##### [Clock Widget - Show Real Time While Loading](https://www.nexusmods.com/fallout4/mods/26759) *v1.4.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  This mod adds a clock widget to loading menu, main menu and fader menu to display current real time while loading.How much time did you spend on loading? 
 - *Main files*: Clock Widget
 
 > You can change this setting in `ClockWidget.ini` to toggle on/off 24-hour clock: `iEnable24HourClock=1/0`.
 
 ##### [Satellite Color World Map Combo](https://www.nexusmods.com/fallout4/mods/9414) *v1.3*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Combines Satellite World Map and Color Map. No ESP required. New features included. 
 - *Main files*: Satellite Color World Map Combo 1-3
 
@@ -431,16 +440,31 @@ During installer choose:
 
 - No Special
 
-##### [Nuka World Sattelite Map](https://www.nexusmods.com/fallout4/mods/32456)
+##### [Nuka World Sattelite Map](https://www.nexusmods.com/fallout4/mods/32456) *v1.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 Also install maps for Nuka-World and Far harbor and Zoom-out Extended (half-sized
 markers) and make sure to merge them with the main mod. I had issues when installing
 them as separate mods for some reason.
 
-##### [Crafting Highlight Fix](https://www.nexusmods.com/fallout4/mods/27479)
+##### [Far Harbor Satellite Map](https://www.nexusmods.com/fallout4/mods/30966) *v1.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
+Pip-boy Far Harbor Satellite Map. 2K and 4K. 
 
-##### [No more hold v to enter workshop](https://www.nexusmods.com/fallout4/mods/19996)
+##### [Zoom-out Extended Unofficial for1.7.9 Large or Halfsize Icons 2k-4k-8k](https://www.nexusmods.com/fallout4/mods/13989) *v2.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
+ Icons are double size.
 
-##### [Loading Screen Spoiler Remover](https://www.nexusmods.com/fallout4/mods/30594)
+##### [Crafting Highlight Fix](https://www.nexusmods.com/fallout4/mods/27479) *v1.8.6*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
+ A F4SE plugin that allows you to disable the hardcoded, vision-obscuring shader effect at various workbenches so you can actually see what you're crafting. Also allows you to change the shader effect for the Power Armor station and robot workbenches to a outline-only shader instead of a full shader. 
+
+##### [No more hold v to enter workshop](https://www.nexusmods.com/fallout4/mods/19996) *v1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
+ This removes the "hold V" to enter workshop menu that is constantly in the upper left corner of your screen. 
+
+##### [Loading Screen Spoiler Remover](https://www.nexusmods.com/fallout4/mods/30594) *v0.666*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
+ Removes the Spoilers from the Loading Screen. You can still see the pretty models and spin them around. This just edits one .swf file (interface file) and does not activate an .esp (or any mods) so it is 100% achievement friendly. 
 
 ## Settlements
 
