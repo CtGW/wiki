@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T19:27:47.559Z
+date: 2019-07-25T19:31:42.859Z
 tags: 
 ---
 
@@ -340,8 +340,8 @@ customizable HUD. DEF_INV provide many improvements to Pipboy, container, and ba
 {.is-info}
 
 > Delete the following files 
-> - **Interface\Translate_%%.txt**
-> {.is-success}
+>   `Interface\Translate_%%.txt`
+>{.is-warning}
 
 ##### [DEF_UI Iconlibs Rescaled and Fixed](https://www.nexusmods.com/fallout4/mods/31088/)
 Based on Updated ICONLIBS2 for DEF_UI by omega9380. Aims to bring consistency in
