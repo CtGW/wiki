@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T10:35:58.624Z
+date: 2019-07-25T18:44:14.930Z
 tags: 
 ---
 
@@ -68,6 +68,7 @@ Mod description
 ## Core mods
 
 ##### [F4SE](https://f4se.silverlock.org/) *v0.6.17*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 Install only the scripts, by doing a manual install in MO2 and selecting data folder.
 
 > This way we can more easily determine if any of the scripts are overwritten by later mods.
@@ -75,116 +76,152 @@ Install only the scripts, by doing a manual install in MO2 and selecting data fo
 
 
 ##### [PrivateProfileRedirector F4](https://www.nexusmods.com/fallout4/mods/33947) *v0.4*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 Speeds up game start by storing INI files in memory instead of opening, parsing and closing the file each time some value from it is needed.
 
 ##### [Unofficial Fallout 4 Patch](https://www.nexusmods.com/fallout4/mods/4598) *v2.0.7*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 A comprehensive bugfixing mod for Fallout 4. The goal of the Unofficial Fallout 4 Patch (aka UFO4P) is to eventually fix every bug with Fallout 4 not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package. 
 
 ##### [Mod Configuration Menu](https://www.nexusmods.com/fallout4/mods/21497) *v1.37*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 The Mod Configuration Menu is a settings page for mods! It provides a central location for mod configuration, accessible via the Pause menu. 
  
 ##### [Game Configuration Menu](https://www.nexusmods.com/fallout4/mods/33759) *v0.6*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 GCM allows you easily set many game settings without the need of additional ESPs or console commands. 
  
 
 ##### [Armor and Weapon Keywords Community (AWKCR)](https://www.nexusmods.com/fallout4/mods/6091) *v8.51*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  This is a master file to create a standardize framework for armor so that modders can create and modify armor (like Armorsmith) while making edits compatible with mods that adjust dynamic item naming (like Valdacil's Item Sorting).
  
 ##### [Armorsmith Extended](https://www.nexusmods.com/fallout4/mods/2228) *v4.6*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 This mod does so much awesome stuff that the description doesn't come anywhere close to fitting here. 
 
 ## Minor fixes
 
 ##### [CCCleaner](https://www.nexusmods.com/fallout4/mods/26592) *v3.11*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 clean all about CC from ur game interface 
  
 ##### [Achievements](https://www.nexusmods.com/fallout4/mods/12465) *v1.0.5*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 Uses F4SE to re-enable achievements while mods are active
 
 ##### [RAW INPUT - The Ultimate Mouse Sensitivity Fix](https://www.nexusmods.com/fallout4/mods/27019) *v2.4*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 Disabled Mouse Acceleration, Horizontal/Vertical Parity, Scalable ADS Multiplier, Normalized Sensitivity
 
 ##### [Simple Trashcan fix](https://www.nexusmods.com/fallout4/mods/14707/) *v1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 One does not simply "steal" trashes.  
 
 ##### [Wetness shader fix](https://www.nexusmods.com/fallout4/mods/23389) *v2.2*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 This small mod fixes the exaggerated shine of specific objects while it's raining. Comes with an installer for different options. 
  
 ##### [Eye Normal Map Fix](https://www.nexusmods.com/fallout4/mods/819) *v1b*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 Enhanced normal maps for the eyes. 
 
 ##### [Far Harbor Doctor Dialogue Fix](https://www.nexusmods.com/fallout4/mods/16274) *v1.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Far Harbor doctors will now offer doctor services. 
 
 ##### [Search and Destroy Fixed](https://www.nexusmods.com/fallout4/mods/33127) *v1.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 The Far Harbor Quest "Search and Destroy" is massively bugged in the game, and while the quest can be completed, the Brotherhood doesn't attack as it is supposed to. This mod fixes the reasons they don't arrive at the attack site and several other bugs within the quest that would probably never have been noticed without it being fixed. 
 
 ##### [Lever Action Reload Fix](https://www.nexusmods.com/fallout4/mods/22896) *v1.4*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 The most stable lever action reload fix out there with working 3rd person. 
 
 ##### [Overboss Power Armor headlamp fix](https://www.nexusmods.com/fallout4/mods/19295) *v1.2*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 Adds better headlamp functionality to the Overboss power armor helmet from Nuka World. 
 
 ##### [Mechanist's Lair - expanded corrected and fixed](https://www.nexusmods.com/fallout4/mods/11490) *v0.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 This settlement expansion comes in three flavours and with an additional fix added !
 You can choose from simply using a fix, that will allow to build in the Lair like in every other settlement, or you can go for one of the three / four expansions, one fullfeatured, a more immersive one and a third/fourth Version, that is really as immersi 
 
 ##### [Perception Bug Fix](https://www.nexusmods.com/fallout4/mods/35376) *v1.0.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 This mod prevents the "Perception Bug" from affecting the player. 
 
 ##### [Protectron Subway Steward (fix)](https://www.nexusmods.com/fallout4/mods/22022) *v*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 Enables the scene for Protectrons when assigned the Subway Steward personality. 
  
 ##### [Alex's Male First Person Camera Height Fix](https://www.nexusmods.com/fallout4/mods/27582) *v1.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 Adjusts the eyeheight in first person if you play as a male character.
 
 ##### [Vault 111 Floor Guide Fix](https://www.nexusmods.com/fallout4/mods/28167) *v1.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  This mod fixes the arrows and lines at the entrance in prewar Vault 111. They're disappearing when viewed from certain angles. Now not anymore. 
 
 ##### [Starlight Drive In LOD Fix with ESL](https://www.nexusmods.com/fallout4/mods/23034) *v1.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Was always annoyed with how the Drive In would fade into view when walking up to it. Can now be seen properly from far away. More immersive. ESL Version Available. 
 
 ##### [NukaWorld Transit Center LOD Fix with ESL](https://www.nexusmods.com/fallout4/mods/30925) *v1.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Makes the giant Nuka Bottles at the Transit Center in the Commonwealth visible from far away so they don't pop in when you get close. Purely for immersion. ESL version available. 
 
 ##### [Vault111 And Billboard LOD Fix](https://www.nexusmods.com/fallout4/mods/36288) *v1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Makes Vault 111 and the giant Billboard next to it visible from a distance! 
 
 ##### [Sanctuary Bridge LOD Fix](https://www.nexusmods.com/fallout4/mods/36288) *v1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Makes Vault 111 and the giant Billboard next to it visible from a distance! 
 
 ##### [Far Harbor Bed Fix](https://www.nexusmods.com/fallout4/mods/34504) *v1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Fixes the evil bed at far harbor red rocket. 
  
 ##### [Hardware Town Key Havok Fix](https://www.nexusmods.com/fallout4/mods/34497) *v1.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  A super simple mod that disables Havok settling on the Hardware Town Storage Key by applying the defaultdisablehavokonload script to it. This prevents it from being knocked off the desk on the second floor should you use frag grenades or mines. 
 
 ##### [Nuka Cola Storage Rack](https://www.nexusmods.com/fallout4/mods/24909) *v02.00.00*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  The constructable object form for the Nuka Cola Storage Rack has an error This fixes that. 
 
 ##### [Space Sentry Leg Fix](https://www.nexusmods.com/fallout4/mods/29869) *v1.00*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Fixes the wonky wheels on the Space Sentry legs 
 
 ##### [Vault Door FIXED](https://www.nexusmods.com/fallout4/mods/24954) *v0.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Fixed navmesh for Vault-Tec Workshop DLC Vault Door 
 
 ##### [Blood Pack Mesh Fix](https://www.nexusmods.com/fallout4/mods/25800) *v1.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Fixed model of Blood Pack. Now tubes are visible. 
 
 ##### [Fixed Gobo Effects](https://www.nexusmods.com/fallout4/mods/27445) *v1.4*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  This mod fixes artefacts, pixelation and color banding in textures that are used for special light effects. Zero performance loss, little to nothing strain for your VRAM, no esp needed, no reason to not use it. 
 
 ##### [Plasma Impact Fix](https://www.nexusmods.com/fallout4/mods/25412) *v1.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  A very simple little mod that fixes the bugged plasma impact sets if you're running EBT. 
 
 ##### [Doorway Endcap Fix](https://www.nexusmods.com/fallout4/mods/35818) *v1.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Fixes the Workshop Vault Domestic Doorway Endcap so that it snaps in the correct place. 
 
 ##### [Flicker fixer](https://www.nexusmods.com/fallout4/mods/35720) *v5.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Fixes most of the exterior flickering aka z fighting in the game, particularly in the Boston and Cambridge areas. 
 
 ##### [BiRaitBec ́s merged Fixes](https://www.nexusmods.com/fallout4/mods/23556) *v1.0*
-
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
+Merged mod for a lot of fixes that UFO4P still has not gotten around to include yet.
 
 
 ## Misc tweaks
