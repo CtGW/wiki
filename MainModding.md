@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T22:56:47.818Z
+date: 2019-07-25T23:15:25.716Z
 tags: 
 ---
 
@@ -523,35 +523,40 @@ Improves vanilla snapping and adds a variety of highly functional blocks to the 
 > - DLC patches
 
 
-##### [PWR - Passive Water Resources](https://www.nexusmods.com/fallout4/mods/19871)
-Install only main file, not the SKE patch
+##### [PWR - Passive Water Resources](https://www.nexusmods.com/fallout4/mods/19871) *v1.3*
+ Adds 22 water storage items such as tanks, water towers and animated rainwater collectors to build menu. Why passive? Because they generate water points and other bonuses only if your settlement has working "active" water resources (pumps, purifiers, etc.). 
 
-##### [CWSS Redux](https://www.nexusmods.com/fallout4/mods/14326)
-Craftable working showers, baths, toilets, sinks, urinals, bubblers, and kitchens, that
-followers, settlers, traders and caravan guards can use automatically. Custom idles, models,
-sounds and visual FX. Automatic undressing/dressing. Immersive buffs that taper over time.
-Essential to this modlist if you ́ve also installed “Get Dirty”
+> Install only main file, not the SKE patch
 
-##### [Lore Friendly Posters](https://www.nexusmods.com/fallout4/mods/7145)
-Install mod, and then the Wasteland and Contraptions Workshop and disappearing Mesh Fix
+##### [CWSS Redux](https://www.nexusmods.com/fallout4/mods/14326) *v2.1*
+ Craftable working showers, baths, toilets, sinks, urinals, bubblers, and kitchens, that followers, settlers, traders and caravan guards can use automatically. Custom idles, models, sounds and visual FX. Automatic undressing/dressing. Immersive buffs that taper over time. 
+
+> Essential to this modlist if you ́ve also installed “Get Dirty”
+>{.is-success}
+
+##### [Lore Friendly Posters](https://www.nexusmods.com/fallout4/mods/7145)*v1.0*
+ Adds 100 Posters for your decorating pleasure. Lore Friendly. 
+
+> Install mod, and then the Wasteland and Contraptions Workshop and disappearing Mesh Fix
 patches
 
-##### [Workshop Rearranged](https://www.nexusmods.com/fallout4/mods/16181)
-Install main file and patch pack
-during installation of patch file, select:
-Required patches
-
-- Lore friendly posters – Replacer (after install, move replacer after WRA)
-- Master Plan – Standalone
-
-Optional patches
-
-- Atomic radio – standalone
-- Beantown interiors – standalone – DEF_UI
-
-Creation club
-
-- your choice
+##### [Workshop Rearranged](https://www.nexusmods.com/fallout4/mods/16181) *v0.6.13*
+ New items and functionality for the Fallout 4 Workshop. 
+ 
+> Install main file and patch pack
+> during installation of patch file, select:
+> Required patches
+> - Lore friendly posters – Replacer (after install, move replacer after WRA)
+> - Master Plan – Standalone
+> 
+> Optional patches
+> 
+> - Atomic radio – standalone
+> - Beantown interiors – standalone – DEF_UI
+> 
+> Creation club
+> 
+> - your choice
 
 ##### [Master Plan WRA Patch](https://www.nexusmods.com/fallout4/mods/16626)
 
