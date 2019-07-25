@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T23:44:36.015Z
+date: 2019-07-25T23:45:32.425Z
 tags: 
 ---
 
@@ -612,15 +612,18 @@ patches
 ##### [Private Area Markers (keep settlers out of your house)](https://www.nexusmods.com/fallout4/mods/26377) *v1.1*
  Keep settlers out of your house 
 
-##### [Timer Power Switch](https://www.nexusmods.com/fallout4/mods/10750)
-Allows you to build power switches that automatically power on/off.
+##### [Timer Power Switch](https://www.nexusmods.com/fallout4/mods/10750) *v1.00*
+ This mod adds 3 new timer power switches to workshop Power/Connectors && Switches category, which allows you to build power switches automatically power on/off. 
 
-##### [Weapon Rack Extended](https://www.nexusmods.com/fallout4/mods/15729)
+##### [Weapon Rack Extended](https://www.nexusmods.com/fallout4/mods/15729) *v1.3.1*
+ Adds short weapon racks that can display all: Small and Medium weapons. and more
+Made For Immersion! 
 
-##### [Weapon Rack Fixes](https://www.nexusmods.com/fallout4/mods/19324)
+##### [Weapon Rack Fixes](https://www.nexusmods.com/fallout4/mods/19324) *v1.1.1*
+ Allows you to put all weapons on Contraptions Workshop Weapon Racks. 
 
 ##### [Settlement Objects Combined](https://www.nexusmods.com/fallout4/mods/36461)
-oad esp version 2 (loose files)
+load esp version 2 (loose files)
 If you use the get Dirty mod we will want to make the showers from this mod compatible.
 - Open F04Edit. Select both "Get Dirty" and "Settlement Objects Combined" and click ok.
 Only those 2 should be selected.
