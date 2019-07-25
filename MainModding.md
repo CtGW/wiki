@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T22:54:21.896Z
+date: 2019-07-25T22:54:50.096Z
 tags: 
 ---
 
@@ -495,9 +495,8 @@ Flight, Undo Buttons, Layers, Cloning Tools, and more!
 ##### [Quieter settlements](https://www.nexusmods.com/fallout4/mods/2819) *v0.30*
  Settlements too noisy? This mod reduces the volume of generators, turrets, and other settlement sounds. Choose different volumes for different sounds. 
 
-##### [Locksmith](https://www.nexusmods.com/fallout4/mods/12454)
-Allows you to lock any door or container, preventing any of those snoopy settlers to mess with your stuff.
-Install Locksmith, then the replacer Locksmith.esp provided in my files.
+##### [Locksmith](https://www.nexusmods.com/fallout4/mods/12454) *v1.02*
+ Tired of those pesky settlers walking in on you while you're using the bathroom? Worried Piper's going to find your copy of the Lusty Argonian Maid? Well, worry no longer! Now you can lock (and unlock, but why would you ever want to do that?) any door or container you wish! 
 
 ##### [Basement Living](https://www.nexusmods.com/fallout4/mods/10967)
 
