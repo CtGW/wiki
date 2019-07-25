@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T19:59:42.288Z
+date: 2019-07-25T20:01:38.369Z
 tags: 
 ---
 
@@ -384,6 +384,10 @@ HUDFramework is a UI framework that makes it possible for mods to add new UI ele
 In CtGW main archive there are two version:
 - **standard**: some UI elements removed and the rest resized and move towards the edge of the screen
 - **lean**: same as above but also compass, enemy health and notifications turned off
+
+##### [Clean HUD 2 - Immersive DEF_UI Presets](https://www.nexusmods.com/fallout4/mods/9441) *v2.0.0*
+ You like immersive things, eh? Well I've got 13 different presets for DEF_UI right here... 
+ - *Main files*: All-in-One FOMOD Installer
 
 ##### [Immersive HUD](https://www.nexusmods.com/fallout4/mods/20830)
 A hud that gets out of the way when you don ́t need it.
