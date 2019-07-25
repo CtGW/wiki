@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T19:36:42.656Z
+date: 2019-07-25T19:38:07.548Z
 tags: 
 ---
 
@@ -336,19 +336,18 @@ customizable HUD. DEF_INV provide many improvements to Pipboy, container, and ba
 > - Language and Screen Ratio based on your preferences
 > - Do NOT install component tags and Vanilla Hud
 > - i already have sorting xml files option
-> 
-{.is-info}
+> {.is-warning}
 
 > Delete the following files 
 >   `Interface\Translate_**.txt`
->{.is-warning}
+>
 
 ##### [DEF_UI Iconlibs Rescaled and Fixed](https://www.nexusmods.com/fallout4/mods/31088/) *v1.5*
  Based on Updated ICONLIBS2 for DEF_UI by omega9380. Aims to bring consistency in design and coloring to the icon library. Also fixes various issues with icon sizes, bounding boxes and scaling. 
 - *Main files*: DEF_UI Iconlibs Rescaled and Fixed - Subtle Color
 
 
-> For the colors to work, a couple of changes need to be made to fallout4custom.ini
+> For the colors to work, add/change the following values to fallout4custom.ini
 > ```
 > [Pipboy]
 > bPipboyDisableFX=1
@@ -365,8 +364,7 @@ customizable HUD. DEF_INV provide many improvements to Pipboy, container, and ba
 > fPipboyScreenEmitIntensityPA=1
 > fPipboyScreenDiffuseIntensityPA=0
 > ```
-> If those values are already present, override them. Otherwise just add them in the
-{.is-warning}
+>
 
 appropriate section.
 
