@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T19:09:53.894Z
+date: 2019-07-25T19:17:55.953Z
 tags: 
 ---
 
@@ -11,7 +11,7 @@ tags:
 > 
 > **TLDR**: When given a choice of choosing an ESP or an ESL you should always download the ESP and then manually mark it as an ESL in FO4Edit.
 > 
-{.is-info}
+{.is-error}
 
 For an in-depth understanding: https://www.afkmods.com/index.php?/topic/5079-plugin-files-and-you-esmeslesp/
 
@@ -329,15 +329,15 @@ Re-release of DEF_HUD and DEF_INV by Neanka with a combined installer package. D
 customizable HUD. DEF_INV provide many improvements to Pipboy, container, and barter inventory screens. 
 - *Main files*: Def_ui 1.5.1
 - *Main files*: def_ui_translations 1.10.130
-<details><summary></center><b>Def_ui 1.5.1</b></center> </summary>
-<pre>
-- DEF_HUD
-- DEF_INV
-- Language and Screen Ratio based on your preferences
-- Do NOT install component tags and Vanilla Hud
-- i already have sorting xml files option
-</pre>
-</details>
+
+> ###### Def_ui 1.5.1
+> - DEF_HUD
+> - DEF_INV
+> - Language and Screen Ratio based on your preferences
+> - Do NOT install component tags and Vanilla Hud
+> - i already have sorting xml files option
+> 
+{.is-info}
 
 After the second file is merged, use right-click Open in Explorer and delete any Translate_%%.txt
 files in the \Interface folder. If $CREATION CLUB appears on the main menu, you've missed this
