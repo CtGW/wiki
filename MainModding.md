@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T18:57:41.394Z
+date: 2019-07-25T18:59:42.768Z
 tags: 
 ---
 
@@ -280,17 +280,23 @@ Merged mod for a lot of fixes that UFO4P still has not gotten around to include 
 ##### [Puddle remover plus](https://www.nexusmods.com/fallout4/mods/34035) *v6.0*
  Options to remove Water Puddles, Blood Puddles, Mud Puddles, Seagull Droppings and the dirt clouds from NPC Footsteps. 
 
-##### [R2K fast pipboy](https://www.nexusmods.com/fallout4/mods/17777)
+##### [R2K fast pipboy](https://www.nexusmods.com/fallout4/mods/17777) *v1.1*
+ A collection of mods and ends. 
 
-##### [Not So Bright Pins](https://www.nexusmods.com/fallout4/mods/35097)
+##### [Not So Bright Pins](https://www.nexusmods.com/fallout4/mods/35097) *v1.0*
+ Reduced the brightness of the pins in the loadingscreens 
 
-##### [Swinging Animated Meat Bags](https://www.nexusmods.com/fallout4/mods/21087)
+##### [Swinging Animated Meat Bags](https://www.nexusmods.com/fallout4/mods/21087) *v1.41*
+ This mod adds a new swinging animation to all the hanging meat bags in the game, with swinging sound, dripping blood and swarming flies effect. It also fixes all meat bags so their loot will respawn. Swarming flies are also added to fallen meat bags, including craftable ones. 
 
-##### [Tougher Cars Durable Vehicles](https://www.nexusmods.com/fallout4/mods/3680)
+##### [Tougher Cars Durable Vehicles](https://www.nexusmods.com/fallout4/mods/3680) *v1.3*
+ Increases the durability of destructible vehicles. Three flavors to choose from: multiplied vanilla values, diverse modified values, or indestructible vehicles. 
+ 
+##### [Lootable vendors](https://www.nexusmods.com/fallout4/mods/34960) *v1.01*
+ Wipe the vendor's inventory dry with this mod. This mod transfers the items that a vendor is selling to their body when they are killed by the player. 
 
-##### [Lootable vendors](https://www.nexusmods.com/fallout4/mods/34960)
-
-##### [ExitSave Killer](https://www.nexusmods.com/fallout4/mods/18102)
+##### [ExitSave Killer](https://www.nexusmods.com/fallout4/mods/18102) *v0.2*
+ This mod stops exit saves from being done by the game. 
 
 ## Camera and UI
 
