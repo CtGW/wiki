@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T19:38:07.548Z
+date: 2019-07-25T19:38:29.047Z
 tags: 
 ---
 
@@ -336,7 +336,8 @@ customizable HUD. DEF_INV provide many improvements to Pipboy, container, and ba
 > - Language and Screen Ratio based on your preferences
 > - Do NOT install component tags and Vanilla Hud
 > - i already have sorting xml files option
-> {.is-warning}
+>
+{.is-success}
 
 > Delete the following files 
 >   `Interface\Translate_**.txt`
