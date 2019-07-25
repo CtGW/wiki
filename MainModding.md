@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T19:39:14.824Z
+date: 2019-07-25T19:48:13.791Z
 tags: 
 ---
 
@@ -330,14 +330,13 @@ customizable HUD. DEF_INV provide many improvements to Pipboy, container, and ba
 - *Main files*: Def_ui 1.5.1
 - *Main files*: def_ui_translations 1.10.130
 
-> ###### Def_ui 1.5.1
-> - DEF_HUD
-> - DEF_INV
-> - Language and Screen Ratio based on your preferences
-> - Do NOT install component tags and Vanilla Hud
-> - i already have sorting xml files option
->
-{.is-success}
+###### Def_ui 1.5.1 (installation options)
+- DEF_HUD
+- DEF_INV
+- Language and Screen Ratio based on your preferences
+- Do NOT install component tags and Vanilla Hud
+- i already have sorting xml files option
+
 
 > Delete the following files 
 >   `Interface\Translate_**.txt`
@@ -348,24 +347,25 @@ customizable HUD. DEF_INV provide many improvements to Pipboy, container, and ba
 - *Main files*: DEF_UI Iconlibs Rescaled and Fixed - Subtle Color
 
 
-> For the colors to work, add/change the following values to fallout4custom.ini
+> Add/change the following values to fallout4custom.ini
 > ```
 > [Pipboy]
 > bPipboyDisableFX=1
-> fPAEffectColorR=1
-> fPAEffectColorG=1
 > fPAEffectColorB=1
+> fPAEffectColorG=1
+> fPAEffectColorR=1
 > 
 > [Interface]
-> iHUDColorR=255
-> iHUDColorG=255
 > iHUDColorB=255
+> iHUDColorG=255
+> iHUDColorR=255
 > 
 > [Display]
-> fPipboyScreenEmitIntensityPA=1
 > fPipboyScreenDiffuseIntensityPA=0
+> fPipboyScreenEmitIntensityPA=1
 > ```
 >
+
 
 appropriate section.
 
