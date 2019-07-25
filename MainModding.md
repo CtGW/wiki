@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T19:24:24.168Z
+date: 2019-07-25T19:24:59.428Z
 tags: 
 ---
 
@@ -342,7 +342,7 @@ customizable HUD. DEF_INV provide many improvements to Pipboy, container, and ba
 > After the second file is merged, use right-click Open in Explorer and delete any Translate_%%.txt
 > files in the \Interface folder. If $CREATION CLUB appears on the main menu, you've missed this
 > step.
-> {.is-info}
+> {.is-success}
 
 ##### [DEF_UI Iconlibs Rescaled and Fixed](https://www.nexusmods.com/fallout4/mods/31088/)
 Based on Updated ICONLIBS2 for DEF_UI by omega9380. Aims to bring consistency in
