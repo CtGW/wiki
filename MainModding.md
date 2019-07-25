@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T18:47:57.238Z
+date: 2019-07-25T18:53:41.469Z
 tags: 
 ---
 
@@ -241,25 +241,36 @@ Merged mod for a lot of fixes that UFO4P still has not gotten around to include 
 ##### [No Quest Autostart – Vault-Tec](https://www.nexusmods.com/fallout4/mods/31454) *v1.0*
  This mod prevents the quest 'Vault-Tec Calling' from automatically updating and beginning officially until you either A) listen to the Vault 88 emergency broadcast or B) Enter the Vault 88 cell--as in, go inside. 
 
-##### [Recruiter Radio Freedom](https://www.nexusmods.com/fallout4/mods/14762)
+##### [Recruiter Radio Freedom](https://www.nexusmods.com/fallout4/mods/14762) *v1*
+ Makes Radio Freedom a Recruitment Beacon 
 
-##### [Corpse Collision](https://www.nexusmods.com/fallout4/mods/37133)
+##### [Corpse Collision](https://www.nexusmods.com/fallout4/mods/37133) *v1*
+ Run into dead things and they get pushed. 
 
-##### [Realistic Death Physics - No Animations](https://www.nexusmods.com/fallout4/mods/4371)
+##### [Realistic Death Physics - No Animations](https://www.nexusmods.com/fallout4/mods/4371) *v1.2*
+ 10mm bullets knocking raiders into the air? Deathclaws tossing you around like a tennis ball? Dead bodies floating gently to the ground like rose petals? No more! 
 
-##### [Remove Interior Fog](https://www.nexusmods.com/fallout4/mods/2628)
+##### [Remove Interior Fog](https://www.nexusmods.com/fallout4/mods/2628) *v1.5dlc6*
+ This mod will pretty much remove all that ugly fog you see everywhere indoors and will look a million times better. 
 
-##### [Realistic conversations](https://www.nexusmods.com/fallout4/mods/32514)
+##### [Realistic conversations](https://www.nexusmods.com/fallout4/mods/32514) *v1.0*
+ Every social logic in Fallout for NPCs is changed, they talk more often to each others. And will less likely greet to you from a distance, they will also greet less often too, making them to not act as much as robots. NPCs are also more clever and will know for example if they talked to a NPC and will therefore talk to another or not talk at all. 
 
-##### [Immersive Generic Dialogue](https://www.nexusmods.com/fallout4/mods/14108)
+##### [Immersive Generic Dialogue](https://www.nexusmods.com/fallout4/mods/14108) *v1.03c*
+ Your reputation will now be determined by your actions and how well you manage your settlements. Earn the respect and trust by helping people and be a good ruler of your settlements, or be shunned for the opposite actions. 
 
-##### [Icebreaker Settlements – Settler Dialogue Overhaul](https://www.nexusmods.com/fallout4/mods/25972)
+##### [Icebreaker Settlements – Settler Dialogue Overhaul](https://www.nexusmods.com/fallout4/mods/25972) *v1.03*
+ 400+ new carefully selected lines of settler dialogue to reduce the repetitive sound of the 168 original. All lines in the original actors' voices. Intended to blend in very naturally with the default lines. Settler dialogue lines that insulted the player character were also tweaked. 
+ 
+##### [Icebreaker - Piper - Companion Dialogue Overhaul](https://www.nexusmods.com/fallout4/mods/25525) *v1.0.5*
+ Adds more variety to the dialogue companions use the most often. Over 300 new audio files in the companions own voice, with facial expression, and supports Affinity. 
 
-##### [Icebreaker - Piper - Companion Dialogue Overhaul](https://www.nexusmods.com/fallout4/mods/25525)
 
-##### [Settler Sandbox](https://www.nexusmods.com/fallout4/mods/20442/)
+##### [Settler Sandbox](https://www.nexusmods.com/fallout4/mods/20442/) *v4.0*
+ Settler Sandbox and AI Expansion 
 
-##### [Locky bastard](https://www.nexusmods.com/fallout4/mods/13380/)
+##### [Locky bastard](https://www.nexusmods.com/fallout4/mods/13380/) *v4.0*
+ Tired of lockpicking ? Shoot a bullet at that goddamn lock to open it ! Or do you prefer to blow it up with some explosive ? Oh wait, you just want to kick doors open with your shiny X-01 ? Well, you can do that as well. 
 
 ##### [First Person messages](https://www.nexusmods.com/fallout4/mods/10870)
 
