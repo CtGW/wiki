@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T20:01:38.369Z
+date: 2019-07-25T20:02:50.196Z
 tags: 
 ---
 
@@ -380,12 +380,13 @@ HUDFramework is a UI framework that makes it possible for mods to add new UI ele
 - *Main files*: HUD Plus Plus
 
 ##### [ApeHUD](https://www.nexusmods.com/fallout4/mods/30294) *v1.0*
-
+<span style="background-color:cyan; padding:3px;"><font color="black"> Optional </font></span>
 In CtGW main archive there are two version:
 - **standard**: some UI elements removed and the rest resized and move towards the edge of the screen
 - **lean**: same as above but also compass, enemy health and notifications turned off
 
 ##### [Clean HUD 2 - Immersive DEF_UI Presets](https://www.nexusmods.com/fallout4/mods/9441) *v2.0.0*
+<span style="background-color:cyan; padding:3px;"><font color="black"> Optional </font></span>
  You like immersive things, eh? Well I've got 13 different presets for DEF_UI right here... 
  - *Main files*: All-in-One FOMOD Installer
 
