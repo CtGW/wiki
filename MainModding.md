@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T20:14:35.414Z
+date: 2019-07-25T20:15:01.881Z
 tags: 
 ---
 
@@ -28,7 +28,7 @@ So, in theory, any plugin can add <code>16<sup>6</sup></code> new items, though 
 ESLs work by sharing the `FE` namespace, so that an element in the plugin looks like `FEyyyyyy`.
 The first ESL has the plugin FormIDs as: `FE000zzz`, the second ESL has FormIDs as: `FE001zzz`, so on and so forth.
 
-So in theory, you cannot have more than <code>16<sup>3</sup></code> ESL plugins in your modlist, each of which can only introduce another <code>16<sup>3</sup></code> new items/elements.
+So in theory, you cannot have more than <code>16<sup>3</sup>=4096</code> ESL plugins in your modlist, each of which can only introduce another <code>16<sup>3</sup></code> new items/elements.
 
 ### ESL vs ESP
 .esl plugins are loaded in the master space and is termed as a *light master*, as internally the bethesda engine makes every .esl with an ESM tag as well.
