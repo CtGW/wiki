@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T19:07:01.128Z
+date: 2019-07-25T19:07:12.420Z
 tags: 
 ---
 
@@ -330,12 +330,13 @@ customizable HUD. DEF_INV provide many improvements to Pipboy, container, and ba
 - *Main files*: Def_ui 1.5.1
 - *Main files*: def_ui_translations 1.10.130
 Def_ui <details><summary></summary>
+  <p>
 - DEF_HUD
 - DEF_INV
 - Language and Screen Ratio based on your preferences
 - Do NOT install component tags and Vanilla Hud
 - i already have sorting xml files option
-</details>
+  </p></details>
 After the second file is merged, use right-click Open in Explorer and delete any Translate_%%.txt
 files in the \Interface folder. If $CREATION CLUB appears on the main menu, you've missed this
 step.
