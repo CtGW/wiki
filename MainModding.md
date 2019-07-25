@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T19:31:42.859Z
+date: 2019-07-25T19:36:42.656Z
 tags: 
 ---
 
@@ -340,32 +340,34 @@ customizable HUD. DEF_INV provide many improvements to Pipboy, container, and ba
 {.is-info}
 
 > Delete the following files 
->   `Interface\Translate_%%.txt`
+>   `Interface\Translate_**.txt`
 >{.is-warning}
 
-##### [DEF_UI Iconlibs Rescaled and Fixed](https://www.nexusmods.com/fallout4/mods/31088/)
-Based on Updated ICONLIBS2 for DEF_UI by omega9380. Aims to bring consistency in
-design and coloring to the icon library. Also fixes various issues with icon sizes, bounding
-boxes and scaling.
-Install the subtle color main file.
-For the colors to work, a couple of changes need to be made to fallout4custom.ini
-```
-[Pipboy]
-bPipboyDisableFX=1
-fPAEffectColorR=1
-fPAEffectColorG=1
-fPAEffectColorB=1
+##### [DEF_UI Iconlibs Rescaled and Fixed](https://www.nexusmods.com/fallout4/mods/31088/) *v1.5*
+ Based on Updated ICONLIBS2 for DEF_UI by omega9380. Aims to bring consistency in design and coloring to the icon library. Also fixes various issues with icon sizes, bounding boxes and scaling. 
+- *Main files*: DEF_UI Iconlibs Rescaled and Fixed - Subtle Color
 
-[Interface]
-iHUDColorR=255
-iHUDColorG=255
-iHUDColorB=255
 
-[Display]
-fPipboyScreenEmitIntensityPA=1
-fPipboyScreenDiffuseIntensityPA=0
-```
-If those values are already present, override them. Otherwise just add them in the
+> For the colors to work, a couple of changes need to be made to fallout4custom.ini
+> ```
+> [Pipboy]
+> bPipboyDisableFX=1
+> fPAEffectColorR=1
+> fPAEffectColorG=1
+> fPAEffectColorB=1
+> 
+> [Interface]
+> iHUDColorR=255
+> iHUDColorG=255
+> iHUDColorB=255
+> 
+> [Display]
+> fPipboyScreenEmitIntensityPA=1
+> fPipboyScreenDiffuseIntensityPA=0
+> ```
+> If those values are already present, override them. Otherwise just add them in the
+{.is-warning}
+
 appropriate section.
 
 ##### [Extended Dialogue Interface](https://www.nexusmods.com/fallout4/mods/27216)
