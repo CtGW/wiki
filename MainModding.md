@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T19:50:45.646Z
+date: 2019-07-25T19:54:18.612Z
 tags: 
 ---
 
@@ -363,10 +363,9 @@ customizable HUD. DEF_INV provide many improvements to Pipboy, container, and ba
 > ```
 >
 
-##### [Extended Dialogue Interface](https://www.nexusmods.com/fallout4/mods/27216)
-Displays full dialogue, and adds engine support for any number of player dialogue options.
-Contains and ESM, which MO2 won ́t automatically put in the correct place. Drag manually
-up in the right pane to the other ESMs.
+##### [Extended Dialogue Interface](https://www.nexusmods.com/fallout4/mods/27216) *v1.3.4*
+ The Extended Dialogue Interface removes the hardcoded 4-option limit on dialogue and adds full engine support for any number of player dialogue options. 
+- *Main files*: Extended Dialogue Interface 1.3.4
 
 ##### [HUDFramework](https://www.nexusmods.com/fallout4/mods/20309)
 a UI framework that makes it possible for mods to add new UI elements to the HUD
