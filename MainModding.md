@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T02:17:43.068Z
+date: 2019-07-26T02:18:48.283Z
 tags: 
 ---
 
@@ -898,13 +898,12 @@ Institute Power Armor I-01
  Changes the 2 second message when a settlement is attacked to a standard message box (see screenshot). 
 
 ##### [Pack Attack NPC Edition - Gangs With Group Combat Tactics](https://www.nexusmods.com/fallout4/mods/30140) *v1.79*
+<span style="background-color:#ff8b94; padding:3px;"><font color="black"> HD-HQ </font></span>
  "Pack Attack: NPC Edition" applies social combat AI to NPC gangs. Rather than simply rushing you in the open as a group, these NPCs will break and cover, retreat and flank, run and hide, and even lie in wait. They're more likely to ambush, less likely to engage in suicidal charges, and more willing to switch to hand-to-hand combat when needed.
  
-> Adds group combat AI to raider gangs, Gunners, and most other NPC groups, based on
-> individual NPC social awareness and tactical combat evaluation. Now with MCM!
-> NOTE: this mod is heavy on script resources and might cause game instability, especially if
+> This mod is heavy on script resources and might cause game instability, especially if
 > adding further scripted mods on top of this list.
-> 
+>{.is-success}
 ##### [H.A.R.D.Core - Fusion Generator Overhaul](https://www.nexusmods.com/fallout4/mods/28890/)
 isn ́t it amazing how every fusion core you find, regardless of how many hundreds of years
 they ́ve been in use, are fully charged?
