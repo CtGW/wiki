@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T16:51:26.950Z
+date: 2019-07-26T16:54:06.863Z
 tags: 
 ---
 
@@ -1176,29 +1176,28 @@ It's also a framework enabling bot NPC's for other mods like EyeBot Companions o
 
 ## New companions
 
-##### [Tina De Luca Voiced as a Settler (Dependency Revisited)](https://www.nexusmods.com/fallout4/mods/20226)
-Allows you to recruit Tina outside Dependency even after the quest was already finished. It
-also fixes several bugs with the "good" ending of the Vault 81 quest Dependency.
+##### [Tina De Luca Voiced as a Settler (Dependency Revisited)](https://www.nexusmods.com/fallout4/mods/20226) *v1.3*
+ Adds over 50 new voiced lines by StrayKitten to fix the NPC as a settler.
+Unlocks some hidden game content in Vault 81.
+Allows you to recruit Tina outside Dependency even after the quest was already finished... or bugged out. 
 
-##### [Heather Casdin](https://www.nexusmods.com/fallout4/mods/23273)
-Heather is a story-driven character with over 1200 lines of custom, voiced dialogue, quests,
-etc
-Custom voiced companion for Fallout 4, boasting over 1200 lines of custom made and
-voiced dialogue. Affinity system, supporting DLC. Romance. Custom quest. Vanilla lore-
-friendly face and background.
-During install choose "Heather with Extended Dialogue Interface" on the first pane, AE on
+##### [Heather Casdin](https://www.nexusmods.com/fallout4/mods/23273) *v1.03*
+ From the author of New Vegas' most popular companion mod, Willow - A Better Companion Experience, comes a new, complex companion for Fallout 4. Heather is a story-driven character with over 1200 lines of custom, voiced dialogue, quests, etc. Heather's unique implementation is designed to improve on the FO4 companion experience. 
+ 
+> During install choose "Heather with Extended Dialogue Interface" on the first pane, AE on
 the second pane.
 
-##### [Heather Casdin - Assorted Patches](https://www.nexusmods.com/fallout4/mods/24314)
+##### [Heather Casdin - Assorted Patches](https://www.nexusmods.com/fallout4/mods/24314) *v1.03-XG*
+ This mod contains patches made by members of the community to use with Heather Casdin - A Unique Companion Experience by llamaRCA. Current patches available: Full Dialogue Interface, Bhaal's Better Sorting, Valdacil's Item Sorting and Armorsmith Extended 
 
-##### [Ellen - the cartographer](https://www.nexusmods.com/fallout4/mods/15962)
-Custom voiced companion for Fallout 4, boasting over 1200 lines of custom made and
-voiced dialogue. Affinity system, supporting DLC. Romance. Custom quest. Vanilla lore-
-friendly face and background.
+##### [Ellen - the cartographer](https://www.nexusmods.com/fallout4/mods/15962) *vFinal*
+ The very first and truly custom voiced companion for Fallout 4, boasting over 1200 lines of custom made and voiced dialogue. Affinity system, supporting DLC. Romance. Custom quest. Vanilla lore-friendly face and background. 
 
-##### [Buttons – Companion](https://www.nexusmods.com/fallout4/mods/31710)
+##### [Buttons – Companion](https://www.nexusmods.com/fallout4/mods/31710) *v1.3*
+ Ethan Gombos a.k.a. Buttons is a unique, fully voiced companion you can find near Sunshine Tidings Co-Op. His specialties are stealth and sniping. He currently works for the Minutemen but he'll tag along with you no matter your faction choice. 
 
-##### [I am Darlene](https://www.nexusmods.com/fallout4/mods/36254)
+##### [I am Darlene](https://www.nexusmods.com/fallout4/mods/36254) *v1.14*
+ Darlene. 
 
 ## Animations
 
