@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T17:19:35.832Z
+date: 2019-07-26T17:20:32.500Z
 tags: 
 ---
 
@@ -1429,13 +1429,16 @@ It also improves the general Image quality by adding new LUT and Imagespaces to 
 > Install Unique NPCs – C and M patch name "More AGOMBZ + Unique NPCs – C and M
 patch" so it doesn ́t merge with the main mod
 
-##### [Better Companions](https://www.nexusmods.com/fallout4/mods/18547/)
-Improves companion accuracy, sneaking, perks etc
+##### [Better Companions](https://www.nexusmods.com/fallout4/mods/18547/) *v1.22*
+ Improves companions and their game-play. 
 
-##### [Amazing Follower Tweaks](https://www.nexusmods.com/fallout4/mods/26976)
-Install main file and use original spouse patch, and XDI fix
+##### [Amazing Follower Tweaks](https://www.nexusmods.com/fallout4/mods/26976) *v1.23*
+ Multiple followers. Appearance sculpting. Commentary controls. Personality reshaping. Outfit management. Follower Locator. Pose support. AI tweaks. Mobile camp. NPC Info Scanner. Auto scrap settlements. Load/Save Prefabs to install elsewhere. Save spouse.
+ 
+> Install main file and use original spouse patch, and XDI fix
 
-##### [Comic Collector](https://www.nexusmods.com/fallout4/mods/18564)
+##### [Comic Collector](https://www.nexusmods.com/fallout4/mods/18564) *v1.1*
+ 1337 unique comics to find. 
 
 ##### [Load Screen Art](https://www.nexusmods.com/fallout4/mods/35361)
 Install the mix random DLC main file. NOTE: some users have experienced noticably
