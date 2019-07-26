@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T02:27:33.848Z
+date: 2019-07-26T02:28:23.981Z
 tags: 
 ---
 
@@ -941,12 +941,14 @@ Add EAT/DRINK/USE choices that let you grab the item and eat/drink/Use in real t
 ##### [Critical Hits Outside of VATS Revisited](https://www.nexusmods.com/fallout4/mods/25583) *v1.2.2b*
 > Install main and worse criticals optional files.
 
-##### [Hacking 101](https://www.nexusmods.com/fallout4/mods/15033)
+##### [Hacking 101](https://www.nexusmods.com/fallout4/mods/15033) *v2.3*
 Major rework of the Hacking system.
 
-##### [Salvage Robot Parts](https://www.nexusmods.com/fallout4/mods/25355)
-
+##### [Salvage Robot Parts](https://www.nexusmods.com/fallout4/mods/25355) *v2*
+ Robots now has a chance to drop appropriate robot parts. For people who likes to scavenge for their robot parts instead of building from scratch. 
+ 
 ##### [Sofa Surfer - Sleeping on Couches](https://www.nexusmods.com/fallout4/mods/24944)
+
 
 ##### [SKK Combat Stalkers (hostile spawns)](https://www.nexusmods.com/fallout4/mods/30308)
 
