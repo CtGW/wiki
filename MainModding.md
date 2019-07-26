@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T16:31:36.025Z
+date: 2019-07-26T16:43:13.414Z
 tags: 
 ---
 
@@ -1153,21 +1153,26 @@ It's also a framework enabling bot NPC's for other mods like EyeBot Companions o
 
 ## Companion overhauls
 
-##### [Valentine REBORN](https://www.nexusmods.com/fallout4/mods/9568)
+##### [Valentine REBORN](https://www.nexusmods.com/fallout4/mods/9568) *v2.0*
+ VALENTINE REBORN - V2.0 includes a complete HD retexture for Nick and his outfit!
+3 different eyecolors available; optional HD eyetextures for all the Gen1+2 Synths and a 4k metal retexture for the Gen1 Synths 
 
-##### [Valentine Noir](https://www.nexusmods.com/fallout4/mods/7551)
+##### [Valentine Noir](https://www.nexusmods.com/fallout4/mods/7551) *v0.2*
+ A retexture for Nick Valentines clothes, turning him into a shady detective. 
+ 
+##### [Live Action Mr. Handy](https://www.nexusmods.com/fallout4/mods/9571) *v1.1b*
+ The live action trailer had shown Mr. Handy with lighted eyes so I've added spotlights to Codsworth and all Handy models eyes including Gutsy and Nanny. Spotlights also included in all Automatron eyes added in the Robot Workbench under Handy Torso. 
 
-##### [Live Action Mr. Handy](https://www.nexusmods.com/fallout4/mods/9571)
-Adds spotlights to Codsworth and all Handy models eyes including Gutsy and Nanny.
-Spotlights also included in all Automatron eyes added in the Robot Workbench under Handy
-Torso.
-Install Live Action Handy - With Iris and GlowMap – Repack version
+> Install Live Action Handy - With Iris and GlowMap – Repack version
 
-##### [Cait's Corset – Tailored](https://www.nexusmods.com/fallout4/mods/27939)
+##### [Cait's Corset – Tailored](https://www.nexusmods.com/fallout4/mods/27939) *v1.3*
+ Modifies the cut of Cait's corset and jeans to be a little more sexy. Works with CBBE and BodySlide. Includes a version with breast physics. 
 
-##### [Just another Piper Outfit](https://www.nexusmods.com/fallout4/mods/21114)
+##### [Just another Piper Outfit](https://www.nexusmods.com/fallout4/mods/21114) *v1.5*
+ My idea of what a nosy reporter would wear. CBBE. Two variations, Replacer or Standalone. Optional Vanilla/EVB Replacer 
 
-##### [CIO - Companion Inventory Overhaul](https://www.nexusmods.com/fallout4/mods/34977)
+##### [CIO - Companion Inventory Overhaul](https://www.nexusmods.com/fallout4/mods/34977) *v1*
+ A simple mod that adds more items to each companion's inventory list such as caps, supplies, and other miscellaneous items relevant to the character's backstory. 
 
 ## New companions
 
