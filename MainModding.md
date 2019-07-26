@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T17:15:44.570Z
+date: 2019-07-26T17:16:41.820Z
 tags: 
 ---
 
@@ -1396,27 +1396,32 @@ It also improves the general Image quality by adding new LUT and Imagespaces to 
 ##### [Piper Interview Restored](https://www.nexusmods.com/fallout4/mods/21829) *v0.1*
  Restores part of the interview with Piper that was cut from the final game. 
 
-##### [The Danse Dilemma](https://www.nexusmods.com/fallout4/mods/21923)
+##### [The Danse Dilemma](https://www.nexusmods.com/fallout4/mods/21923) *v2.9*
+ Uses dialogue cut from the final game to provide more options to solve the issue of Danse's identity. 
 
 ## Late loaders
 
-##### [No combat boundaries](https://www.nexusmods.com/fallout4/mods/6752)
-Note: These worldedits need to be removed from the esp in FO4Edit.
-ConcordZone
-ConcordMuseumZone
-StarlightDriveInZone
-RedRocketTruckStopZone
-SunshineTidingsCoopZone
-MysticPinesZone
-AbernathyFarm
-CountryCrossingZone
-GreentopNurseryZone
-NordHagenBeachZone
-OberlandStationZone
-TenPinesBluffZone
-SanctuaryHillsZone
-Thanks to sentrus, there is now a patch shipped with the guide doing the same thing, but I ́m
-leaving instructions in, for those who want to get their hands dirty with FO4Edit.
+##### [No combat boundaries](https://www.nexusmods.com/fallout4/mods/6752) *v1.0*
+
+ A small plugin to remove combat boundaries, so enemies will follow you indoors from outside and vice versa. 
+ 
+> Note: These worldedits need to be removed from the esp in FO4Edit.
+> ```
+> ConcordZone
+> ConcordMuseumZone
+> StarlightDriveInZone
+> RedRocketTruckStopZone
+> SunshineTidingsCoopZone
+> MysticPinesZone
+> AbernathyFarm
+> CountryCrossingZone
+> GreentopNurseryZone
+> NordHagenBeachZone
+> OberlandStationZone
+> TenPinesBluffZone
+> SanctuaryHillsZone
+> ```
+> Thanks to sentrus, there is now a patch shipped with the guide doing the same thing, but I ́m leaving instructions in, for those who want to get their hands dirty with FO4Edit.
 
 ##### [More Attackers – Get off my Buildzone + Unique NPCs – C and M patch](https://www.nexusmods.com/fallout4/mods/27465)
 Install Unique NPCs – C and M patch name "More AGOMBZ + Unique NPCs – C and M
