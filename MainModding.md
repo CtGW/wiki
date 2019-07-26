@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T17:13:16.363Z
+date: 2019-07-26T17:14:07.135Z
 tags: 
 ---
 
@@ -1363,13 +1363,18 @@ It also improves the general Image quality by adding new LUT and Imagespaces to 
 
 ## Audio overhauls
 
-##### [Bleak Beauty](https://www.nexusmods.com/fallout4/mods/9663)
+##### [Bleak Beauty](https://www.nexusmods.com/fallout4/mods/9663) *v1.2*
+ Bleak Beauty is a whole new OST for Fallout 4. The new tracks are specifically written for Fallout 4, and designed to fit its atmosphere. Now with non replacer version! 05/24 New tracks! 
 
-##### [Radiant Birds](https://www.nexusmods.com/fallout4/mods/2397)
-Install main file only
+##### [Radiant Birds](https://www.nexusmods.com/fallout4/mods/2397) *v0.5*
+ Adds Real Sounds and Fixes for Birds 
 
-##### [Less Radiant Birds](https://www.nexusmods.com/fallout4/mods/16296)
-This is a replacer esp, merge with the original mod.
+> Install main file only
+
+##### [Less Radiant Birds](https://www.nexusmods.com/fallout4/mods/16296) *v0.5c*
+ Lowers the volume on Indipindi's excellent Radiant Birds mod (required.) 
+
+> This is a replacer esp, merge with the original mod.
 
 ##### [Second World War British Air Raid Siren](https://www.nexusmods.com/fallout4/mods/12199)
 
