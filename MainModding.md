@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T11:28:06.762Z
+date: 2019-07-26T11:31:48.569Z
 tags: 
 ---
 
@@ -1017,13 +1017,16 @@ A new... non-replacer way to introduce exceptional variety to the Creatures of t
 > 001D0F96
 > ```
 
-##### [Less Loot D.E.C.A.Y](https://www.nexusmods.com/fallout4/mods/32938)
+##### [Less Loot D.E.C.A.Y](https://www.nexusmods.com/fallout4/mods/32938) *v1.0*
+ Reduce loot from ghouls significantly when using D.E.C.A.Y. mod. 
 
-##### [Feral Ghouls After Dark](https://www.nexusmods.com/fallout4/mods/22434)
+##### [Feral Ghouls After Dark](https://www.nexusmods.com/fallout4/mods/22434) *v1.0*
+ Feral ghouls become significantly more dangerous after the sun goes down - the way proper zombies do. 
 
-##### [Super Mutant Redux](https://www.nexusmods.com/fallout4/mods/11853/)
+##### [Super Mutant Redux](https://www.nexusmods.com/fallout4/mods/11853/) *v2.5*
 Reworks the super mutant faction including Behemoths, FEV Hounds, and of course, Super
 Mutants.
+
 Install Super Mutant Redux and any updates. During installer select Armorsmith patch
 
 ##### [We are the minutemen](https://www.nexusmods.com/fallout4/mods/6443/)
