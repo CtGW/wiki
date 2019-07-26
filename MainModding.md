@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T15:50:11.263Z
+date: 2019-07-26T16:20:05.217Z
 tags: 
 ---
 
@@ -1137,11 +1137,16 @@ Commonwealth
  Fixes everything that was originally wrong with Dogmeat. Also removes his Max Level Limit. See details! Script-Free! 
 > ESP version
 
-##### [Moddable Robot Settlers](https://www.nexusmods.com/fallout4/mods/11976)
+##### [Moddable Robot Settlers](https://www.nexusmods.com/fallout4/mods/11976) *v1.16*
+ A compilation of my earlier mods that make robot settlers customizable at the Robot Workbench with the Automatron DLC and fixes things like Codsworth not being moddable or Professor Goodfeels' inevitable disappearance from the game.
 
-##### [Killable Children](https://www.nexusmods.com/fallout4/mods/197)
+It's also a framework enabling bot NPC's for other mods like EyeBot Companions or Securitron 
 
-##### [Less Aggressive Settlers](https://www.nexusmods.com/fallout4/mods/36399)
+##### [Killable Children](https://www.nexusmods.com/fallout4/mods/197) *v1.2.7.1*
+ I made this in Fo4edit (1.2), and it allows you to have children be mortal like any other generic adult npc in the game. There are a couple essential children, i only tracked down 3 so far, if you see any more post there names in the comment box thingy. 
+
+##### [Less Aggressive Settlers](https://www.nexusmods.com/fallout4/mods/36399) *v1.1*
+ Makes settlers less aggressive so that they don't charge straight into battle during attacks. Especially useful when combined with Settlement Ambush Kit. 
 
 ##### [Grieving Raider - A Most Important Mod](https://www.nexusmods.com/fallout4/mods/32335)
 
