@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T17:12:58.620Z
+date: 2019-07-26T17:13:16.363Z
 tags: 
 ---
 
@@ -1356,10 +1356,10 @@ It also improves the general Image quality by adding new LUT and Imagespaces to 
 ##### [Thaylar's Settlement Lighting Fixes](https://www.nexusmods.com/fallout4/mods/20003) *v3.1*
  Adjusts light output and radius values for settlement lights. Also fixes a few meshes to correct the light type to match the light source. 
 
-Install base edition main file
+>Install base edition main file
 
-##### [Pip-Boy Flashlight](https://www.nexusmods.com/fallout4/mods/10840)
-Turn your radial Pip-Boy light into a directional flashlight
+##### [Pip-Boy Flashlight](https://www.nexusmods.com/fallout4/mods/10840) *v5.02*
+ Turn your radial Pip-Boy light into a directional flashlight! 
 
 ## Audio overhauls
 
