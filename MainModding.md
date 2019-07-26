@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T17:20:32.500Z
+date: 2019-07-26T17:21:01.626Z
 tags: 
 ---
 
@@ -1440,9 +1440,13 @@ patch" so it doesn ́t merge with the main mod
 ##### [Comic Collector](https://www.nexusmods.com/fallout4/mods/18564) *v1.1*
  1337 unique comics to find. 
 
-##### [Load Screen Art](https://www.nexusmods.com/fallout4/mods/35361)
-Install the mix random DLC main file. NOTE: some users have experienced noticably
-longer game startup times (~30 seconds longer) with this mod activated.
+##### [Load Screen Art](https://www.nexusmods.com/fallout4/mods/35361) *v1.4*
+ Add new loading screens.
+The vanilla version contains 120 scenes.
+The mixed version contains 168 scenes.
+A tutorial showing how to make custom loading screens. 
+
+>Install the mix random DLC main file. NOTE: some users have experienced noticably longer game startup times (~30 seconds longer) with this mod activated.
 
 ##### [Immersive Drumlin Diner](https://www.nexusmods.com/fallout4/mods/18995/)
 
