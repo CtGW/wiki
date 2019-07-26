@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T17:29:17.865Z
+date: 2019-07-26T17:29:42.256Z
 tags: 
 ---
 
@@ -1502,15 +1502,16 @@ files, which includes no world edits (only changes to Diamond city interiors).
 > TODO: fix this
 > {.is-danger}
 
-
-
-##### [CtGW Community patches](https://www.nexusmods.com/fallout4/mods/30294) *v2.0.0*
+##### [CtGW Community patches](https://www.nexusmods.com/fallout4/mods/30294)
 In CtGW main archive
 
 ## Dead last (conflict resolutions)
 
-##### [Scrap dead things](https://www.nexusmods.com/fallout4/mods/6497)
-Install Automatron version. After guide is done, move last in order
+##### [Scrap dead things](https://www.nexusmods.com/fallout4/mods/6497) *v1.70*
+ Scrap skeletons, piles, ghouls, bloodbugs, claws...
+Skelette, Aschehaufen, Ghule, Krallen verwerten... 
+
+> Install Automatron version. After guide is done, move last in order
 
 ##### [Diamond City Expansion](https://www.nexusmods.com/fallout4/mods/21853)
 
