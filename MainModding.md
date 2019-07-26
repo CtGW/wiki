@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T02:19:41.312Z
+date: 2019-07-26T02:21:47.721Z
 tags: 
 ---
 
@@ -905,35 +905,34 @@ Institute Power Armor I-01
 > adding further scripted mods on top of this list.
 >{.is-success}
 
-##### [H.A.R.D.Core - Fusion Generator Overhaul](https://www.nexusmods.com/fallout4/mods/28890/)
-isn ́t it amazing how every fusion core you find, regardless of how many hundreds of years
-they ́ve been in use, are fully charged?
+##### [H.A.R.D.Core - Fusion Generator Overhaul](https://www.nexusmods.com/fallout4/mods/28890/) *v1.0*
+ Replaces all Fusion Cores in Generators with plausibly drained FCs. 
 
-##### [QuickTrade](https://www.nexusmods.com/fallout4/mods/16229)
-Yeah, yeah, I ́m here to trade, not chit-chat.
+##### [QuickTrade](https://www.nexusmods.com/fallout4/mods/16229) *v1.3*
+ Quicktrade with vendors and settlers. 
 
-##### [Auto Eat and Drink in Survival](https://www.nexusmods.com/fallout4/mods/25408)
-In the real world you don ́t need a pip-boy to eat and drink, you just do.
+##### [Auto Eat and Drink in Survival](https://www.nexusmods.com/fallout4/mods/25408) *v1.3.1*
+ Auto Eat and Drink in Survival 
+ 
+##### [Grab and Eat All-in-One](https://www.nexusmods.com/fallout4/mods/17608) *v1.5*
+ NEW FEATURE Player can read notes from containers and corpses.
+Add EAT/DRINK/USE choices that let you grab the item and eat/drink/Use in real time without picking up and opening the inventory 
 
-##### [Grab and Eat All-in-One](https://www.nexusmods.com/fallout4/mods/17608)
-use 1.0 version from old without notereading feature. 1.5 version has issues.
+##### [Read Notes from Containers and Corpses](https://www.nexusmods.com/fallout4/mods/18077) *v1.0*
+ With this mod, player can read notes right from containers and corpse. 
 
-##### [Read Notes from Containers and Corpses](https://www.nexusmods.com/fallout4/mods/18077)
+##### [GET DIRTY (take a bath)](https://www.nexusmods.com/fallout4/mods/29171) *v1.3*
+ Get dirty while exploring the wasteland. Take a bath to get clean again. 
 
-##### [GET DIRTY (take a bath)](https://www.nexusmods.com/fallout4/mods/29171)
-Get dirty while exploring the wasteland. Take a bath to get clean again.
-
-##### [GET DIRTY (take a bath) additional effects](https://www.nexusmods.com/fallout4/mods/36880)
-This little patch for 7StarC's GET DIRTY mod adds charisma modifiers and some other
-minor tweaks to the original mod. I made several flavors to accomodate your preferences.
-
+##### [GET DIRTY (take a bath) additional effects](https://www.nexusmods.com/fallout4/mods/36880) *v1.0*
+ This little patch for 7StarC's GET DIRTY mod adds charisma modifiers and some other minor tweaks to the original mod. I made several flavors to accomodate your preferences. 
 ##### [Canteens of the commonwealth](https://www.nexusmods.com/fallout4/mods/24493)
 
-##### [Fill'em Up Again (Dynamic Bottle Recyclation)](https://www.nexusmods.com/fallout4/mods/12674)
-SURVIVAL Ever wondered that you drink a beer for example and the bottle is magically
-gone? With the new survival mode you could use the bottle to get some water! But how to
-get this bottle!? Fill ́em up again fixes that and gives a bottle in return!
-Install loose files version
+##### [Fill'em Up Again (Dynamic Bottle Recyclation)](https://www.nexusmods.com/fallout4/mods/12674) *v1.0.5*
+ Adds New standalone and Wearable Canteens to the game that you can craft and fill with water.
+(Now with an installer) 
+
+> Install loose files version
 
 ##### [Intimidation Overhaul](https://www.nexusmods.com/fallout4/mods/23922)
 
