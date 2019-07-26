@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T02:35:00.177Z
+date: 2019-07-26T11:14:45.588Z
 tags: 
 ---
 
@@ -947,27 +947,30 @@ Major rework of the Hacking system.
 ##### [Salvage Robot Parts](https://www.nexusmods.com/fallout4/mods/25355) *v2*
  Robots now has a chance to drop appropriate robot parts. For people who likes to scavenge for their robot parts instead of building from scratch. 
  
-##### [Sofa Surfer - Sleeping on Couches](https://www.nexusmods.com/fallout4/mods/24944)
+##### [Sofa Surfer - Sleeping on Couches](https://www.nexusmods.com/fallout4/mods/24944) *v1.1*
+ Adds option for player to sleep on couches, and rest on chairs. 
 
 
-##### [SKK Combat Stalkers (hostile spawns)](https://www.nexusmods.com/fallout4/mods/30308)
+##### [SKK Combat Stalkers (hostile spawns)](https://www.nexusmods.com/fallout4/mods/30308) *v022*
+ SKK Combat Stalkers brings the UNCERTAINTY, FEAR and EXCITEMENT to you, randomly spawning small groups of properly levelled hostiles around you who hide and ambush, stalk, or chase depending on your actions. 
 
-##### [RSE Elements Vol.3 - Karma System feat. Bounty Hunters](https://www.nexusmods.com/fallout4/mods/36020)
+##### [RSE Elements Vol.3 - Karma System feat. Bounty Hunters](https://www.nexusmods.com/fallout4/mods/36020) *v1.6*
+ Adds a simplified Karma System to Fallout 4 where game stats are tracked for various activities and alter your moral stance within the game, leading to confrontations and possibly jail time by bounty hunters. External mods can now hook into the Karma System via custom API (included), extending my Karma System to any mod that wishes to tie into it! 
 
-##### [Outfit Switcher](https://www.nexusmods.com/fallout4/mods/10282)
-Lets you save your entire loadout, including armor pieces! Then equip and swap between
-saved loadouts with the press of a button.
+##### [Outfit Switcher](https://www.nexusmods.com/fallout4/mods/10282) *v2.2*
+ In a first of its kind for Fallout 4, this mod lets you save your entire loadout, including armor pieces! Then equip and swap between saved loadouts with the press of a button. You don't even need to open your Pip-Boy! It's like favorites, but entire loadouts at a time. 
 
-##### [I Ain't Drunk (I'm Just Drinking)](https://www.nexusmods.com/fallout4/mods/36888)
-Now you can have a beer without getting drunk, and beer quenches thirst.
+##### [I Ain't Drunk (I'm Just Drinking)](https://www.nexusmods.com/fallout4/mods/36888) *v1.1*
+ Now you can drink one beer without getting drunk.
+And now beer restores thirst. 
 
-##### [First Person Death Cam](https://www.nexusmods.com/fallout4/mods/27537)
-Die in first person
+##### [First Person Death Cam](https://www.nexusmods.com/fallout4/mods/27537) *v5*
+ This mod makes you die in first person, with lots of different IMOD, global time multiplier, and decapitation combinations that are chosen randomly by a script on death. This makes for over 100 different first person death cams! 
 
-##### [Survival options](https://www.nexusmods.com/fallout4/mods/14650)
-SURVIVAL This is an F4SE plugin which restores some hard-coded features disabled by
-the game
-Install version 1.6.2, the version before MCM, as it reportedly works better.
+##### [Survival options](https://www.nexusmods.com/fallout4/mods/14650) *v1.7.1*
+Adds a holotape that allows you to choose various options for survival difficulty, including hunger, thirst and exhaustion rate. 
+
+> Install version 1.6.2, the version before MCM, as it reportedly works better.
 
 ## NPC and creature overhauls
 
