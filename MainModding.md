@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T17:16:41.820Z
+date: 2019-07-26T17:19:35.832Z
 tags: 
 ---
 
@@ -1423,8 +1423,10 @@ It also improves the general Image quality by adding new LUT and Imagespaces to 
 > ```
 > Thanks to sentrus, there is now a patch shipped with the guide doing the same thing, but I ́m leaving instructions in, for those who want to get their hands dirty with FO4Edit.
 
-##### [More Attackers – Get off my Buildzone + Unique NPCs – C and M patch](https://www.nexusmods.com/fallout4/mods/27465)
-Install Unique NPCs – C and M patch name "More AGOMBZ + Unique NPCs – C and M
+##### [More Attackers – Get off my Buildzone + Unique NPCs – C and M patch](https://www.nexusmods.com/fallout4/mods/27465) *v1.1.7*
+ Moves attack markers beyond the boundaries of settlements. Adds additional attack markers around the perimeter of settlements. Solves the problem with spawning enemies inside a settlement after fast travel. Adds notifications to animals attacks. Increases time before attacks auto resolve (configurable). And more... 
+
+> Install Unique NPCs – C and M patch name "More AGOMBZ + Unique NPCs – C and M
 patch" so it doesn ́t merge with the main mod
 
 ##### [Better Companions](https://www.nexusmods.com/fallout4/mods/18547/)
