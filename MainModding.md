@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T02:26:40.732Z
+date: 2019-07-26T02:27:33.848Z
 tags: 
 ---
 
@@ -930,14 +930,16 @@ Add EAT/DRINK/USE choices that let you grab the item and eat/drink/Use in real t
  Adds New standalone and Wearable Canteens to the game that you can craft and fill with water.
 (Now with an installer) 
 
-##### [Fill'em Up Again (Dynamic Bottle Recyclation)](https://www.nexusmods.com/fallout4/mods/12674)
+##### [Fill'em Up Again (Dynamic Bottle Recyclation)](https://www.nexusmods.com/fallout4/mods/12674) *v1.0*
+ Dynamically gives you an appropriate empty bottle whenever you drink a bottled beverage. Since it works via a simple script, it should be compatible with any mods even if they edit/rebalance/rename drink items. 
 
 > Install loose files version
 
-##### [Intimidation Overhaul](https://www.nexusmods.com/fallout4/mods/23922)
-
-##### [Critical Hits Outside of VATS Revisited](https://www.nexusmods.com/fallout4/mods/25583)
-Install main and worse criticals optional files.
+##### [Intimidation Overhaul](https://www.nexusmods.com/fallout4/mods/23922) *v2.0.10*
+ Overhaul of the Intimidation perk adding many new options as well as the return of the Mesmetron from Fallout 3. 
+ 
+##### [Critical Hits Outside of VATS Revisited](https://www.nexusmods.com/fallout4/mods/25583) *v1.2.2b*
+> Install main and worse criticals optional files.
 
 ##### [Hacking 101](https://www.nexusmods.com/fallout4/mods/15033)
 Major rework of the Hacking system.
