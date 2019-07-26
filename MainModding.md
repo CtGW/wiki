@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T17:31:45.119Z
+date: 2019-07-26T17:32:03.454Z
 tags: 
 ---
 
@@ -1545,8 +1545,4 @@ Optional Now modular, install CtGW - Tweaks.rar from the CtGW archive.
 These are esps with my edits, which should override the original esps
 
 ##### [CtGW - Leveled Lists](https://www.nexusmods.com/fallout4/mods/30294)
-My manually edited leveled lists. I recommend you use this one if you ́ve installed the
-whole guide. If the esps complain about missing masters, there are mods in this list you
-haven ́t installed and you would either have to remove those records
-manually or use
-Wrye Bash instead.
+My manually edited leveled lists. I recommend you use this one if you ́ve installed the whole guide. If the esps complain about missing masters, there are mods in this list you haven't installed and you would either have to remove those records manually or use Wrye Bash instead.
