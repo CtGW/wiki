@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T17:30:17.481Z
+date: 2019-07-26T17:30:56.470Z
 tags: 
 ---
 
@@ -1521,12 +1521,14 @@ Skelette, Aschehaufen, Ghule, Krallen verwerten...
  
 >Install only the Diamond City Expansion - Female Body Replacer main file
 
-##### [Boston Fps Fix](https://www.nexusmods.com/fallout4/mods/26286)
-Note if you ́re going to install location mods not in this guide, that due to the nature of this
-mod, a lot of location overhauls are not compatible, and will cause texture flickering/culling/
-performance issues. Especially avoid mods that affect downtown Boston.
-Install the AIO main file only
+##### [Boston Fps Fix](https://www.nexusmods.com/fallout4/mods/26286) *v.32*
+ This mod improves performance (FPS) in Boston and surrounding area. External areas only. This mod is beneficial to anyone that roams the boston area with mods that disable previs or break precombines in the boston area. 
 
+>Note if you ́re going to install location mods not in this guide, that due to the nature of this mod, a lot of location overhauls are not compatible, and will cause texture flickering/culling/ performance issues. Especially avoid mods that affect downtown Boston.
+>{.is-success}
+
+>Install the AIO main file only
+>
 ##### [The Beantown interiors Project](https://www.nexusmods.com/fallout4/mods/4612)
 
 ##### [BTI Optimization for BFPSFixAIO](https://www.nexusmods.com/fallout4/mods/26286)
