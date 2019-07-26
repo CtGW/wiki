@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T17:04:34.253Z
+date: 2019-07-26T17:07:08.683Z
 tags: 
 ---
 
@@ -1266,23 +1266,31 @@ Also with more furniture added Rexford now really looks like a Hotel.
 
 ## New quests and locations
 
-##### [Fusion City Rising](https://www.nexusmods.com/fallout4/mods/16423/)
+##### [Fusion City Rising](https://www.nexusmods.com/fallout4/mods/16423/) *v1.0*
+ DLC-sized quest mod. Sep. '16 File of the Month. Hours of new game play. New factions, new locations, and multiple fully voiced companions. 
 
-##### [Outcasts and Remnants](https://www.nexusmods.com/fallout4/mods/21469/)
+##### [Outcasts and Remnants](https://www.nexusmods.com/fallout4/mods/21469/) *v1.40*
+ DLC-sized quest mod. Apr '17 Mod of the Month runner-up. 20 hours of game play with new factions, locations, player bases, and fully-voiced custom companions. 
 
-##### [Project Valkyrie](https://www.nexusmods.com/fallout4/mods/28085)
+##### [Project Valkyrie](https://www.nexusmods.com/fallout4/mods/28085) *v1.20*
+ Huge quest/companion adventure, August 2018 Mod of the Month. Four custom & fully-voiced companions, 20 quests, and alternate endings to the vanilla game. 
 
-##### [Nuka-World Reborn](https://www.nexusmods.com/fallout4/mods/32857)
-Install main and optional file, then the AE patch here: https://www.nexusmods.com/fallout4/mods/34260
+##### [Nuka-World Reborn](https://www.nexusmods.com/fallout4/mods/32857) *v1.30*
+ Nuka-World Reborn is a quest mod which not only allows you to have multiple options to get rid of the raiders, but it adds new questlines to Nuka-World and allows you to play as a Trader. 
 
-##### [50 Ways to Die at Dr. Nick's](https://www.nexusmods.com/fallout4/mods/25564/)
-10 Connected Quests, Unique Rewards, Custom Player Home, Lore-Friendly Backstory,
-Lots of Explosions, and a Twist.
+> Install main and optional file, then the AE patch here: https://www.nexusmods.com/fallout4/mods/34260
 
-##### [The Secret of Huntress Manor - A Far Harbor Story](https://www.nexusmods.com/fallout4/mods/27311)
-Install 1.2 regular main file
+##### [50 Ways to Die at Dr. Nick's](https://www.nexusmods.com/fallout4/mods/25564/) *v0.99c*
+ From the Co-Creator of Fusion City Rising and Outcasts & Remnants comes a Completely New Adventure...
+10 Connected Quests, Unique Rewards, Custom Player Home, Lore-Friendly Backstory, Lots of Explosions, and a Twist. 
 
-##### [Vault 494 - A Vault-Tec Story](https://www.nexusmods.com/fallout4/mods/23651)
+##### [The Secret of Huntress Manor - A Far Harbor Story](https://www.nexusmods.com/fallout4/mods/27311) *v1.6*
+ Hidden within the woods of Huntress Island, enveloped by fog, stands Huntress Manor. Once the home of the reclusive but brilliant Professor R.S.G. Hunter, the manor has been abandoned since his sudden, unexplained, death in 1877; it is now known only to the wolves that call the forest their home. Little do they know, the manor holds a terrible secret. 
+
+> Install 1.2 regular main file
+
+##### [Vault 494 - A Vault-Tec Story](https://www.nexusmods.com/fallout4/mods/23651) *v1.3*
+ Vault 494: A Vault-Tec Story adds a new Vault for the player to explore. As the player approaches the Nahant area they will pick up a Vault-Tec distress signal which will begin. From there the player will be free to explore Vault 494, which an accounting error gave an unusually high number, and Vault-Tec's attempts to create a crime-free society
 
 ##### [David Hunter - A Brotherhood Story](https://www.nexusmods.com/fallout4/mods/16808)
 
