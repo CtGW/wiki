@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T02:07:46.945Z
+date: 2019-07-26T02:13:02.057Z
 tags: 
 ---
 
@@ -876,18 +876,21 @@ Institute Power Armor I-01
 
 ## Gameplay
 
-##### [Unbogus Fallout overhaul](https://www.nexusmods.com/fallout4/mods/26026)
-A fairly extensive game overhaul that will give you a more consistent, challenging and fun
-experience with many neat features.
-Install main file only.
+##### [Unbogus Fallout overhaul](https://www.nexusmods.com/fallout4/mods/26026) *v2.Final*
+ An extensive overhaul that touches upon almost every aspect of the game which aims to make the game more fun, challenging in a good way and varied while rewarding skill and tactics. 
 
-##### [BS Defence](https://www.nexusmods.com/fallout4/mods/20137)
+> Install main file only.
 
-##### [More Attackers – Get off my Buildzone](https://www.nexusmods.com/fallout4/mods/27465)
-Install main file
+##### [BS Defence](https://www.nexusmods.com/fallout4/mods/20137) *v1.8*
+ Better Settlement Defence - Makes those hundreds of turrets actually do something when you're not around by taking away the random aspect of settlement attacks. 
 
-##### [Night Of The Creeps](https://www.nexusmods.com/fallout4/mods/23721)
+##### [More Attackers – Get off my Buildzone](https://www.nexusmods.com/fallout4/mods/27465) *v1.1.7*
+ Moves attack markers beyond the boundaries of settlements. Adds additional attack markers around the perimeter of settlements. Solves the problem with spawning enemies inside a settlement after fast travel. Adds notifications to animals attacks. Increases time before attacks auto resolve (configurable). And more... 
+> Install main file
 
+##### [Night Of The Creeps](https://www.nexusmods.com/fallout4/mods/23721) *v0.213*
+ Adds a new type of Feral ghouls that hunt at night. Flees and hides during the day. Optional Yao Guais. Settings holotape. 
+ 
 ##### [Sleepless Nights](https://www.nexusmods.com/fallout4/mods/33057)
 
 ##### [Shaikujin's Better warning for settlements being attacked](https://www.nexusmods.com/fallout4/mods/4106)
