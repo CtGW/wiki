@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T11:35:19.058Z
+date: 2019-07-26T11:40:04.161Z
 tags: 
 ---
 
@@ -1063,11 +1063,14 @@ Mutants.
 > - Community hair and clothing
 > - Mortal pack
 
-##### [Simple Settlers](https://www.nexusmods.com/fallout4/mods/36074)
-Main options
-- Mortal settlers
-Optional
-- None
+##### [Simple Settlers](https://www.nexusmods.com/fallout4/mods/36074) *v4*
+ A simple settler mod that offers 205 unique settlers to spawn to your settlement. Installation options allow you to choose the mortality of your settlers and your preference of gender. 
+
+> Main options
+> - Mortal settlers
+> Optional
+> - None
+
 ##### [Unique NPCs - An Overhaul of the Commonwealth](https://www.nexusmods.com/fallout4/mods/21248)
 Install any of the two mian files (they ́re identical), and the 2.1 update
 FOMOD instructions:
