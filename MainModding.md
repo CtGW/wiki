@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T11:14:45.588Z
+date: 2019-07-26T11:25:53.462Z
 tags: 
 ---
 
@@ -974,27 +974,33 @@ Adds a holotape that allows you to choose various options for survival difficult
 
 ## NPC and creature overhauls
 
-##### [Raider Overhaul](https://www.nexusmods.com/fallout4/mods/9103)
-Install Raider Overhaul WIP 11.4c optional file only, then install AE replacer Raider
-Overhaul 11.4c from the Armorsmith Extended files.
+##### [Raider Overhaul](https://www.nexusmods.com/fallout4/mods/9103) *v11.4c*
+ A functioning WIP mod focusing on adding more diversity to the Commonwealth's Raiders. 
+ 
+> Install Raider Overhaul WIP 11.4c optional file only, then install AE replacer Raider Overhaul 11.4c from the Armorsmith Extended files.
 
-##### [D.E.C.A.Y – Better Ghouls](https://www.nexusmods.com/fallout4/mods/2500)
-Install main file only
+##### [D.E.C.A.Y – Better Ghouls](https://www.nexusmods.com/fallout4/mods/2500) *v2.2*
+ D.E.C.A.Y is a pretentious non-abbreviation that is used for my awesome feral ghoul overhaul. Ghouls are now creepy and unpleasant and have lots of detail and variety. No more bland, patternless leathery old men. 
+> Install main file only
 
-##### [Deadlier Deathclaws](https://www.nexusmods.com/fallout4/mods/13822)
+##### [Deadlier Deathclaws](https://www.nexusmods.com/fallout4/mods/13822) *v3.3.5*
+ An upgrade to the dragons of the wasteland to be more in line with their legend. 
 
-##### [Unique NPCs - Creatures and Monsters](https://www.nexusmods.com/fallout4/mods/24357?tab=files)
-Install main file and any updates/fixes
-During installer choose
-- DECAY
-- Deadlier Deathclaws
-- SMR no patch
-- Respawnable no patch
-- Unique NPCs - C n M – Non-Lore
-The Unique NPCs installer will have replaced a couple of earlier installed esps (edited
-versions to make them cmpatible with Unique NPCs). Those esps will now need to be
-moved below the main Unique NPC esp to work properly. Below is a ist of the esps you
-need to move before moving on to the next mod:
+##### [Unique NPCs - Creatures and Monsters](https://www.nexusmods.com/fallout4/mods/24357) *v2.1*
+ Unique NPCs - Creatures and Monsters of the Commonwealth
+A new... non-replacer way to introduce exceptional variety to the Creatures of the Wasteland. 
+
+> Install main file and any updates/fixes
+> During installer choose
+> - DECAY
+> - Deadlier Deathclaws
+> - SMR no patch
+> - Respawnable no patch
+> - Unique NPCs - C n M – Non-Lore
+> The Unique NPCs installer will have replaced a couple of earlier installed esps (edited
+> versions to make them cmpatible with Unique NPCs). Those esps will now need to be
+> moved below the main Unique NPC esp to work properly. Below is a ist of the esps you
+> need to move before moving on to the next mod:
 
 D.E.C.A.Y.esp
 DeadlierDeathclaws
