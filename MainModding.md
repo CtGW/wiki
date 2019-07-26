@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T16:55:19.572Z
+date: 2019-07-26T17:01:06.684Z
 tags: 
 ---
 
@@ -1222,22 +1222,30 @@ the second pane.
 
 ## Vanilla location overhauls
 
-##### [Better Goodneighbor](https://www.nexusmods.com/fallout4/mods/16594/)
-Download and install main file, update and cleaned esp
+##### [Better Goodneighbor](https://www.nexusmods.com/fallout4/mods/16594/) *v1.00*
+ Overhaul mode for the Goodneighbor, changes a lot of stuff and adds new voiced npca-s. 
 
-##### [Better The Third Rail](https://www.nexusmods.com/fallout4/mods/15388/)
-Download and install main file, update and cleaned esp
+> Download and install main file, update and cleaned esp
 
-##### [Better Atom Cats Garage](https://www.nexusmods.com/fallout4/mods/14764/)
-Download and install main file and cleaned esp
+##### [Better The Third Rail](https://www.nexusmods.com/fallout4/mods/15388/) *v1.00*
+ This mod adds more authentic NPCs and many new details to improve overall The Third Rail atmosphere and immersive gaming experience. 
+> Download and install main file, update and cleaned esp
 
-##### [Vault 88 - Your Vault Your Way - Build Ready](https://www.nexusmods.com/fallout4/mods/35076)
+##### [Better Atom Cats Garage](https://www.nexusmods.com/fallout4/mods/14764/) *v1.00*
+ Atom Cats Garage with much more details. 
+> Download and install main file and cleaned esp
 
-##### [A sensible Prydwen overhaul](https://www.nexusmods.com/fallout4/mods/24198/)
+##### [Vault 88 - Your Vault Your Way - Build Ready](https://www.nexusmods.com/fallout4/mods/35076) *v1.12*
+ Overhaul - quest safe, build ready, performance optimized. cleaned, restored and expanded areas, emitted light, rad spots finally gone, Build on entrance and subway floors, Expanded build areas and budget, wireless powered and more! 
 
-##### [Introducing – Radium-Inc](https://www.nexusmods.com/fallout4/mods/32175)
+##### [A sensible Prydwen overhaul](https://www.nexusmods.com/fallout4/mods/24198/) *v1.0*
+ I hated the vanilla Prydwen, from not haveing a place to go to the bathroom, to the scattered stained beds that barely fits a unit, let alone an army. So I made this mod, a mod that attempts to fix the Prydwen. 
 
-##### [The Lost Building of Atlantic](https://www.nexusmods.com/fallout4/mods/25401)
+##### [Introducing – Radium-Inc](https://www.nexusmods.com/fallout4/mods/32175) *v1.4*
+ A dungeon mod with small questline, this mod takes the player through the headquarters of Radium-Inc., a company which made radium-infused products. 
+
+##### [The Lost Building of Atlantic](https://www.nexusmods.com/fallout4/mods/25401) *v2*
+ As you're wandering through the ruins of downtown Boston, you find a building which is heavily fortified by a camp of raiders. You're not about to let a bunch of raiders get in the way of your curiosity, so you blast through them and enter the building. Inside, you can learn the story of Allison Miller, the CEO of Atlantic Pharmaceuticals, 
 
 ##### [Sanctuary Hills - Root Cellar Remade](https://www.nexusmods.com/fallout4/mods/24791)
 
@@ -1246,7 +1254,7 @@ Download and install main file and cleaned esp
 ##### [Aloot's Home Plate](https://www.nexusmods.com/fallout4/mods/15300/)
 
 ##### [Hotel Rexford](https://www.nexusmods.com/fallout4/mods/36458)
-Install main file and optional NPCs outside of the street file
+> Install main file and optional NPCs outside of the street file
 
 ##### [Better Robotics Disposal](https://www.nexusmods.com/fallout4/mods/36077)
 
