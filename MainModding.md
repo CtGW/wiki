@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T17:12:36.685Z
+date: 2019-07-26T17:12:58.620Z
 tags: 
 ---
 
@@ -1350,9 +1350,12 @@ It also improves the general Image quality by adding new LUT and Imagespaces to 
 ##### [Clarity](https://www.nexusmods.com/fallout4/mods/31991) *v3.1*
  A zero performance loss weather and lighting overhaul. Removes many blurry effects for a cleaner, crisper image. Improves the look of the vanilla game without overdoing it or straying away from the original style. 
 
-##### [Fr4nsson's Light Tweaks](https://www.nexusmods.com/fallout4/mods/2139)
+##### [Fr4nsson's Light Tweaks](https://www.nexusmods.com/fallout4/mods/2139) *v1.6*
+ Tweaks the Fallout 4 lights. 
 
-##### [Thaylar's Settlement Lighting Fixes](https://www.nexusmods.com/fallout4/mods/20003)
+##### [Thaylar's Settlement Lighting Fixes](https://www.nexusmods.com/fallout4/mods/20003) *v3.1*
+ Adjusts light output and radius values for settlement lights. Also fixes a few meshes to correct the light type to match the light source. 
+
 Install base edition main file
 
 ##### [Pip-Boy Flashlight](https://www.nexusmods.com/fallout4/mods/10840)
