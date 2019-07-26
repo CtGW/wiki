@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T11:43:16.921Z
+date: 2019-07-26T15:50:11.263Z
 tags: 
 ---
 
@@ -1130,10 +1130,12 @@ This mod adds 338 new NPCs, travelling across the commonwealth
 Adds 30 new recruitable settlers across the commonwealth, from the creator of Tales of the
 Commonwealth
 
-##### [Sim Settlements - Settlers of the Commonweath - City Leaders](https://www.nexusmods.com/fallout4/mods/29799)
+##### [Sim Settlements - Settlers of the Commonweath - City Leaders](https://www.nexusmods.com/fallout4/mods/29799) *v1.0*
+ Makes all of the settlers from the Settlers of the Commonwealth mod, available on 3dnpc.com, available as city leaders in kinggath's Sim Settlers mod 
 
-##### [Immersive Dogmeat](https://www.nexusmods.com/fallout4/mods/34128)
-ESP version
+##### [Immersive Dogmeat](https://www.nexusmods.com/fallout4/mods/34128) *v1.0*
+ Fixes everything that was originally wrong with Dogmeat. Also removes his Max Level Limit. See details! Script-Free! 
+> ESP version
 
 ##### [Moddable Robot Settlers](https://www.nexusmods.com/fallout4/mods/11976)
 
