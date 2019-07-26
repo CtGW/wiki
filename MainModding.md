@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T17:08:16.514Z
+date: 2019-07-26T17:11:39.154Z
 tags: 
 ---
 
@@ -1308,24 +1308,28 @@ version and contains custom tracks not on Nexus).
 
 ## Weather and environment
 
-##### [Vivid Weathers](https://www.nexusmods.com/fallout4/mods/15466)
-During install
-Alternative addons
-- Disable Volumetric Fogs
-- Extended Rain Sounds
-- Vivid Weathers Quest and Player Home
-Visual changes
-- Default - No changes
-Compatibility patches
-- Far Harbor Patch
-- Nuka World
-Seasons of Vivid Weathers
-- NO Season Limitation
+##### [Vivid Weathers](https://www.nexusmods.com/fallout4/mods/15466) *v2.011*
+ This is a complete LORE FRIENDLY Weather and Climate Overhaul for Fallout 4!
+It will add more than 75 new Weathers with over 110 new cloudtextures to the Fallout 4 World for you to experience.
+It also improves the general Image quality by adding new LUT and Imagespaces to the game as well as a Player home and base to complete the Lore! 
 
-##### [WET – Water Enhancement textures](https://www.nexusmods.com/fallout4/mods/20775)
-WET enhances all the bodies of water in the game, as well as adding new water and rain
-effects.
-During Installer select the WET Assets With Rain and the WET Clearer (ESL) options
+> During install
+> Alternative addons
+> - Disable Volumetric Fogs
+> - Extended Rain Sounds
+> - Vivid Weathers Quest and Player Home
+> Visual changes
+> - Default - No changes
+> Compatibility patches
+> - Far Harbor Patch
+> - Nuka World
+> Seasons of Vivid Weathers
+> - NO Season Limitation
+
+##### [WET – Water Enhancement textures](https://www.nexusmods.com/fallout4/mods/20775) *v1.88*
+ WET enhances all water and most water-related effects in the game. Simple. 
+
+> During Installer select the WET Assets With Rain and the WET Clearer (ESL) options
 
 ##### [Darker nights](https://www.nexusmods.com/fallout4/mods/191)
 Install both main and optional files, during installer, choose:
