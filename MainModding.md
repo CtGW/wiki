@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T02:18:48.283Z
+date: 2019-07-26T02:19:41.312Z
 tags: 
 ---
 
@@ -904,6 +904,7 @@ Institute Power Armor I-01
 > This mod is heavy on script resources and might cause game instability, especially if
 > adding further scripted mods on top of this list.
 >{.is-success}
+
 ##### [H.A.R.D.Core - Fusion Generator Overhaul](https://www.nexusmods.com/fallout4/mods/28890/)
 isn ́t it amazing how every fusion core you find, regardless of how many hundreds of years
 they ́ve been in use, are fully charged?
