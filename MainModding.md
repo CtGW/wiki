@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T02:00:37.340Z
+date: 2019-07-26T02:01:02.970Z
 tags: 
 ---
 
@@ -801,10 +801,12 @@ The customization options are endless.
 > - AWKCR+AE
 > - 100% + shadows
 
-##### [K-9 harness](https://www.nexusmods.com/fallout4/mods/17686)
-download:
-- K-9 Harness - Tactical Body Armor and Backpack for Dogmeat
-- K-9 Harness - Armorsmith Extended plus DEF UI
+##### [K-9 harness](https://www.nexusmods.com/fallout4/mods/17686) *v1.0*
+ New modular body armor with new meshes & textures for Dogmeat, designed after modern Military and Police K-9 gear. Craftable side pouches, backpack, ballistic weave, faction patches, and various colors and patterns customized at the standard workbench. Lots of options! 
+
+> download:
+> - K-9 Harness - Tactical Body Armor and Backpack for Dogmeat
+> - K-9 Harness - Armorsmith Extended plus DEF UI
 
 ##### [CROSS Pre-War Cybernetics](https://www.nexusmods.com/fallout4/mods/8609)
 download main file only
