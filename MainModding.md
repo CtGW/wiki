@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T11:40:04.161Z
+date: 2019-07-26T11:40:49.202Z
 tags: 
 ---
 
@@ -1071,48 +1071,50 @@ Mutants.
 > Optional
 > - None
 
-##### [Unique NPCs - An Overhaul of the Commonwealth](https://www.nexusmods.com/fallout4/mods/21248)
-Install any of the two mian files (they ́re identical), and the 2.1 update
-FOMOD instructions:
-Core
-- Unique Npcs Core.esp
-- I read this if you don ́t use the HD DLC (which you shouldn ́t anyway)
-Better Settlers and it ́s patches
-- Better Settlers - No LollyGagging
-- Mortal Pack
-- No Patch - Standard Mix
-No Patch - Standard Armor Mix
-Better Settlers - Elis armour compendium - AE
-No patches
-Special Settlers
-- No special settlers
-Minutemen options
-- Militarized Minutemen
-- Far West Minutemen
-- WATM 5.x enhanced
-- none (we are the far west minutemen merged)
-- UniqueNPCs_WATMM_FarWest_MilitarizedMinuetmen.esp
-Gunner options
-- No patches
-3rd party patches and final otpions
-- Standard mortality
-- Diamond city expansion
-- No settlement patches
-- Unique NPCs_AE_SuperMutantRedux
-- Looks Menu Customization Compendium Replacer
-If the FOMOD installer doesn ́t let you install the DCE patch, then I ́ve added the patch to
-the CtGW R2 archive. Install separately or merge with Unique NPCs doesn ́t matter as long
-as it ́s place after it.
-The Unique NPCs installer will have replaced a couple of earlier installed esps (edited
-versions to make them cmpatible with Unique NPCs). Those esps will now need to be
-moved below the main Unique NPC esp to work properly. Below is a ist of the esps you
-need to move before moving on to the next mod:
-Looksmenu customization compendium
-We are the minutemen
-Far west minutemen
-Militarized minutemen
-Better Settlers
-make sure that this section of your right pane now looks like this:
+##### [Unique NPCs - An Overhaul of the Commonwealth](https://www.nexusmods.com/fallout4/mods/21248) *v2.1*
+ An overhaul of Skin textures, Size (height, weight) and Morphology (first time I've gotten to use that word!); with Roughly 180'ish Female Skin Textures, and 120'ish Male Skin Textures, tweaked body morph values, added faces, the commonwealth should be a unique place to visit.
+08/21/2018 Update - Full Overhaul for performance and Bugs. 
+
+> Install any of the two mian files (they ́re identical), and the 2.1 update
+> FOMOD instructions:
+> Core
+> - Unique Npcs Core.esp
+> - I read this if you don ́t use the HD DLC (which you shouldn ́t anyway)
+> Better Settlers and it ́s patches
+> - Better Settlers - No LollyGagging
+> - Mortal Pack
+> - No Patch - Standard Mix
+> No Patch - Standard Armor Mix
+> Better Settlers - Elis armour compendium - AE
+> No patches
+> Special Settlers
+> - No special settlers
+> Minutemen options
+> - Militarized Minutemen
+> - Far West Minutemen
+> - WATM 5.x enhanced
+> - none (we are the far west minutemen merged)
+> - UniqueNPCs_WATMM_FarWest_MilitarizedMinuetmen.esp
+> Gunner options
+> - No patches
+> 3rd party patches and final otpions
+> - Standard mortality
+> - Diamond city expansion
+> - No settlement patches
+> - Unique NPCs_AE_SuperMutantRedux
+> - Looks Menu Customization Compendium Replacer
+> If the FOMOD installer doesn ́t let you install the DCE patch, then I ́ve added the patch to
+> the CtGW R2 archive. Install separately or merge with Unique NPCs doesn ́t matter as long
+> as it ́s place after it.
+> The Unique NPCs installer will have replaced a couple of earlier installed esps (edited
+> versions to make them cmpatible with Unique NPCs). Those esps will now need to be
+> moved below the main Unique NPC esp to work properly. Below is a ist of the esps you
+> need to move before moving on to the next mod:
+> Looksmenu customization compendium
+> We are the minutemen
+> Far west minutemen
+> Militarized minutemen
+> Better Settlers
 
 ##### [Raider children](https://www.nexusmods.com/fallout4/mods/16586/)
 Raiders have been known to abduct children in the commonwealth to replenish their ranks.
