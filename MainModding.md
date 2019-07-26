@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T17:08:05.687Z
+date: 2019-07-26T17:08:16.514Z
 tags: 
 ---
 
@@ -1303,7 +1303,8 @@ Also with more furniture added Rexford now really looks like a Hotel.
 >install Tales and Atomic Radio (optional) from 3Dnpc.com (always update before Nexus
 version and contains custom tracks not on Nexus).
 
-##### [Sector 5 – Rise and Fall](https://www.nexusmods.com/fallout4/mods/38457)
+##### [Sector 5 – Rise and Fall](https://www.nexusmods.com/fallout4/mods/38457) *v1.3*
+ Discover several new locations, including a new worldspace - all linked through a huge quest line, split in 5 parts. Meet a new companion, fight new factions, be rewarded with goodies, including new player homes. 
 
 ## Weather and environment
 
