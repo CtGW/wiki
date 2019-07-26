@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T11:43:07.489Z
+date: 2019-07-26T11:43:16.921Z
 tags: 
 ---
 
@@ -1127,7 +1127,7 @@ This mod adds 338 new NPCs, travelling across the commonwealth
 > Install FO4 NPCs Travel main file
 
 ##### [Settlers of the Commonwealth](http://3dnpc.com/wiki/fallout-mods/fallout-4/settlers-of-the-commonwealth/) *v3.02*
-Adds 30 new recruitable settlers across the commonwealth. From the creator of Tales of the
+Adds 30 new recruitable settlers across the commonwealth, from the creator of Tales of the
 Commonwealth
 
 ##### [Sim Settlements - Settlers of the Commonweath - City Leaders](https://www.nexusmods.com/fallout4/mods/29799)
