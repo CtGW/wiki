@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T17:22:09.553Z
+date: 2019-07-26T17:26:40.199Z
 tags: 
 ---
 
@@ -1451,20 +1451,22 @@ A tutorial showing how to make custom loading screens.
 ##### [Immersive Drumlin Diner](https://www.nexusmods.com/fallout4/mods/18995/) *v2*
  This simple overhaul changes the approach to the Drumlin Diner faction & area, adding immersive detail and a backstory to bring it all together. 
  
-##### [Fallout 4 Revisited - Sanctuary - Safe Haven](https://www.nexusmods.com/fallout4/mods/26679) **
+##### [Fallout 4 Revisited - Sanctuary - Safe Haven](https://www.nexusmods.com/fallout4/mods/26679) *1.2*
  Sanctuary is one of the first real settlements you find on your journey, one that goes on to be the launching point of the Minutemen's chief strategist. This mod aims at bringing a new environment to Sanctuary with custom made walls that surround the town, overgrown and rundown the town still has a few key locations to turn the war for safe land with the coming tides of enemies. Work with your settlers to reclaim and make Sanctuary thrive again. 
 
 > If you install mod, do note that Sim Settlement city plans for Sanctuary likely won ́t work.
 {.is-success}
 
-##### [AWARHERO's Great Green Jewel](https://danielgamache.wixsite.com/awarhero/diamond-city-the-great-green-jewel)
-Install mod, them the replacer AWARHERO The Great Green Jewel.esp provided in my
+##### [AWARHERO's Great Green Jewel](https://danielgamache.wixsite.com/awarhero/diamond-city-the-great-green-jewel) *v1.5*
+
+> Install mod, them the replacer AWARHERO The Great Green Jewel.esp provided in my
 files, which includes no world edits (only changes to Diamond city interiors).
 
-##### [Diamond City Auto Close Gate](https://www.nexusmods.com/fallout4/mods/12928)
-Using all the DC mods above will cause FPS drop in Diamond City. Of course they are all
-optional, so you will have to chose if you like pretty or smooth. Biggest resource hog is
-Diamond City Plus.
+##### [Diamond City Auto Close Gate](https://www.nexusmods.com/fallout4/mods/12928) *v1.0*
+ This mod automatically closes the gate to Diamond City everytime you leave the area and come back again. 
+
+> Using all the DC mods above will cause FPS drop in Diamond City. Of course they are all optional, so you will have to chose if you like pretty or smooth. Biggest resource hog is Diamond City Plus.
+>{.is-success}
 
 ##### [Insignificant Object Remover](https://www.nexusmods.com/fallout4/mods/9835)
 
