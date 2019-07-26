@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T02:13:02.057Z
+date: 2019-07-26T02:17:43.068Z
 tags: 
 ---
 
@@ -891,16 +891,20 @@ Institute Power Armor I-01
 ##### [Night Of The Creeps](https://www.nexusmods.com/fallout4/mods/23721) *v0.213*
  Adds a new type of Feral ghouls that hunt at night. Flees and hides during the day. Optional Yao Guais. Settings holotape. 
  
-##### [Sleepless Nights](https://www.nexusmods.com/fallout4/mods/33057)
+##### [Sleepless Nights](https://www.nexusmods.com/fallout4/mods/33057) *v1.01*
+ A simple mod that makes it unsafe to rest in uninhabited areas at night. Your sleep can be interrupted by an enemy ambush or any number of wasteland creatures. 
 
-##### [Shaikujin's Better warning for settlements being attacked](https://www.nexusmods.com/fallout4/mods/4106)
+##### [Shaikujin's Better warning for settlements being attacked](https://www.nexusmods.com/fallout4/mods/4106) *v5.1*
+ Changes the 2 second message when a settlement is attacked to a standard message box (see screenshot). 
 
-##### [Pack Attack NPC Edition - Gangs With Group Combat Tactics](https://www.nexusmods.com/fallout4/mods/30140)
-Adds group combat AI to raider gangs, Gunners, and most other NPC groups, based on
-individual NPC social awareness and tactical combat evaluation. Now with MCM!
-NOTE: this mod is heavy on script resources and might cause game instability, especially if
-adding further scripted mods on top of this list.
-
+##### [Pack Attack NPC Edition - Gangs With Group Combat Tactics](https://www.nexusmods.com/fallout4/mods/30140) *v1.79*
+ "Pack Attack: NPC Edition" applies social combat AI to NPC gangs. Rather than simply rushing you in the open as a group, these NPCs will break and cover, retreat and flank, run and hide, and even lie in wait. They're more likely to ambush, less likely to engage in suicidal charges, and more willing to switch to hand-to-hand combat when needed.
+ 
+> Adds group combat AI to raider gangs, Gunners, and most other NPC groups, based on
+> individual NPC social awareness and tactical combat evaluation. Now with MCM!
+> NOTE: this mod is heavy on script resources and might cause game instability, especially if
+> adding further scripted mods on top of this list.
+> 
 ##### [H.A.R.D.Core - Fusion Generator Overhaul](https://www.nexusmods.com/fallout4/mods/28890/)
 isn ́t it amazing how every fusion core you find, regardless of how many hundreds of years
 they ́ve been in use, are fully charged?
