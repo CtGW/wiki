@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T17:28:53.196Z
+date: 2019-07-26T17:29:17.865Z
 tags: 
 ---
 
@@ -1504,7 +1504,7 @@ files, which includes no world edits (only changes to Diamond city interiors).
 
 
 
-##### [CtGW Community patches](https://www.nexusmods.com/fallout4/mods/30294)
+##### [CtGW Community patches](https://www.nexusmods.com/fallout4/mods/30294) *v2.0.0*
 In CtGW main archive
 
 ## Dead last (conflict resolutions)
