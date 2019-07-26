@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T02:01:02.970Z
+date: 2019-07-26T02:01:28.675Z
 tags: 
 ---
 
@@ -808,8 +808,10 @@ The customization options are endless.
 > - K-9 Harness - Tactical Body Armor and Backpack for Dogmeat
 > - K-9 Harness - Armorsmith Extended plus DEF UI
 
-##### [CROSS Pre-War Cybernetics](https://www.nexusmods.com/fallout4/mods/8609)
-download main file only
+##### [CROSS Pre-War Cybernetics](https://www.nexusmods.com/fallout4/mods/8609) *v106c*
+ Fully customizable cybernetic armor, unique armor mods, palette based paint styles, size options and more. ROBOT HANDS. 
+
+> download main file only
 
 ##### [CROSS Institute Tech Mask](https://www.nexusmods.com/fallout4/mods/11881)
 
