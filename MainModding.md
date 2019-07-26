@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T00:56:01.431Z
+date: 2019-07-26T01:14:06.606Z
 tags: 
 ---
 
@@ -719,26 +719,38 @@ Female texture customizer for CBBE. Customize blemishes, tanlines, hair, and mor
 
 ## Clothing
 
-##### [Modular Road Leathers](https://www.nexusmods.com/fallout4/mods/29779)
+##### [Modular Road Leathers](https://www.nexusmods.com/fallout4/mods/29779) *v1.1*
+ Several new outfits for male characters based on the road leathers. Multiple layers with each offering additional customization's. Oh, and it fixes "armor bloat". 
 
-##### [Commonwealth Shorts – CBBE](https://www.nexusmods.com/fallout4/mods/7898)
-Install CBBE main file an the tight armors optional file, then install bodyslide from here.
+##### [Commonwealth Shorts – CBBE](https://www.nexusmods.com/fallout4/mods/7898) *v2.0*
+ Sixteen new craftable commonwealth short outfits! And seven new S.P.E.C.I.A.L. outfits. :) 
 
-##### [Shade Girl Leather Outfits – CBBE](https://www.nexusmods.com/fallout4/mods/32547)
-Install main file and bodyslide hotfix file
+> Install CBBE main file an the tight armors optional file, then install bodyslide from here.
 
-##### [Raider Themed Mashups](https://www.nexusmods.com/fallout4/mods/29503)
+##### [Shade Girl Leather Outfits – CBBE](https://www.nexusmods.com/fallout4/mods/32547) *v1.0*
+ Rock on! A one-of-a-kind small collection of highly customizable female leather outfits mashups built around freedom of choice. Customize every piece of the outfit at the armor workbench, then mix and match with other mods to your heart’s content, for that unique look you aim for! 
 
-##### [Badlands Mashups](https://www.nexusmods.com/fallout4/mods/30013)
+> Install main file and bodyslide hotfix file
 
-##### [Commonwealth Mashups](https://www.nexusmods.com/fallout4/mods/27776)
+##### [Raider Themed Mashups](https://www.nexusmods.com/fallout4/mods/29503)*v1.1*
+ Adds 5 customizable raider themed outfits. Female only. 
 
-##### [Wasteland Mashups](https://www.nexusmods.com/fallout4/mods/28099?tab=files)
+##### [Badlands Mashups](https://www.nexusmods.com/fallout4/mods/30013) *v1.2*
+ The third set of my personal mashups with 9 outfits included for female characters. This time, I find out how awesome suspenders look. 
 
-##### [Irradiated Raiments](https://www.nexusmods.com/fallout4/mods/34193)
-Install main file and Boston Belle Belt Hotfix for CBBE
+##### [Commonwealth Mashups](https://www.nexusmods.com/fallout4/mods/27776) *v1.1*
+ My personal armor mashups, now for your female characters too! 
+ 
+##### [Wasteland Mashups](https://www.nexusmods.com/fallout4/mods/28099) *v1.1*
+ The second set of my personal outfit mashups - this time, we mash harder. 
 
-##### [Spiff's Wasteland Clothing Pack](https://www.nexusmods.com/fallout4/mods/31129)
+##### [Irradiated Raiments](https://www.nexusmods.com/fallout4/mods/34193) *v1.0*
+ My fourth set of mashups for female characters with 8 outfits and 3 recolors for each included. This time, I figure out how material swapping works. 
+
+> Install main file and Boston Belle Belt Hotfix for CBBE
+
+##### [Spiff's Wasteland Clothing Pack](https://www.nexusmods.com/fallout4/mods/31129) *v0.5*
+ A collection of all of my armor mashups, with a few unreleased ones thrown in. All easily and accessible through the Wasteland Clothing Station 
 
 ## Armor
 
