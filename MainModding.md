@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T02:01:28.675Z
+date: 2019-07-26T02:02:44.313Z
 tags: 
 ---
 
@@ -813,17 +813,18 @@ The customization options are endless.
 
 > download main file only
 
-##### [CROSS Institute Tech Mask](https://www.nexusmods.com/fallout4/mods/11881)
+##### [CROSS Institute Tech Mask](https://www.nexusmods.com/fallout4/mods/11881) *v1.02*
+ Adds a high tech gas mask that protects without hiding your characters face! 
 
-##### [CROSS Brotherhood Recon](https://www.nexusmods.com/fallout4/mods/27418)
+##### [CROSS Brotherhood Recon](https://www.nexusmods.com/fallout4/mods/27418) *v091b2*
 
-##### [CROSS Chosen of Atom](https://www.nexusmods.com/fallout4/mods/37820)
+##### [CROSS Chosen of Atom](https://www.nexusmods.com/fallout4/mods/37820) *v091a*
 
-##### [CROSS Courser Strigidae](https://www.nexusmods.com/fallout4/mods/28009)
+##### [CROSS Courser Strigidae](https://www.nexusmods.com/fallout4/mods/28009) *v090c*
 
-##### [CROSS Institute Expeditionary suit](https://www.nexusmods.com/fallout4/mods/30857)
+##### [CROSS Institute Expeditionary suit](https://www.nexusmods.com/fallout4/mods/30857) *v090b*
 
-##### [CROSS Mojave manhunter](https://www.nexusmods.com/fallout4/mods/32214)
+##### [CROSS Mojave manhunter](https://www.nexusmods.com/fallout4/mods/32214) *v090d*
 
 ##### [Wearable Backpacks and Pouches](https://www.nexusmods.com/fallout4/mods/3258)
 Install main file and the AWKCR Crafting optional patch
