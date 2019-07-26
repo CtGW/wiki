@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T17:26:40.199Z
+date: 2019-07-26T17:27:38.776Z
 tags: 
 ---
 
@@ -1468,15 +1468,18 @@ files, which includes no world edits (only changes to Diamond city interiors).
 > Using all the DC mods above will cause FPS drop in Diamond City. Of course they are all optional, so you will have to chose if you like pretty or smooth. Biggest resource hog is Diamond City Plus.
 >{.is-success}
 
-##### [Insignificant Object Remover](https://www.nexusmods.com/fallout4/mods/9835)
+##### [Insignificant Object Remover](https://www.nexusmods.com/fallout4/mods/9835) *v1.0*
+ Safely removes insignificant objects to improve performance without visual degradation. 
 
 ## Rounding up
 
-##### [Universal Patch Installer](https://www.nexusmods.com/fallout4/mods/34825)
-During installer, choose:
-- Armorsmith extended
-- Commonwealth shorts
-- Commonwealth shorts – Vault Girl
+##### [Universal Patch Installer](https://www.nexusmods.com/fallout4/mods/34825) *v0.9.20*
+ A universal patch installer for mods throughout the Nexus. This aims to implement patches for a lot of popular mods including new and recent ones. 
+ 
+> During installer, choose:
+> - Armorsmith extended
+> - Commonwealth shorts
+> - Commonwealth shorts – Vault Girl
 
 ##### [Ruse VIS-G and AE Patches](https://www.nexusmods.com/fallout4/mods/33480)
 During installer, under equipment patches, choose:
