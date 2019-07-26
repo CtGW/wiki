@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T11:34:50.634Z
+date: 2019-07-26T11:35:19.058Z
 tags: 
 ---
 
@@ -1050,18 +1050,18 @@ Mutants.
 > - AWKCR + AE
 > - Remove level requirements (Optional. Synths will be more powerful at lower levels!)
 
-##### [Better Settlers](https://www.nexusmods.com/fallout4/mods/4772)
-Better Settlers is a lore friendly mod that adds more than 240 new settlers to the vanilla
-settler selections.
-Install Better Settlers v2.0 DLC Master FOMOD main file
-During install select:
-- Bettersettlers.esp
-- No Lollygagging!
-- Dirty faces
-- Better settlers default
-- Vanilla
-- Community hair and clothing
-- Mortal pack
+##### [Better Settlers](https://www.nexusmods.com/fallout4/mods/4772) *v2.0*
+ Better Settlers is a lore friendly mod that adds more than 240 new settlers to the vanilla settler selections. You can choose to stop there, or further OPTIONS to customize them to spawn with more lore-friendly changes to their equipment, gender ratio, stats, or mortality. DLC and no-DLC versions and many other options available. 
+
+> Install Better Settlers v2.0 DLC Master FOMOD main file
+> During install select:
+> - Bettersettlers.esp
+> - No Lollygagging!
+> - Dirty faces
+> - Better settlers default
+> - Vanilla
+> - Community hair and clothing
+> - Mortal pack
 
 ##### [Simple Settlers](https://www.nexusmods.com/fallout4/mods/36074)
 Main options
