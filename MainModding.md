@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T17:11:39.154Z
+date: 2019-07-26T17:12:13.040Z
 tags: 
 ---
 
@@ -1331,15 +1331,17 @@ It also improves the general Image quality by adding new LUT and Imagespaces to 
 
 > During Installer select the WET Assets With Rain and the WET Clearer (ESL) options
 
-##### [Darker nights](https://www.nexusmods.com/fallout4/mods/191)
-Install both main and optional files, during installer, choose:
-- Light (level 4)
-- Far harbor and Nuka World DLC patches
-- Vivid weathers
-- Easiest (level 6)
-- Alternative (green tint)
-- Weaker night vision
-Leave the other options unticked
+##### [Darker nights](https://www.nexusmods.com/fallout4/mods/191) *v1.11p6*
+ Now you see me... 
+
+> Install both main and optional files, during installer, choose:
+> - Light (level 4)
+> - Far harbor and Nuka World DLC patches
+> - Vivid weathers
+> - Easiest (level 6)
+> - Alternative (green tint)
+> - Weaker night vision
+> Leave the other options unticked
 
 ##### [Vault-Tec Workshop Overhaul](https://www.nexusmods.com/fallout4/mods/17174)
 Install main file only
