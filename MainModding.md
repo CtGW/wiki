@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T02:02:44.313Z
+date: 2019-07-26T02:03:31.608Z
 tags: 
 ---
 
@@ -826,12 +826,11 @@ The customization options are endless.
 
 ##### [CROSS Mojave manhunter](https://www.nexusmods.com/fallout4/mods/32214) *v090d*
 
-##### [Wearable Backpacks and Pouches](https://www.nexusmods.com/fallout4/mods/3258)
-Install main file and the AWKCR Crafting optional patch
-These clothes and armors need to be run through Bodyslide if you ́re using a bodyslide preset other
-than the CBBE vanilla one. For instructions on how to do this, I will refer to the ever excellent
-Gopher on YouTube. I recommend you watch the whole video, but for this step, you can skip to
-timestamp 09:53.
+##### [Wearable Backpacks and Pouches](https://www.nexusmods.com/fallout4/mods/3258) *v1.4b*
+ This mod adds craftable & upgradable backpacks & pouches. 
+
+> Install main file and the AWKCR Crafting optional patch. These clothes and armors need to be run through Bodyslide if you ́re using a bodyslide preset other than the CBBE vanilla one. 
+> For instructions on how to do this, I will refer to the ever excellent Gopher on YouTube. I recommend you watch the whole video, but for this step, you can skip to timestamp 09:53.
 
 ## Power armor
 
