@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T17:14:07.135Z
+date: 2019-07-26T17:14:41.093Z
 tags: 
 ---
 
@@ -1376,15 +1376,18 @@ It also improves the general Image quality by adding new LUT and Imagespaces to 
 
 > This is a replacer esp, merge with the original mod.
 
-##### [Second World War British Air Raid Siren](https://www.nexusmods.com/fallout4/mods/12199)
+##### [Second World War British Air Raid Siren](https://www.nexusmods.com/fallout4/mods/12199) *v1.0*
+ Replaces the default siren with a Second World War British Carter Gents air rad siren 
 
-##### [Immersive Pickup Sounds F04 base](https://www.nexusmods.com/fallout4/mods/35917)
-
+##### [Immersive Pickup Sounds F04 base](https://www.nexusmods.com/fallout4/mods/35917) *v1.00*
+ This Mod adds in new FX sounds to most items in game. Theketzu kindly granted me access to use their files as well, meaning all of the sounds from FNV and F03 immersive pickup are back as well as some new sounds. 
+ 
 ##### [BiRaitBec ́s merged mods - Audio](https://www.nexusmods.com/fallout4/mods/23556)
-Download and install Merged Mods - Audio
-During the FOMOD installer
-- All-In-One
 
+> Download and install Merged Mods - Audio
+> During the FOMOD installer
+> - All-In-One
+ 
 ## Cut content restored
 
 ##### [Combat zone restored](https://www.nexusmods.com/fallout4/mods/21498)
