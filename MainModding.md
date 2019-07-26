@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T17:15:27.768Z
+date: 2019-07-26T17:15:44.570Z
 tags: 
 ---
 
@@ -1393,7 +1393,8 @@ It also improves the general Image quality by adding new LUT and Imagespaces to 
 ##### [Combat zone restored](https://www.nexusmods.com/fallout4/mods/21498) *v1.02*
  Restores the majority of the cut content from the Combat Zone. 
 
-##### [Piper Interview Restored](https://www.nexusmods.com/fallout4/mods/21829)
+##### [Piper Interview Restored](https://www.nexusmods.com/fallout4/mods/21829) *v0.1*
+ Restores part of the interview with Piper that was cut from the final game. 
 
 ##### [The Danse Dilemma](https://www.nexusmods.com/fallout4/mods/21923)
 
