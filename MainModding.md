@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T17:07:08.683Z
+date: 2019-07-26T17:08:05.687Z
 tags: 
 ---
 
@@ -1292,12 +1292,15 @@ Also with more furniture added Rexford now really looks like a Hotel.
 ##### [Vault 494 - A Vault-Tec Story](https://www.nexusmods.com/fallout4/mods/23651) *v1.3*
  Vault 494: A Vault-Tec Story adds a new Vault for the player to explore. As the player approaches the Nahant area they will pick up a Vault-Tec distress signal which will begin. From there the player will be free to explore Vault 494, which an accounting error gave an unusually high number, and Vault-Tec's attempts to create a crime-free society
 
-##### [David Hunter - A Brotherhood Story](https://www.nexusmods.com/fallout4/mods/16808)
+##### [David Hunter - A Brotherhood Story](https://www.nexusmods.com/fallout4/mods/16808) *v2.2*
+ David Hunter: A Brotherhood Story follows Scribe David Hunter as he fights to make the Commonwealth a better place but comes into conflict with Brotherhood traditionalists. 
 
-##### [Hilda Hughes - An Institute Story](https://www.nexusmods.com/fallout4/mods/22128)
+##### [Hilda Hughes - An Institute Story](https://www.nexusmods.com/fallout4/mods/22128) *v1.4*
+ Join Director of Robotics, Hilda Hughes, as she investigates the Prototype Synth Project. In doing this, the player will be able to enter the memories of five pre-war citizens and then discover their post-war fates. However, all is not well in the Robotics Division. A synth has gone missing and Hilda isn't convinced it was a production error. 
 
-##### [Tales from the Commonwealth](http://3dnpc.com/)
-install Tales and Atomic Radio (optional) from 3Dnpc.com (always update before Nexus
+##### [Tales from the Commonwealth](http://3dnpc.com/) *v3.01*
+
+>install Tales and Atomic Radio (optional) from 3Dnpc.com (always update before Nexus
 version and contains custom tracks not on Nexus).
 
 ##### [Sector 5 – Rise and Fall](https://www.nexusmods.com/fallout4/mods/38457)
