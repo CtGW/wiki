@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T01:59:10.225Z
+date: 2019-07-26T02:00:37.340Z
 tags: 
 ---
 
@@ -776,19 +776,30 @@ Female texture customizer for CBBE. Customize blemishes, tanlines, hair, and mor
 > - West Tek Tactical Optics v2.0 - AWKCR
 > - West Tek Tactical Optics v2.0 - Standard Leveled Lists
 
-##### [PreWar Binoculars](https://www.nexusmods.com/fallout4/mods/17819/)
-Adds functional binoculars to the game.
-During install, select:
-- “Binoculars – AWKCR” and 
-- “Standard viewfinder”
+##### [PreWar Binoculars](https://www.nexusmods.com/fallout4/mods/17819/) *2.1.1*
+ Adds functional binoculars to the game. 
+ 
+> Adds functional binoculars to the game.
+> During install, select:
+> - “Binoculars – AWKCR” and 
+> - “Standard viewfinder”
 
-##### [Crimsomrider's Accessories](https://www.nexusmods.com/fallout4/mods/19563)
+##### [Crimsomrider's Accessories](https://www.nexusmods.com/fallout4/mods/19563) *v5.0*
+ A fully modular and customizable accessory mod for both male and female, with a ton of accessories that enable you to achieve a unique look.
+The customization options are endless. 
 
-##### [Tactical Flashlights](https://www.nexusmods.com/fallout4/mods/16172)
-Adds wearable flashlight gear to the wasteland.
-During install, select:
-- AWKCR+AE
-- 100% + shadows
+##### [Tactical Flashlights](https://www.nexusmods.com/fallout4/mods/16172) *v2.3*
+ Adds wearable flashlight gear to the wasteland.
+- 8 Unique models
+- 10 Distance settings
+- Craftable bulbs
+- Dynamic shadows
+- Volumetric light
+- Automatic leveled list integration 
+
+> During install, select:
+> - AWKCR+AE
+> - 100% + shadows
 
 ##### [K-9 harness](https://www.nexusmods.com/fallout4/mods/17686)
 download:
