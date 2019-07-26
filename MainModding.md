@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T17:27:38.776Z
+date: 2019-07-26T17:28:02.009Z
 tags: 
 ---
 
@@ -1481,13 +1481,15 @@ files, which includes no world edits (only changes to Diamond city interiors).
 > - Commonwealth shorts
 > - Commonwealth shorts – Vault Girl
 
-##### [Ruse VIS-G and AE Patches](https://www.nexusmods.com/fallout4/mods/33480)
-During installer, under equipment patches, choose:
-- Crimsonrider ́s accessories
-- Eli ́s armor compendium
-- West Tek tactical optics
+##### [Ruse VIS-G and AE Patches](https://www.nexusmods.com/fallout4/mods/33480) *v1.7*
+ Up-to-date VIS-G and Armorsmith Extended patches that take advantage of new tags. 
 
-##### [Resh's GNARLY Unbogus Fallout Overhaul Patches - VIS-G - AE – UNPCs](https://www.nexusmods.com/fallout4/mods/35532?tab=files)
+> During installer, under equipment patches, choose:
+> - Crimsonrider ́s accessories
+> - Eli ́s armor compendium
+> - West Tek tactical optics
+
+##### [Resh's GNARLY Unbogus Fallout Overhaul Patches - VIS-G - AE – UNPCs](https://www.nexusmods.com/fallout4/mods/35532)
 Install Unbogus VIS-G and AE patch only
 
 ##### [We Are The Minutemen - VIS-G - Armorsmith Extended Patch](https://www.nexusmods.com/fallout4/mods/18744?)
