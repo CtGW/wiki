@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T02:04:20.668Z
+date: 2019-07-26T02:07:46.945Z
 tags: 
 ---
 
@@ -834,29 +834,41 @@ The customization options are endless.
 
 ## Power armor
 
-##### [Enclave X-02 Power Armor](https://www.nexusmods.com/fallout4/mods/11017)
+##### [Enclave X-02 Power Armor](https://www.nexusmods.com/fallout4/mods/11017) *v0.401*
+ The X-02 Power Armor wielded by the forces of the Enclave in the Capital Wasteland. Now in the Commonwealth! 
 
-##### [Hellfire X-03 Power Armor](https://www.nexusmods.com/fallout4/mods/26251)
+##### [Hellfire X-03 Power Armor](https://www.nexusmods.com/fallout4/mods/26251) *v0.126*
+ The intimidating Hellfire Power Armor from Fallout 3's Broken Steel DLC, finally lands in the Commonwealth.
+Now patched to 0.126 
 
-##### [InstitutePowerArmor](https://www.nexusmods.com/fallout4/mods/18315)
+##### [InstitutePowerArmor](https://www.nexusmods.com/fallout4/mods/18315) *v* 
+Institute Power Armor I-01 
 
-##### [Tribal Power Armor](https://www.nexusmods.com/fallout4/mods/22437)
+##### [Tribal Power Armor](https://www.nexusmods.com/fallout4/mods/22437) *v1.0*
+ Adds the iconic custom T-45d power armour worn by Ashur of The Pitt in Fallout 3's DLC to the Commonwealth, along with some groups of Pitt Raiders. 
 
-##### [Standalone Construction Power Armor](https://www.nexusmods.com/fallout4/mods/12096)
+##### [Standalone Construction Power Armor](https://www.nexusmods.com/fallout4/mods/12096) *v3.0*
+ The same PA from my scavvers mod now standalone for easier enjoyment. 
 
-##### [Liberty Power Armor](https://www.nexusmods.com/fallout4/mods/16305)
+##### [Liberty Power Armor](https://www.nexusmods.com/fallout4/mods/16305) *v2.2*
 
-##### [Submersible Power Armor Redux - BioShock Inspired](https://www.nexusmods.com/fallout4/mods/25591)
+##### [Submersible Power Armor Redux - BioShock Inspired](https://www.nexusmods.com/fallout4/mods/25591) *v1.2*
+ Daddy's back, and better than ever! Take a trip to Rapture to get yourself a brand new suit of fully customisable Submersible Power Armor, a Big Sister outfit and some new settlement items! 
 
-##### [Some assembly required](https://www.nexusmods.com/fallout4/mods/12050)
+##### [Some assembly required](https://www.nexusmods.com/fallout4/mods/12050) *v1.4*
+ Remember when you found a full set of X-01 in the back of a train car three times in a row? Leveled Power Armor tends to do that. This mod manually removes nearly every Power Armor spawn in the game and makes Power Armor exceedingly rare and difficult to acquire. Just as it should be. 
 
-##### [Some Assembly Required Patches for X-02 and X-03 Pas](https://www.nexusmods.com/fallout4/mods/26739?tab=files)
+##### [Some Assembly Required Patches for X-02 and X-03 Pas](https://www.nexusmods.com/fallout4/mods/26739) *v1*
+ Makes SAR changes to the X-02 & X-03 PAs. 
 
-##### [Improved Jetpack Flight Model](https://www.nexusmods.com/fallout4/mods/34249)
+##### [Improved Jetpack Flight Model](https://www.nexusmods.com/fallout4/mods/34249) *v1*
+ Improved Jetpack Flight Model. Fly further, Fly longer, Fly higher but slower with lower AP use. 
 
-##### [Restore Power Armor Frames](https://www.nexusmods.com/fallout4/mods/20890)
+##### [Restore Power Armor Frames](https://www.nexusmods.com/fallout4/mods/20890) *v1.1*
+ The mod allows you to restore power armor frames from dead bodies on the spot, separating the frame from the body. 
 
-##### [Power Armor Impact FX](https://www.nexusmods.com/fallout4/mods/34012)
+##### [Power Armor Impact FX](https://www.nexusmods.com/fallout4/mods/34012) *v1.5*
+ Power Armor now has more interactive impact FX to things like metal objects to adding a more bad ass power armor hard landing and more SCRIPT FREE. Gif animations in the description. 
 
 ## Weapons of lore
 
