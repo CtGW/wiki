@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T01:14:06.606Z
+date: 2019-07-26T01:59:10.225Z
 tags: 
 ---
 
@@ -754,21 +754,27 @@ Female texture customizer for CBBE. Customize blemishes, tanlines, hair, and mor
 
 ## Armor
 
-##### [Eli's Armour Compendium](https://www.nexusmods.com/fallout4/mods/22431)
-Download and install CBBE main file
+##### [Eli's Armour Compendium](https://www.nexusmods.com/fallout4/mods/22431) *v1.5*
+ Mod ads 50 new lore-friendly armours, 20 accessories, tons of moddable colours. Institute, Settler, Wastelander, Raider, Vault suit. Both sexes. Vanilla and CBBE body, with BodySlide compatibility. 
 
-##### [The Mercenary Pack](https://www.nexusmods.com/fallout4/mods/20088)
-Download and install:
-- The Mercenary - Pack v0.9b – loose files
-- The Mercenary - Pack v0.9.c - plugin only update
-there are optional, though reportedly a bit buggy, BodySlide files available for those who
-intend to use BodySlide to custom fit armor to their characters body.
+> Download and install CBBE main file
 
-##### [West Tec Tactical Optics](https://www.nexusmods.com/fallout4/mods/12220)
-ad and install:
-- West Tek Tactical Optics v2.0.1 (minor update)Revision 2.5.0 alpha 2
-- West Tek Tactical Optics v2.0 - AWKCR
-- West Tek Tactical Optics v2.0 - Standard Leveled Lists
+##### [The Mercenary Pack](https://www.nexusmods.com/fallout4/mods/20088) *v0.9c*
+ My Outfit pack that contains all of my previous work (B-90, Rebel, SNCR) plus a new Gunner overhaul and Wastelander outfits that fits for exploring the commonwealth. 
+ 
+> Download and install:
+> - The Mercenary - Pack v0.9b – loose files
+> - The Mercenary - Pack v0.9.c - plugin only update
+> there are optional, though reportedly a bit buggy, BodySlide files available for those who
+> intend to use BodySlide to custom fit armor to their characters body.
+ 
+##### [West Tec Tactical Optics](https://www.nexusmods.com/fallout4/mods/12220) *v2.0.1*
+ Night Vision / Thermal / Targeting HUD goggles and eyepieces with new meshes and HD textures. Fully modular, craftable, upgradeable. 3 vision effects, 8 colors, and 2 additional targeting enhancements. Schematics posters also in the Workshop! 
+
+> Download and install:
+> - West Tek Tactical Optics v2.0.1 (minor update)Revision 2.5.0 alpha 2
+> - West Tek Tactical Optics v2.0 - AWKCR
+> - West Tek Tactical Optics v2.0 - Standard Leveled Lists
 
 ##### [PreWar Binoculars](https://www.nexusmods.com/fallout4/mods/17819/)
 Adds functional binoculars to the game.
