@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T11:31:48.569Z
+date: 2019-07-26T11:34:40.558Z
 tags: 
 ---
 
@@ -1027,25 +1027,28 @@ A new... non-replacer way to introduce exceptional variety to the Creatures of t
 Reworks the super mutant faction including Behemoths, FEV Hounds, and of course, Super
 Mutants.
 
-Install Super Mutant Redux and any updates. During installer select Armorsmith patch
+> Install Super Mutant Redux and any updates. During installer select Armorsmith patch
 
-##### [We are the minutemen](https://www.nexusmods.com/fallout4/mods/6443/)
+##### [We are the minutemen](https://www.nexusmods.com/fallout4/mods/6443/) *v6*
+ The Minutemen are supposed to be the best alternative for rebuilding the Commonwealth because : More settlements = More resources = Better materials = Better fire power and a larger presence in all the Commonwealth. But currently this is not the case and this mod attempts to fix this problem. 
 
-##### [Far West Minutemen](https://www.nexusmods.com/fallout4/mods/27972)
+##### [Far West Minutemen](https://www.nexusmods.com/fallout4/mods/27972) *v2.1*
+ This mod enhances the Minutemen to convert them in a more strong background lore faction. Adds a group of minutemen specialist that can spawns individually as others and gives all minutemen dedicated equipment to add a wild west and steampunk touch. 
 
-##### [Militarized Minutemen](https://www.nexusmods.com/fallout4/mods/29853)
-During installer:
-• WATM compatibility
+##### [Militarized Minutemen](https://www.nexusmods.com/fallout4/mods/29853) *v1.1.2*
+ Adds over 15 modular military themed items for the minutemen, overhauling the factions with different classes and combat styles. 
 
-##### [Synth Overhaul – C.A.S.T](https://www.nexusmods.com/fallout4/mods/9525)
-This mods overhauls all the Synths by giving them 70 new armor sets, 77 helmets, 42
-uniforms and 2 Synth weapons. From damaged armor to undamaged looking armor sets.Revision 2.5.0 alpha 2
-guide updated 2018-07-04, load order list updated 2018-07-04
-Install the main ba2 version, and any update
-During install select:
-- Synth Overhaul – no weapons
-- AWKCR + AE
-- Remove level requirements (Optional. Synths will be more powerful at lower levels!)
+> During installer:
+> - WATM compatibility
+
+##### [Synth Overhaul – C.A.S.T](https://www.nexusmods.com/fallout4/mods/9525) *v3.0.4*
+ This mods overhauls all the Synths by giving them 70 new armor sets, 77 helmets, 42 uniforms and 2 Synth weapons. From damaged armor to undamaged looking armor sets. This is done by editing the vanilla armor pieces, uniforms and weapons with new textures in 2K and 4K. 
+
+> Install the main ba2 version, and any update
+> During install select:
+> - Synth Overhaul – no weapons
+> - AWKCR + AE
+> - Remove level requirements (Optional. Synths will be more powerful at lower levels!)
 
 ##### [Better Settlers](https://www.nexusmods.com/fallout4/mods/4772)
 Better Settlers is a lore friendly mod that adds more than 240 new settlers to the vanilla
