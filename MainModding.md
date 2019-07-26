@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T17:30:56.470Z
+date: 2019-07-26T17:31:45.119Z
 tags: 
 ---
 
@@ -1529,10 +1529,11 @@ Skelette, Aschehaufen, Ghule, Krallen verwerten...
 
 >Install the AIO main file only
 >
-##### [The Beantown interiors Project](https://www.nexusmods.com/fallout4/mods/4612)
+##### [The Beantown interiors Project](https://www.nexusmods.com/fallout4/mods/4612) *v9.3.2*
+ The Beantown interiors project, the sister mod to Fallout 3's D.C. Interiors Project and Fallout New Vegas's N.V. Interiors Project, opens up many of the boarded building for you to explore. 
 
-##### [BTI Optimization for BFPSFixAIO](https://www.nexusmods.com/fallout4/mods/26286)
-A test compatibility patch with Boston FPS fix. Found under miscellaneous files
+##### [BTI Optimization for BFPSFixAIO](https://www.nexusmods.com/fallout4/mods/26286) *v.32*
+ This mod improves performance (FPS) in Boston and surrounding area. External areas only. This mod is beneficial to anyone that roams the boston area with mods that disable previs or break precombines in the boston area. 
 
 ##### [CtGW - Conflict resolution](https://www.nexusmods.com/fallout4/mods/30294)
 Now modular, install CtGW – CR.rar from the CtGW archive.
@@ -1545,7 +1546,7 @@ These are esps with my edits, which should override the original esps
 
 ##### [CtGW - Leveled Lists](https://www.nexusmods.com/fallout4/mods/30294)
 My manually edited leveled lists. I recommend you use this one if you ́ve installed the
-whole guide. If he esps complain about missing masters, there are mods in this list you
+whole guide. If the esps complain about missing masters, there are mods in this list you
 haven ́t installed and you would either have to remove those records
 manually or use
 Wrye Bash instead.
