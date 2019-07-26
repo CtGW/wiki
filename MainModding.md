@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T17:29:42.256Z
+date: 2019-07-26T17:30:17.481Z
 tags: 
 ---
 
@@ -1513,10 +1513,13 @@ Skelette, Aschehaufen, Ghule, Krallen verwerten...
 
 > Install Automatron version. After guide is done, move last in order
 
-##### [Diamond City Expansion](https://www.nexusmods.com/fallout4/mods/21853)
+##### [Diamond City Expansion](https://www.nexusmods.com/fallout4/mods/21853) *v1.4.2*
+ Mod that expands Diamond City and Fenway Park, adding several new areas to explore both in the city and inside the stadium building. 
 
-##### [Diamond City Expansion - Female Body Replacer – EasyGirl](https://www.nexusmods.com/fallout4/mods/28740)
-Install only the Diamond City Expansion - Female Body Replacer main file
+##### [Diamond City Expansion - Female Body Replacer – EasyGirl](https://www.nexusmods.com/fallout4/mods/28740) *v1.4*
+ Mod that replaces female bodies inside Red Seat District with the player's choice of body. Uses main female body mesh/texture files - supports all types (CBBE, AB, EVB, vanilla, etc.) 
+ 
+>Install only the Diamond City Expansion - Female Body Replacer main file
 
 ##### [Boston Fps Fix](https://www.nexusmods.com/fallout4/mods/26286)
 Note if you ́re going to install location mods not in this guide, that due to the nature of this
