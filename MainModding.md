@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T17:12:13.040Z
+date: 2019-07-26T17:12:36.685Z
 tags: 
 ---
 
@@ -1343,10 +1343,12 @@ It also improves the general Image quality by adding new LUT and Imagespaces to 
 > - Weaker night vision
 > Leave the other options unticked
 
-##### [Vault-Tec Workshop Overhaul](https://www.nexusmods.com/fallout4/mods/17174)
-Install main file only
+##### [Vault-Tec Workshop Overhaul](https://www.nexusmods.com/fallout4/mods/17174) *v3.1*
+ A non intrusive mod that aims to fix inconsistencies within the Vault-Tec Workshop DLC. This version addresses three of the main lighting issues, and adds snapping to lighting wall fixtures. 
+> Install main file only
 
-##### [Clarity](https://www.nexusmods.com/fallout4/mods/31991)
+##### [Clarity](https://www.nexusmods.com/fallout4/mods/31991) *v3.1*
+ A zero performance loss weather and lighting overhaul. Removes many blurry effects for a cleaner, crisper image. Improves the look of the vanilla game without overdoing it or straying away from the original style. 
 
 ##### [Fr4nsson's Light Tweaks](https://www.nexusmods.com/fallout4/mods/2139)
 
