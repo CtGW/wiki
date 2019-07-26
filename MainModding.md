@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T16:54:06.863Z
+date: 2019-07-26T16:55:19.572Z
 tags: 
 ---
 
@@ -1201,17 +1201,24 @@ the second pane.
 
 ## Animations
 
-##### [Laser weapons 1st person reposition](https://www.nexusmods.com/fallout4/mods/23102)
-Install Institute and standard lasers main file
+##### [Laser weapons 1st person reposition](https://www.nexusmods.com/fallout4/mods/23102) *v1.4*
+ Makes the institute and standard laser weapons smaller in the 1st person. 
+ 
+> Install Institute and standard lasers main file
 
-##### [Automatically Lowered Weapons](https://www.nexusmods.com/fallout4/mods/20093)
+##### [Automatically Lowered Weapons](https://www.nexusmods.com/fallout4/mods/20093) *v1.4*
+ Lowers your weapon automatically when not in combat 
 
-##### [New Alternative Animations](https://www.nexusmods.com/fallout4/mods/29857)
-Download and install one big pile of animations optional file
+##### [New Alternative Animations](https://www.nexusmods.com/fallout4/mods/29857) *v1.0Ony*
+ Wastelanders these are some alternative animations for your character! come quick! 
 
-##### [Stay Focused Son](https://www.nexusmods.com/fallout4/mods/18619)
+> Download and install one big pile of animations optional file
 
-##### [Power Armor Animation Changes](https://www.nexusmods.com/fallout4/mods/4408)
+##### [Stay Focused Son](https://www.nexusmods.com/fallout4/mods/18619) *v0.51*
+ This is the wasteland don't you dare put your pistol aside, you won't survive long son. 
+
+##### [Power Armor Animation Changes](https://www.nexusmods.com/fallout4/mods/4408) *v1.0*
+ Changes the enter and exit animations to be much quicker and an optional "Heroic" empty idle stance. 
 
 ## Vanilla location overhauls
 
