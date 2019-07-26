@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T11:40:49.202Z
+date: 2019-07-26T11:43:07.489Z
 tags: 
 ---
 
@@ -1116,16 +1116,17 @@ Mutants.
 > Militarized minutemen
 > Better Settlers
 
-##### [Raider children](https://www.nexusmods.com/fallout4/mods/16586/)
+##### [Raider children](https://www.nexusmods.com/fallout4/mods/16586/) *v3.1*
 Raiders have been known to abduct children in the commonwealth to replenish their ranks.
 Once indoctrinated, those poor children return the world from which they came to pillage
 and kill.
 
-##### [FO4 NPCs Travel](https://www.nexusmods.com/fallout4/mods/16987/)
+##### [FO4 NPCs Travel](https://www.nexusmods.com/fallout4/mods/16987/) *v2.8.1*
 This mod adds 338 new NPCs, travelling across the commonwealth
-Install FO4 NPCs Travel main file
 
-##### [Settlers of the Commonwealth](http://3dnpc.com/wiki/fallout-mods/fallout-4/settlers-of-the-commonwealth/)
+> Install FO4 NPCs Travel main file
+
+##### [Settlers of the Commonwealth](http://3dnpc.com/wiki/fallout-mods/fallout-4/settlers-of-the-commonwealth/) *v3.02*
 Adds 30 new recruitable settlers across the commonwealth. From the creator of Tales of the
 Commonwealth
 
