@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-25T23:54:37.085Z
+date: 2019-07-26T00:05:38.998Z
 tags: 
 ---
 
@@ -636,39 +636,56 @@ Made For Immersion!
 > - Repeat for SShowerBasicEffect
 > - Close and Save the "Showers" mod, as that is the only mod you've edited.
 
-##### [Settlement Tidy bot](https://www.nexusmods.com/fallout4/mods/33217)
+##### [Settlement Tidy bot](https://www.nexusmods.com/fallout4/mods/33217) *v2.1*
+ Mr. Tidy "undertaker bot" that scurries around removing "remains" from a Settlement 
 
-##### [Settlement Menu Manager](https://www.nexusmods.com/fallout4/mods/24204)
+##### [Settlement Menu Manager](https://www.nexusmods.com/fallout4/mods/24204) *v0.1.4*
+ SMM provides an easy way to add custom menus and makes said menus automatically disappear on uninstall (without breaking your build menu!) 
 
-##### [Sim Settlements](https://www.nexusmods.com/fallout4/mods/21872)
-Install 3 in 1 version
-Allows you to build zone objects that tell the settlers what type of buildings to create in
-different areas of your settlement and they will do so. Includes a progression system, a more
-interesting settler needs system, and rewards to help settlements matter more. This mod aims
-to completely change the way you think about settlements. You'll now be able to create
-detailed, living places with minimal effort.
-The ultimate goal: making every settlement a unique and awesome looking Fallout city, with
-perks and rewards that help you at every stage of the game.
+##### [Sim Settlements](https://www.nexusmods.com/fallout4/mods/21872) *v4.1.0*
+ Settlers should build their own damn houses (and farms, and shops, and...), you've got a Commonwealth to explore! 
+ 
+> Install 3 in 1 version
+> Allows you to build zone objects that tell the settlers what type of buildings to create in
+> different areas of your settlement and they will do so. Includes a progression system, a more
+> interesting settler needs system, and rewards to help settlements matter more. This mod aims
+> to completely change the way you think about settlements. You'll now be able to create
+> detailed, living places with minimal effort.
+> The ultimate goal: making every settlement a unique and awesome looking Fallout city, with
+> perks and rewards that help you at every stage of the game.
 
-##### [Sim Settlements Mega Pack - Year One](https://www.nexusmods.com/fallout4/mods/30396)
+##### [Sim Settlements Mega Pack - Year One](https://www.nexusmods.com/fallout4/mods/30396) *v1.0.5*
+ Over 100 building plans from throughout the community for Sim Settlements!
+Includes 11 brand new building plans that will unlock based on the DLC you have! 
 
-##### [Sim Settlements Mega Pack - Year Two](https://www.nexusmods.com/fallout4/mods/37983)
+##### [Sim Settlements Mega Pack - Year Two](https://www.nexusmods.com/fallout4/mods/37983) *v1.0.1*
+ Over 100 building plans from throughout the community for Sim Settlements! 
 
-##### [Sim Settlements – Conqueror](https://www.nexusmods.com/fallout4/mods/37000)
+##### [Sim Settlements – Conqueror](https://www.nexusmods.com/fallout4/mods/37000) *v4.1.0b*
+ It's time to take the settlements to War.
+Includes
+- Option to prestart the game with pre-built settlements run by NPCs for you to explore and Conquer.
+- Convert settlements to military outposts for your favorite factions and run attacks with them.
+- Quest line to play as a Raider.
+- New Sim Settlements content. 
 
-##### [Sim Settlements Conqueror Faction Pack - The Forsaken Vaulters](https://www.nexusmods.com/fallout4/mods/38425)
+##### [Sim Settlements Conqueror Faction Pack - The Forsaken Vaulters](https://www.nexusmods.com/fallout4/mods/38425) *v4.0.6-B*
+ Adds the Forsaken Vaulters as a faction for the Sim Settlements expansion Conqueror. Better served cold! 
 
-##### [Sim Settlements - Building Plan Preview](https://www.nexusmods.com/fallout4/mods/26004)
-Download and install Newest main file, and the Mega pack – year one file.
-Apart from the Sim Settlement add-ons we ́ve already installed, this mod also covers
-Wasteland Venturers v7.1.1+, Always Free Sim Settlements MrJoseCuervo v1.3.2+ ,
-Industrial City v0.9.0+, Junk Town by uituit v9+
+##### [Sim Settlements - Building Plan Preview](https://www.nexusmods.com/fallout4/mods/26004) *v2.0*
+ This mod ads a 3d preview model of each building plan on Sim Settlements, Industrial Revolution, Rise of the Commonwealth and it's addons so you now know what you are actually building, and they look great too.
+> Download and install Newest main file, and the Mega pack – year one file.
+> Apart from the Sim Settlement add-ons we ́ve already installed, this mod also covers
+> Wasteland Venturers v7.1.1+, Always Free Sim Settlements MrJoseCuervo v1.3.2+ ,
+> Industrial City v0.9.0+, Junk Town by uituit v9+
 
-##### [Sim Settlements - IDEK's Logistics Station](https://www.nexusmods.com/fallout4/mods/28945)
+##### [Sim Settlements - IDEK's Logistics Station](https://www.nexusmods.com/fallout4/mods/28945) *v1.2.3b*
+ Designed to simplify general logistical concerns, this mod adds an Industrial plot that automates the creation of supply lines, improves inter-settlement resource sharing and more. 
 
-##### [Wasteland Venturers 2 All-In-One](https://www.nexusmods.com/fallout4/mods/30081)
+##### [Wasteland Venturers 2 All-In-One](https://www.nexusmods.com/fallout4/mods/30081) *v6.0.0a*
 
-##### [Place Everywhere](https://www.nexusmods.com/fallout4/mods/9424)
+##### [Place Everywhere](https://www.nexusmods.com/fallout4/mods/9424) *v1.18.0.1138*
+ Place/build objects in settlements everywhere you want, change objects whatever you like. No more RED! 
 
 ## Cosmetic overhauls
 
