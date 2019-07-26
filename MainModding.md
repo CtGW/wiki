@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T02:21:47.721Z
+date: 2019-07-26T02:26:40.732Z
 tags: 
 ---
 
@@ -926,11 +926,11 @@ Add EAT/DRINK/USE choices that let you grab the item and eat/drink/Use in real t
 
 ##### [GET DIRTY (take a bath) additional effects](https://www.nexusmods.com/fallout4/mods/36880) *v1.0*
  This little patch for 7StarC's GET DIRTY mod adds charisma modifiers and some other minor tweaks to the original mod. I made several flavors to accomodate your preferences. 
-##### [Canteens of the commonwealth](https://www.nexusmods.com/fallout4/mods/24493)
-
-##### [Fill'em Up Again (Dynamic Bottle Recyclation)](https://www.nexusmods.com/fallout4/mods/12674) *v1.0.5*
+##### [Canteens of the commonwealth](https://www.nexusmods.com/fallout4/mods/24493) *v1.0.5*
  Adds New standalone and Wearable Canteens to the game that you can craft and fill with water.
 (Now with an installer) 
+
+##### [Fill'em Up Again (Dynamic Bottle Recyclation)](https://www.nexusmods.com/fallout4/mods/12674)
 
 > Install loose files version
 
