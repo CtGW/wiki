@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T17:28:02.009Z
+date: 2019-07-26T17:28:53.196Z
 tags: 
 ---
 
@@ -1489,15 +1489,19 @@ files, which includes no world edits (only changes to Diamond city interiors).
 > - Eli ́s armor compendium
 > - West Tek tactical optics
 
-##### [Resh's GNARLY Unbogus Fallout Overhaul Patches - VIS-G - AE – UNPCs](https://www.nexusmods.com/fallout4/mods/35532)
-Install Unbogus VIS-G and AE patch only
+##### [Resh's GNARLY Unbogus Fallout Overhaul Patches - VIS-G - AE – UNPCs](https://www.nexusmods.com/fallout4/mods/35532) *v1.ohno*
+ Sick patches for some awesome mods to work with Unbogus Fallout Overhaul (note: not the modulars, just the full AIO.) Updates frequently with new patches. 
 
-##### [We Are The Minutemen - VIS-G - Armorsmith Extended Patch](https://www.nexusmods.com/fallout4/mods/18744?)
-Comments on Nexus site regarding WATm 6: “there are several item that are
-different. Like backpack world models and variant 6 flannel shirt is new item without
-a tag.” 
+>Install Unbogus VIS-G and AE patch only
+
+##### [We Are The Minutemen - VIS-G - Armorsmith Extended Patch](https://www.nexusmods.com/fallout4/mods/18744) *v2.1*
+
+> Comments on Nexus site regarding WATm 6: “there are several item that are
+> different. Like backpack world models and variant 6 flannel shirt is new item without
+> a tag.” 
 > TODO: fix this
-{.is-danger}
+> {.is-danger}
+
 
 
 ##### [CtGW Community patches](https://www.nexusmods.com/fallout4/mods/30294)
