@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T16:20:05.217Z
+date: 2019-07-26T16:20:14.319Z
 tags: 
 ---
 
@@ -1148,7 +1148,8 @@ It's also a framework enabling bot NPC's for other mods like EyeBot Companions o
 ##### [Less Aggressive Settlers](https://www.nexusmods.com/fallout4/mods/36399) *v1.1*
  Makes settlers less aggressive so that they don't charge straight into battle during attacks. Especially useful when combined with Settlement Ambush Kit. 
 
-##### [Grieving Raider - A Most Important Mod](https://www.nexusmods.com/fallout4/mods/32335)
+##### [Grieving Raider - A Most Important Mod](https://www.nexusmods.com/fallout4/mods/32335) *v1*
+ The grieving raider, a man hurt by the world. Laying his love to rest only to be jacked up and killed by the Sole Survivor, well no more. 
 
 ## Companion overhauls
 
