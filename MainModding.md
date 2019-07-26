@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T17:01:06.684Z
+date: 2019-07-26T17:02:04.335Z
 tags: 
 ---
 
@@ -1247,16 +1247,22 @@ the second pane.
 ##### [The Lost Building of Atlantic](https://www.nexusmods.com/fallout4/mods/25401) *v2*
  As you're wandering through the ruins of downtown Boston, you find a building which is heavily fortified by a camp of raiders. You're not about to let a bunch of raiders get in the way of your curiosity, so you blast through them and enter the building. Inside, you can learn the story of Allison Miller, the CEO of Atlantic Pharmaceuticals, 
 
-##### [Sanctuary Hills - Root Cellar Remade](https://www.nexusmods.com/fallout4/mods/24791)
+##### [Sanctuary Hills - Root Cellar Remade](https://www.nexusmods.com/fallout4/mods/24791) *v1.2*
+ Sanctuary Hills Root Cellar turned in to abandoned fallout shelter. 
 
-##### [Virgils LABORATORY - Evil Lab Overhaul](https://www.nexusmods.com/fallout4/mods/29540)
+##### [Virgils LABORATORY - Evil Lab Overhaul](https://www.nexusmods.com/fallout4/mods/29540) *v1.00*
+ Turns Virgil's cave into an evil science lab with unique supermutant home! 
 
-##### [Aloot's Home Plate](https://www.nexusmods.com/fallout4/mods/15300/)
+##### [Aloot's Home Plate](https://www.nexusmods.com/fallout4/mods/15300/) *v2.2*
+ Makes Home Plate into a sweet crash pad, adds it to the Supply Routes and allows Companions to be sent there. 
 
-##### [Hotel Rexford](https://www.nexusmods.com/fallout4/mods/36458)
+##### [Hotel Rexford](https://www.nexusmods.com/fallout4/mods/36458) *v1.1*
+ This mod fixes most damage, removes dirt and most importantly matches the interior to look like the exterior of the building.
+Also with more furniture added Rexford now really looks like a Hotel. 
 > Install main file and optional NPCs outside of the street file
 
-##### [Better Robotics Disposal](https://www.nexusmods.com/fallout4/mods/36077)
+##### [Better Robotics Disposal](https://www.nexusmods.com/fallout4/mods/36077) *v1.0*
+ Improves the Robotics Disposal Site by adding scrap robots 
 
 ## New quests and locations
 
