@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T17:21:01.626Z
+date: 2019-07-26T17:22:09.553Z
 tags: 
 ---
 
@@ -1448,10 +1448,14 @@ A tutorial showing how to make custom loading screens.
 
 >Install the mix random DLC main file. NOTE: some users have experienced noticably longer game startup times (~30 seconds longer) with this mod activated.
 
-##### [Immersive Drumlin Diner](https://www.nexusmods.com/fallout4/mods/18995/)
+##### [Immersive Drumlin Diner](https://www.nexusmods.com/fallout4/mods/18995/) *v2*
+ This simple overhaul changes the approach to the Drumlin Diner faction & area, adding immersive detail and a backstory to bring it all together. 
+ 
+##### [Fallout 4 Revisited - Sanctuary - Safe Haven](https://www.nexusmods.com/fallout4/mods/26679) **
+ Sanctuary is one of the first real settlements you find on your journey, one that goes on to be the launching point of the Minutemen's chief strategist. This mod aims at bringing a new environment to Sanctuary with custom made walls that surround the town, overgrown and rundown the town still has a few key locations to turn the war for safe land with the coming tides of enemies. Work with your settlers to reclaim and make Sanctuary thrive again. 
 
-##### [Fallout 4 Revisited - Sanctuary - Safe Haven](https://www.nexusmods.com/fallout4/mods/26679)
-If you install mod, do note that Sim Settlement city plans for Sanctuary likely won ́t work.
+> If you install mod, do note that Sim Settlement city plans for Sanctuary likely won ́t work.
+{.is-success}
 
 ##### [AWARHERO's Great Green Jewel](https://danielgamache.wixsite.com/awarhero/diamond-city-the-great-green-jewel)
 Install mod, them the replacer AWARHERO The Great Green Jewel.esp provided in my
