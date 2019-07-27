@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-07-24T18:54:51.387Z
+date: 2019-07-27T13:17:57.215Z
 tags: 
 ---
 
@@ -78,7 +78,7 @@ Here I am listing the tools that we need from that page:
 This powerful utility allows you to modify, clean, and patch your plugins. [GamerPoets](https://www.youtube.com/watch?v=2F19Do8HAl4) has a
 good primer how to use FO4Edit on YouTube.
 
-### [Wrye Bash](httpshttps://www.dropbox.com/sh/iazpayeexiyazeh/AAAbGeVHrlIksp2AFgI4w48Oa?dl=0)
+### [Wrye Bash](https://www.dropbox.com/sh/iazpayeexiyazeh/AAAbGeVHrlIksp2AFgI4w48Oa?dl=0)
 
 ### [F4SE](http://f4se.silverlock.org/)
 
