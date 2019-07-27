@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-27T17:26:59.589Z
+date: 2019-07-27T17:28:05.295Z
 tags: 
 ---
 
@@ -656,6 +656,7 @@ Made For Immersion!
  Allows you to put all weapons on Contraptions Workshop Weapon Racks. 
 
 ##### [Settlement Objects Combined](https://www.nexusmods.com/fallout4/mods/36461) *v1.6.2*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Combines the the invidiually themed settlement objects into one file 
 
 > load esp version 2 (loose files)
@@ -670,12 +671,15 @@ Made For Immersion!
 > - Close and Save the "Showers" mod, as that is the only mod you've edited.
 
 ##### [Settlement Tidy bot](https://www.nexusmods.com/fallout4/mods/33217) *v2.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Mr. Tidy "undertaker bot" that scurries around removing "remains" from a Settlement 
 
 ##### [Settlement Menu Manager](https://www.nexusmods.com/fallout4/mods/24204) *v0.1.4*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  SMM provides an easy way to add custom menus and makes said menus automatically disappear on uninstall (without breaking your build menu!) 
 
 ##### [Sim Settlements](https://www.nexusmods.com/fallout4/mods/21872) *v4.1.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Settlers should build their own damn houses (and farms, and shops, and...), you've got a Commonwealth to explore! 
  
 > Install 3 in 1 version
@@ -688,10 +692,12 @@ Made For Immersion!
 > perks and rewards that help you at every stage of the game.
 
 ##### [Sim Settlements Mega Pack - Year One](https://www.nexusmods.com/fallout4/mods/30396) *v1.0.5*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Over 100 building plans from throughout the community for Sim Settlements!
 Includes 11 brand new building plans that will unlock based on the DLC you have! 
 
 ##### [Sim Settlements Mega Pack - Year Two](https://www.nexusmods.com/fallout4/mods/37983) *v1.0.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Over 100 building plans from throughout the community for Sim Settlements! 
 
 ##### [Sim Settlements – Conqueror](https://www.nexusmods.com/fallout4/mods/37000) *v4.1.0b*
@@ -706,6 +712,7 @@ Includes
  Adds the Forsaken Vaulters as a faction for the Sim Settlements expansion Conqueror. Better served cold! 
 
 ##### [Sim Settlements - Building Plan Preview](https://www.nexusmods.com/fallout4/mods/26004) *v2.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  This mod ads a 3d preview model of each building plan on Sim Settlements, Industrial Revolution, Rise of the Commonwealth and it's addons so you now know what you are actually building, and they look great too.
 > Download and install Newest main file, and the Mega pack – year one file.
 > Apart from the Sim Settlement add-ons we ́ve already installed, this mod also covers
@@ -713,28 +720,36 @@ Includes
 > Industrial City v0.9.0+, Junk Town by uituit v9+
 
 ##### [Sim Settlements - IDEK's Logistics Station](https://www.nexusmods.com/fallout4/mods/28945) *v1.2.3b*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Designed to simplify general logistical concerns, this mod adds an Industrial plot that automates the creation of supply lines, improves inter-settlement resource sharing and more. 
 
 ##### [Wasteland Venturers 2 All-In-One](https://www.nexusmods.com/fallout4/mods/30081) *v6.0.0a*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 
 ##### [Place Everywhere](https://www.nexusmods.com/fallout4/mods/9424) *v1.18.0.1138*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Place/build objects in settlements everywhere you want, change objects whatever you like. No more RED! 
 
 ## Cosmetic overhauls
 
 ##### [BodySlide and Outfit Studio](https://www.nexusmods.com/fallout4/mods/25) *v4.7.4*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  An easy to use tool for customizing bodies and outfits, creating new bodies and outfits, and converting outfits between body types. 
 
 ##### [LooksMenu](https://www.nexusmods.com/fallout4/mods/12631) *v1.6.16*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 Adds engine modifications to improve character creation.
 
 ##### [Looksmenu Customization Compendium](https://www.nexusmods.com/fallout4/mods/24830) *v10*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  A mod that adds hundreds of new options to customize your character such as face paint, tattoos, scars, makeup, brows, haircolors, etc~! 
 
 ##### [LooksMenu Body Tattoos](https://www.nexusmods.com/fallout4/mods/25000) *v1.3.2*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 Some tattoo overlays for LooksMenu. It doesn't at all require Unique Player, and works more or less out of the box. A lot of customization is possible. 
 
 ##### [FSM Body Textures](https://www.nexusmods.com/fallout4/mods/31965) *v5.0.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 Female texture customizer for CBBE. Customize blemishes, tanlines, hair, and more... all with an easy-to-use installer! 
 >  Download the first main file and install it.
 > During the Installer, click next till on the fourth panel and select Neck and Scalp
@@ -742,17 +757,21 @@ Female texture customizer for CBBE. Customize blemishes, tanlines, hair, and mor
 > select finish.
 
 ##### [Picturesque Presets](https://www.nexusmods.com/fallout4/mods/16788) *v2.999a*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  A compilation of Mystolle's LooksMenu Presets 
 
 ##### [Caliente's Beautiful Bodies Enhancer -CBBE-](https://www.nexusmods.com/fallout4/mods/15) *v2.6.2*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  The well-known body enhancer made famous in Skyrim is back for Fallout 4 debut
 
 ##### [Malestra's CBBE BodySlide Preset Collection](https://www.nexusmods.com/fallout4/mods/35316) *v1.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  This is a collection of 40+ very accurate presets BASED ON REAL WOMEN or erotic fantasy art characters for CBBE/BodySlide. With variations it is about 120 presets total. Follow INSTALLATION instructions, check the STICKY And please post screenshots! 
 
 ## Clothing
 
 ##### [Modular Road Leathers](https://www.nexusmods.com/fallout4/mods/29779) *v1.1*
+
  Several new outfits for male characters based on the road leathers. Multiple layers with each offering additional customization's. Oh, and it fixes "armor bloat". 
 
 ##### [Commonwealth Shorts – CBBE](https://www.nexusmods.com/fallout4/mods/7898) *v2.0*
