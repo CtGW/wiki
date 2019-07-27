@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-26T17:32:03.454Z
+date: 2019-07-27T17:26:59.589Z
 tags: 
 ---
 
@@ -473,49 +473,62 @@ Pip-boy Far Harbor Satellite Map. 2K and 4K.
 ## Settlements
 
 ##### [Workshop Framework](https://www.nexusmods.com/fallout4/mods/35004) *v1.1.7*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Framework to open up the settlement system to editing by the community.
 For Players: New controls and faster, more stable workshop scripts.
 For Modders: Add new resource types, override settings, and generally change the way settlements work dynamically. 
 
 ##### [Workshop Plus](https://www.nexusmods.com/fallout4/mods/35005) *v1.0.5*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Transforms Workshop mode into a God simulator - giving you all of the tools you need to create amazing settlements.
 Flight, Undo Buttons, Layers, Cloning Tools, and more! 
 
 ##### [All Setlements Extended](https://www.nexusmods.com/fallout4/mods/25316?tab=description) *v2.0.2*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Every vanilla settlement now has a larger build area with custom border wall. Except Home Plate. Screw Home Plate. A must-have for Sim Settlements. 
  
 > Download and install No Bunker Hill or Hangman's Alley main version
 
 ##### [Uncapped Settlement Surplus](https://www.nexusmods.com/fallout4/mods/12430) *v2.0.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Makes settlements produce surplus (water, food, etc) even if there's already surplus in the workbench 
 
 ##### [Faster Workshop (Workshop Lag Fix)](https://www.nexusmods.com/fallout4/mods/35382) *v1.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Faster Workshop is an F4SE plugin that optimizes workshop loading times by replacing some of the most expensive and inefficient regions of workshop loading code with far more efficient versions. Also provides a hotkey to instantly enter Workshop mode and fixes workshop icon load lag. 
 
 ##### [Quieter settlements](https://www.nexusmods.com/fallout4/mods/2819) *v0.30*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Settlements too noisy? This mod reduces the volume of generators, turrets, and other settlement sounds. Choose different volumes for different sounds. 
 
 ##### [Locksmith](https://www.nexusmods.com/fallout4/mods/12454) *v1.02*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Tired of those pesky settlers walking in on you while you're using the bathroom? Worried Piper's going to find your copy of the Lusty Argonian Maid? Well, worry no longer! Now you can lock (and unlock, but why would you ever want to do that?) any door or container you wish! 
 
 ##### [Basement Living](https://www.nexusmods.com/fallout4/mods/10967) *v1.3*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Basement Living adds 10 standalone basement & bunker player homes with their own workshops and craftable doors, allowing you to place/enter into them from any settlement! Just like Home Plate, you can scrap and decorate them how you like. This was done carefully and methodically, does not affect settlements, or require any batch files / workar 
 
 ##### [Basement Living-Immersion Adjustment](https://www.nexusmods.com/fallout4/mods/28942) *v1.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  An small .esp edit which changes the crafting requirements of the Basement Living doors to be more realistic and cleans out the unimmersive clutter objects found in the bunkers themselves. 
 
 ##### [The Master Plan](https://www.nexusmods.com/fallout4/mods/16626) *v2.2*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Master categorization plugin for all my mods. 
 
 ##### [Vanilla Extensions](https://www.nexusmods.com/fallout4/mods/10032) *v2.5a*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 Improves vanilla snapping and adds a variety of highly functional blocks to the workshop menu. 
 
 >Install main file and any update file
 
 ##### [This is MY Bed](https://www.nexusmods.com/fallout4/mods/7399) *v3*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Adds six (or 13) craft-able beds that settlers cannot sleep in...but you can. 
 
 ##### [Better Cooking Stations](https://www.nexusmods.com/fallout4/mods/12104) *v2.03*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Overhauls the vanilla cooking stations with better effects and features; adds several new ones including a working kitchen stove, BBQ grill and supermutant cooking pot. All craftable cooking stations can be toggled Private or Public and can be assigned to settlers to function as food traders while still allowing you to craft recipes. 
 
 > Download and install:
@@ -524,23 +537,27 @@ Improves vanilla snapping and adds a variety of highly functional blocks to the 
 
 
 ##### [PWR - Passive Water Resources](https://www.nexusmods.com/fallout4/mods/19871) *v1.3*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Adds 22 water storage items such as tanks, water towers and animated rainwater collectors to build menu. Why passive? Because they generate water points and other bonuses only if your settlement has working "active" water resources (pumps, purifiers, etc.). 
 
 > Install only main file, not the SKE patch
 
 ##### [CWSS Redux](https://www.nexusmods.com/fallout4/mods/14326) *v2.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Craftable working showers, baths, toilets, sinks, urinals, bubblers, and kitchens, that followers, settlers, traders and caravan guards can use automatically. Custom idles, models, sounds and visual FX. Automatic undressing/dressing. Immersive buffs that taper over time. 
 
 > Essential to this modlist if you ́ve also installed “Get Dirty”
 >{.is-success}
 
 ##### [Lore Friendly Posters](https://www.nexusmods.com/fallout4/mods/7145)*v1.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Adds 100 Posters for your decorating pleasure. Lore Friendly. 
 
 > Install mod, and then the Wasteland and Contraptions Workshop and disappearing Mesh Fix
 patches
 
 ##### [Workshop Rearranged](https://www.nexusmods.com/fallout4/mods/16181) *v0.6.13*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  New items and functionality for the Fallout 4 Workshop. 
  
 > Install main file and patch pack
@@ -559,67 +576,83 @@ patches
 > - your choice
 
 ##### [Master Plan WRA Patch](https://www.nexusmods.com/fallout4/mods/16626) *v2.2*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Master categorization plugin for all my mods. 
 
 ##### [Better Stores](https://danielgamache.wixsite.com/awarhero/mod-archive) *v1.3.5*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 > During installation, select:
 > - Extra Custom Props
 > - Far Harbor patch
 
 ##### [Better Vendor Stalls](https://www.nexusmods.com/fallout4/mods/9758) *v3.2*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Makes vendor stalls small enough to fit under ceilings and adds clutter for more realism. 
 
 > During installation, select standalone with clutter
 
 ##### [Manufacturing Extended](https://www.nexusmods.com/fallout4/mods/15429) *v1.4*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Improves the manufacturing devices from Contraptions Workshop. Now you can choose which armor parts to build, manufacture Vault jumpsuits and energy weapon ammo, and extract components from workshop inventory! 
 
 > Install main file and Far Harbor patch
 
 ##### [Thematic and Practical](https://www.nexusmods.com/fallout4/mods/16207) *vAlpha1.3*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Thematic and Practical is a mod that aim to provide new constructible objects for your workshop. The plan is to update it with new themes during the developement. 
 > Install main file and DLCpatch
 
 ##### [Creative clutter](https://www.nexusmods.com/fallout4/mods/20782) *v2.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Fun, awesome, cluttery bits that make your shack, mansion, or giant hippie commune feel like a real home. Lazy furniture, mini crafting stations, standalone decorations, and micro horticulture! Decorate your place like a pro. This mod adds over 800 decorations, furniture, food resources, and more for you to build using its own custom menu. 
 
 > During installation, select Creative Clutter DLC
 
 ##### [Do It Yourshelf](https://www.nexusmods.com/fallout4/mods/14532) *v1.6a*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Add your own clutter to those empty shelves 
 
 > During installation, select extra half-shelf clutter full cost
 
 ##### [Gruffydds Signs and Posters](https://www.nexusmods.com/fallout4/mods/9711) *v4.00a*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Hundreds of new custom stand-alone signs and posters to add to your settlements. Includes settlement name signs for the Minutemen, Brotherhood of Steel, Institute, and Raiders, shop and business signs including some for Level 4 Shops, plus many, many more signs and posters of different sizes, shapes, and subjects, with regular updates adding more. 
 
 > Install main file only
 
 ##### [g2m Workshop](https://www.nexusmods.com/fallout4/mods/17088) *v6.1.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Add ton of unique objects to the workshop. Expand workshop features. Fix bugs in workshop items. 
 
 > During installation, check Main version [default]. If you during the intro sequence (right before the bathroom scene) get a white screen, press enter, downarrow and enter again. It ́s a message box spamming the screen at startup.
 
 ##### [Organized Workbench Menu](https://www.nexusmods.com/fallout4/mods/32588) *v1.2.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Organizes workbenches by type in the workshop menu. 
 
 ##### [JP Guard Towers](https://www.nexusmods.com/fallout4/mods/36178) *v1.21*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Adds 6 guard towers, 3 bridge decks to connect towers, 2 different style stone steps, and a “Guard Mat” to assign settlers as guards 
 
 ##### [Woody's Wasteland Stuff](https://www.nexusmods.com/fallout4/mods/24951) *v4*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  An improvised barrel fireplace to keep you toasty warm and various other wasteland stuffs. 
 
 ##### [Private Area Markers (keep settlers out of your house)](https://www.nexusmods.com/fallout4/mods/26377) *v1.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Keep settlers out of your house 
 
 ##### [Timer Power Switch](https://www.nexusmods.com/fallout4/mods/10750) *v1.00*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  This mod adds 3 new timer power switches to workshop Power/Connectors && Switches category, which allows you to build power switches automatically power on/off. 
 
 ##### [Weapon Rack Extended](https://www.nexusmods.com/fallout4/mods/15729) *v1.3.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Adds short weapon racks that can display all: Small and Medium weapons. and more
 Made For Immersion! 
 
 ##### [Weapon Rack Fixes](https://www.nexusmods.com/fallout4/mods/19324) *v1.1.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Allows you to put all weapons on Contraptions Workshop Weapon Racks. 
 
 ##### [Settlement Objects Combined](https://www.nexusmods.com/fallout4/mods/36461) *v1.6.2*
