@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-27T17:34:52.414Z
+date: 2019-07-27T19:38:06.321Z
 tags: 
 ---
 
@@ -964,24 +964,30 @@ Power Armor now has more interactive impact FX to things like metal objects to a
 ## Gameplay
 
 ##### [Unbogus Fallout overhaul](https://www.nexusmods.com/fallout4/mods/26026) *v2.Final*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  An extensive overhaul that touches upon almost every aspect of the game which aims to make the game more fun, challenging in a good way and varied while rewarding skill and tactics. 
 
 > Install main file only.
 
 ##### [BS Defence](https://www.nexusmods.com/fallout4/mods/20137) *v1.8*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Better Settlement Defence - Makes those hundreds of turrets actually do something when you're not around by taking away the random aspect of settlement attacks. 
 
 ##### [More Attackers – Get off my Buildzone](https://www.nexusmods.com/fallout4/mods/27465) *v1.1.7*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Moves attack markers beyond the boundaries of settlements. Adds additional attack markers around the perimeter of settlements. Solves the problem with spawning enemies inside a settlement after fast travel. Adds notifications to animals attacks. Increases time before attacks auto resolve (configurable). And more... 
 > Install main file
 
 ##### [Night Of The Creeps](https://www.nexusmods.com/fallout4/mods/23721) *v0.213*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Adds a new type of Feral ghouls that hunt at night. Flees and hides during the day. Optional Yao Guais. Settings holotape. 
  
 ##### [Sleepless Nights](https://www.nexusmods.com/fallout4/mods/33057) *v1.01*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  A simple mod that makes it unsafe to rest in uninhabited areas at night. Your sleep can be interrupted by an enemy ambush or any number of wasteland creatures. 
 
 ##### [Shaikujin's Better warning for settlements being attacked](https://www.nexusmods.com/fallout4/mods/4106) *v5.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Changes the 2 second message when a settlement is attacked to a standard message box (see screenshot). 
 
 ##### [Pack Attack NPC Edition - Gangs With Group Combat Tactics](https://www.nexusmods.com/fallout4/mods/30140) *v1.79*
@@ -993,19 +999,23 @@ Power Armor now has more interactive impact FX to things like metal objects to a
 >{.is-success}
 
 ##### [H.A.R.D.Core - Fusion Generator Overhaul](https://www.nexusmods.com/fallout4/mods/28890/) *v1.0*
+
  Replaces all Fusion Cores in Generators with plausibly drained FCs. 
 
 ##### [QuickTrade](https://www.nexusmods.com/fallout4/mods/16229) *v1.3*
  Quicktrade with vendors and settlers. 
 
 ##### [Auto Eat and Drink in Survival](https://www.nexusmods.com/fallout4/mods/25408) *v1.3.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Auto Eat and Drink in Survival 
  
 ##### [Grab and Eat All-in-One](https://www.nexusmods.com/fallout4/mods/17608) *v1.5*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  NEW FEATURE Player can read notes from containers and corpses.
 Add EAT/DRINK/USE choices that let you grab the item and eat/drink/Use in real time without picking up and opening the inventory 
 
 ##### [Read Notes from Containers and Corpses](https://www.nexusmods.com/fallout4/mods/18077) *v1.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  With this mod, player can read notes right from containers and corpse. 
 
 ##### [GET DIRTY (take a bath)](https://www.nexusmods.com/fallout4/mods/29171) *v1.3*
@@ -1018,6 +1028,7 @@ Add EAT/DRINK/USE choices that let you grab the item and eat/drink/Use in real t
 (Now with an installer) 
 
 ##### [Fill'em Up Again (Dynamic Bottle Recyclation)](https://www.nexusmods.com/fallout4/mods/12674) *v1.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Dynamically gives you an appropriate empty bottle whenever you drink a bottled beverage. Since it works via a simple script, it should be compatible with any mods even if they edit/rebalance/rename drink items. 
 
 > Install loose files version
@@ -1029,9 +1040,11 @@ Add EAT/DRINK/USE choices that let you grab the item and eat/drink/Use in real t
 > Install main and worse criticals optional files.
 
 ##### [Hacking 101](https://www.nexusmods.com/fallout4/mods/15033) *v2.3*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 Major rework of the Hacking system.
 
 ##### [Salvage Robot Parts](https://www.nexusmods.com/fallout4/mods/25355) *v2*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Robots now has a chance to drop appropriate robot parts. For people who likes to scavenge for their robot parts instead of building from scratch. 
  
 ##### [Sofa Surfer - Sleeping on Couches](https://www.nexusmods.com/fallout4/mods/24944) *v1.1*
@@ -1045,16 +1058,20 @@ Major rework of the Hacking system.
  Adds a simplified Karma System to Fallout 4 where game stats are tracked for various activities and alter your moral stance within the game, leading to confrontations and possibly jail time by bounty hunters. External mods can now hook into the Karma System via custom API (included), extending my Karma System to any mod that wishes to tie into it! 
 
 ##### [Outfit Switcher](https://www.nexusmods.com/fallout4/mods/10282) *v2.2*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  In a first of its kind for Fallout 4, this mod lets you save your entire loadout, including armor pieces! Then equip and swap between saved loadouts with the press of a button. You don't even need to open your Pip-Boy! It's like favorites, but entire loadouts at a time. 
 
 ##### [I Ain't Drunk (I'm Just Drinking)](https://www.nexusmods.com/fallout4/mods/36888) *v1.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Now you can drink one beer without getting drunk.
 And now beer restores thirst. 
 
 ##### [First Person Death Cam](https://www.nexusmods.com/fallout4/mods/27537) *v5*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  This mod makes you die in first person, with lots of different IMOD, global time multiplier, and decapitation combinations that are chosen randomly by a script on death. This makes for over 100 different first person death cams! 
 
 ##### [Survival options](https://www.nexusmods.com/fallout4/mods/14650) *v1.7.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 Adds a holotape that allows you to choose various options for survival difficulty, including hunger, thirst and exhaustion rate. 
 
 > Install version 1.6.2, the version before MCM, as it reportedly works better.
@@ -1062,18 +1079,22 @@ Adds a holotape that allows you to choose various options for survival difficult
 ## NPC and creature overhauls
 
 ##### [Raider Overhaul](https://www.nexusmods.com/fallout4/mods/9103) *v11.4c*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  A functioning WIP mod focusing on adding more diversity to the Commonwealth's Raiders. 
  
 > Install Raider Overhaul WIP 11.4c optional file only, then install AE replacer Raider Overhaul 11.4c from the Armorsmith Extended files.
 
 ##### [D.E.C.A.Y – Better Ghouls](https://www.nexusmods.com/fallout4/mods/2500) *v2.2*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  D.E.C.A.Y is a pretentious non-abbreviation that is used for my awesome feral ghoul overhaul. Ghouls are now creepy and unpleasant and have lots of detail and variety. No more bland, patternless leathery old men. 
 > Install main file only
 
 ##### [Deadlier Deathclaws](https://www.nexusmods.com/fallout4/mods/13822) *v3.3.5*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  An upgrade to the dragons of the wasteland to be more in line with their legend. 
 
 ##### [Unique NPCs - Creatures and Monsters](https://www.nexusmods.com/fallout4/mods/24357) *v2.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Unique NPCs - Creatures and Monsters of the Commonwealth
 A new... non-replacer way to introduce exceptional variety to the Creatures of the Wasteland. 
 
@@ -1105,30 +1126,37 @@ A new... non-replacer way to introduce exceptional variety to the Creatures of t
 > ```
 
 ##### [Less Loot D.E.C.A.Y](https://www.nexusmods.com/fallout4/mods/32938) *v1.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Reduce loot from ghouls significantly when using D.E.C.A.Y. mod. 
 
 ##### [Feral Ghouls After Dark](https://www.nexusmods.com/fallout4/mods/22434) *v1.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Feral ghouls become significantly more dangerous after the sun goes down - the way proper zombies do. 
 
 ##### [Super Mutant Redux](https://www.nexusmods.com/fallout4/mods/11853/) *v2.5*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 Reworks the super mutant faction including Behemoths, FEV Hounds, and of course, Super
 Mutants.
 
 > Install Super Mutant Redux and any updates. During installer select Armorsmith patch
 
 ##### [We are the minutemen](https://www.nexusmods.com/fallout4/mods/6443/) *v6*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  The Minutemen are supposed to be the best alternative for rebuilding the Commonwealth because : More settlements = More resources = Better materials = Better fire power and a larger presence in all the Commonwealth. But currently this is not the case and this mod attempts to fix this problem. 
 
 ##### [Far West Minutemen](https://www.nexusmods.com/fallout4/mods/27972) *v2.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  This mod enhances the Minutemen to convert them in a more strong background lore faction. Adds a group of minutemen specialist that can spawns individually as others and gives all minutemen dedicated equipment to add a wild west and steampunk touch. 
 
 ##### [Militarized Minutemen](https://www.nexusmods.com/fallout4/mods/29853) *v1.1.2*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Adds over 15 modular military themed items for the minutemen, overhauling the factions with different classes and combat styles. 
 
 > During installer:
 > - WATM compatibility
 
 ##### [Synth Overhaul – C.A.S.T](https://www.nexusmods.com/fallout4/mods/9525) *v3.0.4*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  This mods overhauls all the Synths by giving them 70 new armor sets, 77 helmets, 42 uniforms and 2 Synth weapons. From damaged armor to undamaged looking armor sets. This is done by editing the vanilla armor pieces, uniforms and weapons with new textures in 2K and 4K. 
 
 > Install the main ba2 version, and any update
@@ -1138,6 +1166,7 @@ Mutants.
 > - Remove level requirements (Optional. Synths will be more powerful at lower levels!)
 
 ##### [Better Settlers](https://www.nexusmods.com/fallout4/mods/4772) *v2.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Better Settlers is a lore friendly mod that adds more than 240 new settlers to the vanilla settler selections. You can choose to stop there, or further OPTIONS to customize them to spawn with more lore-friendly changes to their equipment, gender ratio, stats, or mortality. DLC and no-DLC versions and many other options available. 
 
 > Install Better Settlers v2.0 DLC Master FOMOD main file
@@ -1151,6 +1180,7 @@ Mutants.
 > - Mortal pack
 
 ##### [Simple Settlers](https://www.nexusmods.com/fallout4/mods/36074) *v4*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  A simple settler mod that offers 205 unique settlers to spawn to your settlement. Installation options allow you to choose the mortality of your settlers and your preference of gender. 
 
 > Main options
@@ -1159,6 +1189,7 @@ Mutants.
 > - None
 
 ##### [Unique NPCs - An Overhaul of the Commonwealth](https://www.nexusmods.com/fallout4/mods/21248) *v2.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  An overhaul of Skin textures, Size (height, weight) and Morphology (first time I've gotten to use that word!); with Roughly 180'ish Female Skin Textures, and 120'ish Male Skin Textures, tweaked body morph values, added faces, the commonwealth should be a unique place to visit.
 08/21/2018 Update - Full Overhaul for performance and Bugs. 
 
@@ -1204,38 +1235,47 @@ Mutants.
 > Better Settlers
 
 ##### [Raider children](https://www.nexusmods.com/fallout4/mods/16586/) *v3.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 Raiders have been known to abduct children in the commonwealth to replenish their ranks.
 Once indoctrinated, those poor children return the world from which they came to pillage
 and kill.
 
 ##### [FO4 NPCs Travel](https://www.nexusmods.com/fallout4/mods/16987/) *v2.8.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 This mod adds 338 new NPCs, travelling across the commonwealth
 
 > Install FO4 NPCs Travel main file
 
 ##### [Settlers of the Commonwealth](http://3dnpc.com/wiki/fallout-mods/fallout-4/settlers-of-the-commonwealth/) *v3.02*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 Adds 30 new recruitable settlers across the commonwealth, from the creator of Tales of the
 Commonwealth
 
 ##### [Sim Settlements - Settlers of the Commonweath - City Leaders](https://www.nexusmods.com/fallout4/mods/29799) *v1.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Makes all of the settlers from the Settlers of the Commonwealth mod, available on 3dnpc.com, available as city leaders in kinggath's Sim Settlers mod 
 
 ##### [Immersive Dogmeat](https://www.nexusmods.com/fallout4/mods/34128) *v1.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Fixes everything that was originally wrong with Dogmeat. Also removes his Max Level Limit. See details! Script-Free! 
 > ESP version
 
 ##### [Moddable Robot Settlers](https://www.nexusmods.com/fallout4/mods/11976) *v1.16*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  A compilation of my earlier mods that make robot settlers customizable at the Robot Workbench with the Automatron DLC and fixes things like Codsworth not being moddable or Professor Goodfeels' inevitable disappearance from the game.
 
 It's also a framework enabling bot NPC's for other mods like EyeBot Companions or Securitron 
 
 ##### [Killable Children](https://www.nexusmods.com/fallout4/mods/197) *v1.2.7.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  I made this in Fo4edit (1.2), and it allows you to have children be mortal like any other generic adult npc in the game. There are a couple essential children, i only tracked down 3 so far, if you see any more post there names in the comment box thingy. 
 
 ##### [Less Aggressive Settlers](https://www.nexusmods.com/fallout4/mods/36399) *v1.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Makes settlers less aggressive so that they don't charge straight into battle during attacks. Especially useful when combined with Settlement Ambush Kit. 
 
 ##### [Grieving Raider - A Most Important Mod](https://www.nexusmods.com/fallout4/mods/32335) *v1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  The grieving raider, a man hurt by the world. Laying his love to rest only to be jacked up and killed by the Sole Survivor, well no more. 
 
 ## Companion overhauls
