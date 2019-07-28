@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-28T06:20:15.591Z
+date: 2019-07-28T06:22:09.206Z
 tags: 
 ---
 
@@ -416,18 +416,15 @@ In CtGW main archive there are two version:
 > Now download MXPF - Mator's xEdit Patching Framework, and repeat the process from
 > above.
 > Next, install in MO2 R88SimpleSorter_XML.
-> Finally, we will do the actual patching. Note that it ́s recommended that you deactivate all
-> plugins related to Sim Settlements in the right pane before starting the patching process.
-> 
+> Finally, we will do the actual patching. Note that it's recommended that you deactivate all plugins related to Sim Settlements in the right pane before starting the patching process.
 > 1. Open FO4Edit, and click OK. Holdiing shift while clicking ok will load the program quicker. Wait for thr background loader to finish.
 > 2. Right-click on any of the plugins in the left pane and select "Apply Script".
 > 3. In the Apply Script dialogue, click in the script box and navigate to R88_SimpleSorter. Click OK.
 > 4. In the first dialogue box, check your options as below:
 > 5. Click on New Patch. You can name your sorting file whatever you want, I name it CtGW – simple sorter
-> 6. Let the sorter do it ́s job (which only takes a couple of minutes on my rig. When it ́s done, you will get a popup message saying "Patching Complete".
+> 6. Let the sorter do it's job (which only takes a couple of minutes on my rig. When it's done, you will get a popup message saying "Patching Complete".
 > 7. Close FO4Edit, make sure your new plugin is selected.
-> 8. Put your newly created patch last in the right pane of MO2. We ́re done
-> 
+> 8. Put your newly created patch last in the right pane of MO2. We're done
 
 ##### [Clock Widget - Show Real Time While Loading](https://www.nexusmods.com/fallout4/mods/26759) *v1.4.0*
 <span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
