@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-28T13:21:16.108Z
+date: 2019-07-28T22:10:01.553Z
 tags: 
 ---
 
@@ -1537,9 +1537,7 @@ files, which includes no world edits (only changes to Diamond city interiors).
 
 ##### [We Are The Minutemen - VIS-G - Armorsmith Extended Patch](https://www.nexusmods.com/fallout4/mods/18744) *v2.1*
 
-> Comments on Nexus site regarding WATm 6: “there are several item that are
-> different. Like backpack world models and variant 6 flannel shirt is new item without
-> a tag.” 
+> Comments on Nexus site regarding WATm 6: “there are several item that are different. Like backpack world models and variant 6 flannel shirt is new item without a tag.” 
 > TODO: fix this
 > {.is-danger}
 
