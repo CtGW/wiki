@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-28T05:47:17.531Z
+date: 2019-07-28T06:18:23.621Z
 tags: 
 ---
 
@@ -54,7 +54,7 @@ Mod description
 > Extra information/explanation
 >{.is-success}
 
-> Extra steps
+> Extra Instructions
 
 ---
 
