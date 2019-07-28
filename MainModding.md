@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-28T06:18:23.621Z
+date: 2019-07-28T06:20:15.591Z
 tags: 
 ---
 
@@ -329,7 +329,7 @@ This mod stops exit saves from being done by the game.
 ## Camera and UI
 
 ##### [DEF_UI](https://www.nexusmods.com/fallout4/mods/10654) *v1.5.1*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> <span style="background-color:#912CEE; padding:3px;"><font color="black"> Instructions </font></span>
 Re-release of DEF_HUD and DEF_INV by Neanka with a combined installer package. DEF_HUD is a fully 
 customizable HUD. DEF_INV provide many improvements to Pipboy, container, and barter inventory screens. 
 - *Main files*: Def_ui 1.5.1
@@ -346,7 +346,7 @@ customizable HUD. DEF_INV provide many improvements to Pipboy, container, and ba
 >   `Interface\Translate_**.txt`
 
 ##### [DEF_UI Iconlibs Rescaled and Fixed](https://www.nexusmods.com/fallout4/mods/31088/) *v1.5*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font> </span> <span style="background-color:#912CEE; padding:3px;"><font color="black"> Instructions </font></span>
  Based on Updated ICONLIBS2 for DEF_UI by omega9380. Aims to bring consistency in design and coloring to the icon library. Also fixes various issues with icon sizes, bounding boxes and scaling. 
 - *Main files*: DEF_UI Iconlibs Rescaled and Fixed - Subtle Color
 
@@ -406,7 +406,7 @@ In CtGW main archive there are two version:
 - *Main files*: Immersive HUD - iHUD
 
 ##### [Ruddy88 ́s Simple Sorter](https://www.nexusmods.com/fallout4/mods/33983) *v1.0*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> <span style="background-color:#912CEE; padding:3px;"><font color="black"> Instructions </font></span>
  Simple Sorter is a FO4Edit script that will automatically add the text needed for icon replacements for all valid items in your entire load order. It automatically scans your mod list, loads all valid items to a new ESP, then detects what sort of item it is so that the correct icons are used. No more patches, no more manually patching. 
 
 - *Main files*: R88SimpleSorter_XML
