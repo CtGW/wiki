@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-27T20:26:59.864Z
+date: 2019-07-28T05:47:17.531Z
 tags: 
 ---
 
@@ -46,7 +46,7 @@ So whenever there is an option, always choose the ESP file instead of the ESL fi
 ## Mod outline
 
 ##### Mod name *version*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> <span style="background-color:#00aedb; padding:3px;"><font color="white"> Optional </font></span> <span style="background-color:#d11141; padding:3px;"><font color="white"> Clean </font></span> <span style="background-color:#ffc425; padding:3px;"><font color="black"> Extracted </font></span> <span style="background-color:#f37735; padding:3px;"><font color="black"> ESL </font></span> <span style="background-color:#ff8b94; padding:3px;"><font color="black"> HD-HQ </font></span>
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> <span style="background-color:#00aedb; padding:3px;"><font color="white"> Optional </font></span> <span style="background-color:#d11141; padding:3px;"><font color="white"> Clean </font></span> <span style="background-color:#ffc425; padding:3px;"><font color="black"> Extracted </font></span> <span style="background-color:#f37735; padding:3px;"><font color="black"> ESL </font></span> <span style="background-color:#ff8b94; padding:3px;"><font color="black"> HD-HQ </font></span> <span style="background-color:#912CEE; padding:3px;"><font color="black"> Instructions </font></span>
 Mod description
 - File 1
 - File 2
@@ -66,6 +66,7 @@ Mod description
 - <span style="background-color:#ffc425; padding:3px;"><font color="black"> Extracted </font></span>: Mods where you should extract the `.bsa` files
 - <span style="background-color:#f37735; padding:3px;"><font color="black"> ESL </font></span>: Mods which you can/should manually mark as ESL
 - <span style="background-color:#ff8b94; padding:3px;"><font color="black"> HD-HQ </font></span>: Mods which are taxing on the computer and should be installed with caution
+- <span style="background-color:#912CEE; padding:3px;"><font color="black"> Instructions </font></span>: Mods for which there are special instructions for installation
 
 ---
 
@@ -473,62 +474,49 @@ Pip-boy Far Harbor Satellite Map. 2K and 4K.
 ## Settlements
 
 ##### [Workshop Framework](https://www.nexusmods.com/fallout4/mods/35004) *v1.1.7*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Framework to open up the settlement system to editing by the community.
 For Players: New controls and faster, more stable workshop scripts.
 For Modders: Add new resource types, override settings, and generally change the way settlements work dynamically. 
 
 ##### [Workshop Plus](https://www.nexusmods.com/fallout4/mods/35005) *v1.0.5*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Transforms Workshop mode into a God simulator - giving you all of the tools you need to create amazing settlements.
 Flight, Undo Buttons, Layers, Cloning Tools, and more! 
 
 ##### [All Setlements Extended](https://www.nexusmods.com/fallout4/mods/25316?tab=description) *v2.0.2*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Every vanilla settlement now has a larger build area with custom border wall. Except Home Plate. Screw Home Plate. A must-have for Sim Settlements. 
  
 > Download and install No Bunker Hill or Hangman's Alley main version
 
 ##### [Uncapped Settlement Surplus](https://www.nexusmods.com/fallout4/mods/12430) *v2.0.1*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Makes settlements produce surplus (water, food, etc) even if there's already surplus in the workbench 
 
 ##### [Faster Workshop (Workshop Lag Fix)](https://www.nexusmods.com/fallout4/mods/35382) *v1.1*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Faster Workshop is an F4SE plugin that optimizes workshop loading times by replacing some of the most expensive and inefficient regions of workshop loading code with far more efficient versions. Also provides a hotkey to instantly enter Workshop mode and fixes workshop icon load lag. 
 
 ##### [Quieter settlements](https://www.nexusmods.com/fallout4/mods/2819) *v0.30*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Settlements too noisy? This mod reduces the volume of generators, turrets, and other settlement sounds. Choose different volumes for different sounds. 
 
 ##### [Locksmith](https://www.nexusmods.com/fallout4/mods/12454) *v1.02*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Tired of those pesky settlers walking in on you while you're using the bathroom? Worried Piper's going to find your copy of the Lusty Argonian Maid? Well, worry no longer! Now you can lock (and unlock, but why would you ever want to do that?) any door or container you wish! 
 
 ##### [Basement Living](https://www.nexusmods.com/fallout4/mods/10967) *v1.3*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Basement Living adds 10 standalone basement & bunker player homes with their own workshops and craftable doors, allowing you to place/enter into them from any settlement! Just like Home Plate, you can scrap and decorate them how you like. This was done carefully and methodically, does not affect settlements, or require any batch files / workar 
 
 ##### [Basement Living-Immersion Adjustment](https://www.nexusmods.com/fallout4/mods/28942) *v1.0*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  An small .esp edit which changes the crafting requirements of the Basement Living doors to be more realistic and cleans out the unimmersive clutter objects found in the bunkers themselves. 
 
 ##### [The Master Plan](https://www.nexusmods.com/fallout4/mods/16626) *v2.2*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Master categorization plugin for all my mods. 
 
 ##### [Vanilla Extensions](https://www.nexusmods.com/fallout4/mods/10032) *v2.5a*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 Improves vanilla snapping and adds a variety of highly functional blocks to the workshop menu. 
 
 >Install main file and any update file
 
 ##### [This is MY Bed](https://www.nexusmods.com/fallout4/mods/7399) *v3*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Adds six (or 13) craft-able beds that settlers cannot sleep in...but you can. 
 
 ##### [Better Cooking Stations](https://www.nexusmods.com/fallout4/mods/12104) *v2.03*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Overhauls the vanilla cooking stations with better effects and features; adds several new ones including a working kitchen stove, BBQ grill and supermutant cooking pot. All craftable cooking stations can be toggled Private or Public and can be assigned to settlers to function as food traders while still allowing you to craft recipes. 
 
 > Download and install:
@@ -537,27 +525,23 @@ Improves vanilla snapping and adds a variety of highly functional blocks to the 
 
 
 ##### [PWR - Passive Water Resources](https://www.nexusmods.com/fallout4/mods/19871) *v1.3*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Adds 22 water storage items such as tanks, water towers and animated rainwater collectors to build menu. Why passive? Because they generate water points and other bonuses only if your settlement has working "active" water resources (pumps, purifiers, etc.). 
 
 > Install only main file, not the SKE patch
 
 ##### [CWSS Redux](https://www.nexusmods.com/fallout4/mods/14326) *v2.1*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Craftable working showers, baths, toilets, sinks, urinals, bubblers, and kitchens, that followers, settlers, traders and caravan guards can use automatically. Custom idles, models, sounds and visual FX. Automatic undressing/dressing. Immersive buffs that taper over time. 
 
 > Essential to this modlist if you ́ve also installed “Get Dirty”
 >{.is-success}
 
 ##### [Lore Friendly Posters](https://www.nexusmods.com/fallout4/mods/7145)*v1.0*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Adds 100 Posters for your decorating pleasure. Lore Friendly. 
 
 > Install mod, and then the Wasteland and Contraptions Workshop and disappearing Mesh Fix
 patches
 
 ##### [Workshop Rearranged](https://www.nexusmods.com/fallout4/mods/16181) *v0.6.13*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  New items and functionality for the Fallout 4 Workshop. 
  
 > Install main file and patch pack
@@ -576,87 +560,70 @@ patches
 > - your choice
 
 ##### [Master Plan WRA Patch](https://www.nexusmods.com/fallout4/mods/16626) *v2.2*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Master categorization plugin for all my mods. 
 
 ##### [Better Stores](https://danielgamache.wixsite.com/awarhero/mod-archive) *v1.3.5*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 > During installation, select:
 > - Extra Custom Props
 > - Far Harbor patch
 
 ##### [Better Vendor Stalls](https://www.nexusmods.com/fallout4/mods/9758) *v3.2*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Makes vendor stalls small enough to fit under ceilings and adds clutter for more realism. 
 
 > During installation, select standalone with clutter
 
 ##### [Manufacturing Extended](https://www.nexusmods.com/fallout4/mods/15429) *v1.4*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Improves the manufacturing devices from Contraptions Workshop. Now you can choose which armor parts to build, manufacture Vault jumpsuits and energy weapon ammo, and extract components from workshop inventory! 
 
 > Install main file and Far Harbor patch
 
 ##### [Thematic and Practical](https://www.nexusmods.com/fallout4/mods/16207) *vAlpha1.3*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Thematic and Practical is a mod that aim to provide new constructible objects for your workshop. The plan is to update it with new themes during the developement. 
 > Install main file and DLCpatch
 
 ##### [Creative clutter](https://www.nexusmods.com/fallout4/mods/20782) *v2.1*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Fun, awesome, cluttery bits that make your shack, mansion, or giant hippie commune feel like a real home. Lazy furniture, mini crafting stations, standalone decorations, and micro horticulture! Decorate your place like a pro. This mod adds over 800 decorations, furniture, food resources, and more for you to build using its own custom menu. 
 
 > During installation, select Creative Clutter DLC
 
 ##### [Do It Yourshelf](https://www.nexusmods.com/fallout4/mods/14532) *v1.6a*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Add your own clutter to those empty shelves 
 
 > During installation, select extra half-shelf clutter full cost
 
 ##### [Gruffydds Signs and Posters](https://www.nexusmods.com/fallout4/mods/9711) *v4.00a*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Hundreds of new custom stand-alone signs and posters to add to your settlements. Includes settlement name signs for the Minutemen, Brotherhood of Steel, Institute, and Raiders, shop and business signs including some for Level 4 Shops, plus many, many more signs and posters of different sizes, shapes, and subjects, with regular updates adding more. 
 
 > Install main file only
 
 ##### [g2m Workshop](https://www.nexusmods.com/fallout4/mods/17088) *v6.1.1*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Add ton of unique objects to the workshop. Expand workshop features. Fix bugs in workshop items. 
 
 > During installation, check Main version [default]. If you during the intro sequence (right before the bathroom scene) get a white screen, press enter, downarrow and enter again. It ́s a message box spamming the screen at startup.
 
 ##### [Organized Workbench Menu](https://www.nexusmods.com/fallout4/mods/32588) *v1.2.1*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Organizes workbenches by type in the workshop menu. 
 
 ##### [JP Guard Towers](https://www.nexusmods.com/fallout4/mods/36178) *v1.21*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Adds 6 guard towers, 3 bridge decks to connect towers, 2 different style stone steps, and a “Guard Mat” to assign settlers as guards 
 
 ##### [Woody's Wasteland Stuff](https://www.nexusmods.com/fallout4/mods/24951) *v4*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  An improvised barrel fireplace to keep you toasty warm and various other wasteland stuffs. 
 
 ##### [Private Area Markers (keep settlers out of your house)](https://www.nexusmods.com/fallout4/mods/26377) *v1.1*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Keep settlers out of your house 
 
 ##### [Timer Power Switch](https://www.nexusmods.com/fallout4/mods/10750) *v1.00*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  This mod adds 3 new timer power switches to workshop Power/Connectors && Switches category, which allows you to build power switches automatically power on/off. 
 
 ##### [Weapon Rack Extended](https://www.nexusmods.com/fallout4/mods/15729) *v1.3.1*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Adds short weapon racks that can display all: Small and Medium weapons. and more
 Made For Immersion! 
 
 ##### [Weapon Rack Fixes](https://www.nexusmods.com/fallout4/mods/19324) *v1.1.1*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Allows you to put all weapons on Contraptions Workshop Weapon Racks. 
 
 ##### [Settlement Objects Combined](https://www.nexusmods.com/fallout4/mods/36461) *v1.6.2*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Combines the the invidiually themed settlement objects into one file 
 
 > load esp version 2 (loose files)
@@ -671,15 +638,12 @@ Made For Immersion!
 > - Close and Save the "Showers" mod, as that is the only mod you've edited.
 
 ##### [Settlement Tidy bot](https://www.nexusmods.com/fallout4/mods/33217) *v2.1*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Mr. Tidy "undertaker bot" that scurries around removing "remains" from a Settlement 
 
 ##### [Settlement Menu Manager](https://www.nexusmods.com/fallout4/mods/24204) *v0.1.4*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  SMM provides an easy way to add custom menus and makes said menus automatically disappear on uninstall (without breaking your build menu!) 
 
 ##### [Sim Settlements](https://www.nexusmods.com/fallout4/mods/21872) *v4.1.0*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Settlers should build their own damn houses (and farms, and shops, and...), you've got a Commonwealth to explore! 
  
 > Install 3 in 1 version
@@ -692,12 +656,10 @@ Made For Immersion!
 > perks and rewards that help you at every stage of the game.
 
 ##### [Sim Settlements Mega Pack - Year One](https://www.nexusmods.com/fallout4/mods/30396) *v1.0.5*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Over 100 building plans from throughout the community for Sim Settlements!
 Includes 11 brand new building plans that will unlock based on the DLC you have! 
 
 ##### [Sim Settlements Mega Pack - Year Two](https://www.nexusmods.com/fallout4/mods/37983) *v1.0.1*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Over 100 building plans from throughout the community for Sim Settlements! 
 
 ##### [Sim Settlements – Conqueror](https://www.nexusmods.com/fallout4/mods/37000) *v4.1.0b*
@@ -712,7 +674,6 @@ Includes
  Adds the Forsaken Vaulters as a faction for the Sim Settlements expansion Conqueror. Better served cold! 
 
 ##### [Sim Settlements - Building Plan Preview](https://www.nexusmods.com/fallout4/mods/26004) *v2.0*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  This mod ads a 3d preview model of each building plan on Sim Settlements, Industrial Revolution, Rise of the Commonwealth and it's addons so you now know what you are actually building, and they look great too.
 > Download and install Newest main file, and the Mega pack – year one file.
 > Apart from the Sim Settlement add-ons we ́ve already installed, this mod also covers
@@ -720,36 +681,28 @@ Includes
 > Industrial City v0.9.0+, Junk Town by uituit v9+
 
 ##### [Sim Settlements - IDEK's Logistics Station](https://www.nexusmods.com/fallout4/mods/28945) *v1.2.3b*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Designed to simplify general logistical concerns, this mod adds an Industrial plot that automates the creation of supply lines, improves inter-settlement resource sharing and more. 
 
 ##### [Wasteland Venturers 2 All-In-One](https://www.nexusmods.com/fallout4/mods/30081) *v6.0.0a*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 
 ##### [Place Everywhere](https://www.nexusmods.com/fallout4/mods/9424) *v1.18.0.1138*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Place/build objects in settlements everywhere you want, change objects whatever you like. No more RED! 
 
 ## Cosmetic overhauls
 
 ##### [BodySlide and Outfit Studio](https://www.nexusmods.com/fallout4/mods/25) *v4.7.4*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  An easy to use tool for customizing bodies and outfits, creating new bodies and outfits, and converting outfits between body types. 
 
 ##### [LooksMenu](https://www.nexusmods.com/fallout4/mods/12631) *v1.6.16*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 Adds engine modifications to improve character creation.
 
 ##### [Looksmenu Customization Compendium](https://www.nexusmods.com/fallout4/mods/24830) *v10*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  A mod that adds hundreds of new options to customize your character such as face paint, tattoos, scars, makeup, brows, haircolors, etc~! 
 
 ##### [LooksMenu Body Tattoos](https://www.nexusmods.com/fallout4/mods/25000) *v1.3.2*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 Some tattoo overlays for LooksMenu. It doesn't at all require Unique Player, and works more or less out of the box. A lot of customization is possible. 
 
 ##### [FSM Body Textures](https://www.nexusmods.com/fallout4/mods/31965) *v5.0.1*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 Female texture customizer for CBBE. Customize blemishes, tanlines, hair, and more... all with an easy-to-use installer! 
 >  Download the first main file and install it.
 > During the Installer, click next till on the fourth panel and select Neck and Scalp
@@ -757,71 +710,57 @@ Female texture customizer for CBBE. Customize blemishes, tanlines, hair, and mor
 > select finish.
 
 ##### [Picturesque Presets](https://www.nexusmods.com/fallout4/mods/16788) *v2.999a*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  A compilation of Mystolle's LooksMenu Presets 
 
 ##### [Caliente's Beautiful Bodies Enhancer -CBBE-](https://www.nexusmods.com/fallout4/mods/15) *v2.6.2*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  The well-known body enhancer made famous in Skyrim is back for Fallout 4 debut
 
 ##### [Malestra's CBBE BodySlide Preset Collection](https://www.nexusmods.com/fallout4/mods/35316) *v1.0*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  This is a collection of 40+ very accurate presets BASED ON REAL WOMEN or erotic fantasy art characters for CBBE/BodySlide. With variations it is about 120 presets total. Follow INSTALLATION instructions, check the STICKY And please post screenshots! 
 
 ## Clothing
 
 ##### [Modular Road Leathers](https://www.nexusmods.com/fallout4/mods/29779) *v1.1*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Several new outfits for male characters based on the road leathers. Multiple layers with each offering additional customization's. Oh, and it fixes "armor bloat". 
 
 ##### [Commonwealth Shorts – CBBE](https://www.nexusmods.com/fallout4/mods/7898) *v2.0*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Sixteen new craftable commonwealth short outfits! And seven new S.P.E.C.I.A.L. outfits. :) 
 
 > Install CBBE main file an the tight armors optional file, then install bodyslide from here.
 
 ##### [Shade Girl Leather Outfits – CBBE](https://www.nexusmods.com/fallout4/mods/32547) *v1.0*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Rock on! A one-of-a-kind small collection of highly customizable female leather outfits mashups built around freedom of choice. Customize every piece of the outfit at the armor workbench, then mix and match with other mods to your heart’s content, for that unique look you aim for! 
 
 > Install main file and bodyslide hotfix file
 
 ##### [Raider Themed Mashups](https://www.nexusmods.com/fallout4/mods/29503)*v1.1*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Adds 5 customizable raider themed outfits. Female only. 
 
 ##### [Badlands Mashups](https://www.nexusmods.com/fallout4/mods/30013) *v1.2*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  The third set of my personal mashups with 9 outfits included for female characters. This time, I find out how awesome suspenders look. 
 
 ##### [Commonwealth Mashups](https://www.nexusmods.com/fallout4/mods/27776) *v1.1*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  My personal armor mashups, now for your female characters too! 
  
 ##### [Wasteland Mashups](https://www.nexusmods.com/fallout4/mods/28099) *v1.1*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  The second set of my personal outfit mashups - this time, we mash harder. 
 
 ##### [Irradiated Raiments](https://www.nexusmods.com/fallout4/mods/34193) *v1.0*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  My fourth set of mashups for female characters with 8 outfits and 3 recolors for each included. This time, I figure out how material swapping works. 
 
 > Install main file and Boston Belle Belt Hotfix for CBBE
 
 ##### [Spiff's Wasteland Clothing Pack](https://www.nexusmods.com/fallout4/mods/31129) *v0.5*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  A collection of all of my armor mashups, with a few unreleased ones thrown in. All easily and accessible through the Wasteland Clothing Station 
 
 ## Armor
 
 ##### [Eli's Armour Compendium](https://www.nexusmods.com/fallout4/mods/22431) *v1.5*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
-Mod ads 50 new lore-friendly armours, 20 accessories, tons of moddable colours. Institute, Settler, Wastelander, Raider, Vault suit. Both sexes. Vanilla and CBBE body, with BodySlide compatibility. 
+ Mod ads 50 new lore-friendly armours, 20 accessories, tons of moddable colours. Institute, Settler, Wastelander, Raider, Vault suit. Both sexes. Vanilla and CBBE body, with BodySlide compatibility. 
 
 > Download and install CBBE main file
 
 ##### [The Mercenary Pack](https://www.nexusmods.com/fallout4/mods/20088) *v0.9c*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  My Outfit pack that contains all of my previous work (B-90, Rebel, SNCR) plus a new Gunner overhaul and Wastelander outfits that fits for exploring the commonwealth. 
  
 > Download and install:
@@ -831,7 +770,6 @@ Mod ads 50 new lore-friendly armours, 20 accessories, tons of moddable colours. 
 > intend to use BodySlide to custom fit armor to their characters body.
  
 ##### [West Tec Tactical Optics](https://www.nexusmods.com/fallout4/mods/12220) *v2.0.1*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Night Vision / Thermal / Targeting HUD goggles and eyepieces with new meshes and HD textures. Fully modular, craftable, upgradeable. 3 vision effects, 8 colors, and 2 additional targeting enhancements. Schematics posters also in the Workshop! 
 
 > Download and install:
@@ -840,7 +778,6 @@ Mod ads 50 new lore-friendly armours, 20 accessories, tons of moddable colours. 
 > - West Tek Tactical Optics v2.0 - Standard Leveled Lists
 
 ##### [PreWar Binoculars](https://www.nexusmods.com/fallout4/mods/17819/) *2.1.1*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Adds functional binoculars to the game. 
  
 > Adds functional binoculars to the game.
@@ -849,12 +786,10 @@ Mod ads 50 new lore-friendly armours, 20 accessories, tons of moddable colours. 
 > - “Standard viewfinder”
 
 ##### [Crimsomrider's Accessories](https://www.nexusmods.com/fallout4/mods/19563) *v5.0*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  A fully modular and customizable accessory mod for both male and female, with a ton of accessories that enable you to achieve a unique look.
 The customization options are endless. 
 
 ##### [Tactical Flashlights](https://www.nexusmods.com/fallout4/mods/16172) *v2.3*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Adds wearable flashlight gear to the wasteland.
 - 8 Unique models
 - 10 Distance settings
@@ -868,7 +803,6 @@ The customization options are endless.
 > - 100% + shadows
 
 ##### [K-9 harness](https://www.nexusmods.com/fallout4/mods/17686) *v1.0*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  New modular body armor with new meshes & textures for Dogmeat, designed after modern Military and Police K-9 gear. Craftable side pouches, backpack, ballistic weave, faction patches, and various colors and patterns customized at the standard workbench. Lots of options! 
 
 > download:
@@ -876,33 +810,25 @@ The customization options are endless.
 > - K-9 Harness - Armorsmith Extended plus DEF UI
 
 ##### [CROSS Pre-War Cybernetics](https://www.nexusmods.com/fallout4/mods/8609) *v106c*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Fully customizable cybernetic armor, unique armor mods, palette based paint styles, size options and more. ROBOT HANDS. 
 
 > download main file only
 
 ##### [CROSS Institute Tech Mask](https://www.nexusmods.com/fallout4/mods/11881) *v1.02*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Adds a high tech gas mask that protects without hiding your characters face! 
 
 ##### [CROSS Brotherhood Recon](https://www.nexusmods.com/fallout4/mods/27418) *v091b2*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 
 ##### [CROSS Chosen of Atom](https://www.nexusmods.com/fallout4/mods/37820) *v091a*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 
 ##### [CROSS Courser Strigidae](https://www.nexusmods.com/fallout4/mods/28009) *v090c*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 
 ##### [CROSS Institute Expeditionary suit](https://www.nexusmods.com/fallout4/mods/30857) *v090b*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 
 ##### [CROSS Mojave manhunter](https://www.nexusmods.com/fallout4/mods/32214) *v090d*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 
 ##### [Wearable Backpacks and Pouches](https://www.nexusmods.com/fallout4/mods/3258) *v1.4b*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
-This mod adds craftable & upgradable backpacks & pouches. 
+ This mod adds craftable & upgradable backpacks & pouches. 
 
 > Install main file and the AWKCR Crafting optional patch. These clothes and armors need to be run through Bodyslide if you ́re using a bodyslide preset other than the CBBE vanilla one. 
 > For instructions on how to do this, I will refer to the ever excellent Gopher on YouTube. I recommend you watch the whole video, but for this step, you can skip to timestamp 09:53.
@@ -910,52 +836,40 @@ This mod adds craftable & upgradable backpacks & pouches.
 ## Power armor
 
 ##### [Enclave X-02 Power Armor](https://www.nexusmods.com/fallout4/mods/11017) *v0.401*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
-The X-02 Power Armor wielded by the forces of the Enclave in the Capital Wasteland. Now in the Commonwealth! 
+ The X-02 Power Armor wielded by the forces of the Enclave in the Capital Wasteland. Now in the Commonwealth! 
 
 ##### [Hellfire X-03 Power Armor](https://www.nexusmods.com/fallout4/mods/26251) *v0.126*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
-The intimidating Hellfire Power Armor from Fallout 3's Broken Steel DLC, finally lands in the Commonwealth.
+ The intimidating Hellfire Power Armor from Fallout 3's Broken Steel DLC, finally lands in the Commonwealth.
 Now patched to 0.126 
 
 ##### [InstitutePowerArmor](https://www.nexusmods.com/fallout4/mods/18315) *v* 
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 Institute Power Armor I-01 
 
 ##### [Tribal Power Armor](https://www.nexusmods.com/fallout4/mods/22437) *v1.0*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
-Adds the iconic custom T-45d power armour worn by Ashur of The Pitt in Fallout 3's DLC to the Commonwealth, along with some groups of Pitt Raiders. 
+ Adds the iconic custom T-45d power armour worn by Ashur of The Pitt in Fallout 3's DLC to the Commonwealth, along with some groups of Pitt Raiders. 
 
 ##### [Standalone Construction Power Armor](https://www.nexusmods.com/fallout4/mods/12096) *v3.0*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
-The same PA from my scavvers mod now standalone for easier enjoyment. 
+ The same PA from my scavvers mod now standalone for easier enjoyment. 
 
 ##### [Liberty Power Armor](https://www.nexusmods.com/fallout4/mods/16305) *v2.2*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 
 ##### [Submersible Power Armor Redux - BioShock Inspired](https://www.nexusmods.com/fallout4/mods/25591) *v1.2*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
-Daddy's back, and better than ever! Take a trip to Rapture to get yourself a brand new suit of fully customisable Submersible Power Armor, a Big Sister outfit and some new settlement items! 
+ Daddy's back, and better than ever! Take a trip to Rapture to get yourself a brand new suit of fully customisable Submersible Power Armor, a Big Sister outfit and some new settlement items! 
 
 ##### [Some assembly required](https://www.nexusmods.com/fallout4/mods/12050) *v1.4*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
-Remember when you found a full set of X-01 in the back of a train car three times in a row? Leveled Power Armor tends to do that. This mod manually removes nearly every Power Armor spawn in the game and makes Power Armor exceedingly rare and difficult to acquire. Just as it should be. 
+ Remember when you found a full set of X-01 in the back of a train car three times in a row? Leveled Power Armor tends to do that. This mod manually removes nearly every Power Armor spawn in the game and makes Power Armor exceedingly rare and difficult to acquire. Just as it should be. 
 
 ##### [Some Assembly Required Patches for X-02 and X-03 Pas](https://www.nexusmods.com/fallout4/mods/26739) *v1*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
-Makes SAR changes to the X-02 & X-03 PAs. 
+ Makes SAR changes to the X-02 & X-03 PAs. 
 
 ##### [Improved Jetpack Flight Model](https://www.nexusmods.com/fallout4/mods/34249) *v1*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
-Improved Jetpack Flight Model. Fly further, Fly longer, Fly higher but slower with lower AP use. 
+ Improved Jetpack Flight Model. Fly further, Fly longer, Fly higher but slower with lower AP use. 
 
 ##### [Restore Power Armor Frames](https://www.nexusmods.com/fallout4/mods/20890) *v1.1*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
-The mod allows you to restore power armor frames from dead bodies on the spot, separating the frame from the body. 
+ The mod allows you to restore power armor frames from dead bodies on the spot, separating the frame from the body. 
 
 ##### [Power Armor Impact FX](https://www.nexusmods.com/fallout4/mods/34012) *v1.5*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
-Power Armor now has more interactive impact FX to things like metal objects to adding a more bad ass power armor hard landing and more SCRIPT FREE. Gif animations in the description. 
+ Power Armor now has more interactive impact FX to things like metal objects to adding a more bad ass power armor hard landing and more SCRIPT FREE. Gif animations in the description. 
 
 ## Weapons of lore
 
@@ -964,30 +878,24 @@ Power Armor now has more interactive impact FX to things like metal objects to a
 ## Gameplay
 
 ##### [Unbogus Fallout overhaul](https://www.nexusmods.com/fallout4/mods/26026) *v2.Final*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  An extensive overhaul that touches upon almost every aspect of the game which aims to make the game more fun, challenging in a good way and varied while rewarding skill and tactics. 
 
 > Install main file only.
 
 ##### [BS Defence](https://www.nexusmods.com/fallout4/mods/20137) *v1.8*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Better Settlement Defence - Makes those hundreds of turrets actually do something when you're not around by taking away the random aspect of settlement attacks. 
 
 ##### [More Attackers – Get off my Buildzone](https://www.nexusmods.com/fallout4/mods/27465) *v1.1.7*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Moves attack markers beyond the boundaries of settlements. Adds additional attack markers around the perimeter of settlements. Solves the problem with spawning enemies inside a settlement after fast travel. Adds notifications to animals attacks. Increases time before attacks auto resolve (configurable). And more... 
 > Install main file
 
 ##### [Night Of The Creeps](https://www.nexusmods.com/fallout4/mods/23721) *v0.213*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Adds a new type of Feral ghouls that hunt at night. Flees and hides during the day. Optional Yao Guais. Settings holotape. 
  
 ##### [Sleepless Nights](https://www.nexusmods.com/fallout4/mods/33057) *v1.01*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  A simple mod that makes it unsafe to rest in uninhabited areas at night. Your sleep can be interrupted by an enemy ambush or any number of wasteland creatures. 
 
 ##### [Shaikujin's Better warning for settlements being attacked](https://www.nexusmods.com/fallout4/mods/4106) *v5.1*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Changes the 2 second message when a settlement is attacked to a standard message box (see screenshot). 
 
 ##### [Pack Attack NPC Edition - Gangs With Group Combat Tactics](https://www.nexusmods.com/fallout4/mods/30140) *v1.79*
@@ -999,23 +907,19 @@ Power Armor now has more interactive impact FX to things like metal objects to a
 >{.is-success}
 
 ##### [H.A.R.D.Core - Fusion Generator Overhaul](https://www.nexusmods.com/fallout4/mods/28890/) *v1.0*
-
  Replaces all Fusion Cores in Generators with plausibly drained FCs. 
 
 ##### [QuickTrade](https://www.nexusmods.com/fallout4/mods/16229) *v1.3*
  Quicktrade with vendors and settlers. 
 
 ##### [Auto Eat and Drink in Survival](https://www.nexusmods.com/fallout4/mods/25408) *v1.3.1*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Auto Eat and Drink in Survival 
  
 ##### [Grab and Eat All-in-One](https://www.nexusmods.com/fallout4/mods/17608) *v1.5*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  NEW FEATURE Player can read notes from containers and corpses.
 Add EAT/DRINK/USE choices that let you grab the item and eat/drink/Use in real time without picking up and opening the inventory 
 
 ##### [Read Notes from Containers and Corpses](https://www.nexusmods.com/fallout4/mods/18077) *v1.0*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  With this mod, player can read notes right from containers and corpse. 
 
 ##### [GET DIRTY (take a bath)](https://www.nexusmods.com/fallout4/mods/29171) *v1.3*
@@ -1028,7 +932,6 @@ Add EAT/DRINK/USE choices that let you grab the item and eat/drink/Use in real t
 (Now with an installer) 
 
 ##### [Fill'em Up Again (Dynamic Bottle Recyclation)](https://www.nexusmods.com/fallout4/mods/12674) *v1.0*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Dynamically gives you an appropriate empty bottle whenever you drink a bottled beverage. Since it works via a simple script, it should be compatible with any mods even if they edit/rebalance/rename drink items. 
 
 > Install loose files version
@@ -1040,11 +943,9 @@ Add EAT/DRINK/USE choices that let you grab the item and eat/drink/Use in real t
 > Install main and worse criticals optional files.
 
 ##### [Hacking 101](https://www.nexusmods.com/fallout4/mods/15033) *v2.3*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 Major rework of the Hacking system.
 
 ##### [Salvage Robot Parts](https://www.nexusmods.com/fallout4/mods/25355) *v2*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Robots now has a chance to drop appropriate robot parts. For people who likes to scavenge for their robot parts instead of building from scratch. 
  
 ##### [Sofa Surfer - Sleeping on Couches](https://www.nexusmods.com/fallout4/mods/24944) *v1.1*
@@ -1058,20 +959,16 @@ Major rework of the Hacking system.
  Adds a simplified Karma System to Fallout 4 where game stats are tracked for various activities and alter your moral stance within the game, leading to confrontations and possibly jail time by bounty hunters. External mods can now hook into the Karma System via custom API (included), extending my Karma System to any mod that wishes to tie into it! 
 
 ##### [Outfit Switcher](https://www.nexusmods.com/fallout4/mods/10282) *v2.2*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  In a first of its kind for Fallout 4, this mod lets you save your entire loadout, including armor pieces! Then equip and swap between saved loadouts with the press of a button. You don't even need to open your Pip-Boy! It's like favorites, but entire loadouts at a time. 
 
 ##### [I Ain't Drunk (I'm Just Drinking)](https://www.nexusmods.com/fallout4/mods/36888) *v1.1*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Now you can drink one beer without getting drunk.
 And now beer restores thirst. 
 
 ##### [First Person Death Cam](https://www.nexusmods.com/fallout4/mods/27537) *v5*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  This mod makes you die in first person, with lots of different IMOD, global time multiplier, and decapitation combinations that are chosen randomly by a script on death. This makes for over 100 different first person death cams! 
 
 ##### [Survival options](https://www.nexusmods.com/fallout4/mods/14650) *v1.7.1*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 Adds a holotape that allows you to choose various options for survival difficulty, including hunger, thirst and exhaustion rate. 
 
 > Install version 1.6.2, the version before MCM, as it reportedly works better.
@@ -1079,22 +976,18 @@ Adds a holotape that allows you to choose various options for survival difficult
 ## NPC and creature overhauls
 
 ##### [Raider Overhaul](https://www.nexusmods.com/fallout4/mods/9103) *v11.4c*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  A functioning WIP mod focusing on adding more diversity to the Commonwealth's Raiders. 
  
 > Install Raider Overhaul WIP 11.4c optional file only, then install AE replacer Raider Overhaul 11.4c from the Armorsmith Extended files.
 
 ##### [D.E.C.A.Y – Better Ghouls](https://www.nexusmods.com/fallout4/mods/2500) *v2.2*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  D.E.C.A.Y is a pretentious non-abbreviation that is used for my awesome feral ghoul overhaul. Ghouls are now creepy and unpleasant and have lots of detail and variety. No more bland, patternless leathery old men. 
 > Install main file only
 
 ##### [Deadlier Deathclaws](https://www.nexusmods.com/fallout4/mods/13822) *v3.3.5*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  An upgrade to the dragons of the wasteland to be more in line with their legend. 
 
 ##### [Unique NPCs - Creatures and Monsters](https://www.nexusmods.com/fallout4/mods/24357) *v2.1*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Unique NPCs - Creatures and Monsters of the Commonwealth
 A new... non-replacer way to introduce exceptional variety to the Creatures of the Wasteland. 
 
@@ -1126,37 +1019,30 @@ A new... non-replacer way to introduce exceptional variety to the Creatures of t
 > ```
 
 ##### [Less Loot D.E.C.A.Y](https://www.nexusmods.com/fallout4/mods/32938) *v1.0*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Reduce loot from ghouls significantly when using D.E.C.A.Y. mod. 
 
 ##### [Feral Ghouls After Dark](https://www.nexusmods.com/fallout4/mods/22434) *v1.0*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Feral ghouls become significantly more dangerous after the sun goes down - the way proper zombies do. 
 
 ##### [Super Mutant Redux](https://www.nexusmods.com/fallout4/mods/11853/) *v2.5*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 Reworks the super mutant faction including Behemoths, FEV Hounds, and of course, Super
 Mutants.
 
 > Install Super Mutant Redux and any updates. During installer select Armorsmith patch
 
 ##### [We are the minutemen](https://www.nexusmods.com/fallout4/mods/6443/) *v6*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  The Minutemen are supposed to be the best alternative for rebuilding the Commonwealth because : More settlements = More resources = Better materials = Better fire power and a larger presence in all the Commonwealth. But currently this is not the case and this mod attempts to fix this problem. 
 
 ##### [Far West Minutemen](https://www.nexusmods.com/fallout4/mods/27972) *v2.1*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  This mod enhances the Minutemen to convert them in a more strong background lore faction. Adds a group of minutemen specialist that can spawns individually as others and gives all minutemen dedicated equipment to add a wild west and steampunk touch. 
 
 ##### [Militarized Minutemen](https://www.nexusmods.com/fallout4/mods/29853) *v1.1.2*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Adds over 15 modular military themed items for the minutemen, overhauling the factions with different classes and combat styles. 
 
 > During installer:
 > - WATM compatibility
 
 ##### [Synth Overhaul – C.A.S.T](https://www.nexusmods.com/fallout4/mods/9525) *v3.0.4*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  This mods overhauls all the Synths by giving them 70 new armor sets, 77 helmets, 42 uniforms and 2 Synth weapons. From damaged armor to undamaged looking armor sets. This is done by editing the vanilla armor pieces, uniforms and weapons with new textures in 2K and 4K. 
 
 > Install the main ba2 version, and any update
@@ -1166,7 +1052,6 @@ Mutants.
 > - Remove level requirements (Optional. Synths will be more powerful at lower levels!)
 
 ##### [Better Settlers](https://www.nexusmods.com/fallout4/mods/4772) *v2.0*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Better Settlers is a lore friendly mod that adds more than 240 new settlers to the vanilla settler selections. You can choose to stop there, or further OPTIONS to customize them to spawn with more lore-friendly changes to their equipment, gender ratio, stats, or mortality. DLC and no-DLC versions and many other options available. 
 
 > Install Better Settlers v2.0 DLC Master FOMOD main file
@@ -1180,7 +1065,6 @@ Mutants.
 > - Mortal pack
 
 ##### [Simple Settlers](https://www.nexusmods.com/fallout4/mods/36074) *v4*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  A simple settler mod that offers 205 unique settlers to spawn to your settlement. Installation options allow you to choose the mortality of your settlers and your preference of gender. 
 
 > Main options
@@ -1189,7 +1073,6 @@ Mutants.
 > - None
 
 ##### [Unique NPCs - An Overhaul of the Commonwealth](https://www.nexusmods.com/fallout4/mods/21248) *v2.1*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  An overhaul of Skin textures, Size (height, weight) and Morphology (first time I've gotten to use that word!); with Roughly 180'ish Female Skin Textures, and 120'ish Male Skin Textures, tweaked body morph values, added faces, the commonwealth should be a unique place to visit.
 08/21/2018 Update - Full Overhaul for performance and Bugs. 
 
@@ -1235,47 +1118,38 @@ Mutants.
 > Better Settlers
 
 ##### [Raider children](https://www.nexusmods.com/fallout4/mods/16586/) *v3.1*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 Raiders have been known to abduct children in the commonwealth to replenish their ranks.
 Once indoctrinated, those poor children return the world from which they came to pillage
 and kill.
 
 ##### [FO4 NPCs Travel](https://www.nexusmods.com/fallout4/mods/16987/) *v2.8.1*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 This mod adds 338 new NPCs, travelling across the commonwealth
 
 > Install FO4 NPCs Travel main file
 
 ##### [Settlers of the Commonwealth](http://3dnpc.com/wiki/fallout-mods/fallout-4/settlers-of-the-commonwealth/) *v3.02*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
 Adds 30 new recruitable settlers across the commonwealth, from the creator of Tales of the
 Commonwealth
 
 ##### [Sim Settlements - Settlers of the Commonweath - City Leaders](https://www.nexusmods.com/fallout4/mods/29799) *v1.0*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Makes all of the settlers from the Settlers of the Commonwealth mod, available on 3dnpc.com, available as city leaders in kinggath's Sim Settlers mod 
 
 ##### [Immersive Dogmeat](https://www.nexusmods.com/fallout4/mods/34128) *v1.0*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Fixes everything that was originally wrong with Dogmeat. Also removes his Max Level Limit. See details! Script-Free! 
 > ESP version
 
 ##### [Moddable Robot Settlers](https://www.nexusmods.com/fallout4/mods/11976) *v1.16*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  A compilation of my earlier mods that make robot settlers customizable at the Robot Workbench with the Automatron DLC and fixes things like Codsworth not being moddable or Professor Goodfeels' inevitable disappearance from the game.
 
 It's also a framework enabling bot NPC's for other mods like EyeBot Companions or Securitron 
 
 ##### [Killable Children](https://www.nexusmods.com/fallout4/mods/197) *v1.2.7.1*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  I made this in Fo4edit (1.2), and it allows you to have children be mortal like any other generic adult npc in the game. There are a couple essential children, i only tracked down 3 so far, if you see any more post there names in the comment box thingy. 
 
 ##### [Less Aggressive Settlers](https://www.nexusmods.com/fallout4/mods/36399) *v1.1*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  Makes settlers less aggressive so that they don't charge straight into battle during attacks. Especially useful when combined with Settlement Ambush Kit. 
 
 ##### [Grieving Raider - A Most Important Mod](https://www.nexusmods.com/fallout4/mods/32335) *v1*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
  The grieving raider, a man hurt by the world. Laying his love to rest only to be jacked up and killed by the Sole Survivor, well no more. 
 
 ## Companion overhauls
