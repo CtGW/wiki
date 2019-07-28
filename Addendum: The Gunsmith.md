@@ -2,7 +2,7 @@
 title: The Gunsmith: Weapons of Lore WIP
 description: Get your lore friendly Tools of the Trade here.
 published: 1
-date: 2019-07-16T15:37:28.973Z
+date: 2019-07-28T13:14:22.948Z
 tags: 
 ---
 
@@ -726,7 +726,9 @@ Too varied between the Games. So I'll add some Packs that add known Explosives a
 ---
 
 [**The Rizzler/Wanaming0/Ha_ru/Pie_Savvy/guicool/Vicyorus/friend's LAER (Laser Assisted Electrical Rifle)**](https://www.nexusmods.com/fallout4/mods/30868)
-[**MrColonelMustard/TheRizzler1 and his team's When Science Retires - A LAER Standalone Version**](https://www.nexusmods.com/fallout4/mods/31224)
+> **(Outdated)**[**MrColonelMustard/TheRizzler1 and his team's When Science Retires - A LAER Standalone Version**](https://www.nexusmods.com/fallout4/mods/31224)
+{.is-danger}
+
 
 ![laer.jpg](/laer.jpg)
 
