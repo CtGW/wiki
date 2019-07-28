@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-28T06:22:09.206Z
+date: 2019-07-28T06:47:28.581Z
 tags: 
 ---
 
@@ -434,7 +434,7 @@ In CtGW main archive there are two version:
 > You can change this setting in `ClockWidget.ini` to toggle on/off 24-hour clock: `iEnable24HourClock=1/0`.
 
 ##### [Satellite Color World Map Combo](https://www.nexusmods.com/fallout4/mods/9414) *v1.3*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span></span> <span style="background-color:#912CEE; padding:3px;"><font color="black"> Instructions </font></span>
  Combines Satellite World Map and Color Map. No ESP required. New features included. 
 - *Main files*: Satellite Color World Map Combo 1-3
 
