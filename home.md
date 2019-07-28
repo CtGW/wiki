@@ -2,7 +2,7 @@
 title: Crossing the Great Wastes
 description: The most comprehensive modlist for FO4 by Ape, et al.
 published: 1
-date: 2019-07-28T22:15:20.242Z
+date: 2019-07-28T22:15:26.098Z
 tags: 
 ---
 
@@ -20,7 +20,7 @@ It would be ideal to install everything on the SSD, but for space reasons Im goi
 
 Ape's rig:
 ```
-Intel Core i5 7400 3 Ghz
+Intel Core i5 7400 @ 3 Ghz
 (Nvidia) ASUS Dual GeForce GTX 1060 OC 6GB
 16GB Crucial DDR4 2133 RAM
 275GB Crucial SSD m.2 mx300
