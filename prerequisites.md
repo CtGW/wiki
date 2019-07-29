@@ -2,13 +2,17 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-07-29T00:25:34.431Z
+date: 2019-07-29T20:16:49.043Z
 tags: 
 ---
 
 # Prerequisites
 
 ## A word about testing your mod list
+
+> You don't need to install anything in this section, these mods will be installed in the course of the guide.
+> This section is just an information soup to help in understanding the guide and Fallout 4 modding in general.
+>{.is-danger}
 
 Why a section like this before you´ve even installed any mods? Because once you´ve installed them all it won´t really do much good. If you run into issues in game, after having installed 200+ mods without even starting the game once to actually test it, it will take you a lot longer time, and cause you a lot more frustration to locate the error than if you had tested properly from the beginning.
 
