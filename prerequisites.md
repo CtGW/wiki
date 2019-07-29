@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-07-29T20:57:24.857Z
+date: 2019-07-29T20:59:07.088Z
 tags: 
 ---
 
@@ -99,6 +99,9 @@ Here we list the tools that we need:
 
 ##### [7-zip](https://www.7-zip.org/) (version unimportant)
 The most versatile compression utility for compression/decompression
+
+> A lot of mods and archives are going to be `.7z` compressed which necesitates the use of this program.
+>{.is-success}
 
 
 ##### [F4SE](http://f4se.silverlock.org/) *v0.6.17*
