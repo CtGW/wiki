@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-07-29T20:49:37.548Z
+date: 2019-07-29T20:54:27.295Z
 tags: 
 ---
 
@@ -81,7 +81,8 @@ For this guide you need the latest versions of
 
 ### Steam Overlay
 
-We recommend keeping the steam overlay installed, though if you are experiencing any issues, you can disable it for Fallout 4 as follows:
+We recommend keeping the steam overlay disabled.
+You can disable it for Fallout 4 as follows:
 ```
 Open the Steam Library. 
 Right click Fallout 4 and select Properties. 
@@ -95,6 +96,10 @@ One of the best places to read about Bethesda tools is on [DarkLadyLexy's LOTD -
 This guide is one huge monolithic creature and a beast, but also the best guide available for Skyrim Special Edition. It is totally worth it to install that guide and there are regular upgrades which keep it up to date.
 
 Here we list the tools that we need:
+
+##### [7-zip](https://www.7-zip.org/) (version unimportant)
+The most versatile compression utility for compression/decompression
+
 
 ##### [F4SE](http://f4se.silverlock.org/) *v0.6.17*
 **Fallout 4 folder**
