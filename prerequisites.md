@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-07-29T20:38:30.013Z
+date: 2019-07-29T20:44:34.160Z
 tags: 
 ---
 
@@ -83,11 +83,9 @@ For this guide you need the latest versions of
 
 We recommend keeping the steam overlay installed, though if you are experiencing any issues, you can disable it for Fallout 4 as follows:
 ```
-Load Steam. 
-Click LIBRARY. 
-On your Games list look for Fallout 4 and Right Click. 
-In the Dropdown menu click Properties. 
-Then in the popup box UNCHECK Enable the Steam Overlay while in-game.
+Open the Steam Library. 
+Right click Fallout 4 and select Properties. 
+In the Properties window UNCHECK Enable the Steam Overlay while in-game.
 ```
 
 ## Tools
