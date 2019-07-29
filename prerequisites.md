@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-07-29T20:36:30.496Z
+date: 2019-07-29T20:38:30.013Z
 tags: 
 ---
 
@@ -85,9 +85,9 @@ We recommend keeping the steam overlay installed, though if you are experiencing
 ```
 Load Steam. 
 Click LIBRARY. 
-On your Games list look for The Elder Scrolls V: Skyrim Special Editon and Right Click. 
-In the Dropdown menu Click Properties. 
-Then in the popup box Uncheck Enable the Steam Overlay while in-game.
+On your Games list look for Fallout 4 and Right Click. 
+In the Dropdown menu click Properties. 
+Then in the popup box UNCHECK Enable the Steam Overlay while in-game.
 ```
 
 ## Tools
