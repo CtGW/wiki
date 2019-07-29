@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-07-29T20:44:34.160Z
+date: 2019-07-29T20:46:03.228Z
 tags: 
 ---
 
@@ -96,6 +96,11 @@ This guide is one huge monolithic creature and a beast, but also the best guide 
 
 Here we list the tools that we need:
 
+### [F4SE](http://f4se.silverlock.org/) *v0.6.17*
+**Fallout 4 folder**
+Install only the following files to the main Fallout4 root:
+
+
 ### [FO4Edit](https://github.com/TES5Edit/TES5Edit/releases/) *v4.0.2*
 **Fallout 4 folder**
 This powerful utility allows you to modify, clean, and patch your plugins. [GamerPoets](https://www.youtube.com/watch?v=2F19Do8HAl4) has a
@@ -104,8 +109,6 @@ good primer how to use FO4Edit on YouTube.
 ### [Wrye Bash](https://www.dropbox.com/sh/iazpayeexiyazeh/AAAbGeVHrlIksp2AFgI4w48Oa?dl=0)
 **Falout 4 folder**
 
-### [F4SE](http://f4se.silverlock.org/) *v0.6.17*
-**Fallout 4 folder**
 
 ### [Mod Organizer 2](https://github.com/ModOrganizer2/modorganizer/releases)
 
