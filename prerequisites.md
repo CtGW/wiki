@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-07-29T21:11:45.170Z
+date: 2019-07-29T21:12:05.072Z
 tags: 
 ---
 
@@ -122,10 +122,10 @@ This powerful utility allows you to modify, clean, and patch your plugins. [Game
 **Falout 4 folder**
 Download whatever the current nightly version is available on the Dropbox folder and then extrac the folder `Mopy` to the Fallout 4 root folder.
 
->WINDOWS 7 USERS: A 'docs' folder needs to be created in ...Skyrim Special Edition\Data. WIN10 users do not need to follow this step, as it will be auto-created and placed into your Overwrite folder. For additional info, see Notice below.
+>WINDOWS 7 USERS: A 'docs' folder needs to be created in ...\Fallout 4\Data. WIN10 users do not need to follow this step, as it will be auto-created and placed into your Overwrite folder. For additional info, see Notice below.
 >WINDOWS 10 USERS: Ensure that your O/S has installed the Windows 10 1809 Update or higher. This will ensure that Wrye Bash is able to properly load, as the 1803 update creates a situation where WB attempts to load itself, which it can't because it's already in use.
 >WINDOWS 10 USERS: When using Wrye Bash, a 'Docs' folder will be generated and appear in your Overwrite folder. This is not needed for Skyrim to run properly, and can be safely deleted between sessions.
->{.is-success}
+>{.is-danger}
 
 
 ##### [Mod Organizer 2](https://github.com/ModOrganizer2/modorganizer/releases)
