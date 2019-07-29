@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-07-29T20:16:49.043Z
+date: 2019-07-29T20:20:55.523Z
 tags: 
 ---
 
@@ -74,6 +74,10 @@ With all that boring presentation out of the way, let´s get started!
 
 > DO NOT install Fallout 4 in any UAC (User Account Control) controlled folder structure. This includes x:/Program Files, x:/Program Files(x86), and the main Windows directory. It is, instead, advised to install the game (and, really, Steam itself) ANYWHERE other than there. Idealy, it would be on a separate SSD drive from your Operating System, but if that's not feasible, at least ensure that UAC is either turned off completely (not recommended for basic users) or installed outside of it's control. This also applies to ANY tools or programs other than the base game, with the important note that they SHOULD NOT (despite what some old tutorials may say) be installed into the Fallout 4 base folder unless specifically directed to do so.
 >{.is-danger}
+
+For this guide you need the latest versions of
+- **Fallout 4** v 1.10.138
+- **Creation Kit** v
 
 ## Tools
 Some of the tools in this section need to be installed into the Fallout 4 base directory in order to work properly. I make it a habit to install all of them there, **the one exception being MO2**, which I install on another drive.
