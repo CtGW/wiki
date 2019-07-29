@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-07-29T20:26:08.373Z
+date: 2019-07-29T20:36:30.496Z
 tags: 
 ---
 
@@ -78,6 +78,17 @@ With all that boring presentation out of the way, let´s get started!
 For this guide you need the latest versions of
 - **Fallout 4** *v 1.10.138*
 - **Creation Kit** *v*
+
+### Steam Overlay
+
+We recommend keeping the steam overlay installed, though if you are experiencing any issues, you can disable it for Fallout 4 as follows:
+```
+Load Steam. 
+Click LIBRARY. 
+On your Games list look for The Elder Scrolls V: Skyrim Special Editon and Right Click. 
+In the Dropdown menu Click Properties. 
+Then in the popup box Uncheck Enable the Steam Overlay while in-game.
+```
 
 ## Tools
 Some of the tools in this section need to be installed into the Fallout 4 base directory in order to work properly. I make it a habit to install all of them there, **the one exception being MO2**, which I install on another drive.
