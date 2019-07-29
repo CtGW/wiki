@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-07-27T13:17:57.215Z
+date: 2019-07-29T00:25:34.431Z
 tags: 
 ---
 
@@ -66,6 +66,11 @@ Here are some useful id's to:
 
 With all that boring presentation out of the way, let´s get started!
 
+## Fallout 4 Base
+
+> DO NOT install Fallout 4 in any UAC (User Account Control) controlled folder structure. This includes x:/Program Files, x:/Program Files(x86), and the main Windows directory. It is, instead, advised to install the game (and, really, Steam itself) ANYWHERE other than there. Idealy, it would be on a separate SSD drive from your Operating System, but if that's not feasible, at least ensure that UAC is either turned off completely (not recommended for basic users) or installed outside of it's control. This also applies to ANY tools or programs other than the base game, with the important note that they SHOULD NOT (despite what some old tutorials may say) be installed into the Fallout 4 base folder unless specifically directed to do so.
+>{.is-danger}
+
 ## Tools
 Some of the tools in this section need to be installed into the Fallout 4 base directory in order to work properly. I make it a habit to install all of them there, **the one exception being MO2**, which I install on another drive.
 
@@ -109,3 +114,8 @@ FO4Edit is smart and will save a backup of said ESM files in it´s overwrite fol
 
 ## Texture overhaul (from BiRaitBec)
 
+
+---
+Credits: 
+- DarkLadyLexy, for her amazing pre-requisites page from her guide
+- Biraitbec, for his amazing modlist and recommendations for FO4
