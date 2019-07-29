@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-07-29T20:59:07.088Z
+date: 2019-07-29T21:00:14.270Z
 tags: 
 ---
 
@@ -110,6 +110,9 @@ Copy only the following files to the main Fallout4 root:
 - f4se_1_10_138.dll
 - f4se_loader.exe
 - f4se_steam_loader.dll
+
+> We are not installing the scripts here, as we will be installing them through MO2, which keeps our Data folder clean.
+>{.is-success}
 
 ##### [FO4Edit](https://github.com/TES5Edit/TES5Edit/releases/) *v4.0.2*
 **Fallout 4 folder**
