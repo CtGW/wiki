@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-07-29T20:48:26.508Z
+date: 2019-07-29T20:49:37.548Z
 tags: 
 ---
 
@@ -96,30 +96,30 @@ This guide is one huge monolithic creature and a beast, but also the best guide 
 
 Here we list the tools that we need:
 
-### [F4SE](http://f4se.silverlock.org/) *v0.6.17*
+##### [F4SE](http://f4se.silverlock.org/) *v0.6.17*
 **Fallout 4 folder**
 Copy only the following files to the main Fallout4 root:
 - f4se_1_10_138.dll
 - f4se_loader.exe
 - f4se_steam_loader.dll
 
-### [FO4Edit](https://github.com/TES5Edit/TES5Edit/releases/) *v4.0.2*
+##### [FO4Edit](https://github.com/TES5Edit/TES5Edit/releases/) *v4.0.2*
 **Fallout 4 folder**
 This powerful utility allows you to modify, clean, and patch your plugins. [GamerPoets](https://www.youtube.com/watch?v=2F19Do8HAl4) has a good primer how to use FO4Edit on YouTube.
 
-### [Wrye Bash](https://www.dropbox.com/sh/iazpayeexiyazeh/AAAbGeVHrlIksp2AFgI4w48Oa?dl=0)
+##### [Wrye Bash](https://www.dropbox.com/sh/iazpayeexiyazeh/AAAbGeVHrlIksp2AFgI4w48Oa?dl=0)
 **Falout 4 folder**
 
 
-### [Mod Organizer 2](https://github.com/ModOrganizer2/modorganizer/releases)
+##### [Mod Organizer 2](https://github.com/ModOrganizer2/modorganizer/releases)
 
-### [FO4 configuration tool](https://www.nexusmods.com/fallout4/mods/102/)
+##### [FO4 configuration tool](https://www.nexusmods.com/fallout4/mods/102/)
 
-### [BethINI](https://www.nexusmods.com/fallout4/mods/67)
+##### [BethINI](https://www.nexusmods.com/fallout4/mods/67)
 
-### [xSE plugin preloader](https://www.nexusmods.com/fallout4/mods/33946)
+##### [xSE plugin preloader](https://www.nexusmods.com/fallout4/mods/33946)
 
-### [Dynamic performance tuner and load accelerator](https://www.nexusmods.com/fallout4/mods/28143)
+##### [Dynamic performance tuner and load accelerator](https://www.nexusmods.com/fallout4/mods/28143)
 
 Also download: [Configuration Files For Dynamic Performance Tuner And Load Accelerator](https://www.nexusmods.com/fallout4/mods/33632)
 
