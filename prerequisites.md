@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-07-29T20:20:55.523Z
+date: 2019-07-29T20:23:27.527Z
 tags: 
 ---
 
@@ -76,8 +76,8 @@ With all that boring presentation out of the way, let´s get started!
 >{.is-danger}
 
 For this guide you need the latest versions of
-- **Fallout 4** v 1.10.138
-- **Creation Kit** v
+- **Fallout 4** *v 1.10.138*
+- **Creation Kit** *v*
 
 ## Tools
 Some of the tools in this section need to be installed into the Fallout 4 base directory in order to work properly. I make it a habit to install all of them there, **the one exception being MO2**, which I install on another drive.
@@ -85,7 +85,7 @@ Some of the tools in this section need to be installed into the Fallout 4 base d
 One of the best places to read about Bethesda tools is on [DarkLadyLexy's LOTD - SSE guide](https://wiki.step-project.com/User:DarkladyLexy/Lexys_LOTD_SE_Prerequisites).
 This guide is one huge monolithic creature and a beast, but also the best guide available for Skyrim Special Edition. It is totally worth it to install that guide and there are regular upgrades which keep it up to date.
 
-Here I am listing the tools that we need from that page:
+Here we list the tools that we need:
 
 ### [FO4Edit](https://github.com/TES5Edit/TES5Edit/releases/)
 This powerful utility allows you to modify, clean, and patch your plugins. [GamerPoets](https://www.youtube.com/watch?v=2F19Do8HAl4) has a
