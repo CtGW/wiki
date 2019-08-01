@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-01T23:35:55.605Z
+date: 2019-08-01T23:37:09.104Z
 tags: 
 ---
 
@@ -283,6 +283,8 @@ First lets install Mod Organizer 2.
 
 >Depending on your specific download practices, the downloads for the mods can well over 100 Gb of data. If you have installed MO2 onto a relatively small drive (such as a small SSD), you should consider changing the location of MO2's download storage to a larger location. This can be done by creating a file folder in the desired location, opening the MO2 Settings interface (as above), selecting the *Paths* tab, and altering the Downloads path to match the newly created file folder.
 >{.is-danger}
+
+##### MO2 Profile Creation
 
 ## Cleaning master files
 In the last section we learned how to open a tool from MO2 with a command line flag which allowed us to easily determine which esps can be flagged a esl. That means I don´t have to show you the Modify executables window again, right? Right.
