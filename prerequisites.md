@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-01T15:09:51.898Z
+date: 2019-08-01T15:11:32.455Z
 tags: 
 ---
 
@@ -58,7 +58,10 @@ Copy only the following files to the main Fallout4 root:
 > We are not installing the scripts here, as we will be installing them through MO2, which keeps our Data folder clean.
 >{.is-success}
 
-##### [xSE plugin preloader](https://www.nexusmods.com/fallout4/mods/33946)
+##### [xSE plugin preloader](https://www.nexusmods.com/fallout4/mods/33946) *v0.1.2*
+This mod allows preload F4SE plugins before the game initializes. 
+ 
+Download the main file and extract the contents (*xSE PluginPreloader.ini, IpHlpAPI.dll*) to the Fallout4 main directory.
 
 ##### [Dynamic performance tuner and load accelerator](https://www.nexusmods.com/fallout4/mods/28143)
 
