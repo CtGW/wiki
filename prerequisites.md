@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-01T15:16:21.671Z
+date: 2019-08-01T16:03:09.370Z
 tags: 
 ---
 
@@ -36,7 +36,8 @@ In the Properties window UNCHECK Enable the Steam Overlay while in-game.
 ## Tools
 
 > Some of the tools in this section need to be installed into the Fallout 4 base directory in order to work properly.
-> It's a good idea to make it a habit to install all of them there, **the one exception being MO2**, which you can install on another drive.
+> It's a good idea to make it a habit to install all of them there, unless specified under the mod name, 
+> e.g. **ModOrganizer2**, which you can install on another place.
 > {.is-success}
 
 
@@ -59,19 +60,28 @@ Copy only the following files to the main Fallout4 root:
 >{.is-success}
 
 ##### [xSE plugin preloader](https://www.nexusmods.com/fallout4/mods/33946) *v0.1.2*
+**Fallout 4 folder**
 This mod allows preload F4SE plugins before the game initializes. 
  
-Download the main file and extract the contents (*xSE PluginPreloader.ini, IpHlpAPI.dll*) to the Fallout4 main directory.
+>Download the main file and extract the contents (*xSE PluginPreloader.ini, IpHlpAPI.dll*) to the Fallout4 main directory.
 
 ##### [Dynamic performance tuner and load accelerator](https://www.nexusmods.com/fallout4/mods/28143) *v0.9.5*
+**Fallout 4 folder**
 Dynamically adjusts Shadow Dir Distance and Godray Quality. 
 
 > Download the main file and extract only the files *dxgi.dll, dynaperf.ini* to the Fallout4 main directory.
 
 #### [Configuration Files For Dynamic Performance Tuner And Load Accelerator](https://www.nexusmods.com/fallout4/mods/33632) *v1.10.130.1*
+**Fallout 4 folder**
 The latest offsets / INI file (and an explanation of how to make your own "ini" files) for StochasticTinker's "Dynamic Performance Tuner And Load Accelerator" mod. These offsets are needed every time fallout4.exe is updated. I'll do this for you when I can, but this also shows YOU how to do it. 
 
-> Download the main file and add the two files *fallout4-addresses- *. *. *. *.ini, Fallout4.CT* to the Fallout4 main directory.
+> Download the main file and add the two files *fallout4-addresses-&ast;.&ast;.&ast;.&ast;.ini, Fallout4.CT* to the Fallout4 main directory.
+
+##### [FO4 configuration tool](https://www.nexusmods.com/fallout4/mods/102/)
+**Fallout 4 folder**
+
+
+##### [BethINI](https://www.nexusmods.com/fallout4/mods/67)
 
 ##### [Wrye Bash](https://www.dropbox.com/sh/iazpayeexiyazeh/AAAbGeVHrlIksp2AFgI4w48Oa?dl=0) *(nightly)*
 **Falout 4 folder**
@@ -100,9 +110,6 @@ This powerful utility allows you to modify, clean, and patch your plugins.
 
 ##### [Mod Organizer 2](https://github.com/ModOrganizer2/modorganizer/releases)
 
-##### [FO4 configuration tool](https://www.nexusmods.com/fallout4/mods/102/)
-
-##### [BethINI](https://www.nexusmods.com/fallout4/mods/67)
 
 ## Cleaning master files
 In the last section we learned how to open a tool from MO2 with a command line flag which allowed us to easily determine which esps can be flagged a esl. That means I don´t have to show you the Modify executables window again, right? Right.
