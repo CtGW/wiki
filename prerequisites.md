@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-01T18:04:34.738Z
+date: 2019-08-01T18:05:20.336Z
 tags: 
 ---
 
@@ -110,6 +110,7 @@ The latest offsets / INI file (and an explanation of how to make your own "ini" 
 > SA	M 1
 >```
 > **Performance Tab**
+> Select high Priority and unselect RadialBlur
 >```
 >Vsync=0 
 >inumHWThreads = your number of CPU cores
