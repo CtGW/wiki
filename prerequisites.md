@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-01T18:02:25.092Z
+date: 2019-08-01T18:02:53.306Z
 tags: 
 ---
 
@@ -109,7 +109,7 @@ The latest offsets / INI file (and an explanation of how to make your own "ini" 
 > thighprocess on
 > SA	M 1
 >```
-
+>
 > Explanation for these lines:
 >```
 > gr quality
@@ -143,7 +143,7 @@ The latest offsets / INI file (and an explanation of how to make your own "ini" 
 > These lines will leave shot bullets visible for a longer time.
 > These additions make many plugins redundant, without adding to the plugin count.
 > You´ll need to save before exiting the window.
->{.is-success}
+
 
 ##### [BethINI](https://www.nexusmods.com/fallout4/mods/67)
 
