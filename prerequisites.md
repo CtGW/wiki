@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-01T14:40:44.311Z
+date: 2019-08-01T14:41:06.983Z
 tags: 
 ---
 
@@ -83,7 +83,7 @@ player.placeatme 20593
 `player.placeatme ref.id`  will literally teleport the NPC to your location
 `player.placeatme base.id` will spawn a clone of the NPC to your location
 
-Here are some useful id's to:
+Here are some useful id's:
 
 |          | `base.id`|`ref.id`|
 |----------|:--------:|-------:|
