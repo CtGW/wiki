@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-01T15:09:15.865Z
+date: 2019-08-01T15:09:51.898Z
 tags: 
 ---
 
@@ -58,6 +58,12 @@ Copy only the following files to the main Fallout4 root:
 > We are not installing the scripts here, as we will be installing them through MO2, which keeps our Data folder clean.
 >{.is-success}
 
+##### [xSE plugin preloader](https://www.nexusmods.com/fallout4/mods/33946)
+
+##### [Dynamic performance tuner and load accelerator](https://www.nexusmods.com/fallout4/mods/28143)
+
+Also download: [Configuration Files For Dynamic Performance Tuner And Load Accelerator](https://www.nexusmods.com/fallout4/mods/33632)
+
 ##### [Wrye Bash](https://www.dropbox.com/sh/iazpayeexiyazeh/AAAbGeVHrlIksp2AFgI4w48Oa?dl=0) *(nightly)*
 **Falout 4 folder**
 Download whatever the current nightly version (standalone executable) is available on the Dropbox folder and then extract the folder `Mopy` to the Fallout 4 root folder.
@@ -86,12 +92,6 @@ This powerful utility allows you to modify, clean, and patch your plugins.
 ##### [FO4 configuration tool](https://www.nexusmods.com/fallout4/mods/102/)
 
 ##### [BethINI](https://www.nexusmods.com/fallout4/mods/67)
-
-##### [xSE plugin preloader](https://www.nexusmods.com/fallout4/mods/33946)
-
-##### [Dynamic performance tuner and load accelerator](https://www.nexusmods.com/fallout4/mods/28143)
-
-Also download: [Configuration Files For Dynamic Performance Tuner And Load Accelerator](https://www.nexusmods.com/fallout4/mods/33632)
 
 ## Cleaning master files
 In the last section we learned how to open a tool from MO2 with a command line flag which allowed us to easily determine which esps can be flagged a esl. That means I don´t have to show you the Modify executables window again, right? Right.
