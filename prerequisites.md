@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-01T15:08:04.092Z
+date: 2019-08-01T15:08:39.759Z
 tags: 
 ---
 
@@ -70,7 +70,7 @@ This powerful utility allows you to modify, clean, and patch your plugins.
 > We will redirect the output of FO4Edit in MO2 to the mod folder, this is a part of setting up MO2.
 >{.is-success}
 
-##### [Wrye Bash](https://www.dropbox.com/sh/iazpayeexiyazeh/AAAbGeVHrlIksp2AFgI4w48Oa?dl=0)
+##### [Wrye Bash](https://www.dropbox.com/sh/iazpayeexiyazeh/AAAbGeVHrlIksp2AFgI4w48Oa?dl=0) *(nightly)*
 **Falout 4 folder**
 Download whatever the current nightly version (standalone executable) is available on the Dropbox folder and then extract the folder `Mopy` to the Fallout 4 root folder.
 - Your Fallout 4 directory should contain a folder called `Mopy`
