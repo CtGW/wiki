@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-01T14:41:06.983Z
+date: 2019-08-01T14:41:59.309Z
 tags: 
 ---
 
@@ -113,7 +113,7 @@ With all that boring presentation out of the way, let's get started!
 
 For this guide you need the latest versions of
 - **Fallout 4** *v 1.10.138*
-- **Creation Kit** *v*
+- **Creation Kit** *v 1.10.130*
 
 ### Steam Overlay
 
