@@ -2,11 +2,14 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-01T15:02:14.412Z
+date: 2019-08-01T15:03:14.308Z
 tags: 
 ---
 
 # Prerequisites
+One of the best places to read about Bethesda tools is on [DarkLadyLexy's LOTD - SSE guide](https://wiki.step-project.com/User:DarkladyLexy/Lexys_LOTD_SE_Prerequisites).
+This guide is one huge monolithic creature and a beast but also the best guide available for Skyrim Special Edition. 
+It is totally worth it to install that guide and there are regular upgrades which keep it up to date.
 
 ## Fallout 4 Base
 
@@ -32,10 +35,6 @@ In the Properties window UNCHECK Enable the Steam Overlay while in-game.
 > Some of the tools in this section need to be installed into the Fallout 4 base directory in order to work properly.
 > It's a good idea to make it a habit to install all of them there, **the one exception being MO2**, which you can install on another drive.
 > {.is-success}
-
-One of the best places to read about Bethesda tools is on [DarkLadyLexy's LOTD - SSE guide](https://wiki.step-project.com/User:DarkladyLexy/Lexys_LOTD_SE_Prerequisites).
-This guide is one huge monolithic creature and a beast but also the best guide available for Skyrim Special Edition. 
-It is totally worth it to install that guide and there are regular upgrades which keep it up to date.
 
 We are using a lot of the information from her [prerequisites page](https://wiki.nexusmods.com/index.php/User:Darkladylexy/Lexys_LOTD_SE), which is applicable to all bethesda modding in general.
 
