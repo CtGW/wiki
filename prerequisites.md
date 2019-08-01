@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-01T23:22:04.730Z
+date: 2019-08-01T23:25:17.766Z
 tags: 
 ---
 
@@ -200,7 +200,6 @@ Open the application and select Fallout 4 game.
 > f3rdPersonAimFOV=75.0000
 > fVanityModeMaxDist=300.0000
 > fVanityModeMinDist=80.0000
-> Revision 2.5.0 alpha 2 guide updated 2018-07-04, load order list updated 2018-07-04
 > fPitchZoomOutMaxDist=0.0000
 > fMinCurrentZoom=0.0000
 > fMouseWheelZoomSpeed=0.5000
