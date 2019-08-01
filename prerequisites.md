@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-01T16:04:13.469Z
+date: 2019-08-01T18:02:25.092Z
 tags: 
 ---
 
@@ -79,6 +79,71 @@ The latest offsets / INI file (and an explanation of how to make your own "ini" 
 ##### [FO4 configuration tool](https://www.nexusmods.com/fallout4/mods/102/)
 **Fallout 4 folder**
 
+- After installation, run the program as adminstrator (right-click and choose "Run as administrator")
+- Click `no` on the window that pops up.
+- Change the following settings
+> **Tweaks tab**
+> Select *Invalidate Archives* and *Fix Sensitivity Ratio*, then select the *Auto Execute* option and click on add.
+> In the opened window just copy these lines:
+>```
+> gr quality 3
+> gr grid 8
+> gr scale .4
+> gr maxcascade 2
+> cl rim 0.0005
+> setgs iTerminalDisplayRate 1200
+> setgs fWorkshopWireMaxLength 2200
+> setgs fGunShellLifetime 150
+> setgs fGunShellCameraDistance 12800
+> setgs iDebrisMaxCount 375
+> setgs iHoursToRespawnCell 720
+> setgs iHoursToRespawnCellCleared 2160
+> setgs iRemoveExcessDeadComplexCount 50
+> setgs iRemoveExcessDeadCount 50
+> setgs iRemoveExcessDeadComplexTotalActorCount 65
+> setgs iRemoveExcessDeadTotalActorCount 50
+> setgs fDiffMultHPToPCVH 1.75
+> setgs fDiffMultHPByPCVH 0.75
+> tMtrdfl ON
+> tMtr ppld
+> thighprocess on
+> SA	M 1
+>```
+
+> Explanation for these lines:
+>```
+> gr quality
+> gr grid
+> gr scale
+> gr maxcascade
+>```
+> These lines make godrays more good looking and performance friendly.
+>```
+> cl rim
+>```
+> This line will fix the character light to be more realistic.
+>```
+> setgs iTerminalDisplayRate
+>```
+> This line will make the terminals load the screen faster.
+>```
+> setgs fWorkshopWireMaxLength
+>```
+> This line will make power lines longer.
+>```
+> setgs iHoursToRespawnCell
+> setgs iHoursToRespawnCellCleared
+>```
+> These lines increase the length of area and corpses respawn time.
+>```
+> setgs fGunShellLifetime
+> setgs fGunShellCameraDistance
+> setgs iDebrisMaxCount
+>```
+> These lines will leave shot bullets visible for a longer time.
+> These additions make many plugins redundant, without adding to the plugin count.
+> You´ll need to save before exiting the window.
+>{.is-success}
 
 ##### [BethINI](https://www.nexusmods.com/fallout4/mods/67)
 
