@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-01T15:08:39.759Z
+date: 2019-08-01T15:09:15.865Z
 tags: 
 ---
 
@@ -58,6 +58,17 @@ Copy only the following files to the main Fallout4 root:
 > We are not installing the scripts here, as we will be installing them through MO2, which keeps our Data folder clean.
 >{.is-success}
 
+##### [Wrye Bash](https://www.dropbox.com/sh/iazpayeexiyazeh/AAAbGeVHrlIksp2AFgI4w48Oa?dl=0) *(nightly)*
+**Falout 4 folder**
+Download whatever the current nightly version (standalone executable) is available on the Dropbox folder and then extract the folder `Mopy` to the Fallout 4 root folder.
+- Your Fallout 4 directory should contain a folder called `Mopy`
+
+>WINDOWS 7 USERS: A 'docs' folder needs to be created in ...\Fallout 4\Data. WIN10 users do not need to follow this step, as it will be auto-created and placed into your Overwrite folder. For additional info, see Notice below.
+>WINDOWS 10 USERS: Ensure that your O/S has installed the Windows 10 1809 Update or higher. This will ensure that Wrye Bash is able to properly load, as the 1803 update creates a situation where WB attempts to load itself, which it can't because it's already in use.
+>WINDOWS 10 USERS: When using Wrye Bash, a 'Docs' folder will be generated and appear in your Overwrite folder. This is not needed for Skyrim to run properly, and can be safely deleted between sessions.
+>{.is-danger}
+
+
 ##### [FO4Edit](https://github.com/TES5Edit/TES5Edit/releases/) *v4.0.2*
 **Fallout 4 folder**
 This powerful utility allows you to modify, clean, and patch your plugins.
@@ -69,17 +80,6 @@ This powerful utility allows you to modify, clean, and patch your plugins.
 > FO4Edit will create a cache folder, which will be made into a separate mod.
 > We will redirect the output of FO4Edit in MO2 to the mod folder, this is a part of setting up MO2.
 >{.is-success}
-
-##### [Wrye Bash](https://www.dropbox.com/sh/iazpayeexiyazeh/AAAbGeVHrlIksp2AFgI4w48Oa?dl=0) *(nightly)*
-**Falout 4 folder**
-Download whatever the current nightly version (standalone executable) is available on the Dropbox folder and then extract the folder `Mopy` to the Fallout 4 root folder.
-- Your Fallout 4 directory should contain a folder called `Mopy`
-
->WINDOWS 7 USERS: A 'docs' folder needs to be created in ...\Fallout 4\Data. WIN10 users do not need to follow this step, as it will be auto-created and placed into your Overwrite folder. For additional info, see Notice below.
->WINDOWS 10 USERS: Ensure that your O/S has installed the Windows 10 1809 Update or higher. This will ensure that Wrye Bash is able to properly load, as the 1803 update creates a situation where WB attempts to load itself, which it can't because it's already in use.
->WINDOWS 10 USERS: When using Wrye Bash, a 'Docs' folder will be generated and appear in your Overwrite folder. This is not needed for Skyrim to run properly, and can be safely deleted between sessions.
->{.is-danger}
-
 
 ##### [Mod Organizer 2](https://github.com/ModOrganizer2/modorganizer/releases)
 
