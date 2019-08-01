@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-01T18:05:20.336Z
+date: 2019-08-01T18:06:47.323Z
 tags: 
 ---
 
@@ -116,8 +116,15 @@ The latest offsets / INI file (and an explanation of how to make your own "ini" 
 >inumHWThreads = your number of CPU cores
 >```
 > We´re forcing it in driver instead
+> **Textures/Decals Tab**
+> Select the Recommended option.
+> **UI Tab**
+> Disable FX option and then select your colour preferences, 1.0 for emit and 0.1 for
+defuse
+> **Settings Tab**
+> Select Overwrite Prefs in Game Dir and then Save at the bottom left of the window.
 
-> Explanation for these lines:
+> Explanation for these lines that we added in the window:
 >```
 > gr quality
 > gr grid
