@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-01T16:03:40.584Z
+date: 2019-08-01T16:04:13.469Z
 tags: 
 ---
 
@@ -44,7 +44,7 @@ In the Properties window UNCHECK Enable the Steam Overlay while in-game.
 **(install as a standard program)**
 The most versatile archive utility for compression/decompression
 
-> A lot of mods and archives are going to be `.7z/.rar..zip` compressed which necessitates the use of this program.
+> A lot of mods and archives are going to be `.7z/rar/zip` compressed which necessitates the use of this program.
 >{.is-success}
 
 
