@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-01T23:26:21.307Z
+date: 2019-08-01T23:35:55.605Z
 tags: 
 ---
 
@@ -258,6 +258,10 @@ This powerful utility allows you to modify, clean, and patch your plugins.
 > We will redirect the output of FO4Edit in MO2 to the mod folder, this is a part of setting up MO2.
 >{.is-success}
 
+## Setting up MO2
+
+First lets install Mod Organizer 2.
+
 ##### [Mod Organizer 2](https://github.com/ModOrganizer2/modorganizer/releases) *v2.2.1*
 **Fallout 4 folder**
 
@@ -267,6 +271,18 @@ This powerful utility allows you to modify, clean, and patch your plugins.
 > 4. In the first pop-up , when asked to **"Choose an Instance"** , select *Portable*.
 > 5. In the second pop-up, select *Fallout 4* from the games list.
 > 7. In the last pop-up fourth pop-up, when Mod Organizer 2 asks to set it to handle NXM links. Select *Yes*, as this will allow MO2 to handle all downloads possible from the NEXUS file links.
+
+##### MO2 integration with Nexus
+
+1. Full integration with the NEXUS requires that you have a NEXUS account. If you do not have one, you can create one [here](https://www.nexusmods.com/signup). This will also be required for large file downloads, and is free of charge (though a free account will also be very limited in bandwidth). Premium account, with no bandwidth cap, are availible. Details can be found on the NEXUS website.
+2. In the toolbar of Mod Organizer 2, locate the 'Settings' button (it will have a spanner and screwdriver icon on it... wrench and screwdriver for you Americans).
+3. At the top of the window that appears, press on the **Nexus** tab.
+4. Click on the **Connect to Nexus** button.
+5. A new window will open in your browser, and the Nexus will request permission to link Mod Organizer 2 with your Nexus Account. After allowing this, you can close the browser window.
+6. In the Mod Organizer 2 settings menu, press OK.
+
+>Depending on your specific download practices, the downloads for the mods can well over 100 Gb of data. If you have installed MO2 onto a relatively small drive (such as a small SSD), you should consider changing the location of MO2's download storage to a larger location. This can be done by creating a file folder in the desired location, opening the MO2 Settings interface (as above), selecting the *Paths* tab, and altering the Downloads path to match the newly created file folder.
+>{.is-danger}
 
 ## Cleaning master files
 In the last section we learned how to open a tool from MO2 with a command line flag which allowed us to easily determine which esps can be flagged a esl. That means I don´t have to show you the Modify executables window again, right? Right.
