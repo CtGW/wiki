@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-01T18:30:09.485Z
+date: 2019-08-01T18:31:55.126Z
 tags: 
 ---
 
@@ -85,7 +85,7 @@ The latest offsets / INI file (and an explanation of how to make your own "ini" 
 
 > Download the main file and add the two files *fallout4-addresses-&ast;.&ast;.&ast;.&ast;.ini, Fallout4.CT* to the Fallout4 main directory.
 
-##### [FO4 configuration tool](https://www.nexusmods.com/fallout4/mods/102/)
+##### [FO4 configuration tool](https://www.nexusmods.com/fallout4/mods/102/) *v1.3.5.2024*
 **Fallout 4 folder**
 
 - After installation, run the program as adminstrator (right-click and choose "Run as administrator")
@@ -168,7 +168,7 @@ defuse
 > You´ll need to save before exiting the window.
 
 
-##### [BethINI](https://www.nexusmods.com/fallout4/mods/67)
+##### [BethINI](https://www.nexusmods.com/fallout4/mods/67) *v3.2*
 **Fallout 4 folder**
 
 Open the application and select Fallout 4 game.
