@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-01T18:25:37.782Z
+date: 2019-08-01T18:26:33.468Z
 tags: 
 ---
 
@@ -70,11 +70,13 @@ Dynamically adjusts Shadow Dir Distance and Godray Quality.
 
 > Download the main file and extract only the files *dxgi.dll, dynaperf.ini* to the Fallout4 main directory.
 
+
 > If you only want the load aceleration and not the dynamic shadows, set identical values to the below settings in dynaperf.ini
->```
->fShadowDirDistanceMin=4000
->fShadowDirDistanceMax=4000
->```
+>{.is-success}
+```
+fShadowDirDistanceMin=4000
+fShadowDirDistanceMax=4000
+```
 > If you are using Reshade (some ENB presets use this), rename the reshade dxgi.dll to dxgi_linked.dll
 > You need to rename your dxgi.ini file (which is part of your ReShade installation and contains vital info for it to work) into dxgi_linked.ini in addition to renaming dxgi.dll to dxgi_linked.dll to get it working correctly. Without it, it won't find your config files or it's shaders.
 >{.is-success}
