@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-01T18:26:33.468Z
+date: 2019-08-01T18:29:07.521Z
 tags: 
 ---
 
@@ -36,7 +36,7 @@ In the Properties window UNCHECK Enable the Steam Overlay while in-game.
 ## Tools
 
 > Some of the tools in this section need to be installed into the Fallout 4 base directory in order to work properly.
-> It's a good idea to make it a habit to install all of them there, unless specified under the mod name, e.g. **ModOrganizer2**, which you can install on another place.
+> It's a good idea to make it a habit to install all of them there, unless specified under the mod name, e.g. **ModOrganizer2**, can be installed on another place but we are keeping it in the Fallout 4 folder for now.
 > {.is-success}
 
 
@@ -171,6 +171,7 @@ defuse
 
 
 ##### [BethINI](https://www.nexusmods.com/fallout4/mods/67)
+**Fallout 4 folder**
 
 Open the application and select Fallout 4 game.
 >
@@ -261,6 +262,7 @@ This powerful utility allows you to modify, clean, and patch your plugins.
 >{.is-success}
 
 ##### [Mod Organizer 2](https://github.com/ModOrganizer2/modorganizer/releases)
+**Fallout 4 folder**
 
 
 ## Cleaning master files
