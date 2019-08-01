@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-01T14:08:46.257Z
+date: 2019-08-01T14:40:44.311Z
 tags: 
 ---
 
@@ -14,28 +14,64 @@ tags:
 > This section is just an information dump to help in understanding the guide and Fallout 4 modding in general.
 >{.is-danger}
 
-Why a section like this before you´ve even installed any mods? Because once you´ve installed them all it won´t really do much good. If you run into issues in game, after having installed 200+ mods without even starting the game once to actually test it, it will take you a lot longer time, and cause you a lot more frustration to locate the error than if you had tested properly from the beginning.
+**Why a section like this before you've even installed any mods?** 
+Because once you've installed them all it won't really do much good. 
+If you run into issues in game, after having installed 200+ mods without even starting the game once to actually test it, it will take you a lot longer and cause you a lot more frustration to locate the error than if you had tested properly from the beginning.
 
-A typical testrun for me would be vanilla start, exit the vault, find and talk to Codsworth in Sanctuary, kill the bugs, activate the workbench, run to Red Rocket, greet Dogmeat, activate the workbench, run down to concorde, save the minutemen, get the Power armor, and return to Sanctuary via fast travel, exit the Power armor. Takes about 20 mins once you get the hang of it.
+A typical testrun for me would be 
+> **Short run**
+> - Vanilla start
+> - Exit the vault
+> - Find and talk to Codsworth in Sanctuary
+> - Kill the bugs
+> - Activate the workbench in Sanctuary
+> - Run to Red Rocket, greet Dogmeat
+> - Activate the workbench in Red Rocket
+> - Run down to Concord
+> - Save the minutemen and get the Power armor
+> - Return to Sanctuary via fast travel and exit the Power armor
 
-Every 5th testrun or so I will fast travel back to the Library and then run all the way to Diamond City, talk to Piper and go to Nick´s office, for more extensive testing. Especially looking for texture and culling issues in downtown Boston.
+Takes about 20 minutes once you get the hang of it.
 
-Note about vanilla test saves before exiting vault. I used to load these all the time for a faster start up, thought everything was working fine, only to have weird things happening in the prologue with a new game. It seems mods related to player characteristics are only effective with a new game. Use them, but try a new start every now and then, to make sure nothing´s gone haywire :P
+>The guide will have checkpoints which will tell you to do a **short run**.
+>{.is-success}
+
+Every 5^th^ testrun or so you can do a deeper test by also adding the following steps
+
+> **Long run** 
+> - Do the **short run**
+> - Run to the Boston Public Library 
+> - Run to Diamond City
+> - Talk to Piper and enter the city
+> - Go to Nick's office and talk to him
+> - Exit Diamon City and roam around the outskirts of Diamon City and South Boston (look for texture and culling issues)
+
+<hr style="border-top: dotted 1px; color: pink; background-color: transparent;" width="50%" />
+
+#### Console
+
+The key for console on your keyboard might vary from mine, due to different language keyboards, but in general the key for the console is the `` ` `` key, which is besides `1`.
+
+You can find a list of console commands and utilities [here](http://fallout.wikia.com/wiki/Fallout_4_console_commands).
 
 If you add a mod overhauling a specific location, you can use console commands to reveal their map markers and enable fast travel to these locations.
+`tmm 1` - Enables all locations as discovered to your Pip-Boy with fast travel.
+Of course, some of these locations will get you killed if you go there too early and because of this you can also enable God Mode by the command `tgm` (*toggle god mode*).
 
-The key for console on your keyboard might vary from mine, due to different language keyboards.
-You can find the key for your keyboard [here](http://fallout.wikia.com/wiki/Fallout_4_console_commands).
-
-`tmm 1` – Enables all locations as discovered to your Pip-Boy with fast travel. Of course, some of these locations will get you killed if you go there too early, and because of this I use custom save games for that purpose:
+You can also use custom save games if you just want to visit an overhauled location:
 - [Ain't nobody got time for that - Fallout 4 Template Save Games](https://www.nexusmods.com/fallout4/mods/26328)
 - [Level 50 at Vault 111](https://www.nexusmods.com/fallout4/mods/285)
+> Note about vanilla test saves before exiting vault. I used to load these all the time for a faster start up, thought everything was working fine, only to have weird things happening in the prologue with a new game. It seems mods related to player characteristics are only effective with a new game. Use them, but try a new start every now and then, to make sure nothing´s gone haywire :P
+> {.is-warning}
 
-Other mods to help me with mod testing:
+Some other mods that help with testing:
 - [Cheat Terminal](https://www.nexusmods.com/fallout4/mods/13285/)
 - [Display Location - Cell - Object Information](https://www.nexusmods.com/fallout4/mods/14145)
 - [In-GameESPExplorer](https://www.nexusmods.com/fallout4/mods/16718)
 
+<hr style="border-top: dotted 1px; color: pink; background-color: transparent;" width="50%" />
+
+#### NPC
 If you add a mod overhauling a specific NPC, you can use console commands to spawn that NPC at your location. You will need the `base.id` for the NPC in question. 
 E.g. to spawn a settler:
 ```
@@ -68,7 +104,7 @@ Here are some useful id's to:
 |Longfellow| xx006e5b |xx014602|
 |Gage      | xx00881d |xx00a5b1|
 
-With all that boring presentation out of the way, let´s get started!
+With all that boring presentation out of the way, let's get started!
 
 ## Fallout 4 Base
 
