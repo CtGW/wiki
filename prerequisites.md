@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-01T14:44:01.380Z
+date: 2019-08-01T14:46:38.853Z
 tags: 
 ---
 
@@ -135,10 +135,13 @@ One of the best places to read about Bethesda tools is on [DarkLadyLexy's LOTD -
 This guide is one huge monolithic creature and a beast but also the best guide available for Skyrim Special Edition. 
 It is totally worth it to install that guide and there are regular upgrades which keep it up to date.
 
+We are using a lot of the information from her [prerequisites page](https://wiki.nexusmods.com/index.php/User:Darkladylexy/Lexys_LOTD_SE), which is applicable to all bethesda modding in general.
+
 Here we list the tools that we need:
 
 ##### [7-zip](https://www.7-zip.org/) (version unimportant)
-The most versatile compression utility for compression/decompression
+**(install as a standard program)**
+The most versatile archive utility for compression/decompression
 
 > A lot of mods and archives are going to be `.7z` compressed which necesitates the use of this program.
 >{.is-success}
