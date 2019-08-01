@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-01T18:09:41.931Z
+date: 2019-08-01T18:13:28.558Z
 tags: 
 ---
 
@@ -160,6 +160,28 @@ defuse
 
 
 ##### [BethINI](https://www.nexusmods.com/fallout4/mods/67)
+
+Open the application and select Fallout 4 game.
+>
+> **Setup Tab**
+> Unselect Make INIs Read-Only
+> **Basic Tab**
+> Select a preset that´s one step lower than the one recommended by the Fallout 4 launcher (eg. If it recommends Ultra, choose high), then select Recommended Tweaks, Always active, Enable File Selection and Load loose files options.
+> Unselect all options in the right column except for Vsync and Always Active.
+> **Gameplay Tab**
+> Select the Sprint Fix option.
+> **Detail Tab**
+> Set field of view to 80, Unselect Bokeh and motion blur.
+> Set the following values:
+>```
+>setParticles= 750
+>Shadow Resolution= 2048
+>Exterior Draw Distance= 8000
+> ```
+>Go back to basic tab and select save and exit.
+
+> All the settings of this program can be raised up or decreased whenever you want, to improve quality or performance, but I do not recommend going over the suggested limits.
+>{.is-danger}
 
 Add/change the following values in Fallou4.ini
 ```
