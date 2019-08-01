@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-01T23:25:17.766Z
+date: 2019-08-01T23:26:21.307Z
 tags: 
 ---
 
@@ -193,7 +193,7 @@ Open the application and select Fallout 4 game.
 > All the settings of this program can be raised up or decreased whenever you want, to improve quality or performance, but I do not recommend going over the suggested limits.
 >{.is-danger}
 
-> Add/change the following values in Fallou4.ini
+> Add/change the following values in Fallout4.ini
 > ```
 > [Camera]
 > fDefault1stPersonFOV=85
