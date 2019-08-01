@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-01T15:04:18.129Z
+date: 2019-08-01T15:08:04.092Z
 tags: 
 ---
 
@@ -60,7 +60,15 @@ Copy only the following files to the main Fallout4 root:
 
 ##### [FO4Edit](https://github.com/TES5Edit/TES5Edit/releases/) *v4.0.2*
 **Fallout 4 folder**
-This powerful utility allows you to modify, clean, and patch your plugins. [GamerPoets](https://www.youtube.com/watch?v=2F19Do8HAl4) has a good primer how to use FO4Edit on YouTube.
+This powerful utility allows you to modify, clean, and patch your plugins.
+[GamerPoets](https://www.youtube.com/watch?v=2F19Do8HAl4) has a good primer how to use FO4Edit on YouTube.
+
+> FO4Edit and xEdit (and any others like FNVEdit, SSEEdit) are interchangeable and the only difference is renaming the file `xEdit.exe` to the corresponding game name.
+>{.is-success}
+
+> FO4Edit will create a cache folder, which will be made into a separate mod.
+> We will redirect the output of FO4Edit in MO2 to the mod folder, this is a part of setting up MO2.
+>{.is-success}
 
 ##### [Wrye Bash](https://www.dropbox.com/sh/iazpayeexiyazeh/AAAbGeVHrlIksp2AFgI4w48Oa?dl=0)
 **Falout 4 folder**
