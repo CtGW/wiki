@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-01T19:47:49.282Z
+date: 2019-08-01T23:22:04.730Z
 tags: 
 ---
 
@@ -263,12 +263,11 @@ This powerful utility allows you to modify, clean, and patch your plugins.
 **Fallout 4 folder**
 
 > 1. Make sure to download the `.7z` version of MO2 and not the `.exe` version.
-> 2. Create a folder called *ModOrganizer2* in the Fallout 4 main directory and extract the contents of the archive to that folder.
-> 3. Run Mod Organizer 2. If you desire, you can also create a desktop shortcut for MO2 at this time, as you will likely be using this program quite a bit.
-> 4. In the pop-up that appears, you will be prompted to "Choose an Instance". Select Portable.
-> 5. In the next pop-up that appears, select Skyrim Special Edition from the drop-down menu.
-> 6. A third pop-up will appear, asking if you want a tutorial on the tool's use. Those who have never used any version of Mod Organizer (including MO1) should select Yes for a quick run-down on the features of the program. All others can select No.
-> 7. A fourth pop-up will appear with the notice Mod Organizer is not set up to handle NXM links. Associate it with NXM links? This is recommended to be set to Yes, as this will allow MO2 to handle all downloads possible from the NEXUS file links.
+> 2. Create a folder called ***ModOrganizer2*** in the Fallout 4 main directory and extract the contents of the archive to that folder.
+> 3. Start Mod Organizer 2.
+> 4. In the first pop-up , when asked to **"Choose an Instance"** , select *Portable*.
+> 5. In the second pop-up, select *Fallout 4* from the games list.
+> 7. In the last pop-up fourth pop-up, when Mod Organizer 2 asks to set it to handle NXM links. Select *Yes*, as this will allow MO2 to handle all downloads possible from the NEXUS file links.
 
 ## Cleaning master files
 In the last section we learned how to open a tool from MO2 with a command line flag which allowed us to easily determine which esps can be flagged a esl. That means I don´t have to show you the Modify executables window again, right? Right.
