@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-01T15:11:54.689Z
+date: 2019-08-01T15:15:36.379Z
 tags: 
 ---
 
@@ -66,7 +66,12 @@ Download the main file and extract the contents (*xSE PluginPreloader.ini, IpHlp
 ##### [Dynamic performance tuner and load accelerator](https://www.nexusmods.com/fallout4/mods/28143) *v0.9.5*
 Dynamically adjusts Shadow Dir Distance and Godray Quality. 
 
-Also download: [Configuration Files For Dynamic Performance Tuner And Load Accelerator](https://www.nexusmods.com/fallout4/mods/33632)
+Download the main file and extract only the files *dxgi.dll, dynaperf.ini* to the Fallout4 main directory.
+
+#### [Configuration Files For Dynamic Performance Tuner And Load Accelerator](https://www.nexusmods.com/fallout4/mods/33632) *v1.10.130.1*
+The latest offsets / INI file (and an explanation of how to make your own "ini" files) for StochasticTinker's "Dynamic Performance Tuner And Load Accelerator" mod. These offsets are needed every time fallout4.exe is updated. I'll do this for you when I can, but this also shows YOU how to do it. 
+
+Download the main file and add the two files *fallout4-addresses- *. *. *. *.ini, Fallout4.CT* to the Fallout4 main directory
 
 ##### [Wrye Bash](https://www.dropbox.com/sh/iazpayeexiyazeh/AAAbGeVHrlIksp2AFgI4w48Oa?dl=0) *(nightly)*
 **Falout 4 folder**
