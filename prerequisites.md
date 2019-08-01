@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-01T18:29:07.521Z
+date: 2019-08-01T18:29:50.282Z
 tags: 
 ---
 
@@ -50,10 +50,8 @@ The most versatile archive utility for compression/decompression
 
 ##### [F4SE](http://f4se.silverlock.org/) *v0.6.17*
 **Fallout 4 folder**
-Copy only the following files to the main Fallout4 root:
-- f4se_1_10_138.dll
-- f4se_loader.exe
-- f4se_steam_loader.dll
+
+>Copy only the following files to the main Fallout4 root *f4se_1_10_138.dll, f4se_loader.exe, f4se_steam_loader.dll*.
 
 > We are not installing the scripts here, as we will be installing them through MO2, which keeps our Data folder clean.
 >{.is-success}
