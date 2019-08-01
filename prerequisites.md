@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-01T14:46:38.853Z
+date: 2019-08-01T14:47:15.624Z
 tags: 
 ---
 
@@ -143,7 +143,7 @@ Here we list the tools that we need:
 **(install as a standard program)**
 The most versatile archive utility for compression/decompression
 
-> A lot of mods and archives are going to be `.7z` compressed which necesitates the use of this program.
+> A lot of mods and archives are going to be `.7z/.rar..zip` compressed which necessitates the use of this program.
 >{.is-success}
 
 
