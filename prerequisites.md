@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-01T18:02:53.306Z
+date: 2019-08-01T18:04:34.738Z
 tags: 
 ---
 
@@ -109,7 +109,13 @@ The latest offsets / INI file (and an explanation of how to make your own "ini" 
 > thighprocess on
 > SA	M 1
 >```
->
+> **Performance Tab**
+>```
+>Vsync=0 
+>inumHWThreads = your number of CPU cores
+>```
+> We´re forcing it in driver instead
+
 > Explanation for these lines:
 >```
 > gr quality
