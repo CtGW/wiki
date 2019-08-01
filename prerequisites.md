@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-01T16:03:09.370Z
+date: 2019-08-01T16:03:40.584Z
 tags: 
 ---
 
@@ -36,8 +36,7 @@ In the Properties window UNCHECK Enable the Steam Overlay while in-game.
 ## Tools
 
 > Some of the tools in this section need to be installed into the Fallout 4 base directory in order to work properly.
-> It's a good idea to make it a habit to install all of them there, unless specified under the mod name, 
-> e.g. **ModOrganizer2**, which you can install on another place.
+> It's a good idea to make it a habit to install all of them there, unless specified under the mod name, e.g. **ModOrganizer2**, which you can install on another place.
 > {.is-success}
 
 
