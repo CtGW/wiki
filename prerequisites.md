@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-01T15:11:32.455Z
+date: 2019-08-01T15:11:54.689Z
 tags: 
 ---
 
@@ -63,7 +63,8 @@ This mod allows preload F4SE plugins before the game initializes.
  
 Download the main file and extract the contents (*xSE PluginPreloader.ini, IpHlpAPI.dll*) to the Fallout4 main directory.
 
-##### [Dynamic performance tuner and load accelerator](https://www.nexusmods.com/fallout4/mods/28143)
+##### [Dynamic performance tuner and load accelerator](https://www.nexusmods.com/fallout4/mods/28143) *v0.9.5*
+Dynamically adjusts Shadow Dir Distance and Godray Quality. 
 
 Also download: [Configuration Files For Dynamic Performance Tuner And Load Accelerator](https://www.nexusmods.com/fallout4/mods/33632)
 
