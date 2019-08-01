@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-01T18:06:47.323Z
+date: 2019-08-01T18:09:41.931Z
 tags: 
 ---
 
@@ -161,6 +161,45 @@ defuse
 
 ##### [BethINI](https://www.nexusmods.com/fallout4/mods/67)
 
+Add/change the following values in Fallou4.ini
+```
+[Camera]
+fDefault1stPersonFOV=85
+f3rdPersonAimFOV=75.0000
+fVanityModeMaxDist=300.0000
+fVanityModeMinDist=80.0000
+Revision 2.5.0 alpha 2 guide updated 2018-07-04, load order list updated 2018-07-04
+fPitchZoomOutMaxDist=0.0000
+fMinCurrentZoom=0.0000
+fMouseWheelZoomSpeed=0.5000
+fMouseWheelZoomIncrement=0.5000
+f3rdPersonPowerArmorCameraAdjust=0.0000
+fOverShoulderMeleeCombatAddY=-0.0000
+fOverShoulderMeleeCombatPosZ=-30.0000
+fOverShoulderMeleeCombatPosX=25.0000
+fOverShoulderCombatAddY=0.0000
+fOverShoulderCombatPosZ=3.0000
+fOverShoulderCombatPosX=30.0000
+fOverShoulderPosZ=3.0000
+fOverShoulderPosX=25.0000
+f3rdPersonAimDist=30.000
+bApplyCameraNodeAnimations=0
+
+[Papyrus]
+bEnableLogging=0
+bEnableProfiling=0
+bEnableTrace=0
+bLoadDebugInformation=0
+fPostLoadUpdateTimeMS=500.0
+fUpdateBudgetMS=2.4
+fExtraTaskletBudgetMS=2.4
+iMinMemoryPageSize=256
+iMaxMemoryPageSize=1024
+iMaxAllocatedMemoryBytes=307200
+
+[Display]
+bMultiThreadedRendering=1
+```
 ##### [Wrye Bash](https://www.dropbox.com/sh/iazpayeexiyazeh/AAAbGeVHrlIksp2AFgI4w48Oa?dl=0) *(nightly)*
 **Falout 4 folder**
 
