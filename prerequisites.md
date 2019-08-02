@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-02T01:37:54.985Z
+date: 2019-08-02T01:58:15.780Z
 tags: 
 ---
 
@@ -282,12 +282,12 @@ First lets install Mod Organizer 2.
 
 ##### MO2 integration with Nexus
 
-1. Full integration with the NEXUS requires that you have a NEXUS account. If you do not have one, you can create one [here](https://www.nexusmods.com/signup). This will also be required for large file downloads, and is free of charge (though a free account will also be very limited in bandwidth). Premium account, with no bandwidth cap, are availible. Details can be found on the NEXUS website.
-2. In the toolbar of Mod Organizer 2, locate the 'Settings' button (it will have a spanner and screwdriver icon on it... wrench and screwdriver for you Americans).
-3. At the top of the window that appears, press on the **Nexus** tab.
-4. Click on the **Connect to Nexus** button.
-5. A new window will open in your browser, and the Nexus will request permission to link Mod Organizer 2 with your Nexus Account. After allowing this, you can close the browser window.
-6. In the Mod Organizer 2 settings menu, press OK.
+> 1. Full integration with the NEXUS requires that you have a NEXUS account. If you do not have one, you can create one [here](https://www.nexusmods.com/signup). This will also be required for large file downloads, and is free of charge (though a free account will also be very limited in bandwidth). Premium account, with no bandwidth cap, are availible. Details can be found on the NEXUS website.
+> 2. In the toolbar of Mod Organizer 2, locate the 'Settings' button (it will have a spanner and screwdriver icon on it... wrench and screwdriver for you Americans).
+> 3. At the top of the window that appears, press on the **Nexus** tab.
+> 4. Click on the **Connect to Nexus** button.
+> 5. A new window will open in your browser, and the Nexus will request permission to link Mod Organizer 2 with your Nexus Account. After allowing this, you can close the browser window.
+> 6. In the Mod Organizer 2 settings menu, press OK.
 
 >Depending on your specific download practices, the downloads for the mods can well over 100 GB of data. If you have installed MO2 onto a relatively small drive (such as a small SSD), you should consider changing the location of MO2's download storage to a larger location. This can be done by creating a file folder in the desired location, opening the MO2 Settings interface (as above), selecting the *Paths* tab, and altering the Downloads path to match the newly created file folder.
 >{.is-danger}
@@ -295,6 +295,20 @@ First lets install Mod Organizer 2.
 ##### MO2 Profile Creation
 
 ###### Vanilla Profile
+MO2 starts with a "Default" profile, which we will convert into a "Vanill" profile, that will be a base from which we can start further modding. It is also a good fallback resource in case you want to ever have a non-modded experience.
+
+> 1. Locate and press the Configure Profiles button (most MO2 themes show this as an icon that looks like an ID card, but can vary).
+> 2. In the Profiles Window, select Create.
+> 3. In the pop-up, type Vanilla Skyrim SE.
+> 4. Ensure that the Default Game INI Settings checkbox is unchecked.
+> 5. Select OK.
+> 6. Verify that Vanilla Skyrim SE appears in the list on the left.
+> 7. Verify that the Use profile-specific Game INI Files is checked.
+> 8. Click on and highlight the Default profile.
+> 9. Click on Remove.
+> 10. In the pop-up that appears, select Yes.
+> 11. Exit the Profiles Window by pressing Close.
+> 12. Verify that Vanilla Skyrim SE appears as the selected profile (shown above the mod list aka "the left pane").
 
 ###### Crossing the Great Wastes Profile
 
