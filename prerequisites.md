@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-02T04:47:24.627Z
+date: 2019-08-02T04:57:54.494Z
 tags: 
 ---
 
@@ -336,6 +336,19 @@ We will copy the Vanilla FO4 profile into our modding profile, where we will be 
 We are now going to add a bunch of executables to be run using Mod Organizer 2
 
 ###### Wrye Bash
+Right click the left pane in MO2 and create an empty mod:
+```
+All Mods > Create empty mod
+```
+Rename the mod to `Bashed Patch - CtGW`.
+
+Click the **Configure Executables** button (the cogs icon) in MO2 and press the `+` symbol to add an executable.
+Select the newly added executable and name it **Wrye Bash**.
+In the binary field, browse and add the `Wrye Bash.exe` as the program.
+Right click the option `Create Files in Mod instead of Overwrite` and in the drop down menu, select the newly created folder `Bashed Patch - CtGW`.
+
+> Now whenever we regenerate the Bashed Patch, it will be created and updated in this folder instead of the overwrite folder, giving us one less thing to manage.
+>{.is-success}
 
 ###### FO4Edit
 
