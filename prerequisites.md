@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-01T23:37:09.104Z
+date: 2019-08-02T00:19:50.201Z
 tags: 
 ---
 
@@ -285,6 +285,18 @@ First lets install Mod Organizer 2.
 >{.is-danger}
 
 ##### MO2 Profile Creation
+
+##### Setting up tools
+
+###### FO4Edit
+
+###### FO4Edit -quickautoclean
+
+###### FO4Edit - pseudoesl
+
+###### Wrye Bash
+
+###### 
 
 ## Cleaning master files
 In the last section we learned how to open a tool from MO2 with a command line flag which allowed us to easily determine which esps can be flagged a esl. That means I don´t have to show you the Modify executables window again, right? Right.
