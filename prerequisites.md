@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-02T02:05:50.795Z
+date: 2019-08-02T02:08:29.915Z
 tags: 
 ---
 
@@ -310,7 +310,7 @@ MO2 starts with a "Default" profile, which we will convert into a "Vanill" profi
 > 11. Exit the Profiles Window by pressing **Close**.
 > 12. Verify that **Vanilla FO4** appears as the selected profile (shown above the mod list aka "the left pane").
 
- Sort the mods once so that they are in the order:
+ Sort the mods once (manually) so that they are in the order:
 ```
  Fallout4.esm
  DLCRobot.esm
