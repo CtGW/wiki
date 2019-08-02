@@ -2,7 +2,7 @@
 title: Testing
 description: keep testing while installing, so you can find mess-ups early on
 published: 1
-date: 2019-08-01T15:01:36.254Z
+date: 2019-08-02T01:36:45.261Z
 tags: 
 ---
 
@@ -26,7 +26,7 @@ A typical testrun for me would be
 > - Run to Red Rocket, greet Dogmeat
 > - Activate the workbench in Red Rocket
 > - Run down to Concord
-> - Save the minutemen and get the Power armor
+> - Save the minutemen and get the Power armor and kill the enemies (and the deathclaw)
 > - Return to Sanctuary via fast travel and exit the Power armor
 
 Takes about 20 minutes once you get the hang of it.
