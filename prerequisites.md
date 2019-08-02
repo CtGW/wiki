@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-02T00:19:50.201Z
+date: 2019-08-02T00:22:04.585Z
 tags: 
 ---
 
@@ -281,10 +281,14 @@ First lets install Mod Organizer 2.
 5. A new window will open in your browser, and the Nexus will request permission to link Mod Organizer 2 with your Nexus Account. After allowing this, you can close the browser window.
 6. In the Mod Organizer 2 settings menu, press OK.
 
->Depending on your specific download practices, the downloads for the mods can well over 100 Gb of data. If you have installed MO2 onto a relatively small drive (such as a small SSD), you should consider changing the location of MO2's download storage to a larger location. This can be done by creating a file folder in the desired location, opening the MO2 Settings interface (as above), selecting the *Paths* tab, and altering the Downloads path to match the newly created file folder.
+>Depending on your specific download practices, the downloads for the mods can well over 100 GB of data. If you have installed MO2 onto a relatively small drive (such as a small SSD), you should consider changing the location of MO2's download storage to a larger location. This can be done by creating a file folder in the desired location, opening the MO2 Settings interface (as above), selecting the *Paths* tab, and altering the Downloads path to match the newly created file folder.
 >{.is-danger}
 
 ##### MO2 Profile Creation
+
+###### Vanilla Profile
+
+###### Crossing the Great Wastes Profile
 
 ##### Setting up tools
 
@@ -292,7 +296,7 @@ First lets install Mod Organizer 2.
 
 ###### FO4Edit -quickautoclean
 
-###### FO4Edit - pseudoesl
+###### FO4Edit -pseudoesl
 
 ###### Wrye Bash
 
