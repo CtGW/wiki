@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-02T00:22:04.585Z
+date: 2019-08-02T00:40:12.517Z
 tags: 
 ---
 
@@ -258,6 +258,14 @@ This powerful utility allows you to modify, clean, and patch your plugins.
 > We will redirect the output of FO4Edit in MO2 to the mod folder, this is a part of setting up MO2.
 >{.is-success}
 
+##### [zEdit](https://github.com/z-edit/zedit/releases/) *v0.6.4*
+**Anywhere outside C:\Programs/Programs x86 folders**
+This is a companion tool for FO4Edit and does a lot of things such as merging, cleaning and patching in an easier fashion.
+
+> zEdit is a shared utility between different Bethesda games and you can use the same installation for Skyrim/SSE and FO4.
+> Due to this, it is recommended to install zEdit is some other folder than the Fallout 4 main directory, so that it is easier to access for all games.
+>{.is-success}
+
 ## Setting up MO2
 
 First lets install Mod Organizer 2.
@@ -292,6 +300,8 @@ First lets install Mod Organizer 2.
 
 ##### Setting up tools
 
+We are now going to add a bunch of executables to be run using Mod Organizer 2
+
 ###### FO4Edit
 
 ###### FO4Edit -quickautoclean
@@ -300,7 +310,7 @@ First lets install Mod Organizer 2.
 
 ###### Wrye Bash
 
-###### 
+###### zEdit
 
 ## Cleaning master files
 In the last section we learned how to open a tool from MO2 with a command line flag which allowed us to easily determine which esps can be flagged a esl. That means I don´t have to show you the Modify executables window again, right? Right.
