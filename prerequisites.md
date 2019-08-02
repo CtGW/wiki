@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-02T02:01:06.533Z
+date: 2019-08-02T02:05:50.795Z
 tags: 
 ---
 
@@ -292,7 +292,7 @@ First lets install Mod Organizer 2.
 >Depending on your specific download practices, the downloads for the mods can well over 100 GB of data. If you have installed MO2 onto a relatively small drive (such as a small SSD), you should consider changing the location of MO2's download storage to a larger location. This can be done by creating a file folder in the desired location, opening the MO2 Settings interface (as above), selecting the *Paths* tab, and altering the Downloads path to match the newly created file folder.
 >{.is-danger}
 
-##### MO2 Profile Creation
+##### MO2 Profiles Creation
 
 ###### Vanilla Profile
 MO2 starts with a "Default" profile, which we will convert into a "Vanill" profile, that will be a base from which we can start further modding. It is also a good fallback resource in case you want to ever have a non-modded experience.
@@ -309,6 +309,17 @@ MO2 starts with a "Default" profile, which we will convert into a "Vanill" profi
 > 10. In the pop-up that appears, select **Yes**.
 > 11. Exit the Profiles Window by pressing **Close**.
 > 12. Verify that **Vanilla FO4** appears as the selected profile (shown above the mod list aka "the left pane").
+
+ Sort the mods once so that they are in the order:
+```
+ Fallout4.esm
+ DLCRobot.esm
+ DLCworkshop01.esm
+ DLCCoast.esm
+ DLCworkshop02.esm
+ DLCworkshop03.esm
+ DLCNukaWorld.esm
+```
 
 ###### Crossing the Great Wastes Profile
 
