@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-02T01:58:15.780Z
+date: 2019-08-02T02:01:06.533Z
 tags: 
 ---
 
@@ -297,18 +297,18 @@ First lets install Mod Organizer 2.
 ###### Vanilla Profile
 MO2 starts with a "Default" profile, which we will convert into a "Vanill" profile, that will be a base from which we can start further modding. It is also a good fallback resource in case you want to ever have a non-modded experience.
 
-> 1. Locate and press the Configure Profiles button (most MO2 themes show this as an icon that looks like an ID card, but can vary).
-> 2. In the Profiles Window, select Create.
-> 3. In the pop-up, type Vanilla Skyrim SE.
-> 4. Ensure that the Default Game INI Settings checkbox is unchecked.
-> 5. Select OK.
-> 6. Verify that Vanilla Skyrim SE appears in the list on the left.
-> 7. Verify that the Use profile-specific Game INI Files is checked.
-> 8. Click on and highlight the Default profile.
-> 9. Click on Remove.
-> 10. In the pop-up that appears, select Yes.
-> 11. Exit the Profiles Window by pressing Close.
-> 12. Verify that Vanilla Skyrim SE appears as the selected profile (shown above the mod list aka "the left pane").
+> 1. Locate and press the **Configure Profiles** button (most MO2 themes show this as an icon that looks like an ID card, but can vary).
+> 2. In the Profiles Window, select **Create**.
+> 3. In the pop-up, type **Vanilla FO4**.
+> 4. Ensure that the **Default Game INI Settings** checkbox is **unchecked**.
+> 5. Select **OK**.
+> 6. Verify that **Vanilla FO4** appears in the list on the left.
+> 7. Verify that the **Use profile-specific Game INI Files** is **checked**.
+> 8. Click on and highlight the **Default** profile.
+> 9. Click on **Remove**.
+> 10. In the pop-up that appears, select **Yes**.
+> 11. Exit the Profiles Window by pressing **Close**.
+> 12. Verify that **Vanilla FO4** appears as the selected profile (shown above the mod list aka "the left pane").
 
 ###### Crossing the Great Wastes Profile
 
