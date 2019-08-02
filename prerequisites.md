@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-02T00:40:12.517Z
+date: 2019-08-02T01:37:54.985Z
 tags: 
 ---
 
@@ -302,13 +302,13 @@ First lets install Mod Organizer 2.
 
 We are now going to add a bunch of executables to be run using Mod Organizer 2
 
+###### Wrye Bash
+
 ###### FO4Edit
 
 ###### FO4Edit -quickautoclean
 
 ###### FO4Edit -pseudoesl
-
-###### Wrye Bash
 
 ###### zEdit
 
