@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-02T02:08:29.915Z
+date: 2019-08-02T04:47:24.627Z
 tags: 
 ---
 
@@ -322,6 +322,14 @@ MO2 starts with a "Default" profile, which we will convert into a "Vanill" profi
 ```
 
 ###### Crossing the Great Wastes Profile
+
+We will copy the Vanilla FO4 profile into our modding profile, where we will be adding all the mods.
+> 1. Open the **Configure Profiles** button and select the **Vanilla FO4** profile.
+> 2. Click on **Copy**.
+> 3. In the pop-up menu enter **Crossing the Great Wastes** and press Enter.
+
+>From now on, all our modding will be done on this profile.
+>{.is-success}
 
 ##### Setting up tools
 
