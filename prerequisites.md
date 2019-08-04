@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-04T14:45:42.460Z
+date: 2019-08-04T14:47:04.421Z
 tags: 
 ---
 
@@ -360,7 +360,11 @@ Add `FO4Edit.exe` as an executable and redirect its output to the the newly crea
 > These cache files are useful when doing patching and save a lot of time.
 >{.is-success}
 
+>We are going to add two variations of FO4Edit, to perform a specific set of functions: fast cleaning and marking mods as ESL.
+>{.is-warning}
+
 ###### FO4Edit -quickautoclean
+
 
 ###### FO4Edit -pseudoesl
 
