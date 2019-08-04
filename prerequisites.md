@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-04T14:57:46.261Z
+date: 2019-08-04T15:56:47.047Z
 tags: 
 ---
 
@@ -365,10 +365,20 @@ Add `FO4Edit.exe` as an executable  and name it **FO4Edit**. Now redirect its ou
 
 ###### FO4Edit -quickautoclean
 
-Add `FO4Edit.exe` as another executable and name it **FO4Edit (cleaner)**
+Add `FO4Edit.exe` as another executable and name it **FO4Edit (cleaner)**. Now redirect its output to the mod `FO4Edit Cache`.
+
+In the the *Arguments* option add the text: `-quickautoclean`.
+
+> This is a limited option of starting FO4Edit, which will be used for quickly cleaning mods.
+> Later in the guide we will use it to clean the DLCs for FO4.
+>{.is-success}
 
 
 ###### FO4Edit -pseudoesl
+
+Again, add `FO4Edit.exe` as an executable and name it **FO4Edit (esl)**. Also redirectits output to the mod `FO4Edit Cache`.
+
+In the *Arguments* option ass the text: `-pseudoesl` 
 
 ###### zEdit
 
