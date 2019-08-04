@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-04T15:56:47.047Z
+date: 2019-08-04T19:32:46.026Z
 tags: 
 ---
 
@@ -378,7 +378,10 @@ In the the *Arguments* option add the text: `-quickautoclean`.
 
 Again, add `FO4Edit.exe` as an executable and name it **FO4Edit (esl)**. Also redirectits output to the mod `FO4Edit Cache`.
 
-In the *Arguments* option ass the text: `-pseudoesl` 
+In the *Arguments* option add the text: `-pseudoesl` 
+
+> This is an option of starting 
+>{.is-success}
 
 ###### zEdit
 
