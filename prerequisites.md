@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-02T04:57:54.494Z
+date: 2019-08-04T14:45:42.460Z
 tags: 
 ---
 
@@ -340,7 +340,7 @@ Right click the left pane in MO2 and create an empty mod:
 ```
 All Mods > Create empty mod
 ```
-Rename the mod to `Bashed Patch - CtGW`.
+Rename the mod to `Bashed Patch - CtGW` and enable it.
 
 Click the **Configure Executables** button (the cogs icon) in MO2 and press the `+` symbol to add an executable.
 Select the newly added executable and name it **Wrye Bash**.
@@ -351,6 +351,14 @@ Right click the option `Create Files in Mod instead of Overwrite` and in the dro
 >{.is-success}
 
 ###### FO4Edit
+
+Create an empty mod called `FO4Edit Cache` and enable it.
+
+Add `FO4Edit.exe` as an executable and redirect its output to the the newly created empty mod `FO4Edit Cache`.
+
+> FO4Edit creates a lot of cache files, which makes it much faster to start. 
+> These cache files are useful when doing patching and save a lot of time.
+>{.is-success}
 
 ###### FO4Edit -quickautoclean
 
