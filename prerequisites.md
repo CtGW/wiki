@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-04T19:32:46.026Z
+date: 2019-08-04T19:33:52.258Z
 tags: 
 ---
 
@@ -380,7 +380,8 @@ Again, add `FO4Edit.exe` as an executable and name it **FO4Edit (esl)**. Also re
 
 In the *Arguments* option add the text: `-pseudoesl` 
 
-> This is an option of starting 
+> This is an option of starting FO4Edit with the option to find which ESP's you can convert into ESL.
+> We will be using this in the main modding section of our guide.
 >{.is-success}
 
 ###### zEdit
