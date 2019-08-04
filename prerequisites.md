@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-04T14:47:04.421Z
+date: 2019-08-04T14:57:46.261Z
 tags: 
 ---
 
@@ -354,7 +354,7 @@ Right click the option `Create Files in Mod instead of Overwrite` and in the dro
 
 Create an empty mod called `FO4Edit Cache` and enable it.
 
-Add `FO4Edit.exe` as an executable and redirect its output to the the newly created empty mod `FO4Edit Cache`.
+Add `FO4Edit.exe` as an executable  and name it **FO4Edit**. Now redirect its output to the the newly created empty mod `FO4Edit Cache`.
 
 > FO4Edit creates a lot of cache files, which makes it much faster to start. 
 > These cache files are useful when doing patching and save a lot of time.
@@ -364,6 +364,8 @@ Add `FO4Edit.exe` as an executable and redirect its output to the the newly crea
 >{.is-warning}
 
 ###### FO4Edit -quickautoclean
+
+Add `FO4Edit.exe` as another executable and name it **FO4Edit (cleaner)**
 
 
 ###### FO4Edit -pseudoesl
