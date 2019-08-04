@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-04T19:33:52.258Z
+date: 2019-08-04T19:34:19.250Z
 tags: 
 ---
 
@@ -363,7 +363,7 @@ Add `FO4Edit.exe` as an executable  and name it **FO4Edit**. Now redirect its ou
 >We are going to add two variations of FO4Edit, to perform a specific set of functions: fast cleaning and marking mods as ESL.
 >{.is-warning}
 
-###### FO4Edit -quickautoclean
+###### FO4Edit (cleaner)
 
 Add `FO4Edit.exe` as another executable and name it **FO4Edit (cleaner)**. Now redirect its output to the mod `FO4Edit Cache`.
 
@@ -374,7 +374,7 @@ In the the *Arguments* option add the text: `-quickautoclean`.
 >{.is-success}
 
 
-###### FO4Edit -pseudoesl
+###### FO4Edit (esl)
 
 Again, add `FO4Edit.exe` as an executable and name it **FO4Edit (esl)**. Also redirectits output to the mod `FO4Edit Cache`.
 
