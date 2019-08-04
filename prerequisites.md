@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-04T19:34:19.250Z
+date: 2019-08-04T21:59:04.803Z
 tags: 
 ---
 
@@ -386,7 +386,17 @@ In the *Arguments* option add the text: `-pseudoesl`
 
 ###### zEdit
 
+Add a new empty mod called `zEdit Cache`.
+
+Add `zEdit.exe` as an executable in MO2 and redirect the output to the newly created `zEdit Cache` folder.
+
+> zEdit is a tool to patch, merge and do cooler modifications to your modlist, with a better interface than xEdit.
+>{.is-success}
+
 ## Cleaning master files
+
+Turns put 
+
 In the last section we learned how to open a tool from MO2 with a command line flag which allowed us to easily determine which esps can be flagged a esl. That means I don´t have to show you the Modify executables window again, right? Right.
 
 We´re going to create a third instance of FO4Edit, this time to help us automate the master cleaning process. You know how to do this, create another instance similar to the PseudoESL one but instead use -quickautoclean as the flag. Name it FO4Edit (-quickautoclean). Save it, and run FO4Edit (-quickautoclean)
