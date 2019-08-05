@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-04T21:59:56.456Z
+date: 2019-08-05T17:54:23.328Z
 tags: 
 ---
 
@@ -390,6 +390,7 @@ Add a new empty mod called `zEdit Cache`.
 
 Add `zEdit.exe` as an executable in MO2 and name it **zEdit**. Redirect the output to the newly created `zEdit Cache` folder.
 
+> zEdit is a tool to patch, merge and do cooler modifications to your modlist, with a better interface than xEdit.
 >{.is-success}
 
 ## Cleaning master files
