@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-06T14:09:42.711Z
+date: 2019-08-06T14:22:11.352Z
 tags: 
 ---
 
@@ -414,6 +414,7 @@ Repeat the cleaning process for the DLCs: *DLCWorkshop01.esm, DLCCoast.esm, DLCW
 >FO4Edit is smart and will save a backup of said ESM files in the *FO4Edit Cache* folder.
 > If you wish you can make a backup of these and keep them safe somewhere.
 >{.is-success}
+
 ## Texture overhaul (from BiRaitBec)
 
 
