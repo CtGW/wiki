@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-07-28T22:10:21.910Z
+date: 2019-08-06T12:47:57.832Z
 tags: 
 ---
 
@@ -324,7 +324,12 @@ Wipe the vendor's inventory dry with this mod. This mod transfers the items that
 
 ##### [ExitSave Killer](https://www.nexusmods.com/fallout4/mods/18102) *v0.2*
 <span style="background-color:green; padding:3px;"><font color="white"> Core </font></span>
-This mod stops exit saves from being done by the game. 
+This mod stops exit saves from being done by the game.
+
+> **From the FAQ**
+>*Q: I am a curious cat and saw this in f4se.log: "couldn't load plugin ...\\exitsave_killer.dll (Error 1114)".*
+>A: That error is normal and intended. This DLL gets loaded, it does its job by changing 7 bytes of the game code, and then it tells windows to unload it by returning FALSE in the DllMain function, as to avoid wasting those precious 5KB of memory that the DLL takes up. When the control goes back to F4SE, it is as if the dll had never existed
+>{.is-success}
 
 ## Camera and UI
 
