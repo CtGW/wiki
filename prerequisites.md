@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-06T18:33:18.706Z
+date: 2019-08-06T18:37:24.452Z
 tags: 
 ---
 
@@ -402,6 +402,10 @@ There are two general types of records that we need to clean:
 
 We are going to clean the official DLCs using the **FO4Edit (cleaner)** .
 
+> Before beginning the cleaning make a backup of all the `*.esm` files and keep them safe somewhere.
+> FO4Edit is smart and will save a backup of said ESM files in the *FO4Edit Cache* folder (but it doesn't always work).
+>{.is-warning}
+
 > 1. From the executables, start **FO4Edit (cleaner)**. 
 > 2. In the file selection menu that appears, check the box next to *DLCRobot.esm* and no other files. If any additional files need loading, xEdit will automatically load them.
 > 3. Click OK.
@@ -411,9 +415,12 @@ We are going to clean the official DLCs using the **FO4Edit (cleaner)** .
 
 Repeat the cleaning process for the DLCs: *DLCWorkshop01.esm, DLCCoast.esm, DLCWorkshop02.esm, DLCWorkshop03.esm, DLCWorkshop04.esm*
 
->FO4Edit is smart and will save a backup of said ESM files in the *FO4Edit Cache* folder.
-> If you wish you can make a backup of these and keep them safe somewhere.
->{.is-success}
+Now we will install the cleaned master files as a mod in MO2
+
+> 1. Create an empty mod and name it `Cleaned ESMs`.
+> 2. Cut and paste the cleaned ESMs from the `Fallout 4\Data` folder into the newly created `Cleaned ESMs` folder.
+> 3. Move the backups that were previously created back to the `Fallout 4\Data` folder.
+> 4. Refresh MO2 and you should see that the folder contains the ESM files.
 
 ## Texture overhaul (from BiRaitBec)
 
