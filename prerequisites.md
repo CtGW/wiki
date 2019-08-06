@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-06T14:22:11.352Z
+date: 2019-08-06T14:33:31.938Z
 tags: 
 ---
 
@@ -416,6 +416,11 @@ Repeat the cleaning process for the DLCs: *DLCWorkshop01.esm, DLCCoast.esm, DLCW
 >{.is-success}
 
 ## Texture overhaul (from BiRaitBec)
+
+Go to BiRaitBec's guide: [here](https://www.nexusmods.com/fallout4/mods/23556)
+
+We are going to modify his Step 1 a bit by adding extra mods which are even higher quality!
+
 
 
 ---
