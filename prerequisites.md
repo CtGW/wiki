@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-06T18:37:24.452Z
+date: 2019-08-06T18:37:39.334Z
 tags: 
 ---
 
@@ -420,7 +420,7 @@ Now we will install the cleaned master files as a mod in MO2
 > 1. Create an empty mod and name it `Cleaned ESMs`.
 > 2. Cut and paste the cleaned ESMs from the `Fallout 4\Data` folder into the newly created `Cleaned ESMs` folder.
 > 3. Move the backups that were previously created back to the `Fallout 4\Data` folder.
-> 4. Refresh MO2 and you should see that the folder contains the ESM files.
+> 4. Refresh MO2 and you should see that the folder contains the ESM files and now activate it.
 
 ## Texture overhaul (from BiRaitBec)
 
