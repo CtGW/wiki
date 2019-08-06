@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-05T17:54:23.328Z
+date: 2019-08-06T14:09:36.739Z
 tags: 
 ---
 
@@ -395,20 +395,25 @@ Add `zEdit.exe` as an executable in MO2 and name it **zEdit**. Redirect the outp
 
 ## Cleaning master files
 
-Turns put 
+Bethesda has managed to introduce errors even in its official DLCs which we now have to clean...
+There are two general types of records that we need to clean:
+**ITM**: *Identical To Master* - These are records which are identical to a parent of the mod, which makes this copy redundant (*most of the times*, in some rare cases, these are necessary, but we will point those out). When you have a small number of mods, this is not a problem but when dealing with HUGE modlists such as ours, this quickly starts introducing errors.
+**UDR**: *UnDeleted Reference* - These records are ones which are deleted from the master by a subsequent mod. These are a lot more dangerous, as these change the behaviour of any subsequent mod, in an unknown manner, which cause crash to desktops (CTD) most of the times.
 
-In the last section we learned how to open a tool from MO2 with a command line flag which allowed us to easily determine which esps can be flagged a esl. That means I don´t have to show you the Modify executables window again, right? Right.
+We are going to clean the official DLCs using the **FO4Edit (cleaner)** .
 
-We´re going to create a third instance of FO4Edit, this time to help us automate the master cleaning process. You know how to do this, create another instance similar to the PseudoESL one but instead use -quickautoclean as the flag. Name it FO4Edit (-quickautoclean). Save it, and run FO4Edit (-quickautoclean)
+> 1. From the executables, start **FO4Edit (cleaner)**. 
+> 2. In the file selection menu that appears, check the box next to *DLCRobot.esm* and no other files. If any additional files need loading, xEdit will automatically load them.
+> 3. Click OK.
+> 4. xEdit will now run the cleaning process automatically.
+> 5. Wait for the process to complete, indicated by the appearance of the message Quick Clean Mode finished.
+> 6. When the message has appeared, close xEdit by clicking on the X in the title bar of the application ("X-ing out").
 
-You can only open FO4Edit this way with one plugin at a time, so start with whichever esm you have first in the list, and work yourself through all of them.
-- Start FO4Edit (-quickautoclean)
-- doubleclick on ESM to clean
-- wait until background loader is finished
-- close FO4Edit
-- repeat from step one with next ESM
-FO4Edit is smart and will save a backup of said ESM files in it´s overwrite folder. Good to know!
+Repeat the cleaning process for the DLCs: DLCWorkshop01.esm, DLCCoast.esm, DLCWorkshop02.esm, DLCWorkshop03.esm, DLCWorkshop04.esm,
 
+>FO4Edit is smart and will save a backup of said ESM files in the *FO4Edit Cache* folder.
+> If you wish you can make a backup of these and keep them safe somewhere.
+>{.is-success}
 ## Texture overhaul (from BiRaitBec)
 
 
