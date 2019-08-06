@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-06T14:09:36.739Z
+date: 2019-08-06T14:09:42.711Z
 tags: 
 ---
 
@@ -409,7 +409,7 @@ We are going to clean the official DLCs using the **FO4Edit (cleaner)** .
 > 5. Wait for the process to complete, indicated by the appearance of the message Quick Clean Mode finished.
 > 6. When the message has appeared, close xEdit by clicking on the X in the title bar of the application ("X-ing out").
 
-Repeat the cleaning process for the DLCs: DLCWorkshop01.esm, DLCCoast.esm, DLCWorkshop02.esm, DLCWorkshop03.esm, DLCWorkshop04.esm,
+Repeat the cleaning process for the DLCs: *DLCWorkshop01.esm, DLCCoast.esm, DLCWorkshop02.esm, DLCWorkshop03.esm, DLCWorkshop04.esm*
 
 >FO4Edit is smart and will save a backup of said ESM files in the *FO4Edit Cache* folder.
 > If you wish you can make a backup of these and keep them safe somewhere.
