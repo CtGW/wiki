@@ -2,7 +2,7 @@
 title: Testing
 description: keep testing while installing, so you can find mess-ups early on
 published: 1
-date: 2019-08-02T01:36:45.261Z
+date: 2019-08-06T18:39:20.154Z
 tags: 
 ---
 
@@ -59,7 +59,7 @@ Of course, some of these locations will get you killed if you go there too early
 You can also use custom save games if you just want to visit an overhauled location:
 - [Ain't nobody got time for that - Fallout 4 Template Save Games](https://www.nexusmods.com/fallout4/mods/26328)
 - [Level 50 at Vault 111](https://www.nexusmods.com/fallout4/mods/285)
-> Note about vanilla test saves before exiting vault. I used to load these all the time for a faster start up, thought everything was working fine, only to have weird things happening in the prologue with a new game. It seems mods related to player characteristics are only effective with a new game. Use them, but try a new start every now and then, to make sure nothing´s gone haywire :P
+> Note about vanilla test saves before exiting vault. I used to load these all the time for a faster start up, thought everything was working fine, only to have weird things happening in the prologue with a new game. It seems mods related to player characteristics are only effective with a new game. Use them, but try a new start every now and then, to make sure nothing's gone haywire :P
 > {.is-warning}
 
 Some other mods that help with testing:
