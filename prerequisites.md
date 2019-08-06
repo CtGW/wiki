@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-06T14:33:31.938Z
+date: 2019-08-06T18:33:18.706Z
 tags: 
 ---
 
