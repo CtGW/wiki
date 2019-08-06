@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-06T18:37:39.334Z
+date: 2019-08-06T18:38:14.262Z
 tags: 
 ---
 
@@ -425,10 +425,7 @@ Now we will install the cleaned master files as a mod in MO2
 ## Texture overhaul (from BiRaitBec)
 
 Go to BiRaitBec's guide: [here](https://www.nexusmods.com/fallout4/mods/23556)
-
-We are going to modify his Step 1 a bit by adding extra mods which are even higher quality!
-
-
+And complete Step 1 of his guide!
 
 ---
 Credits: 
