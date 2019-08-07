@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-08-07T20:13:59.340Z
+date: 2019-08-07T20:14:13.495Z
 tags: 
 ---
 
@@ -919,7 +919,7 @@ The customization options are endless.
  The intimidating Hellfire Power Armor from Fallout 3's Broken Steel DLC, finally lands in the Commonwealth.
 Now patched to 0.126 
 
-##### [InstitutePowerArmor](https://www.nexusmods.com/fallout4/mods/18315) *v* 
+##### [Institute Power Armor](https://www.nexusmods.com/fallout4/mods/18315) *v* 
 Institute Power Armor I-01 
 
 ##### [Tribal Power Armor](https://www.nexusmods.com/fallout4/mods/22437) *v1.0*
