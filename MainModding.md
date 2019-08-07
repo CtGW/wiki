@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-08-07T20:14:13.495Z
+date: 2019-08-07T20:14:32.357Z
 tags: 
 ---
 
@@ -897,10 +897,10 @@ The customization options are endless.
 ##### [CROSS Courser Strigidae](https://www.nexusmods.com/fallout4/mods/28009) *v090c*
 <span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> 
 
-##### [CROSS Institute Expeditionary suit](https://www.nexusmods.com/fallout4/mods/30857) *v090b*
+##### [CROSS Institute Expeditionary Suit](https://www.nexusmods.com/fallout4/mods/30857) *v090b*
 <span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> 
 
-##### [CROSS Mojave manhunter](https://www.nexusmods.com/fallout4/mods/32214) *v090d*
+##### [CROSS Mojave Manhunter](https://www.nexusmods.com/fallout4/mods/32214) *v090d*
 <span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> 
 
 ##### [Wearable Backpacks and Pouches](https://www.nexusmods.com/fallout4/mods/3258) *v1.4b*
