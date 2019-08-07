@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-08-07T20:10:32.672Z
+date: 2019-08-07T20:13:59.340Z
 tags: 
 ---
 
@@ -885,19 +885,26 @@ The customization options are endless.
 > download main file only
 
 ##### [CROSS Institute Tech Mask](https://www.nexusmods.com/fallout4/mods/11881) *v1.02*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> 
  Adds a high tech gas mask that protects without hiding your characters face! 
 
 ##### [CROSS Brotherhood Recon](https://www.nexusmods.com/fallout4/mods/27418) *v091b2*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> 
 
 ##### [CROSS Chosen of Atom](https://www.nexusmods.com/fallout4/mods/37820) *v091a*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> 
 
 ##### [CROSS Courser Strigidae](https://www.nexusmods.com/fallout4/mods/28009) *v090c*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> 
 
 ##### [CROSS Institute Expeditionary suit](https://www.nexusmods.com/fallout4/mods/30857) *v090b*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> 
 
 ##### [CROSS Mojave manhunter](https://www.nexusmods.com/fallout4/mods/32214) *v090d*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> 
 
 ##### [Wearable Backpacks and Pouches](https://www.nexusmods.com/fallout4/mods/3258) *v1.4b*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> 
  This mod adds craftable & upgradable backpacks & pouches. 
 
 > Install main file and the AWKCR Crafting optional patch. These clothes and armors need to be run through Bodyslide if you ́re using a bodyslide preset other than the CBBE vanilla one. 
