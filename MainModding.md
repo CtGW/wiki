@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-08-06T12:47:57.832Z
+date: 2019-08-07T20:10:32.672Z
 tags: 
 ---
 
@@ -736,18 +736,23 @@ Includes
 ## Cosmetic overhauls
 
 ##### [BodySlide and Outfit Studio](https://www.nexusmods.com/fallout4/mods/25) *v4.7.4*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> 
  An easy to use tool for customizing bodies and outfits, creating new bodies and outfits, and converting outfits between body types. 
 
 ##### [LooksMenu](https://www.nexusmods.com/fallout4/mods/12631) *v1.6.16*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> 
 Adds engine modifications to improve character creation.
 
 ##### [Looksmenu Customization Compendium](https://www.nexusmods.com/fallout4/mods/24830) *v10*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> 
  A mod that adds hundreds of new options to customize your character such as face paint, tattoos, scars, makeup, brows, haircolors, etc~! 
 
 ##### [LooksMenu Body Tattoos](https://www.nexusmods.com/fallout4/mods/25000) *v1.3.2*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> 
 Some tattoo overlays for LooksMenu. It doesn't at all require Unique Player, and works more or less out of the box. A lot of customization is possible. 
 
 ##### [FSM Body Textures](https://www.nexusmods.com/fallout4/mods/31965) *v5.0.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> 
 Female texture customizer for CBBE. Customize blemishes, tanlines, hair, and more... all with an easy-to-use installer! 
 >  Download the first main file and install it.
 > During the Installer, click next till on the fourth panel and select Neck and Scalp
@@ -755,57 +760,71 @@ Female texture customizer for CBBE. Customize blemishes, tanlines, hair, and mor
 > select finish.
 
 ##### [Picturesque Presets](https://www.nexusmods.com/fallout4/mods/16788) *v2.999a*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> 
  A compilation of Mystolle's LooksMenu Presets 
 
 ##### [Caliente's Beautiful Bodies Enhancer -CBBE-](https://www.nexusmods.com/fallout4/mods/15) *v2.6.2*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> 
  The well-known body enhancer made famous in Skyrim is back for Fallout 4 debut
 
 ##### [Malestra's CBBE BodySlide Preset Collection](https://www.nexusmods.com/fallout4/mods/35316) *v1.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> 
  This is a collection of 40+ very accurate presets BASED ON REAL WOMEN or erotic fantasy art characters for CBBE/BodySlide. With variations it is about 120 presets total. Follow INSTALLATION instructions, check the STICKY And please post screenshots! 
 
 ## Clothing
 
 ##### [Modular Road Leathers](https://www.nexusmods.com/fallout4/mods/29779) *v1.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> 
  Several new outfits for male characters based on the road leathers. Multiple layers with each offering additional customization's. Oh, and it fixes "armor bloat". 
 
 ##### [Commonwealth Shorts – CBBE](https://www.nexusmods.com/fallout4/mods/7898) *v2.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> 
  Sixteen new craftable commonwealth short outfits! And seven new S.P.E.C.I.A.L. outfits. :) 
 
 > Install CBBE main file an the tight armors optional file, then install bodyslide from here.
 
 ##### [Shade Girl Leather Outfits – CBBE](https://www.nexusmods.com/fallout4/mods/32547) *v1.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> 
  Rock on! A one-of-a-kind small collection of highly customizable female leather outfits mashups built around freedom of choice. Customize every piece of the outfit at the armor workbench, then mix and match with other mods to your heart’s content, for that unique look you aim for! 
 
 > Install main file and bodyslide hotfix file
 
 ##### [Raider Themed Mashups](https://www.nexusmods.com/fallout4/mods/29503)*v1.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> 
  Adds 5 customizable raider themed outfits. Female only. 
 
 ##### [Badlands Mashups](https://www.nexusmods.com/fallout4/mods/30013) *v1.2*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> 
  The third set of my personal mashups with 9 outfits included for female characters. This time, I find out how awesome suspenders look. 
 
 ##### [Commonwealth Mashups](https://www.nexusmods.com/fallout4/mods/27776) *v1.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> 
  My personal armor mashups, now for your female characters too! 
  
 ##### [Wasteland Mashups](https://www.nexusmods.com/fallout4/mods/28099) *v1.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> 
  The second set of my personal outfit mashups - this time, we mash harder. 
 
 ##### [Irradiated Raiments](https://www.nexusmods.com/fallout4/mods/34193) *v1.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> 
  My fourth set of mashups for female characters with 8 outfits and 3 recolors for each included. This time, I figure out how material swapping works. 
 
 > Install main file and Boston Belle Belt Hotfix for CBBE
 
 ##### [Spiff's Wasteland Clothing Pack](https://www.nexusmods.com/fallout4/mods/31129) *v0.5*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> 
  A collection of all of my armor mashups, with a few unreleased ones thrown in. All easily and accessible through the Wasteland Clothing Station 
 
 ## Armor
 
 ##### [Eli's Armour Compendium](https://www.nexusmods.com/fallout4/mods/22431) *v1.5*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> 
  Mod ads 50 new lore-friendly armours, 20 accessories, tons of moddable colours. Institute, Settler, Wastelander, Raider, Vault suit. Both sexes. Vanilla and CBBE body, with BodySlide compatibility. 
 
 > Download and install CBBE main file
 
 ##### [The Mercenary Pack](https://www.nexusmods.com/fallout4/mods/20088) *v0.9c*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> 
  My Outfit pack that contains all of my previous work (B-90, Rebel, SNCR) plus a new Gunner overhaul and Wastelander outfits that fits for exploring the commonwealth. 
  
 > Download and install:
@@ -815,6 +834,7 @@ Female texture customizer for CBBE. Customize blemishes, tanlines, hair, and mor
 > intend to use BodySlide to custom fit armor to their characters body.
  
 ##### [West Tec Tactical Optics](https://www.nexusmods.com/fallout4/mods/12220) *v2.0.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> 
  Night Vision / Thermal / Targeting HUD goggles and eyepieces with new meshes and HD textures. Fully modular, craftable, upgradeable. 3 vision effects, 8 colors, and 2 additional targeting enhancements. Schematics posters also in the Workshop! 
 
 > Download and install:
@@ -823,6 +843,7 @@ Female texture customizer for CBBE. Customize blemishes, tanlines, hair, and mor
 > - West Tek Tactical Optics v2.0 - Standard Leveled Lists
 
 ##### [PreWar Binoculars](https://www.nexusmods.com/fallout4/mods/17819/) *2.1.1*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> 
  Adds functional binoculars to the game. 
  
 > Adds functional binoculars to the game.
@@ -831,10 +852,12 @@ Female texture customizer for CBBE. Customize blemishes, tanlines, hair, and mor
 > - “Standard viewfinder”
 
 ##### [Crimsomrider's Accessories](https://www.nexusmods.com/fallout4/mods/19563) *v5.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> 
  A fully modular and customizable accessory mod for both male and female, with a ton of accessories that enable you to achieve a unique look.
 The customization options are endless. 
 
 ##### [Tactical Flashlights](https://www.nexusmods.com/fallout4/mods/16172) *v2.3*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> 
  Adds wearable flashlight gear to the wasteland.
 - 8 Unique models
 - 10 Distance settings
@@ -848,6 +871,7 @@ The customization options are endless.
 > - 100% + shadows
 
 ##### [K-9 harness](https://www.nexusmods.com/fallout4/mods/17686) *v1.0*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> 
  New modular body armor with new meshes & textures for Dogmeat, designed after modern Military and Police K-9 gear. Craftable side pouches, backpack, ballistic weave, faction patches, and various colors and patterns customized at the standard workbench. Lots of options! 
 
 > download:
@@ -855,6 +879,7 @@ The customization options are endless.
 > - K-9 Harness - Armorsmith Extended plus DEF UI
 
 ##### [CROSS Pre-War Cybernetics](https://www.nexusmods.com/fallout4/mods/8609) *v106c*
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> 
  Fully customizable cybernetic armor, unique armor mods, palette based paint styles, size options and more. ROBOT HANDS. 
 
 > download main file only
