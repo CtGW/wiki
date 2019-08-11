@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-08-11T18:38:42.787Z
+date: 2019-08-11T20:37:24.850Z
 tags: 
 ---
 
@@ -40,6 +40,11 @@ So whenever there is an option, always choose the ESP file instead of the ESL fi
 </p>
 </details>
 </center>
+
+---
+
+> Don't mark them as ESL while installing the guide, we will do that in the finishing steps of the guide.
+>{.is-success}
 
 ---
 
