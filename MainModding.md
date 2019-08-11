@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-08-07T21:17:19.337Z
+date: 2019-08-11T18:38:11.755Z
 tags: 
 ---
 
@@ -46,7 +46,7 @@ So whenever there is an option, always choose the ESP file instead of the ESL fi
 ## Mod outline
 
 ##### Mod name *version*
-<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> <span style="background-color:#00aedb; padding:3px;"><font color="white"> Optional </font></span> <span style="background-color:#d11141; padding:3px;"><font color="white"> Clean </font></span> <span style="background-color:#ffc425; padding:3px;"><font color="black"> Extracted </font></span> <span style="background-color:#f37735; padding:3px;"><font color="black"> ESL </font></span> <span style="background-color:#ff8b94; padding:3px;"><font color="black"> HD-HQ </font></span> <span style="background-color:#912CEE; padding:3px;"><font color="black"> Instructions </font></span>
+<span style="background-color:green; padding:3px;"><font color="white"> Core </font></span> <span style="background-color:#00aedb; padding:3px;"><font color="white"> Optional </font></span> <span style="background-color:#d11141; padding:3px;"><font color="white"> Clean </font></span> <span style="background-color:#ffc425; padding:3px;"><font color="black"> Extracted </font></span> <span style="background-color:#ff8b94; padding:3px;"><font color="black"> HD-HQ </font></span> <span style="background-color:#912CEE; padding:3px;"><font color="black"> Instructions </font></span>
 Mod description
 - File 1
 - File 2
@@ -64,7 +64,6 @@ Mod description
 - <span style="background-color:#00aedb; padding:3px;"><font color="white"> Optional </font></span>: Mods which are optional and can be skipped
 - <span style="background-color:#d11141; padding:3px;"><font color="white"> Clean </font></span>: Mods which should be cleaned using Fo4Edit-quickclean
 - <span style="background-color:#ffc425; padding:3px;"><font color="black"> Extracted </font></span>: Mods where you should extract the `.bsa` files
-- <span style="background-color:#f37735; padding:3px;"><font color="black"> ESL </font></span>: Mods which you can/should manually mark as ESL
 - <span style="background-color:#ff8b94; padding:3px;"><font color="black"> HD-HQ </font></span>: Mods which are taxing on the computer and should be installed with caution
 - <span style="background-color:#912CEE; padding:3px;"><font color="black"> Instructions </font></span>: Mods for which there are special instructions for installation
 
