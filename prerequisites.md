@@ -2,7 +2,7 @@
 title: Prerequisites
 description: things to do before we start adding mods
 published: 1
-date: 2019-08-06T18:38:14.262Z
+date: 2019-08-11T20:40:29.265Z
 tags: 
 ---
 
@@ -378,11 +378,14 @@ In the the *Arguments* option add the text: `-quickautoclean`.
 
 Again, add `FO4Edit.exe` as an executable and name it **FO4Edit (esl)**. Also redirectits output to the mod `FO4Edit Cache`.
 
-In the *Arguments* option add the text: `-pseudoesl` 
+In the *Arguments* option add the text: `-PseudoESL` 
 
 > This is an option of starting FO4Edit with the option to find which ESP's you can convert into ESL.
 > We will be using this in the main modding section of our guide.
+> To learn how to mark mod as ESL in FO4Edit visit [here](https://www.nexusmods.com/fallout4/mods/35922)
 >{.is-success}
+
+
 
 ###### zEdit
 
