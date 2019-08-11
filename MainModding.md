@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-08-11T20:43:29.242Z
+date: 2019-08-11T20:44:03.012Z
 tags: 
 ---
 
@@ -28,13 +28,13 @@ So, in theory, any plugin can add <code>16<sup>6</sup></code> new records, thoug
 ESLs work by sharing the `FE` namespace, so that an element in the plugin looks like `FEyyyyyy`.
 The first ESL has the plugin FormIDs as: `FE000zzz`, the second ESL has FormIDs as: `FE001zzz`, so on and so forth.
 
-So in theory, you cannot have more than <code>16<sup>3</sup>=4096</code> ESL plugins in your modlist, each of which can only introduce another <code>16<sup>3</sup></code> new items/elements.
+So in theory, you cannot have more than <code>16<sup>3</sup>=4096</code> ESL plugins in your modlist, each of which can only introduce another <code>16<sup>3</sup></code> new records.
 
 ### ESL vs ESP
-.esl plugins are loaded in the master space and is termed as a *light master*, as internally the bethesda engine makes every .esl with an ESM tag as well.
+`.esl` plugins are loaded in the master space and is termed as a *light master*, as internally the bethesda engine makes every `.esl` with an ESM tag as well.
 This means that they are loaded before the other files and they can mess up your load order.
 
-On the other hand, if you use an .esp marked as an ESL, the plugin respects your load order.
+On the other hand, if you use an `.esp` marked as an ESL, the plugin respects your load order.
 
 So whenever there is an option, always choose the ESP file instead of the ESL file and then you can decide if you want to make it into and ESL or not.
 </p>
