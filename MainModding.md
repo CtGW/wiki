@@ -2,7 +2,7 @@
 title: Main modding
 description: The brunt of the modding, where we focus on adding mods
 published: 1
-date: 2019-08-11T20:37:24.850Z
+date: 2019-08-11T20:43:12.928Z
 tags: 
 ---
 
@@ -21,9 +21,9 @@ For an in-depth understanding: https://www.afkmods.com/index.php?/topic/5079-plu
 ### How ESLs work
 
 Firstly, lets remember that the Bethesda engine allows loading 255 plugins in total.
-Each plugin occupies a namespace, `xx`, for its load order, where a general element is represented by: `xx123456`
+Each plugin occupies a namespace, `xx`, for its load order, where a general record in the files is represented by: `xx123456`
 
-So, in theory, any plugin can add <code>16<sup>6</sup></code> new items, though in reality the number is a bit smaller.
+So, in theory, any plugin can add <code>16<sup>6</sup></code> new records, though in reality the number is a bit smaller.
 
 ESLs work by sharing the `FE` namespace, so that an element in the plugin looks like `FEyyyyyy`.
 The first ESL has the plugin FormIDs as: `FE000zzz`, the second ESL has FormIDs as: `FE001zzz`, so on and so forth.
